@@ -376,11 +376,6 @@ overlays:
     template:
       - name: Studios
         weight: 20
-        
-  Wit Studio:
-    template:
-      - name: Studios
-        weight: 20
 
   Yokohama Animation Lab:
     template:
@@ -396,4 +391,3 @@ overlays:
     template:
       - name: Studios
         weight: 20
-     
