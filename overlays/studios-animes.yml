@@ -42,7 +42,7 @@ overlays:
       - name: Studios
         weight: 20
 
-  asread:
+  asread.:
     template:
       - name: Studios
         weight: 20
