@@ -352,6 +352,11 @@ overlays:
       - name: Studios
         weight: 20
 
+  Tokyo Movie Shinsha:
+    template:
+      - name: Studios
+        weight: 20
+
   TROYCA:
     template:
       - name: Studios
