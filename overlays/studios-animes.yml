@@ -42,6 +42,11 @@ overlays:
       - name: Studios
         weight: 20
 
+  Asahi Production:
+    template:
+      - name: Studios
+        weight: 20
+
   asread.:
     template:
       - name: Studios
@@ -137,7 +142,17 @@ overlays:
       - name: Studios
         weight: 20
 
+  Geno Studio:
+    template:
+      - name: Studios
+        weight: 20
+
   GoHands:
+    template:
+      - name: Studios
+        weight: 20
+
+  Gonzo:
     template:
       - name: Studios
         weight: 20
@@ -237,6 +252,11 @@ overlays:
       - name: Studios
         weight: 20
 
+  Production IMS:
+    template:
+      - name: Studios
+        weight: 20
+
   Project No.9:
     template:
       - name: Studios
@@ -247,7 +267,17 @@ overlays:
       - name: Studios
         weight: 20
 
+  Radix:
+    template:
+      - name: Studios
+        weight: 20
+
   Revoroot:
+    template:
+      - name: Studios
+        weight: 20
+
+  SANZIGEN:
     template:
       - name: Studios
         weight: 20
@@ -318,6 +348,11 @@ overlays:
         weight: 20
 
   Studio Rikka:
+    template:
+      - name: Studios
+        weight: 20
+
+  Studio VOLN:
     template:
       - name: Studios
         weight: 20
