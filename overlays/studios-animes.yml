@@ -122,6 +122,11 @@ overlays:
       - name: Studios
         weight: 20
 
+  Colored Pencil Animation:
+    template:
+      - name: Studios
+        weight: 20
+
   CoMix Wave Films:
     template:
       - name: Studios
