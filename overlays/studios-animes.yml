@@ -37,12 +37,27 @@ overlays:
       - name: Studios
         weight: 20
 
+  AIC Spirits:
+    template:
+      - name: Studios
+        weight: 20
+
   Ajia-Do:
     template:
       - name: Studios
         weight: 20
 
+  Arms:
+    template:
+      - name: Studios
+        weight: 20
+
   Asahi Production:
+    template:
+      - name: Studios
+        weight: 20
+
+  Ashi Productions:
     template:
       - name: Studios
         weight: 20
@@ -53,6 +68,11 @@ overlays:
         weight: 20
 
   AtelierPontdarc:
+    template:
+      - name: Studios
+        weight: 20
+
+  B.CMAY PICTURES:
     template:
       - name: Studios
         weight: 20
@@ -72,12 +92,22 @@ overlays:
       - name: Studios
         weight: 20
 
+  Bridge:
+    template:
+      - name: Studios
+        weight: 20
+
   C-Station:
     template:
       - name: Studios
         weight: 20
 
   C2C:
+    template:
+      - name: Studios
+        weight: 20
+
+  Children's Playground Entertainment:
     template:
       - name: Studios
         weight: 20
@@ -97,6 +127,16 @@ overlays:
       - name: Studios
         weight: 20
 
+  Connect:
+    template:
+      - name: Studios
+        weight: 20
+
+  CygamesPictures:
+    template:
+      - name: Studios
+        weight: 20
+
   David Production:
     template:
       - name: Studios
@@ -108,6 +148,11 @@ overlays:
         weight: 20
 
   Doga Kobo:
+    template:
+      - name: Studios
+        weight: 20
+
+  domerica:
     template:
       - name: Studios
         weight: 20
@@ -153,6 +198,21 @@ overlays:
         weight: 20
 
   Gonzo:
+    template:
+      - name: Studios
+        weight: 20
+
+  Haoliners Animation League:
+    template:
+      - name: Studios
+        weight: 20
+
+  Imagin:
+    template:
+      - name: Studios
+        weight: 20
+
+  Lay-duce:
     template:
       - name: Studios
         weight: 20
@@ -207,12 +267,27 @@ overlays:
       - name: Studios
         weight: 20
 
+  Millepensee:
+    template:
+      - name: Studios
+        weight: 20
+
+  Namu Animation:
+    template:
+      - name: Studios
+        weight: 20
+
   NAZ:
     template:
       - name: Studios
         weight: 20
 
   Nexus:
+    template:
+      - name: Studios
+        weight: 20
+
+  Nut:
     template:
       - name: Studios
         weight: 20
@@ -242,7 +317,17 @@ overlays:
       - name: Studios
         weight: 20
 
+  Platinum Vision:
+    template:
+      - name: Studios
+        weight: 20
+
   Polygon Pictures:
+    template:
+      - name: Studios
+        weight: 20
+
+  Production +h.:
     template:
       - name: Studios
         weight: 20
@@ -287,12 +372,27 @@ overlays:
       - name: Studios
         weight: 20
 
+  Seven Arcs:
+    template:
+      - name: Studios
+        weight: 20
+
   Shaft:
     template:
       - name: Studios
         weight: 20
 
+  Shin-Ei Animation:
+    template:
+      - name: Studios
+        weight: 20
+
   Shuka:
+    template:
+      - name: Studios
+        weight: 20
+
+  Signal.MD:
     template:
       - name: Studios
         weight: 20
@@ -337,6 +437,11 @@ overlays:
       - name: Studios
         weight: 20
 
+  Studio Hibari:
+    template:
+      - name: Studios
+        weight: 20
+
   Studio Kai:
     template:
       - name: Studios
@@ -358,6 +463,11 @@ overlays:
         weight: 20
 
   Sunrise:
+    template:
+      - name: Studios
+        weight: 20
+
+  SynergySP:
     template:
       - name: Studios
         weight: 20
@@ -398,6 +508,11 @@ overlays:
         weight: 20
 
   Trigger:
+    template:
+      - name: Studios
+        weight: 20
+
+  TYO Animations:
     template:
       - name: Studios
         weight: 20
