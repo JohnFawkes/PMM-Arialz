@@ -503,9 +503,9 @@ overlays:
         weight: 20
 
   Tokyo Movie Shinsha:
+    repo: /overlays/Images/Studios-Animes/TMS Entertainment.png
     template:
       - name: Studios
-      - repo: /overlays/Images/Studios-Animes/TMS Entertainment.png
         weight: 20
 
   TROYCA:
