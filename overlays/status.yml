@@ -14,8 +14,8 @@ external_templates:
     horizontal_align: right
     vertical_offset: 15
     vertical_align: bottom
-    font_size: 65
-    back_color: "#4C4C4C"
+    font_size: 62
+    back_color: "#000000B3"
     back_width: 350
     back_height: 120
     allowed_libraries: show
