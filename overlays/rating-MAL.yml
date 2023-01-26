@@ -8,6 +8,10 @@ templates:
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Rating/<<overlay>>
+      back_color: "#000000B3"
+      back_radius: 30
+      back_width: 330
+      back_height: 120
       queue: Rating_Queue_Logo
       weight: <<weight>>
 
