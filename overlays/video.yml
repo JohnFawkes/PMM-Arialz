@@ -6,7 +6,7 @@ templates:
       overlay: <<overlay_name>>
       horizontal_offset: 15
       horizontal_align: left
-      vertical_offset: 160
+      vertical_offset: 150
       vertical_align: top
     builder_level: <<overlay_level>>
     overlay:
