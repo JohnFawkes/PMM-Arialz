@@ -36,9 +36,9 @@ queues:
       vertical_offset: 10
       vertical_align: bottom
   Rating_Queue_Text:
-    - horizontal_offset: 205
+    - horizontal_offset: 195
       horizontal_align: left
-      vertical_offset: 41
+      vertical_offset: 40
       vertical_align: bottom
 
 overlays:
