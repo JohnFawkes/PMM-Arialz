@@ -3,9 +3,6 @@ templates:
     optional:
       - overlay_level
     default:
-      back_color: "#000000B3"
-      back_width: 460
-      back_height: 120
       overlay: <<overlay_name>>
       horizontal_offset: 15
       horizontal_align: left
@@ -16,6 +13,9 @@ templates:
       all:
         studio: <<overlay_name>>
     overlay:
+      back_color: "#000000B3"
+      back_width: 460
+      back_height: 120
       name: <<overlay_name>>
       repo: /overlays/Images/Studios-Animes/<<overlay>>
       weight: <<weight>>
