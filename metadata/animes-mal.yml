@@ -120,7 +120,7 @@ metadata:
     alt_title: "Ars no Kyojuu"
     sort_title: "Ars no Kyojuu"
     original_title: "Giant Beasts of Ars"
-    critic_rating: 6.95
+    critic_rating: 6.92
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Asahi Production
@@ -192,7 +192,7 @@ metadata:
     alt_title: "Benriya Saitou-san, Isekai ni Iku"
     sort_title: "Benriya Saitou-san, Isekai ni Iku"
     original_title: "Handyman Saitou in Another World"
-    critic_rating: 7.24
+    critic_rating: 7.22
     genre.sync: Anime,Adventure,Comedy,Fantasy,Adult Cast,Isekai
     label: Ongoing
     studio: C2C
@@ -228,7 +228,7 @@ metadata:
     alt_title: "Bocchi the Rock!"
     sort_title: "Bocchi the Rock!"
     original_title: "Bocchi the Rock!"
-    critic_rating: 8.97
+    critic_rating: 8.96
     genre.sync: Anime,Comedy,CGDCT,Music
     label.remove: Ongoing
     studio: CloverWorks
@@ -255,7 +255,7 @@ metadata:
     alt_title: "Buddy Daddies"
     sort_title: "Buddy Daddies"
     original_title: "Buddy Daddies"
-    critic_rating: 7.67
+    critic_rating: 7.7
     genre.sync: Anime,Action,Comedy,Childcare,Organized Crime
     label: Ongoing
     studio: P.A. Works
@@ -345,7 +345,7 @@ metadata:
     alt_title: "Cyberpunk: Edgerunners"
     sort_title: "Cyberpunk: Edgerunners"
     original_title: "Cyberpunk: Edgerunners"
-    critic_rating: 8.63
+    critic_rating: 8.62
     genre.sync: Anime,Action,Sci-Fi,Gore,Psychological
     label.remove: Ongoing
     studio: Trigger
@@ -435,7 +435,7 @@ metadata:
     alt_title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     sort_title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     original_title: "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀"
-    critic_rating: 7.47
+    critic_rating: 7.44
     genre.sync: Anime,Action,Fantasy,Magical Sex Shift,Reincarnation
     label: Ongoing
     studio: Studio Comet
@@ -449,15 +449,6 @@ metadata:
     label.remove: Ongoing
     studio: David Production
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38671.jpg
-  "Engage Kiss":
-    alt_title: "Engage Kiss"
-    sort_title: "Engage Kiss"
-    original_title: "Engage Kiss"
-    critic_rating: 6.88
-    genre.sync: Anime,Action,Comedy,Romance
-    label.remove: Ongoing
-    studio: A-1 Pictures
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51417.jpg
   "Fate/stay night: Unlimited Blade Works":
     alt_title: "Fate/stay night: Unlimited Blade Works"
     sort_title: "Fate/stay night: Unlimited Blade Works"
@@ -620,20 +611,11 @@ metadata:
     label.remove: Ongoing
     studio: Madhouse
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/777.jpg
-  "Hige wo Soru. Soshite Joshikousei wo Hirou.":
-    alt_title: "Hige wo Soru. Soshite Joshikousei wo Hirou."
-    sort_title: "Hige wo Soru. Soshite Joshikousei wo Hirou."
-    original_title: "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway"
-    critic_rating: 7.29
-    genre.sync: Anime,Drama,Romance
-    label.remove: Ongoing
-    studio: Project No.9
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40938.jpg
   "HIGH CARD":
     alt_title: "HIGH CARD"
     sort_title: "HIGH CARD"
     original_title: "HIGH CARD"
-    critic_rating: 7.47
+    critic_rating: 7.48
     genre.sync: Anime,Action,Fantasy,Adult Cast,Super Power
     label: Ongoing
     studio: Studio Hibari
@@ -651,7 +633,7 @@ metadata:
     alt_title: "Hikari no Ou"
     sort_title: "Hikari no Ou"
     original_title: "The Fire Hunter"
-    critic_rating: 7.16
+    critic_rating: 7.14
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
@@ -714,7 +696,7 @@ metadata:
     alt_title: "Hyouken no Majutsushi ga Sekai wo Suberu"
     sort_title: "Hyouken no Majutsushi ga Sekai wo Suberu"
     original_title: "The Iceblade Sorcerer Shall Rule the World"
-    critic_rating: 6.73
+    critic_rating: 6.7
     genre.sync: Anime,Action,Fantasy,School
     label: Ongoing
     studio: Cloud Hearts
@@ -813,7 +795,7 @@ metadata:
     alt_title: "Kage no Jitsuryokusha ni Naritakute!"
     sort_title: "Kage no Jitsuryokusha ni Naritakute!"
     original_title: "The Eminence in Shadow"
-    critic_rating: 7.91
+    critic_rating: 7.92
     genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Nexus
@@ -831,20 +813,11 @@ metadata:
     alt_title: "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
     sort_title: "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
     original_title: "Chillin' in My 30s after Getting Fired from the Demon King's Army"
-    critic_rating: 6.82
+    critic_rating: 6.81
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Encourage Films
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/52446.jpg
-  "Kakkou no Iinazuke":
-    alt_title: "Kakkou no Iinazuke"
-    sort_title: "Kakkou no Iinazuke"
-    original_title: "A Couple of Cuckoos"
-    critic_rating: 6.99
-    genre.sync: Anime,Comedy,Romance,Shounen,Harem
-    label.remove: Ongoing
-    studio: SynergySP
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48675.jpg
   "Kami no Tou: Tower of God":
     alt_title: "Kami no Tou: Tower of God"
     sort_title: "Kami no Tou: Tower of God"
@@ -1011,7 +984,7 @@ metadata:
     alt_title: "Koori Zokusei Danshi to Cool na Douryou Joshi"
     sort_title: "Koori Zokusei Danshi to Cool na Douryou Joshi"
     original_title: "The Ice Guy and His Cool Female Colleague"
-    critic_rating: 7.41
+    critic_rating: 7.42
     genre.sync: Anime,Comedy,Fantasy,Romance,Adult Cast,Workplace
     label: Ongoing
     studio: Zero-G
@@ -1034,15 +1007,6 @@ metadata:
     label.remove: Ongoing
     studio: Wit Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28623.jpg
-  "Kuma Kuma Kuma Bear":
-    alt_title: "Kuma Kuma Kuma Bear"
-    sort_title: "Kuma Kuma Kuma Bear"
-    original_title: "Kuma Kuma Kuma Bear"
-    critic_rating: 7.22
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai
-    label.remove: Ongoing
-    studio: EMT Squared
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40974.jpg
   "Kumichou Musume to Sewagakari":
     alt_title: "Kumichou Musume to Sewagakari"
     sort_title: "Kumichou Musume to Sewagakari"
@@ -1160,15 +1124,6 @@ metadata:
     label.remove: Ongoing
     studio: OLM
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36565.jpg
-  "Mamahaha no Tsurego ga Motokano datta":
-    alt_title: "Mamahaha no Tsurego ga Motokano datta"
-    sort_title: "Mamahaha no Tsurego ga Motokano datta"
-    original_title: "My Stepmom's Daughter Is My Ex"
-    critic_rating: 6.78
-    genre.sync: Anime,Comedy,Romance
-    label.remove: Ongoing
-    studio: Project No.9
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49470.jpg
   "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou":
     alt_title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
     sort_title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
@@ -1178,15 +1133,6 @@ metadata:
     label: Ongoing
     studio: SILVER LINK.
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40496.jpg
-  "Maoyuu Maou Yuusha":
-    alt_title: "Maoyuu Maou Yuusha"
-    sort_title: "Maoyuu Maou Yuusha"
-    original_title: "Maoyu ~ Archenemy & Hero"
-    critic_rating: 7.25
-    genre.sync: Anime,Adventure,Fantasy,Romance,Mythology
-    label.remove: Ongoing
-    studio: Arms
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/14833.jpg
   "Mashiro no Oto":
     alt_title: "Mashiro no Oto"
     sort_title: "Mashiro no Oto"
@@ -1209,7 +1155,7 @@ metadata:
     alt_title: "Mononogatari"
     sort_title: "Mononogatari"
     original_title: "Malevolent Spirits: Mononogatari"
-    critic_rating: 6.62
+    critic_rating: 6.63
     genre.sync: Anime,Action,Supernatural,Seinen,Adult Cast,Mythology
     label: Ongoing
     studio: Bandai Namco Pictures
@@ -1281,7 +1227,7 @@ metadata:
     alt_title: "Nokemono-tachi no Yoru"
     sort_title: "Nokemono-tachi no Yoru"
     original_title: "The tale of outcasts"
-    critic_rating: 6.93
+    critic_rating: 6.9
     genre.sync: Anime,Fantasy,Shounen,Anthropomorphic,Historical
     label: Ongoing
     studio: Ashi Productions
@@ -1313,15 +1259,6 @@ metadata:
     label.remove: Ongoing
     studio: Madhouse
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/30276.jpg
-  "Ookami Shoujo to Kuro Ouji":
-    alt_title: "Ookami Shoujo to Kuro Ouji"
-    sort_title: "Ookami Shoujo to Kuro Ouji"
-    original_title: "Wolf Girl & Black Prince"
-    critic_rating: 7.05
-    genre.sync: Anime,Comedy,Romance,Shoujo,School
-    label.remove: Ongoing
-    studio: TYO Animations
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/23673.jpg
   "Ookami to Koushinryou":
     alt_title: "Ookami to Koushinryou"
     sort_title: "Ookami to Koushinryou"
@@ -1335,7 +1272,7 @@ metadata:
     alt_title: "Ooyukiumi no Kaina"
     sort_title: "Ooyukiumi no Kaina"
     original_title: "Kaina of the Great Snow Sea"
-    critic_rating: 6.96
+    critic_rating: 6.97
     genre.sync: Anime,Fantasy,Survival
     label: Ongoing
     studio: Polygon Pictures
@@ -1353,7 +1290,7 @@ metadata:
     alt_title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
     sort_title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
     original_title: "The Angel Next Door Spoils Me Rotten"
-    critic_rating: 7.86
+    critic_rating: 7.89
     genre.sync: Anime,Comedy,Romance,School
     label: Ongoing
     studio: Project No.9
@@ -1403,15 +1340,6 @@ metadata:
     label.remove: Ongoing
     studio: Doga Kobo
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/27775.jpg
-  "Princess Connect! Re:Dive":
-    alt_title: "Princess Connect! Re:Dive"
-    sort_title: "Princess Connect! Re:Dive"
-    original_title: "Princess Connect! Re:Dive"
-    critic_rating: 7.05
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Gourmet
-    label.remove: Ongoing
-    studio: CygamesPictures
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39292.jpg
   "Quanzhi Gaoshou":
     alt_title: "Quanzhi Gaoshou"
     sort_title: "Quanzhi Gaoshou"
@@ -1421,15 +1349,6 @@ metadata:
     label.remove: Ongoing
     studio: B.CMAY PICTURES
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/33926.jpg
-  "Radiant":
-    alt_title: "Radiant"
-    sort_title: "Radiant"
-    original_title: "Radiant"
-    critic_rating: 6.88
-    genre.sync: Anime,Action,Adventure,Fantasy
-    label.remove: Ongoing
-    studio: Lerche
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37202.jpg
   "Rakudai Kishi no Cavalry":
     alt_title: "Rakudai Kishi no Cavalry"
     sort_title: "Rakudai Kishi no Cavalry"
@@ -1475,15 +1394,6 @@ metadata:
     label.remove: Ongoing
     studio: NAZ
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48414.jpg
-  "Saihate no Paladin":
-    alt_title: "Saihate no Paladin"
-    sort_title: "Saihate no Paladin"
-    original_title: "The Faraway Paladin"
-    critic_rating: 6.85
-    genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
-    label.remove: Ongoing
-    studio: Children's Playground Entertainment
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48761.jpg
   "Saiki Kusuo no Ψ-nan":
     alt_title: "Saiki Kusuo no Ψ-nan"
     sort_title: "Saiki Kusuo no Ψ-nan"
@@ -1497,7 +1407,7 @@ metadata:
     alt_title: "Saikyou Onmyouji no Isekai Tenseiki"
     sort_title: "Saikyou Onmyouji no Isekai Tenseiki"
     original_title: "The Reincarnation of the Strongest Exorcist in Another World"
-    critic_rating: 7.48
+    critic_rating: 7.5
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Studio Blanc.
@@ -1583,15 +1493,6 @@ metadata:
     label.remove: Ongoing
     studio: Wit Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/16498.jpg
-  "Shinobi no Ittoki":
-    alt_title: "Shinobi no Ittoki"
-    sort_title: "Shinobi no Ittoki"
-    original_title: "Shinobi no Ittoki"
-    critic_rating: 6.08
-    genre.sync: Anime,Action,School
-    label.remove: Ongoing
-    studio: TROYCA
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51098.jpg
   "SHIROBAKO":
     alt_title: "SHIROBAKO"
     sort_title: "SHIROBAKO"
@@ -1619,15 +1520,6 @@ metadata:
     label.remove: Ongoing
     studio: White Fox
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35838.jpg
-  "Shoukoku no Altair":
-    alt_title: "Shoukoku no Altair"
-    sort_title: "Shoukoku no Altair"
-    original_title: "Altair: A Record of Battles"
-    critic_rating: 7.55
-    genre.sync: Anime,Adventure,Drama,Fantasy,Shounen,Historical,Military
-    label.remove: Ongoing
-    studio: MAPPA
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34547.jpg
   "Shouwa Genroku Rakugo Shinjuu":
     alt_title: "Shouwa Genroku Rakugo Shinjuu"
     sort_title: "Shouwa Genroku Rakugo Shinjuu"
@@ -1668,7 +1560,7 @@ metadata:
     alt_title: "Spy Kyoushitsu"
     sort_title: "Spy Kyoushitsu"
     original_title: "Spy Classroom"
-    critic_rating: 6.65
+    critic_rating: 6.62
     genre.sync: Anime,Action,Fantasy,Mystery
     label: Ongoing
     studio: feel.
@@ -1677,7 +1569,7 @@ metadata:
     alt_title: "SPY×FAMILY"
     sort_title: "SPY×FAMILY"
     original_title: "SPY×FAMILY"
-    critic_rating: 8.69
+    critic_rating: 8.68
     genre.sync: Anime,Action,Comedy,Shounen,Childcare
     label.remove: Ongoing
     studio: Wit Studio
@@ -1695,7 +1587,7 @@ metadata:
     alt_title: "Steins;Gate 0"
     sort_title: "Steins;Gate 0"
     original_title: "Steins;Gate 0"
-    critic_rating: 8.52
+    critic_rating: 8.53
     genre.sync: Anime,Drama,Sci-Fi,Suspense,Time Travel
     label.remove: Ongoing
     studio: White Fox
@@ -1803,7 +1695,7 @@ metadata:
     alt_title: "The Legend of Heroes: Sen no Kiseki - Northern War"
     sort_title: "The Legend of Heroes: Sen no Kiseki - Northern War"
     original_title: "The Legend of Heroes: Trails of Cold Steel - Northern War"
-    critic_rating: 6.24
+    critic_rating: 6.18
     genre.sync: Anime,Action,Fantasy,Military
     label: Ongoing
     studio: Tatsunoko Production
@@ -1857,7 +1749,7 @@ metadata:
     alt_title: "Tondemo Skill de Isekai Hourou Meshi"
     sort_title: "Tondemo Skill de Isekai Hourou Meshi"
     original_title: "Campfire Cooking in Another World with My Absurd Skill"
-    critic_rating: 7.64
+    critic_rating: 7.65
     genre.sync: Anime,Adventure,Comedy,Fantasy,Gourmet,Isekai
     label: Ongoing
     studio: MAPPA
@@ -1884,7 +1776,7 @@ metadata:
     alt_title: "TRIGUN STAMPEDE"
     sort_title: "TRIGUN STAMPEDE"
     original_title: "Trigun Stampede"
-    critic_rating: 7.34
+    critic_rating: 7.36
     genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
     label: Ongoing
     studio: Orange
@@ -1902,7 +1794,7 @@ metadata:
     alt_title: "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san"
     sort_title: "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san"
     original_title: "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte"
-    critic_rating: 7.36
+    critic_rating: 7.35
     genre.sync: Anime,Comedy,Fantasy,Romance,Video Game
     label: Ongoing
     studio: Tezuka Productions
@@ -1916,15 +1808,6 @@ metadata:
     label: Ongoing
     studio: Kyoto Animation
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36653.jpg
-  "Uchouten Kazoku":
-    alt_title: "Uchouten Kazoku"
-    sort_title: "Uchouten Kazoku"
-    original_title: "The Eccentric Family"
-    critic_rating: 7.84
-    genre.sync: Anime,Award Winning,Comedy,Drama,Fantasy,Slice of Life,Mythology
-    label.remove: Ongoing
-    studio: P.A. Works
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/17909.jpg
   "Uchuu Kyoudai":
     alt_title: "Uchuu Kyoudai"
     sort_title: "Uchuu Kyoudai"
@@ -1997,15 +1880,6 @@ metadata:
     label.remove: Ongoing
     studio: Wit Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/46095.jpg
-  "Warau Arsnotoria Sun!":
-    alt_title: "Warau Arsnotoria Sun!"
-    sort_title: "Warau Arsnotoria Sun!"
-    original_title: "Smile of the Arsnotoria the Animation"
-    critic_rating: 5.83
-    genre.sync: Anime,Action,Fantasy
-    label.remove: Ongoing
-    studio: LIDENFILMS
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51923.jpg
   "Wolf's Rain":
     alt_title: "Wolf's Rain"
     sort_title: "Wolf's Rain"
@@ -2114,15 +1988,6 @@ metadata:
     label.remove: Ongoing
     studio: Production I.G
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40911.jpg
-  "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau":
-    alt_title: "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
-    sort_title: "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
-    original_title: "Beast Tamer"
-    critic_rating: 6.96
-    genre.sync: Anime,Action,Fantasy,Harem
-    label.remove: Ongoing
-    studio: EMT Squared
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/52046.jpg
   "Zetsuen no Tempest":
     alt_title: "Zetsuen no Tempest"
     sort_title: "Zetsuen no Tempest"
