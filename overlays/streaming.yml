@@ -16,7 +16,7 @@ templates:
       overlay: <<overlay_name>>
       horizontal_offset: 15
       horizontal_align: right
-      vertical_offset: 15
+      vertical_offset: 135
       vertical_align: bottom
     allowed_library_types: <<use_<<slug>>>>
     overlay:
