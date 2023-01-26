@@ -11,13 +11,13 @@ external_templates:
     text_<<key>>: <<text>>
     group: status
     horizontal_offset: 15
-    horizontal_align: left
-    vertical_offset: 330
-    vertical_align: top
-    font_size: 50
-    back_color: "#00000099"
-    back_width: 305
-    back_height: 105
+    horizontal_align: right
+    vertical_offset: 15
+    vertical_align: bottom
+    font_size: 65
+    back_color: "#4C4C4C"
+    back_width: 350
+    back_height: 120
     allowed_libraries: show
     final_name: text(<<text_<<key>>>>)
 
@@ -45,17 +45,17 @@ templates:
 overlays:
 
   airing_shows:
-    variables: {key: airing, weight: 40, text: AIRING, last: 14}
+    variables: {key: airing, weight: 40, text: Diffusion, last: 14}
     template: [name: standard, name: status]
 
   returning_shows:
-    variables: {key: returning, weight: 30, text: RETURNING}
+    variables: {key: returning, weight: 30, text: Renouvellée}
     template: [name: standard, name: status]
 
   canceled_shows:
-    variables: {key: canceled, weight: 20, text: CANCELED}
+    variables: {key: canceled, weight: 20, text: Annulée}
     template: [name: standard, name: status]
 
   ended_shows:
-    variables: {key: ended, weight: 10, text: ENDED}
+    variables: {key: ended, weight: 10, text: Terminée}
     template: [name: standard, name: status]
