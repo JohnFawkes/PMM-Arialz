@@ -13,12 +13,13 @@ templates:
       all:
         studio: <<overlay_name>>
     overlay:
-      back_color: "#000000B3"
-      back_width: 460
-      back_height: 120
       name: <<overlay_name>>
       repo: /overlays/Images/Studios-Animes/<<overlay>>
       weight: <<weight>>
+      back_color: "#000000B3"
+      back_radius: 30
+      back_width: 460
+      back_height: 120
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
       vertical_offset: <<vertical_offset>>
