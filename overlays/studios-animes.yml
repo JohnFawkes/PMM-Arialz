@@ -3,6 +3,9 @@ templates:
     optional:
       - overlay_level
     default:
+      back_color: "#000000B3"
+      back_width: 460
+      back_height: 120
       overlay: <<overlay_name>>
       horizontal_offset: 15
       horizontal_align: left
