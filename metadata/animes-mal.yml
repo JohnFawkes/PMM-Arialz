@@ -106,7 +106,7 @@ metadata:
   "Ars no Kyojuu":
     sort_title: "Ars no Kyojuu"
     original_title: "Giant Beasts of Ars"
-    critic_rating: 6.92
+    critic_rating: 6.9
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Asahi Production
@@ -250,7 +250,7 @@ metadata:
   "Chainsaw Man":
     sort_title: "Chainsaw Man"
     original_title: "Chainsaw Man"
-    critic_rating: 8.68
+    critic_rating: 8.67
     genre.sync: Anime,Action,Fantasy,Shounen,Gore
     label.remove: Ongoing
     studio: MAPPA
@@ -386,7 +386,7 @@ metadata:
   "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀":
     sort_title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     original_title: "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀"
-    critic_rating: 7.44
+    critic_rating: 7.4
     genre.sync: Anime,Action,Fantasy,Magical Sex Shift,Reincarnation
     label: Ongoing
     studio: Studio Comet
@@ -419,7 +419,7 @@ metadata:
     sort_title: "Gankutsuou"
     original_title: "Gankutsuou: The Count of Monte Cristo"
     critic_rating: 8.14
-    genre.sync: Anime,Drama,Mystery,Sci-Fi,Supernatural,Suspense
+    genre.sync: Anime,Award Winning,Drama,Mystery,Sci-Fi,Supernatural,Suspense
     label.remove: Ongoing
     studio: Gonzo
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/239.jpg
@@ -546,7 +546,7 @@ metadata:
   "HIGH CARD":
     sort_title: "HIGH CARD"
     original_title: "HIGH CARD"
-    critic_rating: 7.48
+    critic_rating: 7.44
     genre.sync: Anime,Action,Fantasy,Adult Cast,Super Power
     label: Ongoing
     studio: Studio Hibari
@@ -562,7 +562,7 @@ metadata:
   "Hikari no Ou":
     sort_title: "Hikari no Ou"
     original_title: "The Fire Hunter"
-    critic_rating: 7.14
+    critic_rating: 7.1
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
@@ -938,7 +938,7 @@ metadata:
   "Lycoris Recoil":
     sort_title: "Lycoris Recoil"
     original_title: "Lycoris Recoil"
-    critic_rating: 8.23
+    critic_rating: 8.22
     genre.sync: Anime,Action
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -1026,7 +1026,7 @@ metadata:
   "Mononogatari":
     sort_title: "Mononogatari"
     original_title: "Malevolent Spirits: Mononogatari"
-    critic_rating: 6.63
+    critic_rating: 6.65
     genre.sync: Anime,Action,Supernatural,Seinen,Adult Cast,Mythology
     label: Ongoing
     studio: Bandai Namco Pictures
@@ -1074,7 +1074,7 @@ metadata:
   "NieR:Automata Ver1.1a":
     sort_title: "NieR:Automata Ver1.1a"
     original_title: "NieR:Automata Ver1.1a"
-    critic_rating: 7.53
+    critic_rating: 7.52
     genre.sync: Anime,Action,Fantasy,Sci-Fi
     label: Ongoing
     studio: A-1 Pictures
@@ -1082,7 +1082,7 @@ metadata:
   "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu":
     sort_title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
     original_title: "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
-    critic_rating: 7.04
+    critic_rating: 6.98
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
@@ -1090,7 +1090,7 @@ metadata:
   "Nokemono-tachi no Yoru":
     sort_title: "Nokemono-tachi no Yoru"
     original_title: "The tale of outcasts"
-    critic_rating: 6.9
+    critic_rating: 6.89
     genre.sync: Anime,Fantasy,Shounen,Anthropomorphic,Historical
     label: Ongoing
     studio: Ashi Productions
@@ -1178,7 +1178,7 @@ metadata:
   "Paripi Koumei":
     sort_title: "Paripi Koumei"
     original_title: "Ya Boy Kongming!"
-    critic_rating: 8.21
+    critic_rating: 8.2
     genre.sync: Anime,Comedy,Adult Cast,Music,Reincarnation
     label.remove: Ongoing
     studio: P.A. Works
@@ -1250,7 +1250,7 @@ metadata:
   "Saikyou Onmyouji no Isekai Tenseiki":
     sort_title: "Saikyou Onmyouji no Isekai Tenseiki"
     original_title: "The Reincarnation of the Strongest Exorcist in Another World"
-    critic_rating: 7.5
+    critic_rating: 7.49
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Studio Blanc.
@@ -1386,7 +1386,7 @@ metadata:
   "Spy Kyoushitsu":
     sort_title: "Spy Kyoushitsu"
     original_title: "Spy Classroom"
-    critic_rating: 6.62
+    critic_rating: 6.59
     genre.sync: Anime,Action,Fantasy,Mystery
     label: Ongoing
     studio: feel.

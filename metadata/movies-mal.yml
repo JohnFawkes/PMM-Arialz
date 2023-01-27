@@ -30,7 +30,7 @@ metadata:
   "Kara no Kyoukai Remix: Gate of Seventh Heaven":
     sort_title: "Kara no Kyoukai Remix: Gate of Seventh Heaven"
     original_title: "The Garden of Sinners Remix: Gate of Seventh Heaven"
-    critic_rating: 7.56
+    critic_rating: 7.55
     genre.sync: Anime,Action,Mystery,Romance,Suspense,Super Power
     studio: ufotable
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6624.jpg
@@ -192,7 +192,7 @@ metadata:
     sort_title: "Ghost in the Shell"
     original_title: "Ghost in the Shell"
     critic_rating: 8.27
-    genre.sync: Anime,Action,Mystery,Sci-Fi,Suspense,Seinen,Adult Cast,Detective,Mecha,Psychological
+    genre.sync: Anime,Action,Award Winning,Mystery,Sci-Fi,Suspense,Seinen,Adult Cast,Detective,Mecha,Psychological
     studio: Production I.G
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/43.jpg
   "Ghost in the Shell 2 : Innocence":
@@ -416,7 +416,7 @@ metadata:
     sort_title: "Girls und Panzer Movie"
     original_title: "Girls und Panzer der Film"
     critic_rating: 8.19
-    genre.sync: Anime,Action,Military,School
+    genre.sync: Anime,Action,Award Winning,Military,School
     studio: Actas
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/18617.jpg
   "Josee to Tora to Sakanatachi":
@@ -500,7 +500,7 @@ metadata:
     sort_title: "Kotonoha no Niwa"
     original_title: "The Garden of Words"
     critic_rating: 7.9
-    genre.sync: Anime,Drama,Romance,Visual Arts
+    genre.sync: Anime,Award Winning,Drama,Romance,Visual Arts
     studio: CoMix Wave Films
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/16782.jpg
   "Made in Abyss: Fukaki Tamashii no Reimei":
