@@ -98,7 +98,7 @@ metadata:
   "Arknights: Reimei Zensou":
     sort_title: "Arknights: Reimei Zensou"
     original_title: "Arknights Animation: Prelude to Dawn"
-    critic_rating: 7.2
+    critic_rating: 7.19
     genre.sync: Anime,Action,Fantasy
     label.remove: Ongoing
     studio: Yostar Pictures
@@ -106,7 +106,7 @@ metadata:
   "Ars no Kyojuu":
     sort_title: "Ars no Kyojuu"
     original_title: "Giant Beasts of Ars"
-    critic_rating: 6.9
+    critic_rating: 6.87
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Asahi Production
@@ -170,7 +170,7 @@ metadata:
   "Benriya Saitou-san, Isekai ni Iku":
     sort_title: "Benriya Saitou-san, Isekai ni Iku"
     original_title: "Handyman Saitou in Another World"
-    critic_rating: 7.22
+    critic_rating: 7.21
     genre.sync: Anime,Adventure,Comedy,Fantasy,Adult Cast,Isekai
     label: Ongoing
     studio: C2C
@@ -226,7 +226,7 @@ metadata:
   "Buddy Daddies":
     sort_title: "Buddy Daddies"
     original_title: "Buddy Daddies"
-    critic_rating: 7.7
+    critic_rating: 7.71
     genre.sync: Anime,Action,Comedy,Childcare,Organized Crime
     label: Ongoing
     studio: P.A. Works
@@ -299,7 +299,7 @@ metadata:
     sort_title: "Code Geass: Hangyaku no Lelouch"
     original_title: "Code Geass: Lelouch of the Rebellion"
     critic_rating: 8.7
-    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,School,Super Power
+    genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Mecha,Military,School,Super Power
     label.remove: Ongoing
     studio: Sunrise
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/1575.jpg
@@ -386,7 +386,7 @@ metadata:
   "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀":
     sort_title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     original_title: "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀"
-    critic_rating: 7.4
+    critic_rating: 7.37
     genre.sync: Anime,Action,Fantasy,Magical Sex Shift,Reincarnation
     label: Ongoing
     studio: Studio Comet
@@ -546,7 +546,7 @@ metadata:
   "HIGH CARD":
     sort_title: "HIGH CARD"
     original_title: "HIGH CARD"
-    critic_rating: 7.44
+    critic_rating: 7.42
     genre.sync: Anime,Action,Fantasy,Adult Cast,Super Power
     label: Ongoing
     studio: Studio Hibari
@@ -562,7 +562,7 @@ metadata:
   "Hikari no Ou":
     sort_title: "Hikari no Ou"
     original_title: "The Fire Hunter"
-    critic_rating: 7.1
+    critic_rating: 7.05
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
@@ -618,7 +618,7 @@ metadata:
   "Hyouken no Majutsushi ga Sekai wo Suberu":
     sort_title: "Hyouken no Majutsushi ga Sekai wo Suberu"
     original_title: "The Iceblade Sorcerer Shall Rule the World"
-    critic_rating: 6.7
+    critic_rating: 6.63
     genre.sync: Anime,Action,Fantasy,School
     label: Ongoing
     studio: Cloud Hearts
@@ -666,7 +666,7 @@ metadata:
   "Isekai Oji-san":
     sort_title: "Isekai Oji-san"
     original_title: "Uncle from Another World"
-    critic_rating: 7.85
+    critic_rating: 7.84
     genre.sync: Anime,Comedy,Fantasy,Adult Cast,Isekai,Otaku Culture,Parody
     label: Ongoing
     studio: AtelierPontdarc
@@ -706,7 +706,7 @@ metadata:
   "Kage no Jitsuryokusha ni Naritakute!":
     sort_title: "Kage no Jitsuryokusha ni Naritakute!"
     original_title: "The Eminence in Shadow"
-    critic_rating: 7.92
+    critic_rating: 7.93
     genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Nexus
@@ -722,7 +722,7 @@ metadata:
   "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life":
     sort_title: "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
     original_title: "Chillin' in My 30s after Getting Fired from the Demon King's Army"
-    critic_rating: 6.81
+    critic_rating: 6.8
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Encourage Films
@@ -1082,7 +1082,7 @@ metadata:
   "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu":
     sort_title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
     original_title: "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
-    critic_rating: 6.98
+    critic_rating: 6.96
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
@@ -1090,7 +1090,7 @@ metadata:
   "Nokemono-tachi no Yoru":
     sort_title: "Nokemono-tachi no Yoru"
     original_title: "The tale of outcasts"
-    critic_rating: 6.89
+    critic_rating: 6.88
     genre.sync: Anime,Fantasy,Shounen,Anthropomorphic,Historical
     label: Ongoing
     studio: Ashi Productions
@@ -1250,7 +1250,7 @@ metadata:
   "Saikyou Onmyouji no Isekai Tenseiki":
     sort_title: "Saikyou Onmyouji no Isekai Tenseiki"
     original_title: "The Reincarnation of the Strongest Exorcist in Another World"
-    critic_rating: 7.49
+    critic_rating: 7.48
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Studio Blanc.
@@ -1386,7 +1386,7 @@ metadata:
   "Spy Kyoushitsu":
     sort_title: "Spy Kyoushitsu"
     original_title: "Spy Classroom"
-    critic_rating: 6.59
+    critic_rating: 6.53
     genre.sync: Anime,Action,Fantasy,Mystery
     label: Ongoing
     studio: feel.

@@ -92,7 +92,7 @@ metadata:
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6954.jpg
   "Kimetsu no Yaiba: Mugen Ressha-hen":
     sort_title: "Kimetsu no Yaiba: Mugen Ressha-hen"
-    original_title: "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train"
+    original_title: "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train"
     critic_rating: 8.63
     genre.sync: Anime,Action,Fantasy,Shounen,Historical
     studio: ufotable
@@ -156,7 +156,7 @@ metadata:
   "Seitokai Yakuindomo Movie":
     sort_title: "Seitokai Yakuindomo Movie"
     original_title: "Seitokai Yakuindomo Movie"
-    critic_rating: 7.84
+    critic_rating: 7.83
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     studio: GoHands
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34504.jpg
@@ -170,7 +170,7 @@ metadata:
   "Sidonia no Kishi: Ai Tsumugu Hoshi":
     sort_title: "Sidonia no Kishi: Ai Tsumugu Hoshi"
     original_title: "Knights of Sidonia: Love Woven in the Stars"
-    critic_rating: 7.44
+    critic_rating: 7.43
     genre.sync: Anime,Action,Sci-Fi,Seinen,Mecha,Space
     studio: Polygon Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35759.jpg
@@ -184,7 +184,7 @@ metadata:
   "Violet Evergarden Movie":
     sort_title: "Violet Evergarden Movie"
     original_title: "Violet Evergarden the Movie"
-    critic_rating: 8.92
+    critic_rating: 8.91
     genre.sync: Anime,Award Winning,Drama,Fantasy
     studio: Kyoto Animation
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37987.jpg
@@ -199,7 +199,7 @@ metadata:
     sort_title: "Ghost in the Shell 2 : Innocence"
     original_title: "Ghost in the Shell 2: Innocence"
     critic_rating: 7.79
-    genre.sync: Anime,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
+    genre.sync: Anime,Award Winning,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
     studio: Production I.G
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/468.jpg
   "Ghost in the Shell 2.0":
@@ -338,7 +338,7 @@ metadata:
   "Byousoku 5 Centimeter":
     sort_title: "Byousoku 5 Centimeter"
     original_title: "5 Centimeters Per Second"
-    critic_rating: 7.59
+    critic_rating: 7.58
     genre.sync: Anime,Drama,Romance
     studio: CoMix Wave Films
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/1689.jpg
@@ -590,7 +590,7 @@ metadata:
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/5681.jpg
   "Sword Art Online: Ordinal Scale":
     sort_title: "Sword Art Online: Ordinal Scale"
-    original_title: "Sword Art Online the Movie -Ordinal Scale-"
+    original_title: "Sword Art Online the Movie: Ordinal Scale"
     critic_rating: 7.57
     genre.sync: Anime,Action,Adventure,Fantasy,Video Game
     studio: A-1 Pictures
