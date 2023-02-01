@@ -106,7 +106,7 @@ metadata:
   "Ars no Kyojuu":
     sort_title: "Ars no Kyojuu"
     original_title: "Giant Beasts of Ars"
-    critic_rating: 6.87
+    critic_rating: 6.83
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Asahi Production
@@ -114,7 +114,7 @@ metadata:
   "Arslan Senki (TV)":
     sort_title: "Arslan Senki (TV)"
     original_title: "The Heroic Legend of Arslan"
-    critic_rating: 7.67
+    critic_rating: 7.66
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Shounen,Historical,Military
     label.remove: Ongoing
     studio: SANZIGEN
@@ -170,7 +170,7 @@ metadata:
   "Benriya Saitou-san, Isekai ni Iku":
     sort_title: "Benriya Saitou-san, Isekai ni Iku"
     original_title: "Handyman Saitou in Another World"
-    critic_rating: 7.21
+    critic_rating: 7.22
     genre.sync: Anime,Adventure,Comedy,Fantasy,Adult Cast,Isekai
     label: Ongoing
     studio: C2C
@@ -202,7 +202,7 @@ metadata:
   "Bocchi the Rock!":
     sort_title: "Bocchi the Rock!"
     original_title: "Bocchi the Rock!"
-    critic_rating: 8.96
+    critic_rating: 8.95
     genre.sync: Anime,Comedy,CGDCT,Music
     label.remove: Ongoing
     studio: CloverWorks
@@ -226,7 +226,7 @@ metadata:
   "Buddy Daddies":
     sort_title: "Buddy Daddies"
     original_title: "Buddy Daddies"
-    critic_rating: 7.71
+    critic_rating: 7.75
     genre.sync: Anime,Action,Comedy,Childcare,Organized Crime
     label: Ongoing
     studio: P.A. Works
@@ -386,7 +386,7 @@ metadata:
   "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀":
     sort_title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     original_title: "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀"
-    critic_rating: 7.37
+    critic_rating: 7.33
     genre.sync: Anime,Action,Fantasy,Magical Sex Shift,Reincarnation
     label: Ongoing
     studio: Studio Comet
@@ -546,8 +546,8 @@ metadata:
   "HIGH CARD":
     sort_title: "HIGH CARD"
     original_title: "HIGH CARD"
-    critic_rating: 7.42
-    genre.sync: Anime,Action,Fantasy,Adult Cast,Super Power
+    critic_rating: 7.39
+    genre.sync: Anime,Action,Fantasy,Super Power
     label: Ongoing
     studio: Studio Hibari
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49154.jpg
@@ -562,7 +562,7 @@ metadata:
   "Hikari no Ou":
     sort_title: "Hikari no Ou"
     original_title: "The Fire Hunter"
-    critic_rating: 7.05
+    critic_rating: 6.99
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
@@ -602,7 +602,7 @@ metadata:
   "Houkago Teibou Nisshi":
     sort_title: "Houkago Teibou Nisshi"
     original_title: "Diary of Our Days at the Breakwater"
-    critic_rating: 7.41
+    critic_rating: 7.42
     genre.sync: Anime,Gourmet,Slice of Life,Seinen,CGDCT,Iyashikei,School
     label.remove: Ongoing
     studio: Doga Kobo
@@ -610,7 +610,7 @@ metadata:
   "Houseki no Kuni":
     sort_title: "Houseki no Kuni"
     original_title: "Land of the Lustrous"
-    critic_rating: 8.4
+    critic_rating: 8.39
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Seinen,Anthropomorphic
     label.remove: Ongoing
     studio: Orange
@@ -618,7 +618,7 @@ metadata:
   "Hyouken no Majutsushi ga Sekai wo Suberu":
     sort_title: "Hyouken no Majutsushi ga Sekai wo Suberu"
     original_title: "The Iceblade Sorcerer Shall Rule the World"
-    critic_rating: 6.63
+    critic_rating: 6.61
     genre.sync: Anime,Action,Fantasy,School
     label: Ongoing
     studio: Cloud Hearts
@@ -802,7 +802,7 @@ metadata:
   "Kidou Senshi Gundam: Tekketsu no Orphans":
     sort_title: "Kidou Senshi Gundam: Tekketsu no Orphans"
     original_title: "Mobile Suit Gundam: Iron-Blooded Orphans"
-    critic_rating: 8.04
+    critic_rating: 8.05
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Space
     label.remove: Ongoing
     studio: Sunrise
@@ -874,7 +874,7 @@ metadata:
   "Koori Zokusei Danshi to Cool na Douryou Joshi":
     sort_title: "Koori Zokusei Danshi to Cool na Douryou Joshi"
     original_title: "The Ice Guy and His Cool Female Colleague"
-    critic_rating: 7.42
+    critic_rating: 7.41
     genre.sync: Anime,Comedy,Fantasy,Romance,Adult Cast,Workplace
     label: Ongoing
     studio: Zero-G
@@ -923,7 +923,7 @@ metadata:
     sort_title: "Kyokou Suiri"
     original_title: "In/Spectre"
     critic_rating: 6.91
-    genre.sync: Anime,Mystery,Romance,Supernatural,Shounen,Mythology
+    genre.sync: Anime,Mystery,Romance,Supernatural,Shounen,Adult Cast,Mythology
     label: Ongoing
     studio: Brain's Base
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39017.jpg
@@ -1026,7 +1026,7 @@ metadata:
   "Mononogatari":
     sort_title: "Mononogatari"
     original_title: "Malevolent Spirits: Mononogatari"
-    critic_rating: 6.65
+    critic_rating: 6.63
     genre.sync: Anime,Action,Supernatural,Seinen,Adult Cast,Mythology
     label: Ongoing
     studio: Bandai Namco Pictures
@@ -1074,7 +1074,7 @@ metadata:
   "NieR:Automata Ver1.1a":
     sort_title: "NieR:Automata Ver1.1a"
     original_title: "NieR:Automata Ver1.1a"
-    critic_rating: 7.52
+    critic_rating: 7.51
     genre.sync: Anime,Action,Fantasy,Sci-Fi
     label: Ongoing
     studio: A-1 Pictures
@@ -1082,15 +1082,15 @@ metadata:
   "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu":
     sort_title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
     original_title: "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
-    critic_rating: 6.96
+    critic_rating: 6.93
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49612.jpg
   "Nokemono-tachi no Yoru":
     sort_title: "Nokemono-tachi no Yoru"
-    original_title: "The tale of outcasts"
-    critic_rating: 6.88
+    original_title: "The Tale of Outcasts"
+    critic_rating: 6.84
     genre.sync: Anime,Fantasy,Shounen,Anthropomorphic,Historical
     label: Ongoing
     studio: Ashi Productions
@@ -1130,7 +1130,7 @@ metadata:
   "Ooyukiumi no Kaina":
     sort_title: "Ooyukiumi no Kaina"
     original_title: "Kaina of the Great Snow Sea"
-    critic_rating: 6.97
+    critic_rating: 6.96
     genre.sync: Anime,Fantasy,Survival
     label: Ongoing
     studio: Polygon Pictures
@@ -1146,7 +1146,7 @@ metadata:
   "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken":
     sort_title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
     original_title: "The Angel Next Door Spoils Me Rotten"
-    critic_rating: 7.89
+    critic_rating: 7.91
     genre.sync: Anime,Comedy,Romance,School
     label: Ongoing
     studio: Project No.9
@@ -1226,7 +1226,7 @@ metadata:
   "Romantic Killer":
     sort_title: "Romantic Killer"
     original_title: "Romantic Killer"
-    critic_rating: 8.13
+    critic_rating: 8.12
     genre.sync: Anime,Comedy,Romance,Supernatural,Shounen,Parody,Reverse Harem
     label.remove: Ongoing
     studio: domerica
@@ -1250,7 +1250,7 @@ metadata:
   "Saikyou Onmyouji no Isekai Tenseiki":
     sort_title: "Saikyou Onmyouji no Isekai Tenseiki"
     original_title: "The Reincarnation of the Strongest Exorcist in Another World"
-    critic_rating: 7.48
+    critic_rating: 7.46
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Studio Blanc.
@@ -1506,7 +1506,7 @@ metadata:
   "The Legend of Heroes: Sen no Kiseki - Northern War":
     sort_title: "The Legend of Heroes: Sen no Kiseki - Northern War"
     original_title: "The Legend of Heroes: Trails of Cold Steel - Northern War"
-    critic_rating: 6.12
+    critic_rating: 6.09
     genre.sync: Anime,Action,Fantasy,Military
     label: Ongoing
     studio: Tatsunoko Production
@@ -1554,7 +1554,7 @@ metadata:
   "Tondemo Skill de Isekai Hourou Meshi":
     sort_title: "Tondemo Skill de Isekai Hourou Meshi"
     original_title: "Campfire Cooking in Another World with My Absurd Skill"
-    critic_rating: 7.67
+    critic_rating: 7.66
     genre.sync: Anime,Adventure,Comedy,Fantasy,Gourmet,Isekai
     label: Ongoing
     studio: MAPPA
@@ -1578,7 +1578,7 @@ metadata:
   "TRIGUN STAMPEDE":
     sort_title: "TRIGUN STAMPEDE"
     original_title: "Trigun Stampede"
-    critic_rating: 7.37
+    critic_rating: 7.35
     genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
     label: Ongoing
     studio: Orange
@@ -1594,7 +1594,7 @@ metadata:
   "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san":
     sort_title: "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san"
     original_title: "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte"
-    critic_rating: 7.32
+    critic_rating: 7.31
     genre.sync: Anime,Comedy,Fantasy,Romance,Video Game
     label: Ongoing
     studio: Tezuka Productions
