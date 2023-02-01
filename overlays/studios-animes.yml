@@ -15,7 +15,6 @@ templates:
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Studios-Animes/<<overlay>>
-      weight: <<weight>>
       back_color: "#000000B3"
       back_radius: 30
       back_width: 460
@@ -27,531 +26,319 @@ templates:
       
 overlays:
   8bit:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   A-1 Pictures:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Actas:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   AIC Spirits:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Ajia-Do:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Arms:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Asahi Production:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Ashi Productions:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   asread.:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   AtelierPontdarc:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   B.CMAY PICTURES:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Bandai Namco Pictures:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Bones:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Brain's Base:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Bridge:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   C-Station:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   C2C:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Children's Playground Entertainment:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Cloud Hearts:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   CloverWorks:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Colored Pencil Animation:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   CoMix Wave Films:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Connect:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   CygamesPictures:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   David Production:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Diomedéa:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Doga Kobo:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   domerica:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Encourage Films:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   EMT Squared:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   ENGI:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   feel.:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Gallop:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Geek Toys:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Geno Studio:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   GoHands:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Gonzo:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Haoliners Animation League:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Imagin:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Lay-duce:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Lerche:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   J.C.Staff:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Kadokawa:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Khara:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Kinema Citrus:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Kyoto Animation:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   LIDENFILMS:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Madhouse:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Maho Film:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   MAPPA:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Millepensee:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Namu Animation:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   NAZ:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Nexus:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Nut:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Okuruto Noboru:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   OLM:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Orange:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   P.A. Works:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Pierrot:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Platinum Vision:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Polygon Pictures:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Production +h.:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Production I.G:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Production IMS:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Project No.9:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Quad:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Radix:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Revoroot:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   SANZIGEN:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Satelight:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Seven Arcs:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Shaft:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Shin-Ei Animation:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Shuka:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Signal.MD:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Studio A-CAT:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Studio Bind:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Studio Blanc.:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   SILVER LINK.:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Studio Chizu:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Studio Comet:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Studio Deen:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Studio Ghibli:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Studio Hibari:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Studio Kai:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   studio MOTHER:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Studio Rikka:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Studio VOLN:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Sunrise:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   SynergySP:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Tatsunoko Production:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Telecom Animation Film:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Tezuka Productions:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   TMS Entertainment:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Toei Animation:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Tokyo Movie Shinsha:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   TROYCA:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Trigger:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   TYO Animations:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   ufotable:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   White Fox:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Wit Studio:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Yokohama Animation Lab:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Yostar Pictures:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
 
   Zero-G:
-    template:
-      - name: Studios
-        weight: 20
+    template: { name: Studios }
