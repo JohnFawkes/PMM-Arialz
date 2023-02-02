@@ -39,18 +39,30 @@ overlays:
   BBC One:
     variables: { key: 4, weight: 50 }
     template: { name: Networks }
+    overlay:
+      name: BBC One
+      repo: overlays/Images/Networks/BBC.png
 
   BBC Two:
     variables: { key: 332, weight: 50 }
     template: { name: Networks }
+    overlay:
+      name: BBC Two
+      repo: overlays/Images/Networks/BBC.png
 
   BBC Three:
     variables: { key: 3, weight: 50 }
     template: { name: Networks }
+    overlay:
+      name: BBC Three
+      repo: overlays/Images/Networks/BBC.png
 
   BBC Four:
     variables: { key: 100, weight: 50 }
     template: { name: Networks }
+    overlay:
+      name: BBC Four
+      repo: overlays/Images/Networks/BBC.png
 
   CBS:
     variables: { key: 16, weight: 50 }
@@ -71,6 +83,9 @@ overlays:
   HBO Max:
     variables: { key: 3186, weight: 50  }
     template: { name: Networks }
+    overlay:
+      name: HBO Max
+      repo: overlays/Images/Networks/HBO.png
 
   HBO:
     variables: { key: 49, weight: 100 }
