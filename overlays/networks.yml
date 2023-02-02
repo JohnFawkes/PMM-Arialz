@@ -12,7 +12,7 @@ templates:
     tmdb_network: <<key>>
     overlay:
       name: <<overlay_name>>
-      repo: overlays/Images/Networks/<<overlay>>50
+      repo: overlays/Images/Networks/<<overlay>>
       weight: <<weight>>
       back_color: "#000000B3"
       back_radius: 30
