@@ -99,7 +99,7 @@ overlays:
     variables: { key: 213, weight: 50 }
     template: { name: Networks }
 
-  Paramount Networks:
+  Paramount Network:
     variables: { key: 4330, weight: 50 }
     template: { name: Networks }
 
