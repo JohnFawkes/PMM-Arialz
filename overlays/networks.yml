@@ -28,113 +28,113 @@ overlays:
     template: [name: Networks]
 
   Amazon:
-    variables: {key: 1024, weight: 30}
+    variables: {key: 1024, weight: 20}
     template: { name: Networks }
 
   Amazon Freevee:
-    variables: {key: 5865, weight: 30}
+    variables: {key: 5865, weight: 20}
     template: [name: Networks]
 
   AMC:
-    variables: {key: 174, weight: 30}
+    variables: {key: 174, weight: 20}
     template: [name: Networks]
 
   AMC+:
-    variables: {key: 4661, weight: 30}
+    variables: {key: 4661, weight: 20}
     template: [name: Networks]
 
   Apple TV+:
-    variables: {key: 2552, weight: 30}
+    variables: {key: 2552, weight: 10}
     template: [name: Networks]
 
   BBC One:
-    variables: {key: 4, weight: 30}
+    variables: {key: 4, weight: 10}
     template: [name: Networks]
 
   BBC Two:
-    variables: {key: 332, weight: 30}
+    variables: {key: 332, weight: 10}
     template: [name: Networks]
 
   BBC Three:
-    variables: {key: 3, weight: 30}
+    variables: {key: 3, weight: 10}
     template: [name: Networks]
 
   BBC Four:
-    variables: {key: 100, weight: 30}
+    variables: {key: 100, weight: 10}
     template: [name: Networks]
 
   CBS:
-    variables: {key: 16, weight: 30}
+    variables: {key: 16, weight: 20}
     template: [name: Networks]
 
   discovery+:
-    variables: {key: 4353, weight: 30}
+    variables: {key: 4353, weight: 10}
     template: [name: Networks]
 
   Disney+:
-    variables: {key: 2739, weight: 30}
+    variables: {key: 2739, weight: 10}
     template: [name: Networks]
 
   FOX:
-    variables: {key: 19, weight: 30}
+    variables: {key: 19, weight: 10}
     template: [name: Networks]
 
   FX:
-    variables: {key: 88, weight: 30}
+    variables: {key: 88, weight: 10}
     template: [name: Networks]
 
   Hulu:
-    variables: {key: 453, weight: 30}
+    variables: {key: 453, weight: 20}
     template: [name: Networks]
 
   HBO Max:
-    variables: {key: 3186, weight: 30}
+    variables: {key: 3186, weight: 10}
     template: [name: Networks]
 
   HBO:
-    variables: {key: 49, weight: 30}
+    variables: {key: 49, weight: 10}
     template: [name: Networks]
 
   NBC:
-    variables: {key: 6, weight: 30}
+    variables: {key: 6, weight: 20}
     template: [name: Networks]
 
   Netflix:
-    variables: {key: 213, weight: 30}
+    variables: {key: 213, weight: 10}
     template: [name: Networks]
 
   Paramount Network:
-    variables: {key: 4330, weight: 30}
+    variables: {key: 4330, weight: 10}
     template: [name: Networks]
 
   Paramount+:
-    variables: {key: 2076, weight: 30}
+    variables: {key: 2076, weight: 10}
     template: [name: Networks]
 
   Peacock:
-    variables: {key: 3353, weight: 30}
+    variables: {key: 3353, weight: 10}
     template: [name: Networks]
 
   Showtime:
-    variables: {key: 67, weight: 30}
+    variables: {key: 67, weight: 10}
     template: [name: Networks]
 
   Starz:
-    variables: {key: 318, weight: 30}
+    variables: {key: 318, weight: 10}
     template: [name: Networks]
 
   Syfy:
-    variables: {key: 77, weight: 30}
+    variables: {key: 77, weight: 20}
     template: [name: Networks]
 
   The CW:
-    variables: {key: 71, weight: 30}
+    variables: {key: 71, weight: 10}
     template: [name: Networks]
 
   TNT:
-    variables: {key: 41, weight: 30}
+    variables: {key: 41, weight: 10}
     template: [name: Networks]
 
   USA Network:
-    variables: {key: 30, weight: 30}
+    variables: {key: 30, weight: 10}
     template: [name: Networks]
