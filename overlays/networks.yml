@@ -32,6 +32,10 @@ overlays:
     variables: { key: 1024, weight: 50 }
     template: { name: Networks }
 
+  AMC:
+    variables: { key: 174, weight: 100 }
+    template: { name: Networks }
+
   Apple TV+:
     variables: { key: 2552, weight: 50 }
     template: { name: Networks }
@@ -56,6 +60,10 @@ overlays:
     variables: { key: 16, weight: 50 }
     template: { name: Networks }
 
+  discovery+:
+    variables: { key: 4353, weight: 50 }
+    template: { name: Networks }
+
   Disney+:
     variables: { key: 2739, weight: 50 }
     template: { name: Networks }
@@ -77,7 +85,7 @@ overlays:
     template: { name: Networks }
 
   NBC:
-    variables: { key: 6, weight: 50 }
+    variables: { key: 6, weight: 60 }
     template: { name: Networks }
 
   Netflix:
@@ -96,8 +104,16 @@ overlays:
     variables: { key: 3353, weight: 50 }
     template: { name: Networks }
 
+  Showtime:
+    variables: { key: 67, weight: 50 }
+    template: { name: Networks }
+
   Starz:
     variables: { key: 318, weight: 50 }
+    template: { name: Networks }
+
+  Syfy:
+    variables: { key: 77, weight: 100 }
     template: { name: Networks }
 
   USA Network:
