@@ -1,0 +1,105 @@
+templates:
+  Network:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: right
+      vertical_offset: 15
+      vertical_align: bottom
+    builder_level: <<overlay_level>>
+    tmdb_network: <<key>>
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Network/<<overlay>>
+      weight: <<weight>>
+      back_color: "#000000B3"
+      back_radius: 30
+      back_width: 350
+      back_height: 120
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+
+overlays:
+  ABC:
+    variables: { key: 2, weight: 50 }
+    template: { name: Network }
+
+  Amazon:
+    variables: { key: 1024, weight: 50 }
+    template: { name: Network }
+
+  Apple TV+:
+    variables: { key: 2552, weight: 50 }
+    template: { name: Network }
+
+  CBS:
+    variables: { key: 16, weight: 50 }
+    template: { name: Network }
+
+  BBC One:
+    variables: { key: 4, weight: 50 repo: /overlays/Images/Network/BBC }
+    template: { name: Network }
+
+  BBC Two:
+    variables: { key: 332, weight: 50, repo: /overlays/Images/Network/BBC }
+    template: { name: Network }
+
+  BBC Three:
+    variables: { key: 3, weight: 50, repo: /overlays/Images/Network/BBC }
+    template: { name: Network }
+
+  BBC Four:
+    variables: { key: 100, weight: 50, repo: /overlays/Images/Network/BBC }
+    template: { name: Network }
+
+  Disney+:
+    variables: { key: 2739, weight: 50 }
+    template: { name: Network }
+
+  FOX:
+    variables: { key: 19, weight: 50 }
+    template: { name: Network }
+
+  Hulu:
+    variables: { key: 453, weight: 50 }
+    template: { name: Network }
+
+  HBO Max:
+    variables: { key: 3186, weight: 50, repo: /overlays/Images/Network/HBO  }
+    template: { name: Network }
+
+  HBO:
+    variables: { key: 49, weight: 100 }
+    template: { name: Network }
+
+  NBC:
+    variables: { key: 6, weight: 50 }
+    template: { name: Network }
+
+  Netflix:
+    variables: { key: 213, weight: 50 }
+    template: { name: Network }
+
+  Paramount Network:
+    variables: { key: 4330, weight: 50 }
+    template: { name: Network }
+
+  Paramount+:
+    variables: { key: 2076, weight: 50 }
+    template: { name: Network }
+
+  Peacock:
+    variables: { key: 3353, weight: 50 }
+    template: { name: Network }
+
+  Starz:
+    variables: { key: 318, weight: 50 }
+    template: { name: Network }
+   
+  USA Network:
+    variables: { key: 30, weight: 50 }
+    template: { name: Network }
