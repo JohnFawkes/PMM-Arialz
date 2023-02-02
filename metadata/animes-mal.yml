@@ -919,6 +919,15 @@ metadata:
     label.remove: Ongoing
     studio: Satelight
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51064.jpg
+  "Kuroko no Basket":
+    alt_title: "Kuroko's Basket"
+    sort_title: "Kuroko no Basket"
+    original_title: "Kuroko's Basketball"
+    critic_rating: 8.07
+    genre.sync: Anime,Sports,Shounen,School,Team Sports
+    label.remove: Ongoing
+    studio: Production I.G
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/11771.jpg
   "Kyokou Suiri":
     sort_title: "Kyokou Suiri"
     original_title: "In/Spectre"
@@ -1503,14 +1512,6 @@ metadata:
     label.remove: Ongoing
     studio: MAPPA
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41353.jpg
-  "The Legend of Heroes: Sen no Kiseki - Northern War":
-    sort_title: "The Legend of Heroes: Sen no Kiseki - Northern War"
-    original_title: "The Legend of Heroes: Trails of Cold Steel - Northern War"
-    critic_rating: 6.09
-    genre.sync: Anime,Action,Fantasy,Military
-    label: Ongoing
-    studio: Tatsunoko Production
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48441.jpg
   "Tokyo Ghoul":
     sort_title: "Tokyo Ghoul"
     original_title: "Tokyo Ghoul"
