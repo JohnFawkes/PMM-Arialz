@@ -315,6 +315,9 @@ overlays:
 
   Tokyo Movie Shinsha:
     template: { name: Studios }
+    overlay:
+      name: Tokyo Movie Shinsha
+      repo: overlays/Images/Studios-Animes/TMS Entertainment
 
   TROYCA:
     template: { name: Studios }
