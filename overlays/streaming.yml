@@ -21,7 +21,7 @@ templates:
     allowed_library_types: <<use_<<slug>>>>
     overlay:
       name: <<overlay_name>>
-      repo: /overlays/Images/Streaming/<<overlay>>
+      repo: overlays/Images/Streaming/<<overlay>>
       group: streaming
       weight: <<weight>>
       back_color: "#000000B3"

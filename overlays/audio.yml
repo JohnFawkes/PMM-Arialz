@@ -11,7 +11,7 @@ templates:
     builder_level: <<overlay_level>>
     overlay:
       name: <<overlay_name>>
-      repo: /overlays/Images/Audio/<<overlay>>
+      repo: overlays/Images/Audio/<<overlay>>
       group: audio_language
       weight: <<weight>>
       back_color: "#000000B3"

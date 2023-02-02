@@ -14,7 +14,7 @@ templates:
         studio: <<overlay_name>>
     overlay:
       name: <<overlay_name>>
-      repo: /overlays/Images/Studios-Animes/<<overlay>>
+      repo: overlays/Images/Studios-Animes/<<overlay>>
       back_color: "#000000B3"
       back_radius: 30
       back_width: 460

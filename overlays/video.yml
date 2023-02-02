@@ -11,7 +11,7 @@ templates:
     builder_level: <<overlay_level>>
     overlay:
       name: <<overlay_name>>
-      repo: /overlays/Images/Resolution/<<overlay>>
+      repo: overlays/Images/Resolution/<<overlay>>
       group: dynamic_range
       weight: <<weight>>
       back_color: "#000000B3"
