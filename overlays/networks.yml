@@ -116,6 +116,14 @@ overlays:
     variables: { key: 77, weight: 100 }
     template: { name: Networks }
 
+  The CW:
+    variables: { key: 71, weight: 50 }
+    template: { name: Networks }
+
+  TNT:
+    variables: { key: 41, weight: 50 }
+    template: { name: Networks }
+
   USA Network:
     variables: { key: 30, weight: 50 }
     template: { name: Networks }
