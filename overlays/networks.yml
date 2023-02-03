@@ -4,6 +4,7 @@ templates:
       - overlay_level
     default:
       overlay: <<overlay_name>>
+      group: Networks
       horizontal_offset: 15
       horizontal_align: right
       vertical_offset: 15
