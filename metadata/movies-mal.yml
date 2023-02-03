@@ -475,6 +475,13 @@ metadata:
     genre.sync: Anime,Award Winning,Drama,Romance,Visual Arts
     studio: CoMix Wave Films
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/16782.jpg
+  "Kuroko no Basket: Last Game":
+    sort_title: "Kuroko no Basket: Last Game"
+    original_title: "Kuroko's Basketball the Movie: Last Game"
+    critic_rating: 8.08
+    genre.sync: Anime,Sports,Shounen,School,Team Sports
+    studio: Production I.G
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31658.jpg
   "Made in Abyss: Fukaki Tamashii no Reimei":
     sort_title: "Made in Abyss: Fukaki Tamashii no Reimei"
     original_title: "Made in Abyss: Dawn of the Deep Soul"
