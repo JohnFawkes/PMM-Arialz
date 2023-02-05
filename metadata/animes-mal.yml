@@ -106,7 +106,7 @@ metadata:
   "Ars no Kyojuu":
     sort_title: "Ars no Kyojuu"
     original_title: "Giant Beasts of Ars"
-    critic_rating: 6.81
+    critic_rating: 6.8
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Asahi Production
@@ -226,7 +226,7 @@ metadata:
   "Buddy Daddies":
     sort_title: "Buddy Daddies"
     original_title: "Buddy Daddies"
-    critic_rating: 7.75
+    critic_rating: 7.76
     genre.sync: Anime,Action,Comedy,Childcare,Organized Crime
     label: Ongoing
     studio: P.A. Works
@@ -386,7 +386,7 @@ metadata:
   "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀":
     sort_title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     original_title: "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀"
-    critic_rating: 7.3
+    critic_rating: 7.28
     genre.sync: Anime,Action,Fantasy,Magical Sex Shift,Reincarnation
     label: Ongoing
     studio: Studio Comet
@@ -546,7 +546,7 @@ metadata:
   "HIGH CARD":
     sort_title: "HIGH CARD"
     original_title: "HIGH CARD"
-    critic_rating: 7.38
+    critic_rating: 7.37
     genre.sync: Anime,Action,Fantasy,Super Power
     label: Ongoing
     studio: Studio Hibari
@@ -562,7 +562,7 @@ metadata:
   "Hikari no Ou":
     sort_title: "Hikari no Ou"
     original_title: "The Fire Hunter"
-    critic_rating: 6.99
+    critic_rating: 6.98
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
@@ -618,7 +618,7 @@ metadata:
   "Hyouken no Majutsushi ga Sekai wo Suberu":
     sort_title: "Hyouken no Majutsushi ga Sekai wo Suberu"
     original_title: "The Iceblade Sorcerer Shall Rule the World"
-    critic_rating: 6.6
+    critic_rating: 6.58
     genre.sync: Anime,Action,Fantasy,School
     label: Ongoing
     studio: Cloud Hearts
@@ -698,7 +698,7 @@ metadata:
   "Jujutsu Kaisen":
     sort_title: "Jujutsu Kaisen"
     original_title: "Jujutsu Kaisen"
-    critic_rating: 8.66
+    critic_rating: 8.65
     genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,School
     label.remove: Ongoing
     studio: MAPPA
@@ -1082,7 +1082,7 @@ metadata:
   "NieR:Automata Ver1.1a":
     sort_title: "NieR:Automata Ver1.1a"
     original_title: "NieR:Automata Ver1.1a"
-    critic_rating: 7.51
+    critic_rating: 7.5
     genre.sync: Anime,Action,Fantasy,Sci-Fi
     label: Ongoing
     studio: A-1 Pictures
@@ -1090,7 +1090,7 @@ metadata:
   "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu":
     sort_title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
     original_title: "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
-    critic_rating: 6.9
+    critic_rating: 6.88
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
@@ -1098,7 +1098,7 @@ metadata:
   "Nokemono-tachi no Yoru":
     sort_title: "Nokemono-tachi no Yoru"
     original_title: "The Tale of Outcasts"
-    critic_rating: 6.83
+    critic_rating: 6.81
     genre.sync: Anime,Fantasy,Shounen,Anthropomorphic,Historical
     label: Ongoing
     studio: Ashi Productions
@@ -1138,7 +1138,7 @@ metadata:
   "Ooyukiumi no Kaina":
     sort_title: "Ooyukiumi no Kaina"
     original_title: "Kaina of the Great Snow Sea"
-    critic_rating: 6.95
+    critic_rating: 6.94
     genre.sync: Anime,Fantasy,Survival
     label: Ongoing
     studio: Polygon Pictures
@@ -1154,7 +1154,7 @@ metadata:
   "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken":
     sort_title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
     original_title: "The Angel Next Door Spoils Me Rotten"
-    critic_rating: 7.91
+    critic_rating: 7.9
     genre.sync: Anime,Comedy,Romance,School
     label: Ongoing
     studio: Project No.9
@@ -1245,7 +1245,7 @@ metadata:
     critic_rating: 7.17
     genre.sync: Anime,Action,Adventure,Fantasy,Sci-Fi
     label.remove: Ongoing
-    studio: NAZ
+    studio: OZ
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48414.jpg
   "Saiki Kusuo no Ψ-nan":
     sort_title: "Saiki Kusuo no Ψ-nan"
@@ -1370,7 +1370,7 @@ metadata:
   "Sidonia no Kishi":
     sort_title: "Sidonia no Kishi"
     original_title: "Knights of Sidonia"
-    critic_rating: 7.65
+    critic_rating: 7.64
     genre.sync: Anime,Action,Sci-Fi,Seinen,Mecha,Space
     label.remove: Ongoing
     studio: Polygon Pictures
@@ -1394,7 +1394,7 @@ metadata:
   "Spy Kyoushitsu":
     sort_title: "Spy Kyoushitsu"
     original_title: "Spy Classroom"
-    critic_rating: 6.51
+    critic_rating: 6.47
     genre.sync: Anime,Action,Fantasy,Mystery
     label: Ongoing
     studio: feel.
