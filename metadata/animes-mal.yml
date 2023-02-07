@@ -183,14 +183,6 @@ metadata:
     label.remove: Ongoing
     studio: Pierrot
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34572.jpg
-  "BLEACH":
-    sort_title: "BLEACH"
-    original_title: "Bleach"
-    critic_rating: 7.9
-    genre.sync: Anime,Action,Adventure,Fantasy,Shounen
-    label.remove: Ongoing
-    studio: Pierrot
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/269.jpg
   "Blue Lock":
     sort_title: "Blue Lock"
     original_title: "Blue Lock"
@@ -311,14 +303,6 @@ metadata:
     label.remove: Ongoing
     studio: Trigger
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/42310.jpg
-  "D.Gray-man":
-    sort_title: "D.Gray-man"
-    original_title: "D.Gray-man"
-    critic_rating: 8.02
-    genre.sync: Anime,Action,Adventure,Comedy,Shounen,Mythology,Super Power
-    label.remove: Ongoing
-    studio: TMS Entertainment
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/1482.jpg
   "D.Gray-man HALLOW":
     sort_title: "D.Gray-man HALLOW"
     original_title: "D.Gray-man HALLOW"
@@ -647,14 +631,6 @@ metadata:
     label.remove: Ongoing
     studio: David Production
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/11013.jpg
-  "Inuyasha":
-    sort_title: "Inuyasha"
-    original_title: "InuYasha"
-    critic_rating: 7.86
-    genre.sync: Anime,Action,Adventure,Fantasy,Romance,Shounen,Historical,Mythology,Time Travel
-    label.remove: Ongoing
-    studio: Sunrise
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/249.jpg
   "Isekai no Seikishi Monogatari":
     sort_title: "Isekai no Seikishi Monogatari"
     original_title: "Tenchi Muyo! War on Geminar"
@@ -1111,14 +1087,6 @@ metadata:
     label.remove: Ongoing
     studio: Bones
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/20507.jpg
-  "ONE PIECE":
-    sort_title: "ONE PIECE"
-    original_title: "One Piece"
-    critic_rating: 8.68
-    genre.sync: Anime,Action,Adventure,Fantasy,Shounen
-    label: Ongoing
-    studio: Toei Animation
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/21.jpg
   "One Punch Man":
     sort_title: "One Punch Man"
     original_title: "One Punch Man"
