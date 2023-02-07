@@ -311,14 +311,6 @@ metadata:
     genre.sync: Anime,Military,School
     studio: Actas
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39166.jpg
-  tt3028018:
-    title: "Ao no Exorcist Movie"
-    sort_title: "Ao no Exorcist Movie"
-    original_title: "Blue Exorcist The Movie"
-    critic_rating: 7.58
-    genre.sync: Anime,Action,Fantasy,Shounen,Mythology,School
-    studio: A-1 Pictures
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/11737.jpg
   tt0094625:
     title: "AKIRA"
     sort_title: "AKIRA"
@@ -327,6 +319,14 @@ metadata:
     genre.sync: Anime,Action,Adventure,Horror,Sci-Fi,Supernatural,Seinen,Gore,Military
     studio: Tokyo Movie Shinsha
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/47.jpg
+  tt3028018:
+    title: "Ao no Exorcist Movie"
+    sort_title: "Ao no Exorcist Movie"
+    original_title: "Blue Exorcist The Movie"
+    critic_rating: 7.58
+    genre.sync: Anime,Action,Fantasy,Shounen,Mythology,School
+    studio: A-1 Pictures
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/11737.jpg
   tt4272866:
     title: "Bakemono no Ko"
     sort_title: "Bakemono no Ko"
