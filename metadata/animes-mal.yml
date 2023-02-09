@@ -66,7 +66,7 @@ metadata:
     title: "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
     sort_title: "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
     original_title: "I'm the Villainess, So I'm Taming the Final Boss"
-    critic_rating: 7.26
+    critic_rating: 7.25
     genre.sync: Anime,Comedy,Fantasy,Romance,Shoujo,Isekai
     label.remove: Ongoing
     studio: Maho Film
@@ -120,7 +120,7 @@ metadata:
     title: "Ars no Kyojuu"
     sort_title: "Ars no Kyojuu"
     original_title: "Giant Beasts of Ars"
-    critic_rating: 6.75
+    critic_rating: 6.72
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Asahi Production
@@ -192,7 +192,7 @@ metadata:
     title: "Benriya Saitou-san, Isekai ni Iku"
     sort_title: "Benriya Saitou-san, Isekai ni Iku"
     original_title: "Handyman Saitou in Another World"
-    critic_rating: 7.2
+    critic_rating: 7.19
     genre.sync: Anime,Adventure,Comedy,Fantasy,Adult Cast,Isekai
     label: Ongoing
     studio: C2C
@@ -219,7 +219,7 @@ metadata:
     title: "Blue Lock"
     sort_title: "Blue Lock"
     original_title: "Blue Lock"
-    critic_rating: 8.27
+    critic_rating: 8.28
     genre.sync: Anime,Sports,Shounen,Team Sports
     label: Ongoing
     studio: 8bit
@@ -228,7 +228,7 @@ metadata:
     title: "Bocchi the Rock!"
     sort_title: "Bocchi the Rock!"
     original_title: "Bocchi the Rock!"
-    critic_rating: 8.95
+    critic_rating: 8.94
     genre.sync: Anime,Comedy,CGDCT,Music
     label.remove: Ongoing
     studio: CloverWorks
@@ -435,7 +435,7 @@ metadata:
     title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     sort_title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     original_title: "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀"
-    critic_rating: 7.27
+    critic_rating: 7.24
     genre.sync: Anime,Action,Fantasy,Magical Sex Shift,Reincarnation
     label: Ongoing
     studio: Studio Comet
@@ -615,8 +615,8 @@ metadata:
     title: "HIGH CARD"
     sort_title: "HIGH CARD"
     original_title: "HIGH CARD"
-    critic_rating: 7.37
-    genre.sync: Anime,Action,Fantasy,Super Power
+    critic_rating: 7.35
+    genre.sync: Anime,Action,Fantasy,Adult Cast,Organized Crime,Super Power
     label: Ongoing
     studio: Studio Hibari
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49154.jpg
@@ -633,7 +633,7 @@ metadata:
     title: "Hikari no Ou"
     sort_title: "Hikari no Ou"
     original_title: "The Fire Hunter"
-    critic_rating: 6.9
+    critic_rating: 6.87
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
@@ -696,7 +696,7 @@ metadata:
     title: "Hyouken no Majutsushi ga Sekai wo Suberu"
     sort_title: "Hyouken no Majutsushi ga Sekai wo Suberu"
     original_title: "The Iceblade Sorcerer Shall Rule the World"
-    critic_rating: 6.57
+    critic_rating: 6.56
     genre.sync: Anime,Action,Fantasy,School
     label: Ongoing
     studio: Cloud Hearts
@@ -795,7 +795,7 @@ metadata:
     title: "Kage no Jitsuryokusha ni Naritakute!"
     sort_title: "Kage no Jitsuryokusha ni Naritakute!"
     original_title: "The Eminence in Shadow"
-    critic_rating: 7.94
+    critic_rating: 7.95
     genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Nexus
@@ -1164,7 +1164,7 @@ metadata:
     title: "Mononogatari"
     sort_title: "Mononogatari"
     original_title: "Malevolent Spirits: Mononogatari"
-    critic_rating: 6.62
+    critic_rating: 6.61
     genre.sync: Anime,Action,Supernatural,Seinen,Adult Cast,Mythology
     label: Ongoing
     studio: Bandai Namco Pictures
@@ -1227,7 +1227,7 @@ metadata:
     title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
     sort_title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
     original_title: "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
-    critic_rating: 6.86
+    critic_rating: 6.82
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
@@ -1236,7 +1236,7 @@ metadata:
     title: "Nokemono-tachi no Yoru"
     sort_title: "Nokemono-tachi no Yoru"
     original_title: "The Tale of Outcasts"
-    critic_rating: 6.79
+    critic_rating: 6.78
     genre.sync: Anime,Fantasy,Shounen,Anthropomorphic,Historical
     label: Ongoing
     studio: Ashi Productions
@@ -1416,7 +1416,7 @@ metadata:
     title: "Saikyou Onmyouji no Isekai Tenseiki"
     sort_title: "Saikyou Onmyouji no Isekai Tenseiki"
     original_title: "The Reincarnation of the Strongest Exorcist in Another World"
-    critic_rating: 7.44
+    critic_rating: 7.43
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Studio Blanc.
@@ -1569,7 +1569,7 @@ metadata:
     title: "Spy Kyoushitsu"
     sort_title: "Spy Kyoushitsu"
     original_title: "Spy Classroom"
-    critic_rating: 6.45
+    critic_rating: 6.44
     genre.sync: Anime,Action,Fantasy,Mystery
     label: Ongoing
     studio: feel.
