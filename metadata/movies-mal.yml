@@ -1,277 +1,4 @@
 metadata:
-  tt16360006:
-    title: "Bubble"
-    sort_title: "Bubble"
-    original_title: "Bubble"
-    critic_rating: 7.27
-    genre.sync: Anime,Action,Sci-Fi
-    studio: Wit Studio
-  tt9598270:
-    title: "Code Geass: Hangyaku no Lelouch II - Handou"
-    sort_title: "Code Geass: Hangyaku no Lelouch II - Handou"
-    original_title: "Code Geass: Lelouch of the Rebellion II - Transgression"
-    critic_rating: 7.65
-    genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
-    studio: Sunrise
-  tt9844256:
-    title: "Code Geass: Hangyaku no Lelouch III - Oudou"
-    sort_title: "Code Geass: Hangyaku no Lelouch III - Oudou"
-    original_title: "Code Geass: Lelouch of the Rebellion III - Glorification"
-    critic_rating: 7.99
-    genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
-    studio: Sunrise
-  tt8100900:
-    title: "Code Geass: Hangyaku no Lelouch I - Koudou"
-    sort_title: "Code Geass: Hangyaku no Lelouch I - Koudou"
-    original_title: "Code Geass: Lelouch of the Rebellion I - Initiation"
-    critic_rating: 7.89
-    genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
-    studio: Sunrise
-  tt9277666:
-    title: "Kara no Kyoukai Remix: Gate of Seventh Heaven"
-    sort_title: "Kara no Kyoukai Remix: Gate of Seventh Heaven"
-    original_title: "The Garden of Sinners Remix: Gate of Seventh Heaven"
-    critic_rating: 7.55
-    genre.sync: Anime,Action,Mystery,Romance,Suspense,Super Power
-    studio: ufotable
-  tt1155650:
-    title: "Kara no Kyoukai: Fukan Fuukei"
-    sort_title: "Kara no Kyoukai: Fukan Fuukei"
-    original_title: "The Garden of Sinners Chapter 1: Overlooking View"
-    critic_rating: 7.58
-    genre.sync: Anime,Action,Mystery,Supernatural,Suspense
-    studio: ufotable
-  tt1155651:
-    title: "Kara no Kyoukai: Satsujin Kousatsu (Zen)"
-    sort_title: "Kara no Kyoukai: Satsujin Kousatsu (Zen)"
-    original_title: "The Garden of Sinners Chapter 2: A Study in Murder - Part 1"
-    critic_rating: 7.78
-    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
-    studio: ufotable
-  tt1155652:
-    title: "Kara no Kyoukai: Tsuukaku Zanryuu"
-    sort_title: "Kara no Kyoukai: Tsuukaku Zanryuu"
-    original_title: "The Garden of Sinners Chapter 3: Remaining Sense of Pain"
-    critic_rating: 8.03
-    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Suspense
-    studio: ufotable
-  tt1233474:
-    title: "Kara no Kyoukai: Garan no Dou"
-    sort_title: "Kara no Kyoukai: Garan no Dou"
-    original_title: "The Garden of Sinners Chapter 4: The Hollow Shrine"
-    critic_rating: 7.84
-    genre.sync: Anime,Action,Mystery,Supernatural,Suspense
-    studio: ufotable
-  tt1278060:
-    title: "Kara no Kyoukai: Mujun Rasen"
-    sort_title: "Kara no Kyoukai: Mujun Rasen"
-    original_title: "The Garden of Sinners Chapter 5: Paradox Spiral"
-    critic_rating: 8.53
-    genre.sync: Anime,Action,Drama,Mystery,Romance,Supernatural,Suspense
-    studio: ufotable
-  tt1343089:
-    title: "Kara no Kyoukai: Boukyaku Rokuon"
-    sort_title: "Kara no Kyoukai: Boukyaku Rokuon"
-    original_title: "The Garden of Sinners Chapter 6: Oblivion Recording"
-    critic_rating: 7.46
-    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
-    studio: ufotable
-  tt1345776:
-    title: "Kara no Kyoukai: Satsujin Kousatsu (Kou)"
-    sort_title: "Kara no Kyoukai: Satsujin Kousatsu (Kou)"
-    original_title: "The Garden of Sinners Chapter 7: A Study in Murder - Part 2"
-    critic_rating: 8.4
-    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
-    studio: ufotable
-  tt3868344:
-    title: "Kara no Kyoukai: Shuushou"
-    sort_title: "Kara no Kyoukai: Shuushou"
-    original_title: "The Garden of Sinners Chapter 8: Epilogue"
-    critic_rating: 7.21
-    genre.sync: Anime,Mystery
-    studio: ufotable
-  tt11032374:
-    title: "Kimetsu no Yaiba: Mugen Ressha-hen"
-    sort_title: "Kimetsu no Yaiba: Mugen Ressha-hen"
-    original_title: "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train"
-    critic_rating: 8.63
-    genre.sync: Anime,Action,Fantasy,Shounen,Historical
-    studio: ufotable
-  tt10253816:
-    title: "Koutetsujou no Kabaneri: Unato Kessen"
-    sort_title: "Koutetsujou no Kabaneri: Unato Kessen"
-    original_title: "Kabaneri of the Iron Fortress: The Battle of Unato"
-    critic_rating: 7.69
-    genre.sync: Anime,Action,Drama,Fantasy,Horror,Gore,Historical,Survival
-    studio: Wit Studio
-  tt10068158:
-    title: "Made in Abyss: Tabidachi no Yoake"
-    sort_title: "Made in Abyss: Tabidachi no Yoake"
-    original_title: "Made in Abyss: Journey's Dawn"
-    critic_rating: 8.15
-    genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
-    studio: Kinema Citrus
-  tt10068544:
-    title: "Made in Abyss: Hourou Suru Tasogare"
-    sort_title: "Made in Abyss: Hourou Suru Tasogare"
-    original_title: "Made in Abyss: Wandering Twilight"
-    critic_rating: 8.37
-    genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
-    studio: Kinema Citrus
-  tt15497404:
-    title: "Mahouka Koukou no Rettousei: Tsuioku-hen"
-    sort_title: "Mahouka Koukou no Rettousei: Tsuioku-hen"
-    original_title: "The Irregular at Magic High School: Reminiscence Arc"
-    critic_rating: 7.71
-    genre.sync: Anime,Sci-Fi,Supernatural
-    studio: 8bit
-  tt13288678:
-    title: "Kidou Senshi Gundam: Senkou no Hathaway"
-    sort_title: "Kidou Senshi Gundam: Senkou no Hathaway"
-    original_title: "Mobile Suit Gundam Hathaway's Flash"
-    critic_rating: 7.83
-    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
-    studio: Sunrise
-  tt7933596:
-    title: "Kidou Senshi Gundam Thunderbolt: Bandit Flower"
-    sort_title: "Kidou Senshi Gundam Thunderbolt: Bandit Flower"
-    original_title: "Mobile Suit Gundam Thunderbolt: Bandit Flower"
-    critic_rating: 7.26
-    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
-    studio: Sunrise
-  tt11107074:
-    title: "Boku no Hero Academia THE MOVIE: Heroes:Rising"
-    sort_title: "Boku no Hero Academia THE MOVIE: Heroes:Rising"
-    original_title: "My Hero Academia: Heroes Rising"
-    critic_rating: 7.99
-    genre.sync: Anime,Action,Shounen,Super Power
-    studio: Bones
-  tt13651628:
-    title: "Ryuu to Sobakasu no Hime"
-    sort_title: "Ryuu to Sobakasu no Hime"
-    original_title: "Belle"
-    critic_rating: 7.54
-    genre.sync: Anime,Drama,Fantasy,Music
-    studio: Studio Chizu
-  tt6337252:
-    title: "Seitokai Yakuindomo Movie"
-    sort_title: "Seitokai Yakuindomo Movie"
-    original_title: "Seitokai Yakuindomo Movie"
-    critic_rating: 7.84
-    genre.sync: Anime,Comedy,Shounen,Gag Humor,School
-    studio: GoHands
-  tt12439230:
-    title: "Seitokai Yakuindomo Movie 2"
-    sort_title: "Seitokai Yakuindomo Movie 2"
-    original_title: "Seitokai Yakuindomo Movie 2"
-    critic_rating: 7.78
-    genre.sync: Anime,Comedy,Shounen,Gag Humor,School
-    studio: GoHands
-  tt12642574:
-    title: "Sidonia no Kishi: Ai Tsumugu Hoshi"
-    sort_title: "Sidonia no Kishi: Ai Tsumugu Hoshi"
-    original_title: "Knights of Sidonia: Love Woven in the Stars"
-    critic_rating: 7.44
-    genre.sync: Anime,Action,Sci-Fi,Seinen,Mecha,Space
-    studio: Polygon Pictures
-  tt13424422:
-    title: "Sword Art Online: Progressive - Hoshinaki Yoru no Aria"
-    sort_title: "Sword Art Online: Progressive - Hoshinaki Yoru no Aria"
-    original_title: "Sword Art Online the Movie: Progressive - Aria of a Starless Night"
-    critic_rating: 8.01
-    genre.sync: Anime,Action,Adventure,Fantasy,Video Game
-    studio: A-1 Pictures
-  tt8652818:
-    title: "Violet Evergarden Movie"
-    sort_title: "Violet Evergarden Movie"
-    original_title: "Violet Evergarden the Movie"
-    critic_rating: 8.91
-    genre.sync: Anime,Award Winning,Drama,Fantasy
-    studio: Kyoto Animation
-  tt0113568:
-    title: "Ghost in the Shell"
-    sort_title: "Ghost in the Shell"
-    original_title: "Ghost in the Shell"
-    critic_rating: 8.27
-    genre.sync: Anime,Action,Award Winning,Mystery,Sci-Fi,Suspense,Seinen,Adult Cast,Detective,Mecha,Psychological
-    studio: Production I.G
-  tt0347246:
-    title: "Ghost in the Shell 2 : Innocence"
-    sort_title: "Ghost in the Shell 2 : Innocence"
-    original_title: "Ghost in the Shell 2: Innocence"
-    critic_rating: 7.79
-    genre.sync: Anime,Award Winning,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
-    studio: Production I.G
-  tt1260502:
-    title: "Ghost in the Shell 2.0"
-    sort_title: "Ghost in the Shell 2.0"
-    original_title: "Ghost in the Shell 2.0"
-    critic_rating: 7.98
-    genre.sync: Anime,Action,Sci-Fi,Seinen,Adult Cast,Detective,Mecha,Psychological
-    studio: Production I.G
-  tt0259974:
-    title: "Digimon Adventure Movie"
-    sort_title: "Digimon Adventure Movie"
-    original_title: "Digimon: The Movie"
-    critic_rating: 7.59
-    genre.sync: Anime,Action,Fantasy,Sci-Fi,Kids
-    studio: Toei Animation
-  tt4531412:
-    title: "Kyoukai no Kanata: I'LL BE HERE - Kako-hen"
-    sort_title: "Kyoukai no Kanata: I'LL BE HERE - Kako-hen"
-    original_title: "Beyond the Boundary: I'll Be Here - Past"
-    critic_rating: 7.72
-    genre.sync: Anime,Action,Fantasy,School
-    studio: Kyoto Animation
-  tt4539114:
-    title: "Kyoukai no Kanata: I'LL BE HERE - Mirai-hen"
-    sort_title: "Kyoukai no Kanata: I'LL BE HERE - Mirai-hen"
-    original_title: "Beyond the Boundary: I'll Be Here - Future"
-    critic_rating: 8.16
-    genre.sync: Anime,Action,Fantasy,Romance,School
-    studio: Kyoto Animation
-  tt11639420:
-    title: "High School Fleet Movie"
-    sort_title: "High School Fleet Movie"
-    original_title: "High School Fleet Movie"
-    critic_rating: 7.63
-    genre.sync: Anime,Action,Military,School
-    studio: A-1 Pictures
-  tt14364238:
-    title: "Yuru Camp△ Movie"
-    sort_title: "Yuru Camp△ Movie"
-    original_title: "Laid-Back Camp: The Movie"
-    critic_rating: 8.49
-    genre.sync: Anime,Slice of Life,Adult Cast,CGDCT,Iyashikei
-    studio: C-Station
-  tt10736726:
-    title: "Quanzhi Gaoshou: Dianfeng Rongyao"
-    sort_title: "Quanzhi Gaoshou: Dianfeng Rongyao"
-    original_title: "The King's Avatar: For the Glory"
-    critic_rating: 8.07
-    genre.sync: Anime,Action,Video Game
-    studio: Colored Pencil Animation
-  tt7833606:
-    title: "Girls und Panzer: Saishuushou"
-    sort_title: "Girls und Panzer: Saishuushou"
-    original_title: "Girls und Panzer das Finale – Part 1"
-    critic_rating: 7.95
-    genre.sync: Anime,Military,School
-    studio: Actas
-  tt7834494:
-    title: "Girls und Panzer: Saishuushou 2"
-    sort_title: "Girls und Panzer: Saishuushou 2"
-    original_title: "Girls und Panzer das Finale – Part 2"
-    critic_rating: 8.06
-    genre.sync: Anime,Military,School
-    studio: Actas
-  tt12286898:
-    title: "Girls und Panzer: Saishuushou 3"
-    sort_title: "Girls und Panzer: Saishuushou 3"
-    original_title: "Girls und Panzer das Finale – Part 3"
-    critic_rating: 8.17
-    genre.sync: Anime,Military,School
-    studio: Actas
   tt0094625:
     title: "AKIRA"
     sort_title: "AKIRA"
@@ -300,6 +27,13 @@ metadata:
     critic_rating: 7.56
     genre.sync: Anime,Action,Shounen,Super Power
     studio: Bones
+  tt11107074:
+    title: "Boku no Hero Academia THE MOVIE: Heroes:Rising"
+    sort_title: "Boku no Hero Academia THE MOVIE: Heroes:Rising"
+    original_title: "My Hero Academia: Heroes Rising"
+    critic_rating: 7.99
+    genre.sync: Anime,Action,Shounen,Super Power
+    studio: Bones
   tt13544716:
     title: "Boku no Hero Academia THE MOVIE: World Heroes' Mission"
     sort_title: "Boku no Hero Academia THE MOVIE: World Heroes' Mission"
@@ -307,6 +41,13 @@ metadata:
     critic_rating: 7.58
     genre.sync: Anime,Action,Shounen,Super Power
     studio: Bones
+  tt16360006:
+    title: "Bubble"
+    sort_title: "Bubble"
+    original_title: "Bubble"
+    critic_rating: 7.27
+    genre.sync: Anime,Action,Sci-Fi
+    studio: Wit Studio
   tt0983213:
     title: "Byousoku 5 Centimeter"
     sort_title: "Byousoku 5 Centimeter"
@@ -363,6 +104,27 @@ metadata:
     critic_rating: 7.99
     genre.sync: Anime,Sci-Fi,Slice of Life
     studio: Studio Rikka
+  tt0113568:
+    title: "GHOST IN THE SHELL: Koukaku Kidoutai"
+    sort_title: "GHOST IN THE SHELL: Koukaku Kidoutai"
+    original_title: "Ghost in the Shell"
+    critic_rating: 8.27
+    genre.sync: Anime,Action,Award Winning,Mystery,Sci-Fi,Suspense,Seinen,Adult Cast,Detective,Mecha,Psychological
+    studio: Production I.G
+  tt0347246:
+    title: "Innocence"
+    sort_title: "Innocence"
+    original_title: "Ghost in the Shell 2: Innocence"
+    critic_rating: 7.79
+    genre.sync: Anime,Award Winning,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
+    studio: Production I.G
+  tt1260502:
+    title: "GHOST IN THE SHELL: Koukaku Kidoutai 2.0"
+    sort_title: "GHOST IN THE SHELL: Koukaku Kidoutai 2.0"
+    original_title: "Ghost in the Shell 2.0"
+    critic_rating: 7.98
+    genre.sync: Anime,Action,Sci-Fi,Seinen,Adult Cast,Detective,Mecha,Psychological
+    studio: Production I.G
   tt2374144:
     title: "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare"
     sort_title: "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare"
@@ -419,6 +181,13 @@ metadata:
     critic_rating: 7.3
     genre.sync: Anime,Action,Sci-Fi,Mecha,Space
     studio: Sunrise
+  tt7933596:
+    title: "Kidou Senshi Gundam Thunderbolt: Bandit Flower"
+    sort_title: "Kidou Senshi Gundam Thunderbolt: Bandit Flower"
+    original_title: "Mobile Suit Gundam Thunderbolt: Bandit Flower"
+    critic_rating: 7.26
+    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
+    studio: Sunrise
   tt6035470:
     title: "Kidou Senshi Gundam Thunderbolt: December Sky"
     sort_title: "Kidou Senshi Gundam Thunderbolt: December Sky"
@@ -426,6 +195,13 @@ metadata:
     critic_rating: 7.93
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     studio: Sunrise
+  tt11032374:
+    title: "Kimetsu no Yaiba: Mugen Ressha-hen"
+    sort_title: "Kimetsu no Yaiba: Mugen Ressha-hen"
+    original_title: "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train"
+    critic_rating: 8.63
+    genre.sync: Anime,Action,Fantasy,Shounen,Historical
+    studio: ufotable
   tt5311514:
     title: "Kimi no Na wa."
     sort_title: "Kimi no Na wa."
@@ -475,6 +251,13 @@ metadata:
     critic_rating: 7.9
     genre.sync: Anime,Award Winning,Drama,Romance,Visual Arts
     studio: CoMix Wave Films
+  tt10253816:
+    title: "Koutetsujou no Kabaneri: Unato Kessen"
+    sort_title: "Koutetsujou no Kabaneri: Unato Kessen"
+    original_title: "Kabaneri of the Iron Fortress: The Battle of Unato"
+    critic_rating: 7.69
+    genre.sync: Anime,Action,Drama,Fantasy,Horror,Gore,Historical,Survival
+    studio: Wit Studio
   tt6728390:
     title: "Kuroko no Basket: Last Game"
     sort_title: "Kuroko no Basket: Last Game"
@@ -524,6 +307,13 @@ metadata:
     critic_rating: 8.58
     genre.sync: Anime,Award Winning,Fantasy,Slice of Life,Childcare
     studio: Studio Chizu
+  tt13651628:
+    title: "Ryuu to Sobakasu no Hime"
+    sort_title: "Ryuu to Sobakasu no Hime"
+    original_title: "Belle"
+    critic_rating: 7.54
+    genre.sync: Anime,Drama,Fantasy,Music
+    studio: Studio Chizu
   tt2981768:
     title: "Sakasama no Patema"
     sort_title: "Sakasama no Patema"
@@ -538,6 +328,20 @@ metadata:
     critic_rating: 8.4
     genre.sync: Anime,Drama,Fantasy
     studio: P.A. Works
+  tt6337252:
+    title: "Seitokai Yakuindomo Movie"
+    sort_title: "Seitokai Yakuindomo Movie"
+    original_title: "Seitokai Yakuindomo Movie"
+    critic_rating: 7.84
+    genre.sync: Anime,Comedy,Shounen,Gag Humor,School
+    studio: GoHands
+  tt12439230:
+    title: "Seitokai Yakuindomo Movie 2"
+    sort_title: "Seitokai Yakuindomo Movie 2"
+    original_title: "Seitokai Yakuindomo Movie 2"
+    critic_rating: 7.78
+    genre.sync: Anime,Comedy,Shounen,Gag Humor,School
+    studio: GoHands
   tt2458948:
     title: "Shin Evangelion Movie:||"
     sort_title: "Shin Evangelion Movie:||"
@@ -552,6 +356,13 @@ metadata:
     critic_rating: 7.68
     genre.sync: Anime,Comedy,Drama,Adult Cast,Otaku Culture,Workplace
     studio: P.A. Works
+  tt12642574:
+    title: "Sidonia no Kishi: Ai Tsumugu Hoshi"
+    sort_title: "Sidonia no Kishi: Ai Tsumugu Hoshi"
+    original_title: "Knights of Sidonia: Love Woven in the Stars"
+    critic_rating: 7.44
+    genre.sync: Anime,Action,Sci-Fi,Seinen,Mecha,Space
+    studio: Polygon Pictures
   tt1121794:
     title: "Stranger: Mukou Hadan"
     sort_title: "Stranger: Mukou Hadan"
@@ -571,6 +382,13 @@ metadata:
     sort_title: "Sword Art Online: Ordinal Scale"
     original_title: "Sword Art Online the Movie: Ordinal Scale"
     critic_rating: 7.57
+    genre.sync: Anime,Action,Adventure,Fantasy,Video Game
+    studio: A-1 Pictures
+  tt13424422:
+    title: "Sword Art Online: Progressive - Hoshinaki Yoru no Aria"
+    sort_title: "Sword Art Online: Progressive - Hoshinaki Yoru no Aria"
+    original_title: "Sword Art Online the Movie: Progressive - Aria of a Starless Night"
+    critic_rating: 8.01
     genre.sync: Anime,Action,Adventure,Fantasy,Video Game
     studio: A-1 Pictures
   tt9426210:
@@ -593,4 +411,11 @@ metadata:
     original_title: "Violet Evergarden: Eternity and the Auto Memory Doll"
     critic_rating: 8.41
     genre.sync: Anime,Drama,Fantasy
+    studio: Kyoto Animation
+  tt8652818:
+    title: "Violet Evergarden Movie"
+    sort_title: "Violet Evergarden Movie"
+    original_title: "Violet Evergarden the Movie"
+    critic_rating: 8.91
+    genre.sync: Anime,Award Winning,Drama,Fantasy
     studio: Kyoto Animation
