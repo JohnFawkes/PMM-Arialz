@@ -69,6 +69,34 @@ metadata:
     critic_rating: 7.91
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Super Power
     studio: Sunrise
+  tt8100900:
+    title: "Code Geass: Hangyaku no Lelouch I - Koudou"
+    sort_title: "Code Geass: Hangyaku no Lelouch I - Koudou"
+    original_title: "Code Geass: Lelouch of the Rebellion I - Initiation"
+    critic_rating: 7.89
+    genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
+    studio: Sunrise
+  tt9598270:
+    title: "Code Geass: Hangyaku no Lelouch II - Handou"
+    sort_title: "Code Geass: Hangyaku no Lelouch II - Handou"
+    original_title: "Code Geass: Lelouch of the Rebellion II - Transgression"
+    critic_rating: 7.65
+    genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
+    studio: Sunrise
+  tt9844256:
+    title: "Code Geass: Hangyaku no Lelouch III - Oudou"
+    sort_title: "Code Geass: Hangyaku no Lelouch III - Oudou"
+    original_title: "Code Geass: Lelouch of the Rebellion III - Glorification"
+    critic_rating: 7.99
+    genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
+    studio: Sunrise
+  tt0259974:
+    title: "Digimon Adventure (Movie)"
+    sort_title: "Digimon Adventure (Movie)"
+    original_title: "Digimon: The Movie"
+    critic_rating: 7.59
+    genre.sync: Anime,Action,Fantasy,Sci-Fi,Kids
+    studio: Toei Animation
   tt9526152:
     title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya"
     sort_title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya"
@@ -111,13 +139,6 @@ metadata:
     critic_rating: 8.27
     genre.sync: Anime,Action,Award Winning,Mystery,Sci-Fi,Suspense,Seinen,Adult Cast,Detective,Mecha,Psychological
     studio: Production I.G
-  tt0347246:
-    title: "Innocence"
-    sort_title: "Innocence"
-    original_title: "Ghost in the Shell 2: Innocence"
-    critic_rating: 7.79
-    genre.sync: Anime,Award Winning,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
-    studio: Production I.G
   tt1260502:
     title: "GHOST IN THE SHELL: Koukaku Kidoutai 2.0"
     sort_title: "GHOST IN THE SHELL: Koukaku Kidoutai 2.0"
@@ -153,6 +174,20 @@ metadata:
     critic_rating: 8.19
     genre.sync: Anime,Action,Award Winning,Military,School
     studio: Actas
+  tt11639420:
+    title: "High School Fleet Movie"
+    sort_title: "High School Fleet Movie"
+    original_title: "High School Fleet Movie"
+    critic_rating: 7.63
+    genre.sync: Anime,Action,Military,School
+    studio: A-1 Pictures
+  tt0347246:
+    title: "Innocence"
+    sort_title: "Innocence"
+    original_title: "Ghost in the Shell 2: Innocence"
+    critic_rating: 7.79
+    genre.sync: Anime,Award Winning,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
+    studio: Production I.G
   tt12879624:
     title: "Josee to Tora to Sakanatachi"
     sort_title: "Josee to Tora to Sakanatachi"
@@ -167,6 +202,20 @@ metadata:
     critic_rating: 8.49
     genre.sync: Anime,Action,Fantasy,Shounen,School
     studio: MAPPA
+  tt9277666:
+    title: "Kara no Kyoukai Remix: Gate of Seventh Heaven"
+    sort_title: "Kara no Kyoukai Remix: Gate of Seventh Heaven"
+    original_title: "The Garden of Sinners Remix: Gate of Seventh Heaven"
+    critic_rating: 7.55
+    genre.sync: Anime,Action,Mystery,Romance,Suspense,Super Power
+    studio: ufotable
+  tt3868344:
+    title: "Kara no Kyoukai: Shuushou"
+    sort_title: "Kara no Kyoukai: Shuushou"
+    original_title: "The Garden of Sinners Chapter 8: Epilogue"
+    critic_rating: 7.21
+    genre.sync: Anime,Mystery
+    studio: ufotable
   tt1568921:
     title: "Karigurashi no Arrietty"
     sort_title: "Karigurashi no Arrietty"
@@ -265,6 +314,20 @@ metadata:
     critic_rating: 8.08
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     studio: Production I.G
+  tt4531412:
+    title: "Kyoukai no Kanata: I'LL BE HERE - Kako-hen"
+    sort_title: "Kyoukai no Kanata: I'LL BE HERE - Kako-hen"
+    original_title: "Beyond the Boundary: I'll Be Here - Past"
+    critic_rating: 7.72
+    genre.sync: Anime,Action,Fantasy,School
+    studio: Kyoto Animation
+  tt4539114:
+    title: "Kyoukai no Kanata: I'LL BE HERE - Mirai-hen"
+    sort_title: "Kyoukai no Kanata: I'LL BE HERE - Mirai-hen"
+    original_title: "Beyond the Boundary: I'll Be Here - Future"
+    critic_rating: 8.16
+    genre.sync: Anime,Action,Fantasy,Romance,School
+    studio: Kyoto Animation
   tt10068916:
     title: "Made in Abyss: Fukaki Tamashii no Reimei"
     sort_title: "Made in Abyss: Fukaki Tamashii no Reimei"
@@ -278,6 +341,13 @@ metadata:
     original_title: "The Irregular at Magic High School The Movie - The Girl Who Summons The Stars"
     critic_rating: 7.46
     genre.sync: Anime,Action,Sci-Fi,Supernatural
+    studio: 8bit
+  tt15497404:
+    title: "Mahouka Koukou no Rettousei: Tsuioku-hen"
+    sort_title: "Mahouka Koukou no Rettousei: Tsuioku-hen"
+    original_title: "The Irregular at Magic High School: Reminiscence Arc"
+    critic_rating: 7.71
+    genre.sync: Anime,Sci-Fi,Supernatural
     studio: 8bit
   tt6900448:
     title: "Mirai no Mirai"
@@ -307,6 +377,13 @@ metadata:
     critic_rating: 8.58
     genre.sync: Anime,Award Winning,Fantasy,Slice of Life,Childcare
     studio: Studio Chizu
+  tt10736726:
+    title: "Quanzhi Gaoshou: Dianfeng Rongyao"
+    sort_title: "Quanzhi Gaoshou: Dianfeng Rongyao"
+    original_title: "The King's Avatar: For the Glory"
+    critic_rating: 8.07
+    genre.sync: Anime,Action,Video Game
+    studio: Colored Pencil Animation
   tt13651628:
     title: "Ryuu to Sobakasu no Hime"
     sort_title: "Ryuu to Sobakasu no Hime"
@@ -419,3 +496,10 @@ metadata:
     critic_rating: 8.91
     genre.sync: Anime,Award Winning,Drama,Fantasy
     studio: Kyoto Animation
+  tt14364238:
+    title: "Yuru Camp△ Movie"
+    sort_title: "Yuru Camp△ Movie"
+    original_title: "Laid-Back Camp: The Movie"
+    critic_rating: 8.49
+    genre.sync: Anime,Slice of Life,Adult Cast,CGDCT,Iyashikei
+    studio: C-Station
