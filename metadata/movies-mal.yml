@@ -174,6 +174,27 @@ metadata:
     critic_rating: 8.19
     genre.sync: Anime,Action,Award Winning,Military,School
     studio: Actas
+  tt7833606:
+    title: "Girls und Panzer: Saishuushou 1"
+    sort_title: "Girls und Panzer: Saishuushou 1"
+    original_title: "Girls und Panzer das Finale – Part 1"
+    critic_rating: 7.95
+    genre.sync: Anime,Military,School
+    studio: Actas
+  tt7834494:
+    title: "Girls und Panzer: Saishuushou 2"
+    sort_title: "Girls und Panzer: Saishuushou 2"
+    original_title: "Girls und Panzer das Finale – Part 2"
+    critic_rating: 8.06
+    genre.sync: Anime,Military,School
+    studio: Actas
+  tt12286898:
+    title: "Girls und Panzer: Saishuushou 3"
+    sort_title: "Girls und Panzer: Saishuushou 3"
+    original_title: "Girls und Panzer das Finale – Part 3"
+    critic_rating: 8.17
+    genre.sync: Anime,Military,School
+    studio: Actas
   tt11639420:
     title: "High School Fleet Movie"
     sort_title: "High School Fleet Movie"
@@ -209,12 +230,61 @@ metadata:
     critic_rating: 7.55
     genre.sync: Anime,Action,Mystery,Romance,Suspense,Super Power
     studio: ufotable
+  tt1343089:
+    title: "Kara no Kyoukai: Boukyaku Rokuon"
+    sort_title: "Kara no Kyoukai: Boukyaku Rokuon"
+    original_title: "The Garden of Sinners Chapter 6: Oblivion Recording"
+    critic_rating: 7.46
+    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
+    studio: ufotable
+  tt1155650:
+    title: "Kara no Kyoukai: Fukan Fuukei"
+    sort_title: "Kara no Kyoukai: Fukan Fuukei"
+    original_title: "The Garden of Sinners Chapter 1: Overlooking View"
+    critic_rating: 7.58
+    genre.sync: Anime,Action,Mystery,Supernatural,Suspense
+    studio: ufotable
+  tt1233474:
+    title: "Kara no Kyoukai: Garan no Dou"
+    sort_title: "Kara no Kyoukai: Garan no Dou"
+    original_title: "The Garden of Sinners Chapter 4: The Hollow Shrine"
+    critic_rating: 7.84
+    genre.sync: Anime,Action,Mystery,Supernatural,Suspense
+    studio: ufotable
+  tt1278060:
+    title: "Kara no Kyoukai: Mujun Rasen"
+    sort_title: "Kara no Kyoukai: Mujun Rasen"
+    original_title: "The Garden of Sinners Chapter 5: Paradox Spiral"
+    critic_rating: 8.53
+    genre.sync: Anime,Action,Drama,Mystery,Romance,Supernatural,Suspense
+    studio: ufotable
+  tt1345776:
+    title: "Kara no Kyoukai: Satsujin Kousatsu (Kou)"
+    sort_title: "Kara no Kyoukai: Satsujin Kousatsu (Kou)"
+    original_title: "The Garden of Sinners Chapter 7: A Study in Murder - Part 2"
+    critic_rating: 8.4
+    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
+    studio: ufotable
+  tt1155651:
+    title: "Kara no Kyoukai: Satsujin Kousatsu (Zen)"
+    sort_title: "Kara no Kyoukai: Satsujin Kousatsu (Zen)"
+    original_title: "The Garden of Sinners Chapter 2: A Study in Murder - Part 1"
+    critic_rating: 7.78
+    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
+    studio: ufotable
   tt3868344:
     title: "Kara no Kyoukai: Shuushou"
     sort_title: "Kara no Kyoukai: Shuushou"
     original_title: "The Garden of Sinners Chapter 8: Epilogue"
     critic_rating: 7.21
     genre.sync: Anime,Mystery
+    studio: ufotable
+  tt1155652:
+    title: "Kara no Kyoukai: Tsuukaku Zanryuu"
+    sort_title: "Kara no Kyoukai: Tsuukaku Zanryuu"
+    original_title: "The Garden of Sinners Chapter 3: Remaining Sense of Pain"
+    critic_rating: 8.03
+    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Suspense
     studio: ufotable
   tt1568921:
     title: "Karigurashi no Arrietty"
@@ -242,6 +312,13 @@ metadata:
     sort_title: "Kidou Senshi Gundam Thunderbolt: December Sky"
     original_title: "Mobile Suit Gundam Thunderbolt: December Sky"
     critic_rating: 7.93
+    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
+    studio: Sunrise
+  tt13288678:
+    title: "Kidou Senshi Gundam: Senkou no Hathaway"
+    sort_title: "Kidou Senshi Gundam: Senkou no Hathaway"
+    original_title: "Mobile Suit Gundam Hathaway's Flash"
+    critic_rating: 7.83
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     studio: Sunrise
   tt11032374:
@@ -333,6 +410,20 @@ metadata:
     sort_title: "Made in Abyss: Fukaki Tamashii no Reimei"
     original_title: "Made in Abyss: Dawn of the Deep Soul"
     critic_rating: 8.64
+    genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
+    studio: Kinema Citrus
+  tt10068544:
+    title: "Made in Abyss: Hourou Suru Tasogare"
+    sort_title: "Made in Abyss: Hourou Suru Tasogare"
+    original_title: "Made in Abyss: Wandering Twilight"
+    critic_rating: 8.37
+    genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
+    studio: Kinema Citrus
+  tt10068158:
+    title: "Made in Abyss: Tabidachi no Yoake"
+    sort_title: "Made in Abyss: Tabidachi no Yoake"
+    original_title: "Made in Abyss: Journey's Dawn"
+    critic_rating: 8.15
     genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
     studio: Kinema Citrus
   tt6580380:
