@@ -10,7 +10,9 @@ templates:
       vertical_offset: 15
       vertical_align: bottom
     builder_level: <<overlay_level>>
-    tmdb_network: <<key>>
+    plex_search:
+      all:
+        network: <<key>>
     overlay:
       name: <<overlay_name>>
       repo: overlays/Images/Networks/<<overlay>>
@@ -50,20 +52,24 @@ overlays:
     variables: {key: 2552, weight: 10}
     template: [name: Networks]
 
+  BBC:
+    variables: {weight: 10}
+    template: [name: Networks]
+
   BBC One:
-    variables: {key: 4, weight: 10}
+    variables: {key: BBC, weight: 10}
     template: [name: Networks]
 
   BBC Two:
-    variables: {key: 332, weight: 10}
+    variables: {key: BBC, weight: 10}
     template: [name: Networks]
 
   BBC Three:
-    variables: {key: 3, weight: 10}
+    variables: {key: BBC, weight: 10}
     template: [name: Networks]
 
   BBC Four:
-    variables: {key: 100, weight: 10}
+    variables: {key: BBC, weight: 10}
     template: [name: Networks]
 
   CBS:
