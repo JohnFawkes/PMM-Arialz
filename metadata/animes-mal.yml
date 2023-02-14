@@ -15,6 +15,13 @@ metadata:
     genre.sync: Anime,Sports,Shounen,Combat Sports
     label.remove: Ongoing
     studio: Madhouse
+    seasons:
+      1:
+        user_rating: 8.75
+      2:
+        user_rating: 8.66
+      3:
+        user_rating: 8.59
   76013:
     title: "Major"
     sort_title: "Major"
@@ -23,6 +30,19 @@ metadata:
     genre.sync: Anime,Sports,Shounen,Team Sports
     label.remove: Ongoing
     studio: Studio Hibari
+    seasons:
+      1:
+        user_rating: 8.22
+      2:
+        user_rating: 8.2
+      3:
+        user_rating: 8.23
+      4:
+        user_rating: 8.2
+      5:
+        user_rating: 8.41
+      6:
+        user_rating: 8.33
   306269:
     title: "3-gatsu no Lion"
     sort_title: "3-gatsu no Lion"
@@ -31,6 +51,11 @@ metadata:
     genre.sync: Anime,Drama,Slice of Life,Seinen,Childcare,Iyashikei,Strategy Game
     label.remove: Ongoing
     studio: Shaft
+    seasons:
+      1:
+        user_rating: 8.39
+      2:
+        user_rating: 8.94
   378609:
     title: "86: Eighty Six"
     sort_title: "86: Eighty Six"
@@ -87,6 +112,11 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Shounen,Mythology,School
     label.remove: Ongoing
     studio: A-1 Pictures
+    seasons:
+      1:
+        user_rating: 7.5
+      2:
+        user_rating: 7.36
   407840:
     title: "Aoashi"
     sort_title: "Aoashi"
@@ -119,6 +149,11 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Shounen,Historical,Military
     label.remove: Ongoing
     studio: SANZIGEN
+    seasons:
+      1:
+        user_rating: 7.66
+      2:
+        user_rating: 7.5
   79077:
     title: "Azumanga Daiou THE ANIMATION"
     sort_title: "Azumanga Daiou THE ANIMATION"
@@ -135,6 +170,11 @@ metadata:
     genre.sync: Anime,Sports,Shounen,School
     label.remove: Ongoing
     studio: Pierrot
+    seasons:
+      1:
+        user_rating: 7.81
+      2:
+        user_rating: 8.02
   193811:
     title: "Bakuman."
     sort_title: "Bakuman."
@@ -143,6 +183,13 @@ metadata:
     genre.sync: Anime,Comedy,Drama,Romance,Shounen,Otaku Culture
     label.remove: Ongoing
     studio: J.C.Staff
+    seasons:
+      1:
+        user_rating: 8.19
+      2:
+        user_rating: 8.35
+      3:
+        user_rating: 8.54
   281270:
     title: "Barakamon"
     sort_title: "Barakamon"
@@ -159,6 +206,11 @@ metadata:
     genre.sync: Anime,Drama,Slice of Life,Shounen,Anthropomorphic,Psychological,School
     label.remove: Ongoing
     studio: Orange
+    seasons:
+      1:
+        user_rating: 7.85
+      2:
+        user_rating: 7.82
   219771:
     title: "Beelzebub"
     sort_title: "Beelzebub"
@@ -223,6 +275,19 @@ metadata:
     genre.sync: Anime,Action,Shounen,School,Super Power
     label: Ongoing
     studio: Bones
+    seasons:
+      1:
+        user_rating: 7.91
+      2:
+        user_rating: 8.13
+      3:
+        user_rating: 8.06
+      4:
+        user_rating: 7.92
+      5:
+        user_rating: 7.4
+      6:
+        user_rating: 8.29
   426294:
     title: "Buddy Daddies"
     sort_title: "Buddy Daddies"
@@ -239,6 +304,13 @@ metadata:
     genre.sync: Anime,Action,Mystery,Supernatural,Seinen,Adult Cast,Organized Crime,Super Power
     label: Ongoing
     studio: Bones
+    seasons:
+      1:
+        user_rating: 7.82
+      2:
+        user_rating: 8.22
+      3:
+        user_rating: 8.61
   83316:
     title: "Casshern Sins"
     sort_title: "Casshern Sins"
@@ -271,6 +343,13 @@ metadata:
     genre.sync: Anime,Drama,Sports,Josei,Love Polygon,School,Strategy Game
     label.remove: Ongoing
     studio: Madhouse
+    seasons:
+      1:
+        user_rating: 8.19
+      2:
+        user_rating: 8.39
+      3:
+        user_rating: 8.47
   413555:
     title: "Chikyuugai Shounen Shoujo"
     sort_title: "Chikyuugai Shounen Shoujo"
@@ -287,6 +366,11 @@ metadata:
     genre.sync: Anime,Comedy,Romance,School
     label.remove: Ongoing
     studio: Kyoto Animation
+    seasons:
+      1:
+        user_rating: 7.71
+      2:
+        user_rating: 7.55
   79995:
     title: "CLAYMORE"
     sort_title: "CLAYMORE"
@@ -303,6 +387,11 @@ metadata:
     genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Mecha,Military,School,Super Power
     label.remove: Ongoing
     studio: Sunrise
+    seasons:
+      1:
+        user_rating: 8.7
+      2:
+        user_rating: 8.91
   384541:
     title: "Cyberpunk: Edgerunners"
     sort_title: "Cyberpunk: Edgerunners"
@@ -335,6 +424,11 @@ metadata:
     genre.sync: Anime,Action,Mystery,Sci-Fi,Super Power
     label.remove: Ongoing
     studio: Bones
+    seasons:
+      1:
+        user_rating: 8.07
+      2:
+        user_rating: 7.44
   378878:
     title: "Deca-Dence"
     sort_title: "Deca-Dence"
@@ -351,6 +445,13 @@ metadata:
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
     studio: Production I.G
+    seasons:
+      1:
+        user_rating: 8.11
+      2:
+        user_rating: 8.3
+      3:
+        user_rating: 8.26
   354170:
     title: "Domestic na Kanojo"
     sort_title: "Domestic na Kanojo"
@@ -375,6 +476,11 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Sci-Fi,Shounen,Survival,Time Travel
     label.remove: Ongoing
     studio: TMS Entertainment
+    seasons:
+      1:
+        user_rating: 8.29
+      2:
+        user_rating: 8.18
   289882:
     title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
     sort_title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
@@ -383,6 +489,15 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: J.C.Staff
+    seasons:
+      1:
+        user_rating: 7.55
+      2:
+        user_rating: 7.23
+      3:
+        user_rating: 7.46
+      4:
+        user_rating: 7.68
   412957:
     title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     sort_title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
@@ -399,6 +514,11 @@ metadata:
     genre.sync: Anime,Action,Supernatural,Shounen
     label.remove: Ongoing
     studio: David Production
+    seasons:
+      1:
+        user_rating: 7.71
+      2:
+        user_rating: 7.8
   278626:
     title: "Fate/stay night: Unlimited Blade Works"
     sort_title: "Fate/stay night: Unlimited Blade Works"
@@ -415,6 +535,11 @@ metadata:
     genre.sync: Anime,Adventure,Drama,Supernatural,Shounen
     label: Ongoing
     studio: Brain's Base
+    seasons:
+      1:
+        user_rating: 8.37
+      2:
+        user_rating: 7.97
   79178:
     title: "Gankutsuou"
     sort_title: "Gankutsuou"
@@ -447,6 +572,11 @@ metadata:
     genre.sync: Anime,Comedy,Shounen,School
     label.remove: Ongoing
     studio: A-1 Pictures
+    seasons:
+      1:
+        user_rating: 8.09
+      2:
+        user_rating: 8.28
   79895:
     title: "Gintama"
     sort_title: "Gintama"
@@ -455,6 +585,17 @@ metadata:
     genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen,Gag Humor,Historical,Parody,Samurai
     label.remove: Ongoing
     studio: Sunrise
+    seasons:
+      1:
+        user_rating: 8.94
+      5:
+        user_rating: 9.04
+      6:
+        user_rating: 9.03
+      7:
+        user_rating: 9.07
+      8:
+        user_rating: 8.99
   262098:
     title: "Girls und Panzer"
     sort_title: "Girls und Panzer"
@@ -471,6 +612,11 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Shounen,Harem,School
     label.remove: Ongoing
     studio: Tezuka Productions
+    seasons:
+      1:
+        user_rating: 7.67
+      2:
+        user_rating: 8.09
   338455:
     title: "Golden Kamuy"
     sort_title: "Golden Kamuy"
@@ -479,6 +625,15 @@ metadata:
     genre.sync: Anime,Action,Adventure,Seinen,Adult Cast,Historical,Military
     label: Ongoing
     studio: Geno Studio
+    seasons:
+      1:
+        user_rating: 7.87
+      2:
+        user_rating: 8.24
+      3:
+        user_rating: 8.45
+      4:
+        user_rating: 8.27
   343913:
     title: "Grand Blue"
     sort_title: "Grand Blue"
@@ -519,6 +674,15 @@ metadata:
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
     studio: Production I.G
+    seasons:
+      1:
+        user_rating: 8.44
+      2:
+        user_rating: 8.64
+      3:
+        user_rating: 8.78
+      4:
+        user_rating: 8.36
   267441:
     title: "Hataraku Maou-sama!"
     sort_title: "Hataraku Maou-sama!"
@@ -527,6 +691,11 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Isekai,Mythology,Romantic Subtext,Workplace
     label.remove: Ongoing
     studio: White Fox
+    seasons:
+      1:
+        user_rating: 7.76
+      2:
+        user_rating: 6.67
   401856:
     title: "Heion Sedai no Idaten-tachi"
     sort_title: "Heion Sedai no Idaten-tachi"
@@ -575,6 +744,11 @@ metadata:
     genre.sync: Anime,Comedy,Seinen,Otaku Culture,School
     label.remove: Ongoing
     studio: Doga Kobo
+    seasons:
+      1:
+        user_rating: 7.12
+      2:
+        user_rating: 7.33
   366263:
     title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
     sort_title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
@@ -639,6 +813,11 @@ metadata:
     genre.sync: Anime,Comedy,Romantic Subtext,School
     label: Ongoing
     studio: Telecom Animation Film
+    seasons:
+      1:
+        user_rating: 7.33
+      2:
+        user_rating: 7.45
   255133:
     title: "Inu x Boku SS"
     sort_title: "Inu x Boku SS"
@@ -687,6 +866,11 @@ metadata:
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Video Game
     label: Ongoing
     studio: SILVER LINK.
+    seasons:
+      1:
+        user_rating: 7.56
+      2:
+        user_rating: 7.48
   257756:
     title: "Jormungand"
     sort_title: "Jormungand"
@@ -719,6 +903,13 @@ metadata:
     genre.sync: Anime,Comedy,Seinen,Psychological,Romantic Subtext,School
     label.remove: Ongoing
     studio: A-1 Pictures
+    seasons:
+      1:
+        user_rating: 8.41
+      2:
+        user_rating: 8.64
+      3:
+        user_rating: 9.07
   422564:
     title: "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
     sort_title: "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
@@ -743,6 +934,11 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Shoujo,Mythology
     label.remove: Ongoing
     studio: TMS Entertainment
+    seasons:
+      1:
+        user_rating: 8.09
+      2:
+        user_rating: 8.2
   380477:
     title: "Kamitachi ni Hirowareta Otoko"
     sort_title: "Kamitachi ni Hirowareta Otoko"
@@ -751,6 +947,11 @@ metadata:
     genre.sync: Anime,Fantasy,Slice of Life,Isekai,Iyashikei,Reincarnation
     label: Ongoing
     studio: Maho Film
+    seasons:
+      1:
+        user_rating: 6.98
+      2:
+        user_rating: 7.17
   132941:
     title: "Katanagatari"
     sort_title: "Katanagatari"
@@ -783,6 +984,11 @@ metadata:
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     label.remove: Ongoing
     studio: Sunrise
+    seasons:
+      1:
+        user_rating: 8.11
+      2:
+        user_rating: 8.08
   403849:
     title: "Kidou Senshi Gundam UC"
     sort_title: "Kidou Senshi Gundam UC"
@@ -807,6 +1013,11 @@ metadata:
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Space
     label.remove: Ongoing
     studio: Sunrise
+    seasons:
+      1:
+        user_rating: 8.05
+      2:
+        user_rating: 8.23
   272074:
     title: "Kill la Kill"
     sort_title: "Kill la Kill"
@@ -823,6 +1034,13 @@ metadata:
     genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,Historical
     label.remove: Ongoing
     studio: ufotable
+    seasons:
+      1:
+        user_rating: 8.52
+      2:
+        user_rating: 8.38
+      3:
+        user_rating: 8.82
   387027:
     title: "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
     sort_title: "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
@@ -839,6 +1057,15 @@ metadata:
     genre.sync: Anime,Action,Seinen,Historical,Military
     label.remove: Ongoing
     studio: Pierrot
+    seasons:
+      1:
+        user_rating: 7.94
+      2:
+        user_rating: 8.33
+      3:
+        user_rating: 8.82
+      4:
+        user_rating: 8.75
   279831:
     title: "Kiseijuu: Sei no Kakuritsu"
     sort_title: "Kiseijuu: Sei no Kakuritsu"
@@ -855,6 +1082,11 @@ metadata:
     genre.sync: Anime,Fantasy,Slice of Life
     label.remove: Ongoing
     studio: Kyoto Animation
+    seasons:
+      1:
+        user_rating: 7.98
+      2:
+        user_rating: 8.32
   358181:
     title: "Kono Oto Tomare!"
     sort_title: "Kono Oto Tomare!"
@@ -871,6 +1103,11 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai,Parody,Reincarnation
     label.remove: Ongoing
     studio: Studio Deen
+    seasons:
+      1:
+        user_rating: 8.12
+      2:
+        user_rating: 8.27
   421514:
     title: "Koori Zokusei Danshi to Cool na Douryou Joshi"
     sort_title: "Koori Zokusei Danshi to Cool na Douryou Joshi"
@@ -927,6 +1164,13 @@ metadata:
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
     studio: Production I.G
+    seasons:
+      1:
+        user_rating: 8.07
+      2:
+        user_rating: 8.22
+      3:
+        user_rating: 8.3
   368565:
     title: "Kyokou Suiri"
     sort_title: "Kyokou Suiri"
@@ -935,6 +1179,11 @@ metadata:
     genre.sync: Anime,Mystery,Romance,Supernatural,Shounen,Adult Cast,Mythology
     label: Ongoing
     studio: Brain's Base
+    seasons:
+      1:
+        user_rating: 6.91
+      2:
+        user_rating: 7.54
   272697:
     title: "Kyoukai no Kanata"
     sort_title: "Kyoukai no Kanata"
@@ -959,6 +1208,11 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,CGDCT,Mahou Shoujo,School
     label.remove: Ongoing
     studio: J.C.Staff
+    seasons:
+      1:
+        user_rating: 7.65
+      2:
+        user_rating: 7.87
   326109:
     title: "Made in Abyss"
     sort_title: "Made in Abyss"
@@ -967,6 +1221,11 @@ metadata:
     genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
     label.remove: Ongoing
     studio: Kinema Citrus
+    seasons:
+      1:
+        user_rating: 8.67
+      2:
+        user_rating: 8.68
   262094:
     title: "Magi: The labyrinth of magic"
     sort_title: "Magi: The labyrinth of magic"
@@ -975,6 +1234,11 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
     studio: A-1 Pictures
+    seasons:
+      1:
+        user_rating: 8.02
+      2:
+        user_rating: 8.22
   278329:
     title: "Mahouka Koukou no Rettousei"
     sort_title: "Mahouka Koukou no Rettousei"
@@ -983,6 +1247,11 @@ metadata:
     genre.sync: Anime,Action,Romance,Sci-Fi,Supernatural,School
     label.remove: Ongoing
     studio: Madhouse
+    seasons:
+      1:
+        user_rating: 7.42
+      2:
+        user_rating: 7.29
   394013:
     title: "Mahouka Koukou no Yuutousei"
     sort_title: "Mahouka Koukou no Yuutousei"
@@ -999,6 +1268,13 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Shounen,Isekai,Mythology,School
     label: Ongoing
     studio: Bandai Namco Pictures
+    seasons:
+      1:
+        user_rating: 7.75
+      2:
+        user_rating: 8.07
+      3:
+        user_rating: 7.98
   341436:
     title: "Major 2nd"
     sort_title: "Major 2nd"
@@ -1007,6 +1283,11 @@ metadata:
     genre.sync: Anime,Sports,Shounen,Team Sports
     label.remove: Ongoing
     studio: OLM
+    seasons:
+      1:
+        user_rating: 7.4
+      2:
+        user_rating: 7.48
   375927:
     title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
     sort_title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
@@ -1015,6 +1296,11 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Mythology,Reincarnation,School
     label: Ongoing
     studio: SILVER LINK.
+    seasons:
+      1:
+        user_rating: 7.38
+      2:
+        user_rating: 7.26
   397965:
     title: "Mashiro no Oto"
     sort_title: "Mashiro no Oto"
@@ -1031,6 +1317,13 @@ metadata:
     genre.sync: Anime,Action,Comedy,Supernatural,Super Power
     label.remove: Ongoing
     studio: Bones
+    seasons:
+      1:
+        user_rating: 8.49
+      2:
+        user_rating: 8.81
+      3:
+        user_rating: 8.75
   412626:
     title: "Mononogatari"
     sort_title: "Mononogatari"
@@ -1055,6 +1348,15 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
     studio: A-1 Pictures
+    seasons:
+      1:
+        user_rating: 7.68
+      2:
+        user_rating: 7.6
+      3:
+        user_rating: 6.45
+      4:
+        user_rating: 6.58
   309206:
     title: "Nejimaki Seirei Senki: Tenkyou no Alderamin"
     sort_title: "Nejimaki Seirei Senki: Tenkyou no Alderamin"
@@ -1111,6 +1413,11 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Shounen,Mythology
     label.remove: Ongoing
     studio: Bones
+    seasons:
+      1:
+        user_rating: 7.96
+      2:
+        user_rating: 8.16
   81797:
     title: "ONE PIECE"
     sort_title: "ONE PIECE"
@@ -1127,6 +1434,11 @@ metadata:
     genre.sync: Anime,Action,Comedy,Seinen,Adult Cast,Parody,Super Power
     label.remove: Ongoing
     studio: Madhouse
+    seasons:
+      1:
+        user_rating: 8.5
+      2:
+        user_rating: 7.49
   81178:
     title: "Ookami to Koushinryou"
     sort_title: "Ookami to Koushinryou"
@@ -1135,6 +1447,11 @@ metadata:
     genre.sync: Anime,Adventure,Fantasy,Romance,Adult Cast
     label.remove: Ongoing
     studio: Imagin
+    seasons:
+      1:
+        user_rating: 8.23
+      2:
+        user_rating: 8.32
   414908:
     title: "Ooyukiumi no Kaina"
     sort_title: "Ooyukiumi no Kaina"
@@ -1175,6 +1492,15 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai
     label.remove: Ongoing
     studio: Madhouse
+    seasons:
+      1:
+        user_rating: 7.92
+      2:
+        user_rating: 7.76
+      3:
+        user_rating: 7.92
+      4:
+        user_rating: 8.1
   289906:
     title: "Owari no Seraph"
     sort_title: "Owari no Seraph"
@@ -1207,6 +1533,11 @@ metadata:
     genre.sync: Anime,Action,Video Game
     label.remove: Ongoing
     studio: B.CMAY PICTURES
+    seasons:
+      1:
+        user_rating: 7.89
+      2:
+        user_rating: 7.94
   299506:
     title: "Rakudai Kishi no Cavalry"
     sort_title: "Rakudai Kishi no Cavalry"
@@ -1223,6 +1554,11 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Suspense,Isekai,Psychological,Time Travel
     label.remove: Ongoing
     studio: White Fox
+    seasons:
+      1:
+        user_rating: 8.24
+      2:
+        user_rating: 8.35
   299508:
     title: "ReLIFE"
     sort_title: "ReLIFE"
@@ -1255,6 +1591,11 @@ metadata:
     genre.sync: Anime,Comedy,Supernatural,Shounen,Gag Humor,School,Super Power
     label.remove: Ongoing
     studio: J.C.Staff
+    seasons:
+      1:
+        user_rating: 8.42
+      2:
+        user_rating: 8.43
   415378:
     title: "Saikyou Onmyouji no Isekai Tenseiki"
     sort_title: "Saikyou Onmyouji no Isekai Tenseiki"
@@ -1295,6 +1636,11 @@ metadata:
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     label.remove: Ongoing
     studio: GoHands
+    seasons:
+      1:
+        user_rating: 7.56
+      2:
+        user_rating: 7.69
   398193:
     title: "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
     sort_title: "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
@@ -1311,6 +1657,11 @@ metadata:
     genre.sync: Anime,Fantasy,Mystery,Seinen
     label.remove: Ongoing
     studio: CloverWorks
+    seasons:
+      1:
+        user_rating: 7.79
+      2:
+        user_rating: 8
   383837:
     title: "SHAMAN KING (2021)"
     sort_title: "SHAMAN KING (2021)"
@@ -1335,6 +1686,15 @@ metadata:
     genre.sync: Anime,Action,Award Winning,Drama,Suspense,Shounen,Gore,Military,Survival
     label.remove: Ongoing
     studio: Wit Studio
+    seasons:
+      1:
+        user_rating: 8.53
+      2:
+        user_rating: 8.5
+      3:
+        user_rating: 8.62
+      4:
+        user_rating: 8.81
   284564:
     title: "SHIROBAKO"
     sort_title: "SHIROBAKO"
@@ -1367,6 +1727,11 @@ metadata:
     genre.sync: Anime,Drama,Josei,Historical,Love Polygon,Performing Arts
     label.remove: Ongoing
     studio: Studio Deen
+    seasons:
+      1:
+        user_rating: 8.57
+      2:
+        user_rating: 8.73
   278154:
     title: "Sidonia no Kishi"
     sort_title: "Sidonia no Kishi"
@@ -1375,6 +1740,11 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Seinen,Mecha,Space
     label.remove: Ongoing
     studio: Polygon Pictures
+    seasons:
+      1:
+        user_rating: 7.64
+      2:
+        user_rating: 7.73
   72491:
     title: "SLAM DUNK"
     sort_title: "SLAM DUNK"
@@ -1383,6 +1753,9 @@ metadata:
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
     studio: Toei Animation
+    seasons:
+      1:
+        user_rating: 8.54
   401233:
     title: "Sono Bisque Doll wa Koi wo Suru"
     sort_title: "Sono Bisque Doll wa Koi wo Suru"
@@ -1447,6 +1820,15 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Romance,Love Polygon,Video Game
     label.remove: Ongoing
     studio: A-1 Pictures
+    seasons:
+      1:
+        user_rating: 7.2
+      2:
+        user_rating: 6.7
+      3:
+        user_rating: 7.56
+      4:
+        user_rating: 7.58
   305104:
     title: "Tanaka-kun wa Itsumo Kedaruge"
     sort_title: "Tanaka-kun wa Itsumo Kedaruge"
@@ -1463,6 +1845,11 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
     label.remove: Ongoing
     studio: Kinema Citrus
+    seasons:
+      1:
+        user_rating: 7.99
+      2:
+        user_rating: 6.56
   400961:
     title: "Tensai Ouji no Akaji Kokka Saisei Jutsu"
     sort_title: "Tensai Ouji no Akaji Kokka Saisei Jutsu"
@@ -1495,6 +1882,11 @@ metadata:
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Mythology,Reincarnation
     label.remove: Ongoing
     studio: 8bit
+    seasons:
+      1:
+        user_rating: 8.14
+      2:
+        user_rating: 8.39
   385374:
     title: "Tensei Shitara Slime Datta Ken: Tensura Nikki"
     sort_title: "Tensei Shitara Slime Datta Ken: Tensura Nikki"
@@ -1519,6 +1911,13 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Horror,Seinen,Gore,Psychological
     label.remove: Ongoing
     studio: Pierrot
+    seasons:
+      1:
+        user_rating: 7.79
+      2:
+        user_rating: 7.03
+      3:
+        user_rating: 6.38
   272043:
     title: "Tokyo Ravens"
     sort_title: "Tokyo Ravens"
@@ -1535,6 +1934,11 @@ metadata:
     genre.sync: Anime,Action,Drama,Supernatural,Shounen,Delinquents,Time Travel
     label: Ongoing
     studio: LIDENFILMS
+    seasons:
+      1:
+        user_rating: 8.04
+      2:
+        user_rating: 7.73
   421994:
     title: "Tomo-chan wa Onnanoko!"
     sort_title: "Tomo-chan wa Onnanoko!"
@@ -1607,6 +2011,11 @@ metadata:
     genre.sync: Anime,Sports,School
     label: Ongoing
     studio: Kyoto Animation
+    seasons:
+      1:
+        user_rating: 7.64
+      2:
+        user_rating: 7.75
   256705:
     title: "Uchuu Kyoudai"
     sort_title: "Uchuu Kyoudai"
@@ -1615,6 +2024,9 @@ metadata:
     genre.sync: Anime,Comedy,Sci-Fi,Seinen,Adult Cast,Space,Workplace
     label.remove: Ongoing
     studio: A-1 Pictures
+    seasons:
+      1:
+        user_rating: 8.5
   315094:
     title: "Udon no Kuni no Kiniro Kemari"
     sort_title: "Udon no Kuni no Kiniro Kemari"
@@ -1639,6 +2051,11 @@ metadata:
     genre.sync: Anime,Comedy,Adult Cast,Romantic Subtext
     label.remove: Ongoing
     studio: ENGI
+    seasons:
+      1:
+        user_rating: 7.01
+      2:
+        user_rating: 7.26
   400133:
     title: "Vanitas no Carte"
     sort_title: "Vanitas no Carte"
@@ -1655,6 +2072,11 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Seinen,Gore,Historical
     label: Ongoing
     studio: Wit Studio
+    seasons:
+      1:
+        user_rating: 8.73
+      2:
+        user_rating: 8.78
   330139:
     title: "Violet Evergarden"
     sort_title: "Violet Evergarden"
@@ -1695,6 +2117,13 @@ metadata:
     genre.sync: Anime,Comedy,Seinen,Romantic Subtext,Workplace
     label.remove: Ongoing
     studio: A-1 Pictures
+    seasons:
+      1:
+        user_rating: 7.65
+      2:
+        user_rating: 7.83
+      3:
+        user_rating: 7.97
   283934:
     title: "World Trigger"
     sort_title: "World Trigger"
@@ -1703,6 +2132,13 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Supernatural,Shounen,School
     label.remove: Ongoing
     studio: Toei Animation
+    seasons:
+      1:
+        user_rating: 7.58
+      2:
+        user_rating: 8.07
+      3:
+        user_rating: 8.29
   341425:
     title: "Wotaku ni Koi wa Muzukashii"
     sort_title: "Wotaku ni Koi wa Muzukashii"
@@ -1719,6 +2155,13 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Mythology,School
     label.remove: Ongoing
     studio: Haoliners Animation League
+    seasons:
+      1:
+        user_rating: 7.33
+      2:
+        user_rating: 7.41
+      3:
+        user_rating: 7.31
   348002:
     title: "Yakusoku no Neverland"
     sort_title: "Yakusoku no Neverland"
@@ -1727,6 +2170,11 @@ metadata:
     genre.sync: Anime,Mystery,Sci-Fi,Suspense,Shounen,Psychological,Survival
     label.remove: Ongoing
     studio: CloverWorks
+    seasons:
+      1:
+        user_rating: 8.52
+      2:
+        user_rating: 5.32
   313488:
     title: "Yi Ren Zhi Xia"
     sort_title: "Yi Ren Zhi Xia"
@@ -1735,6 +2183,11 @@ metadata:
     genre.sync: Anime,Action,Supernatural,Super Power
     label.remove: Ongoing
     studio: Namu Animation
+    seasons:
+      1:
+        user_rating: 6.82
+      2:
+        user_rating: 7.39
   412374:
     title: "Yofukashi no Uta"
     sort_title: "Yofukashi no Uta"
@@ -1751,6 +2204,17 @@ metadata:
     genre.sync: Anime,Sports,Shounen,Racing
     label: Ongoing
     studio: TMS Entertainment
+    seasons:
+      1:
+        user_rating: 7.94
+      2:
+        user_rating: 8.07
+      3:
+        user_rating: 7.65
+      4:
+        user_rating: 7.59
+      5:
+        user_rating: 7.49
   330692:
     title: "Yuru Camp△"
     sort_title: "Yuru Camp△"
@@ -1759,6 +2223,11 @@ metadata:
     genre.sync: Anime,Slice of Life,CGDCT,Iyashikei
     label.remove: Ongoing
     studio: C-Station
+    seasons:
+      1:
+        user_rating: 8.27
+      2:
+        user_rating: 8.53
   385542:
     title: "Yuukoku no Moriarty"
     sort_title: "Yuukoku no Moriarty"
