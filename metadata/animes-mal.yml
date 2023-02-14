@@ -3,7 +3,7 @@ metadata:
     title: "Fairy Tail"
     sort_title: "Fairy Tail"
     original_title: "Fairy Tail"
-    critic_rating: 7.58
+    user_rating: 7.58
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -11,7 +11,7 @@ metadata:
     title: "Hajime no Ippo"
     sort_title: "Hajime no Ippo"
     original_title: "Fighting Spirit"
-    critic_rating: 8.75
+    user_rating: 8.75
     genre.sync: Anime,Sports,Shounen,Combat Sports
     label.remove: Ongoing
     studio: Madhouse
@@ -26,7 +26,7 @@ metadata:
     title: "Major"
     sort_title: "Major"
     original_title: "Major"
-    critic_rating: 8.22
+    user_rating: 8.22
     genre.sync: Anime,Sports,Shounen,Team Sports
     label.remove: Ongoing
     studio: Studio Hibari
@@ -47,7 +47,7 @@ metadata:
     title: "3-gatsu no Lion"
     sort_title: "3-gatsu no Lion"
     original_title: "March Comes In Like a Lion"
-    critic_rating: 8.39
+    user_rating: 8.39
     genre.sync: Anime,Drama,Slice of Life,Seinen,Childcare,Iyashikei,Strategy Game
     label.remove: Ongoing
     studio: Shaft
@@ -60,7 +60,7 @@ metadata:
     title: "86: Eighty Six"
     sort_title: "86: Eighty Six"
     original_title: "86 Eighty Six"
-    critic_rating: 8.27
+    user_rating: 8.27
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -68,7 +68,7 @@ metadata:
     title: "ACCA: 13-ku Kansatsu-ka"
     sort_title: "ACCA: 13-ku Kansatsu-ka"
     original_title: "ACCA: 13-Territory Inspection Dept."
-    critic_rating: 7.67
+    user_rating: 7.67
     genre.sync: Anime,Drama,Fantasy,Mystery,Seinen,Adult Cast,Detective
     label.remove: Ongoing
     studio: Madhouse
@@ -76,7 +76,7 @@ metadata:
     title: "Akiba Meido Sensou"
     sort_title: "Akiba Meido Sensou"
     original_title: "Akiba Maid War"
-    critic_rating: 7.68
+    user_rating: 7.68
     genre.sync: Anime,Action,Comedy
     label.remove: Ongoing
     studio: P.A. Works
@@ -84,7 +84,7 @@ metadata:
     title: "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
     sort_title: "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
     original_title: "I'm the Villainess, So I'm Taming the Final Boss"
-    critic_rating: 7.26
+    user_rating: 7.26
     genre.sync: Anime,Comedy,Fantasy,Romance,Shoujo,Isekai
     label.remove: Ongoing
     studio: Maho Film
@@ -92,7 +92,7 @@ metadata:
     title: "Aldnoah.Zero"
     sort_title: "Aldnoah.Zero"
     original_title: "Aldnoah.Zero"
-    critic_rating: 7.4
+    user_rating: 7.4
     genre.sync: Anime,Action,Sci-Fi,Mecha,Military
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -100,7 +100,7 @@ metadata:
     title: "Angolmois: Genkou Kassenki"
     sort_title: "Angolmois: Genkou Kassenki"
     original_title: "Angolmois: Record of Mongol Invasion"
-    critic_rating: 7.13
+    user_rating: 7.13
     genre.sync: Anime,Action,Drama,Historical,Military,Samurai
     label.remove: Ongoing
     studio: NAZ
@@ -108,7 +108,7 @@ metadata:
     title: "Ao no Exorcist"
     sort_title: "Ao no Exorcist"
     original_title: "Blue Exorcist"
-    critic_rating: 7.5
+    user_rating: 7.5
     genre.sync: Anime,Action,Fantasy,Shounen,Mythology,School
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -121,7 +121,7 @@ metadata:
     title: "Aoashi"
     sort_title: "Aoashi"
     original_title: "Aoashi"
-    critic_rating: 8.27
+    user_rating: 8.27
     genre.sync: Anime,Sports,Seinen,Team Sports
     label.remove: Ongoing
     studio: Production I.G
@@ -129,7 +129,7 @@ metadata:
     title: "Arknights: Reimei Zensou"
     sort_title: "Arknights: Reimei Zensou"
     original_title: "Arknights Animation: Prelude to Dawn"
-    critic_rating: 7.18
+    user_rating: 7.18
     genre.sync: Anime,Action,Fantasy
     label.remove: Ongoing
     studio: Yostar Pictures
@@ -137,7 +137,7 @@ metadata:
     title: "Ars no Kyojuu"
     sort_title: "Ars no Kyojuu"
     original_title: "Giant Beasts of Ars"
-    critic_rating: 6.67
+    user_rating: 6.67
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Asahi Production
@@ -145,7 +145,7 @@ metadata:
     title: "Arslan Senki (TV)"
     sort_title: "Arslan Senki (TV)"
     original_title: "The Heroic Legend of Arslan"
-    critic_rating: 7.66
+    user_rating: 7.66
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Shounen,Historical,Military
     label.remove: Ongoing
     studio: SANZIGEN
@@ -158,7 +158,7 @@ metadata:
     title: "Azumanga Daiou THE ANIMATION"
     sort_title: "Azumanga Daiou THE ANIMATION"
     original_title: "Azumanga Daioh: The Animation"
-    critic_rating: 7.98
+    user_rating: 7.98
     genre.sync: Anime,Comedy,Slice of Life,CGDCT,Gag Humor,School
     label.remove: Ongoing
     studio: J.C.Staff
@@ -166,7 +166,7 @@ metadata:
     title: "Baby Steps"
     sort_title: "Baby Steps"
     original_title: "Baby Steps"
-    critic_rating: 7.81
+    user_rating: 7.81
     genre.sync: Anime,Sports,Shounen,School
     label.remove: Ongoing
     studio: Pierrot
@@ -179,7 +179,7 @@ metadata:
     title: "Bakuman."
     sort_title: "Bakuman."
     original_title: "Bakuman."
-    critic_rating: 8.19
+    user_rating: 8.19
     genre.sync: Anime,Comedy,Drama,Romance,Shounen,Otaku Culture
     label.remove: Ongoing
     studio: J.C.Staff
@@ -194,7 +194,7 @@ metadata:
     title: "Barakamon"
     sort_title: "Barakamon"
     original_title: "Barakamon"
-    critic_rating: 8.38
+    user_rating: 8.38
     genre.sync: Anime,Slice of Life,Childcare,Iyashikei,Visual Arts
     label.remove: Ongoing
     studio: Kinema Citrus
@@ -202,7 +202,7 @@ metadata:
     title: "BEASTARS"
     sort_title: "BEASTARS"
     original_title: "BEASTARS"
-    critic_rating: 7.85
+    user_rating: 7.85
     genre.sync: Anime,Drama,Slice of Life,Shounen,Anthropomorphic,Psychological,School
     label.remove: Ongoing
     studio: Orange
@@ -215,7 +215,7 @@ metadata:
     title: "Beelzebub"
     sort_title: "Beelzebub"
     original_title: "Beelzebub"
-    critic_rating: 7.86
+    user_rating: 7.86
     genre.sync: Anime,Action,Comedy,Supernatural,Shounen,Childcare,Delinquents,Mythology,School
     label.remove: Ongoing
     studio: Pierrot Plus
@@ -223,7 +223,7 @@ metadata:
     title: "Benriya Saitou-san, Isekai ni Iku"
     sort_title: "Benriya Saitou-san, Isekai ni Iku"
     original_title: "Handyman Saitou in Another World"
-    critic_rating: 7.18
+    user_rating: 7.18
     genre.sync: Anime,Adventure,Comedy,Fantasy,Adult Cast,Isekai
     label: Ongoing
     studio: C2C
@@ -231,7 +231,7 @@ metadata:
     title: "Black Clover"
     sort_title: "Black Clover"
     original_title: "Black Clover"
-    critic_rating: 8.14
+    user_rating: 8.14
     genre.sync: Anime,Action,Comedy,Fantasy,Shounen
     label.remove: Ongoing
     studio: Pierrot
@@ -239,7 +239,7 @@ metadata:
     title: "BLEACH"
     sort_title: "BLEACH"
     original_title: "Bleach"
-    critic_rating: 7.9
+    user_rating: 7.9
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
     studio: Pierrot
@@ -247,7 +247,7 @@ metadata:
     title: "Blue Lock"
     sort_title: "Blue Lock"
     original_title: "Blue Lock"
-    critic_rating: 8.28
+    user_rating: 8.28
     genre.sync: Anime,Sports,Shounen,Team Sports
     label: Ongoing
     studio: 8bit
@@ -255,7 +255,7 @@ metadata:
     title: "Bocchi the Rock!"
     sort_title: "Bocchi the Rock!"
     original_title: "Bocchi the Rock!"
-    critic_rating: 8.94
+    user_rating: 8.94
     genre.sync: Anime,Comedy,CGDCT,Music
     label.remove: Ongoing
     studio: CloverWorks
@@ -263,7 +263,7 @@ metadata:
     title: "Boku dake ga Inai Machi"
     sort_title: "Boku dake ga Inai Machi"
     original_title: "ERASED"
-    critic_rating: 8.31
+    user_rating: 8.31
     genre.sync: Anime,Mystery,Supernatural,Suspense,Seinen,Psychological,Time Travel
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -271,7 +271,7 @@ metadata:
     title: "Boku no Hero Academia"
     sort_title: "Boku no Hero Academia"
     original_title: "My Hero Academia"
-    critic_rating: 7.91
+    user_rating: 7.91
     genre.sync: Anime,Action,Shounen,School,Super Power
     label: Ongoing
     studio: Bones
@@ -292,7 +292,7 @@ metadata:
     title: "Buddy Daddies"
     sort_title: "Buddy Daddies"
     original_title: "Buddy Daddies"
-    critic_rating: 7.77
+    user_rating: 7.77
     genre.sync: Anime,Action,Comedy,Childcare,Organized Crime
     label: Ongoing
     studio: P.A. Works
@@ -300,7 +300,7 @@ metadata:
     title: "Bungou Stray Dogs"
     sort_title: "Bungou Stray Dogs"
     original_title: "Bungo Stray Dogs"
-    critic_rating: 7.82
+    user_rating: 7.82
     genre.sync: Anime,Action,Mystery,Supernatural,Seinen,Adult Cast,Organized Crime,Super Power
     label: Ongoing
     studio: Bones
@@ -315,7 +315,7 @@ metadata:
     title: "Casshern Sins"
     sort_title: "Casshern Sins"
     original_title: "Casshern Sins"
-    critic_rating: 7.51
+    user_rating: 7.51
     genre.sync: Anime,Action,Adventure,Drama,Sci-Fi,Psychological
     label.remove: Ongoing
     studio: Madhouse
@@ -323,7 +323,7 @@ metadata:
     title: "Chainsaw Man"
     sort_title: "Chainsaw Man"
     original_title: "Chainsaw Man"
-    critic_rating: 8.66
+    user_rating: 8.66
     genre.sync: Anime,Action,Fantasy,Shounen,Gore
     label.remove: Ongoing
     studio: MAPPA
@@ -331,7 +331,7 @@ metadata:
     title: "Charlotte"
     sort_title: "Charlotte"
     original_title: "Charlotte"
-    critic_rating: 7.75
+    user_rating: 7.75
     genre.sync: Anime,Drama,School,Super Power
     label.remove: Ongoing
     studio: P.A. Works
@@ -339,7 +339,7 @@ metadata:
     title: "Chihayafuru"
     sort_title: "Chihayafuru"
     original_title: "Chihayafuru"
-    critic_rating: 8.19
+    user_rating: 8.19
     genre.sync: Anime,Drama,Sports,Josei,Love Polygon,School,Strategy Game
     label.remove: Ongoing
     studio: Madhouse
@@ -354,7 +354,7 @@ metadata:
     title: "Chikyuugai Shounen Shoujo"
     sort_title: "Chikyuugai Shounen Shoujo"
     original_title: "The Orbital Children"
-    critic_rating: 6.87
+    user_rating: 6.87
     genre.sync: Anime,Adventure,Sci-Fi,Space,Survival
     label.remove: Ongoing
     studio: Production +h.
@@ -362,7 +362,7 @@ metadata:
     title: "Chuunibyou demo Koi ga Shitai!"
     sort_title: "Chuunibyou demo Koi ga Shitai!"
     original_title: "Love, Chunibyo & Other Delusions!"
-    critic_rating: 7.71
+    user_rating: 7.71
     genre.sync: Anime,Comedy,Romance,School
     label.remove: Ongoing
     studio: Kyoto Animation
@@ -375,7 +375,7 @@ metadata:
     title: "CLAYMORE"
     sort_title: "CLAYMORE"
     original_title: "Claymore"
-    critic_rating: 7.74
+    user_rating: 7.74
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen,Gore,Mythology,Super Power
     label.remove: Ongoing
     studio: Madhouse
@@ -383,7 +383,7 @@ metadata:
     title: "Code Geass: Hangyaku no Lelouch"
     sort_title: "Code Geass: Hangyaku no Lelouch"
     original_title: "Code Geass: Lelouch of the Rebellion"
-    critic_rating: 8.7
+    user_rating: 8.7
     genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Mecha,Military,School,Super Power
     label.remove: Ongoing
     studio: Sunrise
@@ -396,7 +396,7 @@ metadata:
     title: "Cyberpunk: Edgerunners"
     sort_title: "Cyberpunk: Edgerunners"
     original_title: "Cyberpunk: Edgerunners"
-    critic_rating: 8.62
+    user_rating: 8.62
     genre.sync: Anime,Action,Sci-Fi,Gore,Psychological
     label.remove: Ongoing
     studio: Trigger
@@ -404,7 +404,7 @@ metadata:
     title: "D.Gray-man"
     sort_title: "D.Gray-man"
     original_title: "D.Gray-man"
-    critic_rating: 8.02
+    user_rating: 8.02
     genre.sync: Anime,Action,Adventure,Comedy,Shounen,Mythology,Super Power
     label.remove: Ongoing
     studio: TMS Entertainment
@@ -412,7 +412,7 @@ metadata:
     title: "D.Gray-man HALLOW"
     sort_title: "D.Gray-man HALLOW"
     original_title: "D.Gray-man HALLOW"
-    critic_rating: 7.7
+    user_rating: 7.7
     genre.sync: Anime,Action,Adventure,Shounen,Mythology,Super Power
     label.remove: Ongoing
     studio: TMS Entertainment
@@ -420,7 +420,7 @@ metadata:
     title: "DARKER THAN BLACK: Kuro no Keiyakusha"
     sort_title: "DARKER THAN BLACK: Kuro no Keiyakusha"
     original_title: "Darker than Black"
-    critic_rating: 8.07
+    user_rating: 8.07
     genre.sync: Anime,Action,Mystery,Sci-Fi,Super Power
     label.remove: Ongoing
     studio: Bones
@@ -433,7 +433,7 @@ metadata:
     title: "Deca-Dence"
     sort_title: "Deca-Dence"
     original_title: "Deca-Dence"
-    critic_rating: 7.38
+    user_rating: 7.38
     genre.sync: Anime,Action,Adventure,Sci-Fi
     label.remove: Ongoing
     studio: Nut
@@ -441,7 +441,7 @@ metadata:
     title: "Diamond no Ace"
     sort_title: "Diamond no Ace"
     original_title: "Ace of Diamond"
-    critic_rating: 8.11
+    user_rating: 8.11
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
     studio: Production I.G
@@ -456,7 +456,7 @@ metadata:
     title: "Domestic na Kanojo"
     sort_title: "Domestic na Kanojo"
     original_title: "Domestic Girlfriend"
-    critic_rating: 6.68
+    user_rating: 6.68
     genre.sync: Anime,Drama,Romance,Shounen,Love Polygon,School
     label.remove: Ongoing
     studio: Diomedéa
@@ -464,7 +464,7 @@ metadata:
     title: "Dorohedoro"
     sort_title: "Dorohedoro"
     original_title: "Dorohedoro"
-    critic_rating: 8.06
+    user_rating: 8.06
     genre.sync: Anime,Action,Comedy,Fantasy,Horror,Seinen,Gore
     label.remove: Ongoing
     studio: MAPPA
@@ -472,7 +472,7 @@ metadata:
     title: "Dr. STONE"
     sort_title: "Dr. STONE"
     original_title: "Dr. Stone"
-    critic_rating: 8.29
+    user_rating: 8.29
     genre.sync: Anime,Adventure,Comedy,Sci-Fi,Shounen,Survival,Time Travel
     label.remove: Ongoing
     studio: TMS Entertainment
@@ -485,7 +485,7 @@ metadata:
     title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
     sort_title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
     original_title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
-    critic_rating: 7.55
+    user_rating: 7.55
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: J.C.Staff
@@ -502,7 +502,7 @@ metadata:
     title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     sort_title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     original_title: "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀"
-    critic_rating: 7.22
+    user_rating: 7.22
     genre.sync: Anime,Action,Fantasy,Magical Sex Shift,Reincarnation
     label: Ongoing
     studio: Studio Comet
@@ -510,7 +510,7 @@ metadata:
     title: "Enen no Shouboutai"
     sort_title: "Enen no Shouboutai"
     original_title: "Fire Force"
-    critic_rating: 7.71
+    user_rating: 7.71
     genre.sync: Anime,Action,Supernatural,Shounen
     label.remove: Ongoing
     studio: David Production
@@ -523,7 +523,7 @@ metadata:
     title: "Fate/stay night: Unlimited Blade Works"
     sort_title: "Fate/stay night: Unlimited Blade Works"
     original_title: "Fate/stay night [Unlimited Blade Works]"
-    critic_rating: 8.19
+    user_rating: 8.19
     genre.sync: Anime,Action,Fantasy,Supernatural
     label.remove: Ongoing
     studio: ufotable
@@ -531,7 +531,7 @@ metadata:
     title: "Fumetsu no Anata e"
     sort_title: "Fumetsu no Anata e"
     original_title: "To Your Eternity"
-    critic_rating: 8.37
+    user_rating: 8.37
     genre.sync: Anime,Adventure,Drama,Supernatural,Shounen
     label: Ongoing
     studio: Brain's Base
@@ -544,7 +544,7 @@ metadata:
     title: "Gankutsuou"
     sort_title: "Gankutsuou"
     original_title: "Gankutsuou: The Count of Monte Cristo"
-    critic_rating: 8.14
+    user_rating: 8.14
     genre.sync: Anime,Award Winning,Drama,Mystery,Sci-Fi,Supernatural,Suspense
     label.remove: Ongoing
     studio: Gonzo
@@ -552,7 +552,7 @@ metadata:
     title: "Gekkan Shoujo Nozaki-kun"
     sort_title: "Gekkan Shoujo Nozaki-kun"
     original_title: "Monthly Girls' Nozaki-kun"
-    critic_rating: 7.84
+    user_rating: 7.84
     genre.sync: Anime,Comedy,Romance,Otaku Culture,School
     label.remove: Ongoing
     studio: Doga Kobo
@@ -560,7 +560,7 @@ metadata:
     title: "Genjitsu Shugi Yuusha no Oukoku Saikenki"
     sort_title: "Genjitsu Shugi Yuusha no Oukoku Saikenki"
     original_title: "How a Realist Hero Rebuilt the Kingdom"
-    critic_rating: 7.24
+    user_rating: 7.24
     genre.sync: Anime,Action,Fantasy,Romance,Harem,Isekai,Military
     label.remove: Ongoing
     studio: J.C.Staff
@@ -568,7 +568,7 @@ metadata:
     title: "Gin no Saji"
     sort_title: "Gin no Saji"
     original_title: "Silver Spoon"
-    critic_rating: 8.09
+    user_rating: 8.09
     genre.sync: Anime,Comedy,Shounen,School
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -581,7 +581,7 @@ metadata:
     title: "Gintama"
     sort_title: "Gintama"
     original_title: "Gintama"
-    critic_rating: 8.94
+    user_rating: 8.94
     genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen,Gag Humor,Historical,Parody,Samurai
     label.remove: Ongoing
     studio: Sunrise
@@ -600,7 +600,7 @@ metadata:
     title: "Girls und Panzer"
     sort_title: "Girls und Panzer"
     original_title: "Girls und Panzer"
-    critic_rating: 7.52
+    user_rating: 7.52
     genre.sync: Anime,Action,Military,School
     label.remove: Ongoing
     studio: Actas
@@ -608,7 +608,7 @@ metadata:
     title: "Go-toubun no Hanayome"
     sort_title: "Go-toubun no Hanayome"
     original_title: "The Quintessential Quintuplets"
-    critic_rating: 7.67
+    user_rating: 7.67
     genre.sync: Anime,Comedy,Romance,Shounen,Harem,School
     label.remove: Ongoing
     studio: Tezuka Productions
@@ -621,7 +621,7 @@ metadata:
     title: "Golden Kamuy"
     sort_title: "Golden Kamuy"
     original_title: "Golden Kamuy"
-    critic_rating: 7.87
+    user_rating: 7.87
     genre.sync: Anime,Action,Adventure,Seinen,Adult Cast,Historical,Military
     label: Ongoing
     studio: Geno Studio
@@ -638,7 +638,7 @@ metadata:
     title: "Grand Blue"
     sort_title: "Grand Blue"
     original_title: "Grand Blue Dreaming"
-    critic_rating: 8.43
+    user_rating: 8.43
     genre.sync: Anime,Comedy,Seinen,Adult Cast
     label.remove: Ongoing
     studio: Zero-G
@@ -646,7 +646,7 @@ metadata:
     title: "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
     sort_title: "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
     original_title: "Fullmetal Alchemist: Brotherhood"
-    critic_rating: 9.11
+    user_rating: 9.11
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Shounen,Military
     label.remove: Ongoing
     studio: Bones
@@ -654,7 +654,7 @@ metadata:
     title: "Hai to Gensou no Grimgar"
     sort_title: "Hai to Gensou no Grimgar"
     original_title: "Grimgar: Ashes and Illusions"
-    critic_rating: 7.65
+    user_rating: 7.65
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -662,7 +662,7 @@ metadata:
     title: "Haibane Renmei"
     sort_title: "Haibane Renmei"
     original_title: "Haibane Renmei"
-    critic_rating: 7.97
+    user_rating: 7.97
     genre.sync: Anime,Drama,Fantasy,Mystery,Psychological
     label.remove: Ongoing
     studio: Radix
@@ -670,7 +670,7 @@ metadata:
     title: "Haikyuu!!"
     sort_title: "Haikyuu!!"
     original_title: "Haikyu!!"
-    critic_rating: 8.44
+    user_rating: 8.44
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
     studio: Production I.G
@@ -687,7 +687,7 @@ metadata:
     title: "Hataraku Maou-sama!"
     sort_title: "Hataraku Maou-sama!"
     original_title: "The Devil is a Part-Timer!"
-    critic_rating: 7.76
+    user_rating: 7.76
     genre.sync: Anime,Comedy,Fantasy,Isekai,Mythology,Romantic Subtext,Workplace
     label.remove: Ongoing
     studio: White Fox
@@ -700,7 +700,7 @@ metadata:
     title: "Heion Sedai no Idaten-tachi"
     sort_title: "Heion Sedai no Idaten-tachi"
     original_title: "The Idaten Deities Know Only Peace"
-    critic_rating: 7.65
+    user_rating: 7.65
     genre.sync: Anime,Action,Adventure,Fantasy,Seinen,Mythology
     label.remove: Ongoing
     studio: MAPPA
@@ -708,7 +708,7 @@ metadata:
     title: "HELLSING OVA"
     sort_title: "HELLSING OVA"
     original_title: "Hellsing Ultimate"
-    critic_rating: 8.36
+    user_rating: 8.36
     genre.sync: Anime,Action,Horror,Supernatural,Seinen,Adult Cast,Gore,Military,Vampire
     label.remove: Ongoing
     studio: Madhouse
@@ -716,7 +716,7 @@ metadata:
     title: "HIGH CARD"
     sort_title: "HIGH CARD"
     original_title: "HIGH CARD"
-    critic_rating: 7.34
+    user_rating: 7.34
     genre.sync: Anime,Action,Fantasy,Adult Cast,Organized Crime,Super Power
     label: Ongoing
     studio: Studio Hibari
@@ -724,7 +724,7 @@ metadata:
     title: "High School Fleet"
     sort_title: "High School Fleet"
     original_title: "High School Fleet"
-    critic_rating: 7.3
+    user_rating: 7.3
     genre.sync: Anime,Action,Military,School
     label.remove: Ongoing
     studio: Production IMS
@@ -732,7 +732,7 @@ metadata:
     title: "Hikari no Ou"
     sort_title: "Hikari no Ou"
     original_title: "The Fire Hunter"
-    critic_rating: 6.81
+    user_rating: 6.81
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
@@ -740,7 +740,7 @@ metadata:
     title: "Himouto! Umaru-chan"
     sort_title: "Himouto! Umaru-chan"
     original_title: "Himouto! Umaru-chan"
-    critic_rating: 7.12
+    user_rating: 7.12
     genre.sync: Anime,Comedy,Seinen,Otaku Culture,School
     label.remove: Ongoing
     studio: Doga Kobo
@@ -753,7 +753,7 @@ metadata:
     title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
     sort_title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
     original_title: "Ascendance of a Bookworm"
-    critic_rating: 8
+    user_rating: 8
     genre.sync: Anime,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Ajia-do
@@ -761,7 +761,7 @@ metadata:
     title: "Horimiya"
     sort_title: "Horimiya"
     original_title: "Horimiya"
-    critic_rating: 8.2
+    user_rating: 8.2
     genre.sync: Anime,Romance,Shounen,School
     label.remove: Ongoing
     studio: CloverWorks
@@ -769,7 +769,7 @@ metadata:
     title: "Hoshiai no Sora"
     sort_title: "Hoshiai no Sora"
     original_title: "Stars Align"
-    critic_rating: 7.59
+    user_rating: 7.59
     genre.sync: Anime,Drama,Sports,School
     label.remove: Ongoing
     studio: 8bit
@@ -777,7 +777,7 @@ metadata:
     title: "Houkago Teibou Nisshi"
     sort_title: "Houkago Teibou Nisshi"
     original_title: "Diary of Our Days at the Breakwater"
-    critic_rating: 7.42
+    user_rating: 7.42
     genre.sync: Anime,Gourmet,Slice of Life,Seinen,CGDCT,Iyashikei,School
     label.remove: Ongoing
     studio: Doga Kobo
@@ -785,7 +785,7 @@ metadata:
     title: "Houseki no Kuni"
     sort_title: "Houseki no Kuni"
     original_title: "Land of the Lustrous"
-    critic_rating: 8.39
+    user_rating: 8.39
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Seinen,Anthropomorphic
     label.remove: Ongoing
     studio: Orange
@@ -793,7 +793,7 @@ metadata:
     title: "Hyouken no Majutsushi ga Sekai wo Suberu"
     sort_title: "Hyouken no Majutsushi ga Sekai wo Suberu"
     original_title: "The Iceblade Sorcerer Shall Rule the World"
-    critic_rating: 6.53
+    user_rating: 6.53
     genre.sync: Anime,Action,Fantasy,School
     label: Ongoing
     studio: Cloud Hearts
@@ -801,7 +801,7 @@ metadata:
     title: "ID: INVADED"
     sort_title: "ID: INVADED"
     original_title: "ID: INVADED"
-    critic_rating: 7.84
+    user_rating: 7.84
     genre.sync: Anime,Mystery,Sci-Fi,Suspense,Adult Cast,Detective,Psychological
     label.remove: Ongoing
     studio: NAZ
@@ -809,7 +809,7 @@ metadata:
     title: "Ijiranaide, Nagatoro-san"
     sort_title: "Ijiranaide, Nagatoro-san"
     original_title: "Don't Toy with Me, Miss Nagatoro"
-    critic_rating: 7.33
+    user_rating: 7.33
     genre.sync: Anime,Comedy,Romantic Subtext,School
     label: Ongoing
     studio: Telecom Animation Film
@@ -822,7 +822,7 @@ metadata:
     title: "Inu x Boku SS"
     sort_title: "Inu x Boku SS"
     original_title: "Inu X Boku Secret Service"
-    critic_rating: 7.39
+    user_rating: 7.39
     genre.sync: Anime,Comedy,Drama,Romance,Supernatural,Shounen,Mythology,School
     label.remove: Ongoing
     studio: David Production
@@ -830,7 +830,7 @@ metadata:
     title: "Inuyasha"
     sort_title: "Inuyasha"
     original_title: "InuYasha"
-    critic_rating: 7.86
+    user_rating: 7.86
     genre.sync: Anime,Action,Adventure,Fantasy,Romance,Shounen,Historical,Mythology,Time Travel
     label.remove: Ongoing
     studio: Sunrise
@@ -838,7 +838,7 @@ metadata:
     title: "Isekai no Seikishi Monogatari"
     sort_title: "Isekai no Seikishi Monogatari"
     original_title: "Tenchi Muyo! War on Geminar"
-    critic_rating: 7.76
+    user_rating: 7.76
     genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Harem,Isekai,Mecha,School
     label.remove: Ongoing
     studio: AIC Spirits
@@ -846,7 +846,7 @@ metadata:
     title: "Isekai Oji-san"
     sort_title: "Isekai Oji-san"
     original_title: "Uncle from Another World"
-    critic_rating: 7.84
+    user_rating: 7.84
     genre.sync: Anime,Comedy,Fantasy,Adult Cast,Isekai,Otaku Culture,Parody
     label: Ongoing
     studio: AtelierPontdarc
@@ -854,7 +854,7 @@ metadata:
     title: "Isekai Yakkyoku"
     sort_title: "Isekai Yakkyoku"
     original_title: "Parallel World Pharmacy"
-    critic_rating: 7.33
+    user_rating: 7.33
     genre.sync: Anime,Fantasy,Isekai,Medical,Reincarnation
     label.remove: Ongoing
     studio: Diomedéa
@@ -862,7 +862,7 @@ metadata:
     title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
     sort_title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
     original_title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
-    critic_rating: 7.56
+    user_rating: 7.56
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Video Game
     label: Ongoing
     studio: SILVER LINK.
@@ -875,7 +875,7 @@ metadata:
     title: "Jormungand"
     sort_title: "Jormungand"
     original_title: "Jormungand"
-    critic_rating: 7.81
+    user_rating: 7.81
     genre.sync: Anime,Action,Adventure,Seinen,Organized Crime
     label.remove: Ongoing
     studio: White Fox
@@ -883,7 +883,7 @@ metadata:
     title: "Jujutsu Kaisen"
     sort_title: "Jujutsu Kaisen"
     original_title: "Jujutsu Kaisen"
-    critic_rating: 8.65
+    user_rating: 8.65
     genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,School
     label.remove: Ongoing
     studio: MAPPA
@@ -891,7 +891,7 @@ metadata:
     title: "Kage no Jitsuryokusha ni Naritakute!"
     sort_title: "Kage no Jitsuryokusha ni Naritakute!"
     original_title: "The Eminence in Shadow"
-    critic_rating: 7.99
+    user_rating: 7.99
     genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Nexus
@@ -899,7 +899,7 @@ metadata:
     title: "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
     sort_title: "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
     original_title: "Kaguya-sama: Love is War"
-    critic_rating: 8.41
+    user_rating: 8.41
     genre.sync: Anime,Comedy,Seinen,Psychological,Romantic Subtext,School
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -914,7 +914,7 @@ metadata:
     title: "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
     sort_title: "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
     original_title: "Chillin' in My 30s after Getting Fired from the Demon King's Army"
-    critic_rating: 6.81
+    user_rating: 6.81
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Encourage Films
@@ -922,7 +922,7 @@ metadata:
     title: "Kami no Tou: Tower of God"
     sort_title: "Kami no Tou: Tower of God"
     original_title: "Tower of God"
-    critic_rating: 7.56
+    user_rating: 7.56
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery
     label.remove: Ongoing
     studio: Telecom Animation Film
@@ -930,7 +930,7 @@ metadata:
     title: "Kamisama Hajimemashita"
     sort_title: "Kamisama Hajimemashita"
     original_title: "Kamisama Kiss"
-    critic_rating: 8.09
+    user_rating: 8.09
     genre.sync: Anime,Comedy,Fantasy,Romance,Shoujo,Mythology
     label.remove: Ongoing
     studio: TMS Entertainment
@@ -943,7 +943,7 @@ metadata:
     title: "Kamitachi ni Hirowareta Otoko"
     sort_title: "Kamitachi ni Hirowareta Otoko"
     original_title: "By the Grace of the Gods"
-    critic_rating: 6.98
+    user_rating: 6.98
     genre.sync: Anime,Fantasy,Slice of Life,Isekai,Iyashikei,Reincarnation
     label: Ongoing
     studio: Maho Film
@@ -956,7 +956,7 @@ metadata:
     title: "Katanagatari"
     sort_title: "Katanagatari"
     original_title: "Katanagatari"
-    critic_rating: 8.32
+    user_rating: 8.32
     genre.sync: Anime,Action,Adventure,Romance,Historical,Martial Arts
     label.remove: Ongoing
     studio: White Fox
@@ -964,7 +964,7 @@ metadata:
     title: "Kaze ga Tsuyoku Fuiteiru"
     sort_title: "Kaze ga Tsuyoku Fuiteiru"
     original_title: "Run with the Wind"
-    critic_rating: 8.4
+    user_rating: 8.4
     genre.sync: Anime,Drama,Sports,Adult Cast
     label.remove: Ongoing
     studio: Production I.G
@@ -972,7 +972,7 @@ metadata:
     title: "Kemono Jihen"
     sort_title: "Kemono Jihen"
     original_title: "Kemono Jihen"
-    critic_rating: 7.4
+    user_rating: 7.4
     genre.sync: Anime,Action,Mystery,Supernatural,Shounen,Mythology
     label.remove: Ongoing
     studio: Ajia-do
@@ -980,7 +980,7 @@ metadata:
     title: "Kidou Senshi Gundam 00"
     sort_title: "Kidou Senshi Gundam 00"
     original_title: "Mobile Suit Gundam 00"
-    critic_rating: 8.11
+    user_rating: 8.11
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     label.remove: Ongoing
     studio: Sunrise
@@ -993,7 +993,7 @@ metadata:
     title: "Kidou Senshi Gundam UC"
     sort_title: "Kidou Senshi Gundam UC"
     original_title: "Mobile Suit Gundam Unicorn"
-    critic_rating: 8.1
+    user_rating: 8.1
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     label.remove: Ongoing
     studio: Sunrise
@@ -1001,7 +1001,7 @@ metadata:
     title: "Kidou Senshi Gundam: Suisei no Majo"
     sort_title: "Kidou Senshi Gundam: Suisei no Majo"
     original_title: "Mobile Suit Gundam: The Witch from Mercury"
-    critic_rating: 7.94
+    user_rating: 7.94
     genre.sync: Anime,Sci-Fi,Mecha,School,Space
     label.remove: Ongoing
     studio: Sunrise
@@ -1009,7 +1009,7 @@ metadata:
     title: "Kidou Senshi Gundam: Tekketsu no Orphans"
     sort_title: "Kidou Senshi Gundam: Tekketsu no Orphans"
     original_title: "Mobile Suit Gundam: Iron-Blooded Orphans"
-    critic_rating: 8.05
+    user_rating: 8.05
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Space
     label.remove: Ongoing
     studio: Sunrise
@@ -1022,7 +1022,7 @@ metadata:
     title: "Kill la Kill"
     sort_title: "Kill la Kill"
     original_title: "Kill la Kill"
-    critic_rating: 8.04
+    user_rating: 8.04
     genre.sync: Anime,Action,Comedy,Ecchi,School,Super Power
     label.remove: Ongoing
     studio: Trigger
@@ -1030,7 +1030,7 @@ metadata:
     title: "Kimetsu no Yaiba"
     sort_title: "Kimetsu no Yaiba"
     original_title: "Demon Slayer: Kimetsu no Yaiba"
-    critic_rating: 8.52
+    user_rating: 8.52
     genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,Historical
     label.remove: Ongoing
     studio: ufotable
@@ -1045,7 +1045,7 @@ metadata:
     title: "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
     sort_title: "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
     original_title: "Our Last Crusade or the Rise of a New World"
-    critic_rating: 6.64
+    user_rating: 6.64
     genre.sync: Anime,Action,Fantasy,Romance,Military
     label.remove: Ongoing
     studio: SILVER LINK.
@@ -1053,7 +1053,7 @@ metadata:
     title: "Kingdom"
     sort_title: "Kingdom"
     original_title: "Kingdom"
-    critic_rating: 7.94
+    user_rating: 7.94
     genre.sync: Anime,Action,Seinen,Historical,Military
     label.remove: Ongoing
     studio: Pierrot
@@ -1070,7 +1070,7 @@ metadata:
     title: "Kiseijuu: Sei no Kakuritsu"
     sort_title: "Kiseijuu: Sei no Kakuritsu"
     original_title: "Parasyte: The Maxim"
-    critic_rating: 8.34
+    user_rating: 8.34
     genre.sync: Anime,Action,Horror,Sci-Fi,Seinen,Gore,Psychological
     label.remove: Ongoing
     studio: Madhouse
@@ -1078,7 +1078,7 @@ metadata:
     title: "Kobayashi-san Chi no Maidragon"
     sort_title: "Kobayashi-san Chi no Maidragon"
     original_title: "Miss Kobayashi's Dragon Maid"
-    critic_rating: 7.98
+    user_rating: 7.98
     genre.sync: Anime,Fantasy,Slice of Life
     label.remove: Ongoing
     studio: Kyoto Animation
@@ -1091,7 +1091,7 @@ metadata:
     title: "Kono Oto Tomare!"
     sort_title: "Kono Oto Tomare!"
     original_title: "Kono Oto Tomare!: Sounds of Life"
-    critic_rating: 7.92
+    user_rating: 7.92
     genre.sync: Anime,Drama,Romance,Shounen,Music,Performing Arts,School
     label.remove: Ongoing
     studio: Platinum Vision
@@ -1099,7 +1099,7 @@ metadata:
     title: "Kono Subarashii Sekai ni Shukufuku wo!"
     sort_title: "Kono Subarashii Sekai ni Shukufuku wo!"
     original_title: "KonoSuba: God's Blessing on This Wonderful World!"
-    critic_rating: 8.12
+    user_rating: 8.12
     genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai,Parody,Reincarnation
     label.remove: Ongoing
     studio: Studio Deen
@@ -1112,7 +1112,7 @@ metadata:
     title: "Koori Zokusei Danshi to Cool na Douryou Joshi"
     sort_title: "Koori Zokusei Danshi to Cool na Douryou Joshi"
     original_title: "The Ice Guy and His Cool Female Colleague"
-    critic_rating: 7.41
+    user_rating: 7.41
     genre.sync: Anime,Comedy,Fantasy,Romance,Adult Cast,Workplace
     label: Ongoing
     studio: Zero-G
@@ -1120,7 +1120,7 @@ metadata:
     title: "Koukyuu no Karasu"
     sort_title: "Koukyuu no Karasu"
     original_title: "Raven of the Inner Palace"
-    critic_rating: 7.51
+    user_rating: 7.51
     genre.sync: Anime,Fantasy,Mystery,Josei,Historical,Mythology
     label.remove: Ongoing
     studio: Bandai Namco Pictures
@@ -1128,7 +1128,7 @@ metadata:
     title: "Koutetsujou no Kabaneri"
     sort_title: "Koutetsujou no Kabaneri"
     original_title: "Kabaneri of the Iron Fortress"
-    critic_rating: 7.27
+    user_rating: 7.27
     genre.sync: Anime,Action,Drama,Fantasy,Horror,Gore,Historical,Survival
     label.remove: Ongoing
     studio: Wit Studio
@@ -1136,7 +1136,7 @@ metadata:
     title: "Kumichou Musume to Sewagakari"
     sort_title: "Kumichou Musume to Sewagakari"
     original_title: "The Yakuza's Guide to Babysitting"
-    critic_rating: 7.78
+    user_rating: 7.78
     genre.sync: Anime,Slice of Life,Childcare,Organized Crime
     label.remove: Ongoing
     studio: feel.
@@ -1144,7 +1144,7 @@ metadata:
     title: "Kumo desu ga, Nani ka?"
     sort_title: "Kumo desu ga, Nani ka?"
     original_title: "So I'm a Spider, So What?"
-    critic_rating: 7.45
+    user_rating: 7.45
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Mystery,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Millepensee
@@ -1152,7 +1152,7 @@ metadata:
     title: "Kuro no Shoukanshi"
     sort_title: "Kuro no Shoukanshi"
     original_title: "Black Summoner"
-    critic_rating: 7.12
+    user_rating: 7.12
     genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Satelight
@@ -1160,7 +1160,7 @@ metadata:
     title: "Kuroko no Basket"
     sort_title: "Kuroko no Basket"
     original_title: "Kuroko's Basketball"
-    critic_rating: 8.07
+    user_rating: 8.07
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
     studio: Production I.G
@@ -1175,7 +1175,7 @@ metadata:
     title: "Kyokou Suiri"
     sort_title: "Kyokou Suiri"
     original_title: "In/Spectre"
-    critic_rating: 6.91
+    user_rating: 6.91
     genre.sync: Anime,Mystery,Romance,Supernatural,Shounen,Adult Cast,Mythology
     label: Ongoing
     studio: Brain's Base
@@ -1188,7 +1188,7 @@ metadata:
     title: "Kyoukai no Kanata"
     sort_title: "Kyoukai no Kanata"
     original_title: "Beyond the Boundary"
-    critic_rating: 7.73
+    user_rating: 7.73
     genre.sync: Anime,Action,Fantasy,School
     label.remove: Ongoing
     studio: Kyoto Animation
@@ -1196,7 +1196,7 @@ metadata:
     title: "Lycoris Recoil"
     sort_title: "Lycoris Recoil"
     original_title: "Lycoris Recoil"
-    critic_rating: 8.22
+    user_rating: 8.22
     genre.sync: Anime,Action
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -1204,7 +1204,7 @@ metadata:
     title: "Machikado Mazoku"
     sort_title: "Machikado Mazoku"
     original_title: "The Demon Girl Next Door"
-    critic_rating: 7.65
+    user_rating: 7.65
     genre.sync: Anime,Comedy,Fantasy,CGDCT,Mahou Shoujo,School
     label.remove: Ongoing
     studio: J.C.Staff
@@ -1217,7 +1217,7 @@ metadata:
     title: "Made in Abyss"
     sort_title: "Made in Abyss"
     original_title: "Made in Abyss"
-    critic_rating: 8.67
+    user_rating: 8.67
     genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
     label.remove: Ongoing
     studio: Kinema Citrus
@@ -1230,7 +1230,7 @@ metadata:
     title: "Magi: The labyrinth of magic"
     sort_title: "Magi: The labyrinth of magic"
     original_title: "Magi: The Labyrinth of Magic"
-    critic_rating: 8.02
+    user_rating: 8.02
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -1243,7 +1243,7 @@ metadata:
     title: "Mahouka Koukou no Rettousei"
     sort_title: "Mahouka Koukou no Rettousei"
     original_title: "The Irregular at Magic High School"
-    critic_rating: 7.42
+    user_rating: 7.42
     genre.sync: Anime,Action,Romance,Sci-Fi,Supernatural,School
     label.remove: Ongoing
     studio: Madhouse
@@ -1256,7 +1256,7 @@ metadata:
     title: "Mahouka Koukou no Yuutousei"
     sort_title: "Mahouka Koukou no Yuutousei"
     original_title: "The Honor Student at Magic High School"
-    critic_rating: 6.64
+    user_rating: 6.64
     genre.sync: Anime,Fantasy,Sci-Fi
     label.remove: Ongoing
     studio: Connect
@@ -1264,7 +1264,7 @@ metadata:
     title: "Mairimashita! Iruma-kun"
     sort_title: "Mairimashita! Iruma-kun"
     original_title: "Welcome to Demon School! Iruma-kun"
-    critic_rating: 7.75
+    user_rating: 7.75
     genre.sync: Anime,Comedy,Fantasy,Shounen,Isekai,Mythology,School
     label: Ongoing
     studio: Bandai Namco Pictures
@@ -1279,7 +1279,7 @@ metadata:
     title: "Major 2nd"
     sort_title: "Major 2nd"
     original_title: "Major 2nd"
-    critic_rating: 7.4
+    user_rating: 7.4
     genre.sync: Anime,Sports,Shounen,Team Sports
     label.remove: Ongoing
     studio: OLM
@@ -1292,7 +1292,7 @@ metadata:
     title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
     sort_title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
     original_title: "The Misfit of Demon King Academy"
-    critic_rating: 7.38
+    user_rating: 7.38
     genre.sync: Anime,Action,Fantasy,Mythology,Reincarnation,School
     label: Ongoing
     studio: SILVER LINK.
@@ -1305,7 +1305,7 @@ metadata:
     title: "Mashiro no Oto"
     sort_title: "Mashiro no Oto"
     original_title: "Those Snow White Notes"
-    critic_rating: 7.54
+    user_rating: 7.54
     genre.sync: Anime,Drama,Shounen,Music,School
     label.remove: Ongoing
     studio: Shin-Ei Animation
@@ -1313,7 +1313,7 @@ metadata:
     title: "Mob Psycho 100"
     sort_title: "Mob Psycho 100"
     original_title: "Mob Psycho 100"
-    critic_rating: 8.49
+    user_rating: 8.49
     genre.sync: Anime,Action,Comedy,Supernatural,Super Power
     label.remove: Ongoing
     studio: Bones
@@ -1328,7 +1328,7 @@ metadata:
     title: "Mononogatari"
     sort_title: "Mononogatari"
     original_title: "Malevolent Spirits: Mononogatari"
-    critic_rating: 6.61
+    user_rating: 6.61
     genre.sync: Anime,Action,Supernatural,Seinen,Adult Cast,Mythology
     label: Ongoing
     studio: Bandai Namco Pictures
@@ -1336,7 +1336,7 @@ metadata:
     title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
     sort_title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
     original_title: "Mushoku Tensei: Jobless Reincarnation"
-    critic_rating: 8.37
+    user_rating: 8.37
     genre.sync: Anime,Drama,Fantasy,Ecchi,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Studio Bind
@@ -1344,7 +1344,7 @@ metadata:
     title: "Nanatsu no Taizai"
     sort_title: "Nanatsu no Taizai"
     original_title: "The Seven Deadly Sins"
-    critic_rating: 7.68
+    user_rating: 7.68
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -1361,7 +1361,7 @@ metadata:
     title: "Nejimaki Seirei Senki: Tenkyou no Alderamin"
     sort_title: "Nejimaki Seirei Senki: Tenkyou no Alderamin"
     original_title: "Alderamin on the Sky"
-    critic_rating: 7.66
+    user_rating: 7.66
     genre.sync: Anime,Action,Adventure,Fantasy,Military
     label.remove: Ongoing
     studio: Madhouse
@@ -1369,7 +1369,7 @@ metadata:
     title: "Net-juu no Susume"
     sort_title: "Net-juu no Susume"
     original_title: "Recovery of an MMO Junkie"
-    critic_rating: 7.55
+    user_rating: 7.55
     genre.sync: Anime,Comedy,Romance,Adult Cast,Video Game
     label.remove: Ongoing
     studio: Signal.MD
@@ -1377,7 +1377,7 @@ metadata:
     title: "Nichijou"
     sort_title: "Nichijou"
     original_title: "Nichijou - My Ordinary Life"
-    critic_rating: 8.46
+    user_rating: 8.46
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     label.remove: Ongoing
     studio: Kyoto Animation
@@ -1385,7 +1385,7 @@ metadata:
     title: "NieR:Automata Ver1.1a"
     sort_title: "NieR:Automata Ver1.1a"
     original_title: "NieR:Automata Ver1.1a"
-    critic_rating: 7.48
+    user_rating: 7.48
     genre.sync: Anime,Action,Fantasy,Sci-Fi
     label: Ongoing
     studio: A-1 Pictures
@@ -1393,7 +1393,7 @@ metadata:
     title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
     sort_title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
     original_title: "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
-    critic_rating: 6.79
+    user_rating: 6.79
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
@@ -1401,7 +1401,7 @@ metadata:
     title: "Nokemono-tachi no Yoru"
     sort_title: "Nokemono-tachi no Yoru"
     original_title: "The Tale of Outcasts"
-    critic_rating: 6.77
+    user_rating: 6.77
     genre.sync: Anime,Fantasy,Shounen,Anthropomorphic,Historical
     label: Ongoing
     studio: Ashi Productions
@@ -1409,7 +1409,7 @@ metadata:
     title: "Noragami"
     sort_title: "Noragami"
     original_title: "Noragami"
-    critic_rating: 7.96
+    user_rating: 7.96
     genre.sync: Anime,Action,Fantasy,Shounen,Mythology
     label.remove: Ongoing
     studio: Bones
@@ -1422,7 +1422,7 @@ metadata:
     title: "ONE PIECE"
     sort_title: "ONE PIECE"
     original_title: "One Piece"
-    critic_rating: 8.68
+    user_rating: 8.68
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label: Ongoing
     studio: Toei Animation
@@ -1430,7 +1430,7 @@ metadata:
     title: "One Punch Man"
     sort_title: "One Punch Man"
     original_title: "One Punch Man"
-    critic_rating: 8.5
+    user_rating: 8.5
     genre.sync: Anime,Action,Comedy,Seinen,Adult Cast,Parody,Super Power
     label.remove: Ongoing
     studio: Madhouse
@@ -1443,7 +1443,7 @@ metadata:
     title: "Ookami to Koushinryou"
     sort_title: "Ookami to Koushinryou"
     original_title: "Spice and Wolf"
-    critic_rating: 8.23
+    user_rating: 8.23
     genre.sync: Anime,Adventure,Fantasy,Romance,Adult Cast
     label.remove: Ongoing
     studio: Imagin
@@ -1456,7 +1456,7 @@ metadata:
     title: "Ooyukiumi no Kaina"
     sort_title: "Ooyukiumi no Kaina"
     original_title: "Kaina of the Great Snow Sea"
-    critic_rating: 6.92
+    user_rating: 6.92
     genre.sync: Anime,Fantasy,Survival
     label: Ongoing
     studio: Polygon Pictures
@@ -1464,7 +1464,7 @@ metadata:
     title: "Otomege Sekai wa Mob ni Kibishii Sekai desu"
     sort_title: "Otomege Sekai wa Mob ni Kibishii Sekai desu"
     original_title: "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs"
-    critic_rating: 7.35
+    user_rating: 7.35
     genre.sync: Anime,Fantasy,Isekai,Mecha,Reincarnation,School
     label.remove: Ongoing
     studio: ENGI
@@ -1472,7 +1472,7 @@ metadata:
     title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
     sort_title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
     original_title: "The Angel Next Door Spoils Me Rotten"
-    critic_rating: 7.91
+    user_rating: 7.91
     genre.sync: Anime,Comedy,Romance,School
     label: Ongoing
     studio: Project No.9
@@ -1480,7 +1480,7 @@ metadata:
     title: "Ousama Ranking"
     sort_title: "Ousama Ranking"
     original_title: "Ranking of Kings"
-    critic_rating: 8.56
+    user_rating: 8.56
     genre.sync: Anime,Adventure,Fantasy
     label.remove: Ongoing
     studio: Wit Studio
@@ -1488,7 +1488,7 @@ metadata:
     title: "Overlord"
     sort_title: "Overlord"
     original_title: "Overlord"
-    critic_rating: 7.92
+    user_rating: 7.92
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai
     label.remove: Ongoing
     studio: Madhouse
@@ -1505,7 +1505,7 @@ metadata:
     title: "Owari no Seraph"
     sort_title: "Owari no Seraph"
     original_title: "Seraph of the End: Vampire Reign"
-    critic_rating: 7.49
+    user_rating: 7.49
     genre.sync: Anime,Action,Drama,Supernatural,Shounen,Military,Vampire
     label.remove: Ongoing
     studio: Wit Studio
@@ -1513,7 +1513,7 @@ metadata:
     title: "Paripi Koumei"
     sort_title: "Paripi Koumei"
     original_title: "Ya Boy Kongming!"
-    critic_rating: 8.2
+    user_rating: 8.2
     genre.sync: Anime,Comedy,Adult Cast,Music,Reincarnation
     label.remove: Ongoing
     studio: P.A. Works
@@ -1521,7 +1521,7 @@ metadata:
     title: "Plastic Memories"
     sort_title: "Plastic Memories"
     original_title: "Plastic Memories"
-    critic_rating: 7.91
+    user_rating: 7.91
     genre.sync: Anime,Drama,Romance,Sci-Fi
     label.remove: Ongoing
     studio: Doga Kobo
@@ -1529,7 +1529,7 @@ metadata:
     title: "Quanzhi Gaoshou"
     sort_title: "Quanzhi Gaoshou"
     original_title: "The King's Avatar"
-    critic_rating: 7.89
+    user_rating: 7.89
     genre.sync: Anime,Action,Video Game
     label.remove: Ongoing
     studio: B.CMAY PICTURES
@@ -1542,7 +1542,7 @@ metadata:
     title: "Rakudai Kishi no Cavalry"
     sort_title: "Rakudai Kishi no Cavalry"
     original_title: "Chivalry of a Failed Knight"
-    critic_rating: 7.45
+    user_rating: 7.45
     genre.sync: Anime,Action,Fantasy,Romance,Ecchi,School
     label.remove: Ongoing
     studio: SILVER LINK.
@@ -1550,7 +1550,7 @@ metadata:
     title: "Re:Zero kara Hajimeru Isekai Seikatsu"
     sort_title: "Re:Zero kara Hajimeru Isekai Seikatsu"
     original_title: "Re:ZERO -Starting Life in Another World-"
-    critic_rating: 8.24
+    user_rating: 8.24
     genre.sync: Anime,Drama,Fantasy,Suspense,Isekai,Psychological,Time Travel
     label.remove: Ongoing
     studio: White Fox
@@ -1563,7 +1563,7 @@ metadata:
     title: "ReLIFE"
     sort_title: "ReLIFE"
     original_title: "ReLIFE"
-    critic_rating: 7.98
+    user_rating: 7.98
     genre.sync: Anime,Drama,Romance,School
     label.remove: Ongoing
     studio: TMS Entertainment
@@ -1571,7 +1571,7 @@ metadata:
     title: "Romantic Killer"
     sort_title: "Romantic Killer"
     original_title: "Romantic Killer"
-    critic_rating: 8.12
+    user_rating: 8.12
     genre.sync: Anime,Comedy,Romance,Supernatural,Shounen,Parody,Reverse Harem
     label.remove: Ongoing
     studio: domerica
@@ -1579,7 +1579,7 @@ metadata:
     title: "Sabikui Bisco"
     sort_title: "Sabikui Bisco"
     original_title: "Sabikui Bisco"
-    critic_rating: 7.17
+    user_rating: 7.17
     genre.sync: Anime,Action,Adventure,Fantasy,Sci-Fi
     label.remove: Ongoing
     studio: OZ
@@ -1587,7 +1587,7 @@ metadata:
     title: "Saiki Kusuo no Ψ-nan"
     sort_title: "Saiki Kusuo no Ψ-nan"
     original_title: "The Disastrous Life of Saiki K."
-    critic_rating: 8.42
+    user_rating: 8.42
     genre.sync: Anime,Comedy,Supernatural,Shounen,Gag Humor,School,Super Power
     label.remove: Ongoing
     studio: J.C.Staff
@@ -1600,7 +1600,7 @@ metadata:
     title: "Saikyou Onmyouji no Isekai Tenseiki"
     sort_title: "Saikyou Onmyouji no Isekai Tenseiki"
     original_title: "The Reincarnation of the Strongest Exorcist in Another World"
-    critic_rating: 7.43
+    user_rating: 7.43
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Studio Blanc.
@@ -1608,7 +1608,7 @@ metadata:
     title: "Sakurasou no Pet na Kanojo"
     sort_title: "Sakurasou no Pet na Kanojo"
     original_title: "The Pet Girl of Sakurasou"
-    critic_rating: 8.09
+    user_rating: 8.09
     genre.sync: Anime,Drama,Romance,School,Visual Arts
     label.remove: Ongoing
     studio: J.C.Staff
@@ -1616,7 +1616,7 @@ metadata:
     title: "Sankarea"
     sort_title: "Sankarea"
     original_title: "Sankarea: Undying Love"
-    critic_rating: 7.29
+    user_rating: 7.29
     genre.sync: Anime,Comedy,Horror,Romance,Supernatural,Ecchi,Shounen
     label.remove: Ongoing
     studio: Studio Deen
@@ -1624,7 +1624,7 @@ metadata:
     title: "Seijo no Maryoku wa Bannou desu"
     sort_title: "Seijo no Maryoku wa Bannou desu"
     original_title: "The Saint's Magic Power is Omnipotent"
-    critic_rating: 7.27
+    user_rating: 7.27
     genre.sync: Anime,Fantasy,Romance,Adult Cast,Isekai,Medical
     label.remove: Ongoing
     studio: Diomedéa
@@ -1632,7 +1632,7 @@ metadata:
     title: "Seitokai Yakuindomo"
     sort_title: "Seitokai Yakuindomo"
     original_title: "Student Council Staff Members"
-    critic_rating: 7.56
+    user_rating: 7.56
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     label.remove: Ongoing
     studio: GoHands
@@ -1645,7 +1645,7 @@ metadata:
     title: "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
     sort_title: "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
     original_title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
-    critic_rating: 7.37
+    user_rating: 7.37
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Romance,Isekai,Reincarnation
     label.remove: Ongoing
     studio: SILVER LINK.
@@ -1653,7 +1653,7 @@ metadata:
     title: "Shadows House"
     sort_title: "Shadows House"
     original_title: "Shadows House"
-    critic_rating: 7.79
+    user_rating: 7.79
     genre.sync: Anime,Fantasy,Mystery,Seinen
     label.remove: Ongoing
     studio: CloverWorks
@@ -1666,7 +1666,7 @@ metadata:
     title: "SHAMAN KING (2021)"
     sort_title: "SHAMAN KING (2021)"
     original_title: "SHAMAN KING (2021)"
-    critic_rating: 6.89
+    user_rating: 6.89
     genre.sync: Anime,Adventure,Comedy,Supernatural,Shounen,Super Power
     label.remove: Ongoing
     studio: Bridge
@@ -1674,7 +1674,7 @@ metadata:
     title: "Shigatsu wa Kimi no Uso"
     sort_title: "Shigatsu wa Kimi no Uso"
     original_title: "Your Lie in April"
-    critic_rating: 8.65
+    user_rating: 8.65
     genre.sync: Anime,Drama,Romance,Shounen,Music,School
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -1682,7 +1682,7 @@ metadata:
     title: "Shingeki no Kyojin"
     sort_title: "Shingeki no Kyojin"
     original_title: "Attack on Titan"
-    critic_rating: 8.53
+    user_rating: 8.53
     genre.sync: Anime,Action,Award Winning,Drama,Suspense,Shounen,Gore,Military,Survival
     label.remove: Ongoing
     studio: Wit Studio
@@ -1699,7 +1699,7 @@ metadata:
     title: "SHIROBAKO"
     sort_title: "SHIROBAKO"
     original_title: "Shirobako"
-    critic_rating: 8.29
+    user_rating: 8.29
     genre.sync: Anime,Award Winning,Comedy,Drama,Adult Cast,Otaku Culture,Workplace
     label.remove: Ongoing
     studio: P.A. Works
@@ -1707,7 +1707,7 @@ metadata:
     title: "Shokei Shoujo no Virgin Road"
     sort_title: "Shokei Shoujo no Virgin Road"
     original_title: "The Executioner and Her Way of Life"
-    critic_rating: 6.81
+    user_rating: 6.81
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai
     label.remove: Ongoing
     studio: J.C.Staff
@@ -1715,7 +1715,7 @@ metadata:
     title: "Shoujo Shuumatsu Ryokou"
     sort_title: "Shoujo Shuumatsu Ryokou"
     original_title: "Girls' Last Tour"
-    critic_rating: 8.2
+    user_rating: 8.2
     genre.sync: Anime,Adventure,Mystery,Sci-Fi,Slice of Life,Iyashikei
     label.remove: Ongoing
     studio: White Fox
@@ -1723,7 +1723,7 @@ metadata:
     title: "Shouwa Genroku Rakugo Shinjuu"
     sort_title: "Shouwa Genroku Rakugo Shinjuu"
     original_title: "Showa Genroku Rakugo Shinju"
-    critic_rating: 8.57
+    user_rating: 8.57
     genre.sync: Anime,Drama,Josei,Historical,Love Polygon,Performing Arts
     label.remove: Ongoing
     studio: Studio Deen
@@ -1736,7 +1736,7 @@ metadata:
     title: "Sidonia no Kishi"
     sort_title: "Sidonia no Kishi"
     original_title: "Knights of Sidonia"
-    critic_rating: 7.64
+    user_rating: 7.64
     genre.sync: Anime,Action,Sci-Fi,Seinen,Mecha,Space
     label.remove: Ongoing
     studio: Polygon Pictures
@@ -1749,7 +1749,7 @@ metadata:
     title: "SLAM DUNK"
     sort_title: "SLAM DUNK"
     original_title: "Slam Dunk"
-    critic_rating: 8.54
+    user_rating: 8.54
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
     studio: Toei Animation
@@ -1760,7 +1760,7 @@ metadata:
     title: "Sono Bisque Doll wa Koi wo Suru"
     sort_title: "Sono Bisque Doll wa Koi wo Suru"
     original_title: "My Dress-Up Darling"
-    critic_rating: 8.27
+    user_rating: 8.27
     genre.sync: Anime,Romance,Slice of Life,Seinen,Otaku Culture,School
     label.remove: Ongoing
     studio: CloverWorks
@@ -1768,7 +1768,7 @@ metadata:
     title: "Spy Kyoushitsu"
     sort_title: "Spy Kyoushitsu"
     original_title: "Spy Classroom"
-    critic_rating: 6.41
+    user_rating: 6.41
     genre.sync: Anime,Action,Fantasy,Mystery
     label: Ongoing
     studio: feel.
@@ -1776,7 +1776,7 @@ metadata:
     title: "SPY×FAMILY"
     sort_title: "SPY×FAMILY"
     original_title: "SPY×FAMILY"
-    critic_rating: 8.68
+    user_rating: 8.68
     genre.sync: Anime,Action,Award Winning,Comedy,Shounen,Childcare
     label.remove: Ongoing
     studio: Wit Studio
@@ -1784,7 +1784,7 @@ metadata:
     title: "Steins;Gate"
     sort_title: "Steins;Gate"
     original_title: "Steins;Gate"
-    critic_rating: 9.08
+    user_rating: 9.08
     genre.sync: Anime,Drama,Sci-Fi,Suspense,Psychological,Time Travel
     label.remove: Ongoing
     studio: White Fox
@@ -1792,7 +1792,7 @@ metadata:
     title: "Steins;Gate 0"
     sort_title: "Steins;Gate 0"
     original_title: "Steins;Gate 0"
-    critic_rating: 8.53
+    user_rating: 8.53
     genre.sync: Anime,Drama,Sci-Fi,Suspense,Time Travel
     label.remove: Ongoing
     studio: White Fox
@@ -1800,7 +1800,7 @@ metadata:
     title: "Suisei no Gargantia"
     sort_title: "Suisei no Gargantia"
     original_title: "Gargantia on the Verdurous Planet"
-    critic_rating: 7.46
+    user_rating: 7.46
     genre.sync: Anime,Action,Adventure,Sci-Fi,Mecha
     label.remove: Ongoing
     studio: Production I.G
@@ -1808,7 +1808,7 @@ metadata:
     title: "Summer Time Render"
     sort_title: "Summer Time Render"
     original_title: "Summer Time Rendering"
-    critic_rating: 8.53
+    user_rating: 8.53
     genre.sync: Anime,Mystery,Supernatural,Suspense,Shounen,Time Travel
     label.remove: Ongoing
     studio: OLM
@@ -1816,7 +1816,7 @@ metadata:
     title: "Sword Art Online"
     sort_title: "Sword Art Online"
     original_title: "Sword Art Online"
-    critic_rating: 7.2
+    user_rating: 7.2
     genre.sync: Anime,Action,Adventure,Fantasy,Romance,Love Polygon,Video Game
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -1833,7 +1833,7 @@ metadata:
     title: "Tanaka-kun wa Itsumo Kedaruge"
     sort_title: "Tanaka-kun wa Itsumo Kedaruge"
     original_title: "Tanaka-kun is Always Listless"
-    critic_rating: 7.84
+    user_rating: 7.84
     genre.sync: Anime,Slice of Life,Iyashikei,School
     label.remove: Ongoing
     studio: SILVER LINK.
@@ -1841,7 +1841,7 @@ metadata:
     title: "Tate no Yuusha no Nariagari"
     sort_title: "Tate no Yuusha no Nariagari"
     original_title: "The Rising of the Shield Hero"
-    critic_rating: 7.99
+    user_rating: 7.99
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
     label.remove: Ongoing
     studio: Kinema Citrus
@@ -1854,7 +1854,7 @@ metadata:
     title: "Tensai Ouji no Akaji Kokka Saisei Jutsu"
     sort_title: "Tensai Ouji no Akaji Kokka Saisei Jutsu"
     original_title: "The Genius Prince's Guide to Raising a Nation Out of Debt"
-    critic_rating: 7.4
+    user_rating: 7.4
     genre.sync: Anime,Comedy,Fantasy
     label.remove: Ongoing
     studio: Yokohama Animation Lab
@@ -1862,7 +1862,7 @@ metadata:
     title: "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
     sort_title: "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
     original_title: "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady"
-    critic_rating: 7.86
+    user_rating: 7.86
     genre.sync: Anime,Fantasy,Girls Love,Isekai,Reincarnation
     label: Ongoing
     studio: Diomedéa
@@ -1870,7 +1870,7 @@ metadata:
     title: "Tensei Shitara Ken Deshita"
     sort_title: "Tensei Shitara Ken Deshita"
     original_title: "Reincarnated as a Sword"
-    critic_rating: 7.57
+    user_rating: 7.57
     genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: C2C
@@ -1878,7 +1878,7 @@ metadata:
     title: "Tensei Shitara Slime Datta Ken"
     sort_title: "Tensei Shitara Slime Datta Ken"
     original_title: "That Time I Got Reincarnated as a Slime"
-    critic_rating: 8.14
+    user_rating: 8.14
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Mythology,Reincarnation
     label.remove: Ongoing
     studio: 8bit
@@ -1891,7 +1891,7 @@ metadata:
     title: "Tensei Shitara Slime Datta Ken: Tensura Nikki"
     sort_title: "Tensei Shitara Slime Datta Ken: Tensura Nikki"
     original_title: "The Slime Diaries"
-    critic_rating: 7.58
+    user_rating: 7.58
     genre.sync: Anime,Comedy,Fantasy,Shounen,Isekai,Reincarnation
     label.remove: Ongoing
     studio: 8bit
@@ -1899,7 +1899,7 @@ metadata:
     title: "THE GOD OF HIGH SCHOOL"
     sort_title: "THE GOD OF HIGH SCHOOL"
     original_title: "The God of High School"
-    critic_rating: 7.07
+    user_rating: 7.07
     genre.sync: Anime,Action,Fantasy,Martial Arts,Super Power
     label.remove: Ongoing
     studio: MAPPA
@@ -1907,7 +1907,7 @@ metadata:
     title: "Tokyo Ghoul"
     sort_title: "Tokyo Ghoul"
     original_title: "Tokyo Ghoul"
-    critic_rating: 7.79
+    user_rating: 7.79
     genre.sync: Anime,Action,Fantasy,Horror,Seinen,Gore,Psychological
     label.remove: Ongoing
     studio: Pierrot
@@ -1922,7 +1922,7 @@ metadata:
     title: "Tokyo Ravens"
     sort_title: "Tokyo Ravens"
     original_title: "Tokyo Ravens"
-    critic_rating: 7.44
+    user_rating: 7.44
     genre.sync: Anime,Action,Romance,Supernatural,School
     label.remove: Ongoing
     studio: 8bit
@@ -1930,7 +1930,7 @@ metadata:
     title: "Tokyo Revengers"
     sort_title: "Tokyo Revengers"
     original_title: "Tokyo Revengers"
-    critic_rating: 8.04
+    user_rating: 8.04
     genre.sync: Anime,Action,Drama,Supernatural,Shounen,Delinquents,Time Travel
     label: Ongoing
     studio: LIDENFILMS
@@ -1943,7 +1943,7 @@ metadata:
     title: "Tomo-chan wa Onnanoko!"
     sort_title: "Tomo-chan wa Onnanoko!"
     original_title: "Tomo-chan Is a Girl!"
-    critic_rating: 7.57
+    user_rating: 7.57
     genre.sync: Anime,Comedy,Romance,School
     label: Ongoing
     studio: Lay-duce
@@ -1951,7 +1951,7 @@ metadata:
     title: "Tonari no Kaibutsu-kun"
     sort_title: "Tonari no Kaibutsu-kun"
     original_title: "My Little Monster"
-    critic_rating: 7.48
+    user_rating: 7.48
     genre.sync: Anime,Comedy,Romance,Shoujo,School
     label.remove: Ongoing
     studio: Brain's Base
@@ -1959,7 +1959,7 @@ metadata:
     title: "Tondemo Skill de Isekai Hourou Meshi"
     sort_title: "Tondemo Skill de Isekai Hourou Meshi"
     original_title: "Campfire Cooking in Another World with My Absurd Skill"
-    critic_rating: 7.66
+    user_rating: 7.66
     genre.sync: Anime,Adventure,Comedy,Fantasy,Gourmet,Isekai
     label: Ongoing
     studio: MAPPA
@@ -1967,7 +1967,7 @@ metadata:
     title: "Tonikaku Kawaii"
     sort_title: "Tonikaku Kawaii"
     original_title: "TONIKAWA: Over The Moon For You"
-    critic_rating: 7.9
+    user_rating: 7.9
     genre.sync: Anime,Comedy,Romance,Shounen
     label.remove: Ongoing
     studio: Seven Arcs
@@ -1975,7 +1975,7 @@ metadata:
     title: "Toradora!"
     sort_title: "Toradora!"
     original_title: "Toradora!"
-    critic_rating: 8.09
+    user_rating: 8.09
     genre.sync: Anime,Drama,Romance,Love Polygon,School
     label.remove: Ongoing
     studio: J.C.Staff
@@ -1983,7 +1983,7 @@ metadata:
     title: "TRIGUN STAMPEDE"
     sort_title: "TRIGUN STAMPEDE"
     original_title: "Trigun Stampede"
-    critic_rating: 7.35
+    user_rating: 7.35
     genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
     label: Ongoing
     studio: Orange
@@ -1991,7 +1991,7 @@ metadata:
     title: "Tsuki ga Kirei"
     sort_title: "Tsuki ga Kirei"
     original_title: "Tsukigakirei"
-    critic_rating: 8.07
+    user_rating: 8.07
     genre.sync: Anime,Romance,School
     label.remove: Ongoing
     studio: feel.
@@ -1999,7 +1999,7 @@ metadata:
     title: "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san"
     sort_title: "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san"
     original_title: "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte"
-    critic_rating: 7.27
+    user_rating: 7.27
     genre.sync: Anime,Comedy,Fantasy,Romance,Video Game
     label: Ongoing
     studio: Tezuka Productions
@@ -2007,7 +2007,7 @@ metadata:
     title: "Tsurune: Kazemai Koukou Kyuudou-bu"
     sort_title: "Tsurune: Kazemai Koukou Kyuudou-bu"
     original_title: "Tsurune: Kazemai High School Kyudo Club"
-    critic_rating: 7.64
+    user_rating: 7.64
     genre.sync: Anime,Sports,School
     label: Ongoing
     studio: Kyoto Animation
@@ -2020,7 +2020,7 @@ metadata:
     title: "Uchuu Kyoudai"
     sort_title: "Uchuu Kyoudai"
     original_title: "Space Brothers"
-    critic_rating: 8.5
+    user_rating: 8.5
     genre.sync: Anime,Comedy,Sci-Fi,Seinen,Adult Cast,Space,Workplace
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -2031,7 +2031,7 @@ metadata:
     title: "Udon no Kuni no Kiniro Kemari"
     sort_title: "Udon no Kuni no Kiniro Kemari"
     original_title: "Poco's Udon World"
-    critic_rating: 7.75
+    user_rating: 7.75
     genre.sync: Anime,Slice of Life,Supernatural,Seinen,Anthropomorphic,Childcare,Iyashikei
     label.remove: Ongoing
     studio: LIDENFILMS
@@ -2039,7 +2039,7 @@ metadata:
     title: "Usagi Drop"
     sort_title: "Usagi Drop"
     original_title: "Bunny Drop"
-    critic_rating: 8.37
+    user_rating: 8.37
     genre.sync: Anime,Slice of Life,Josei,Childcare,Iyashikei
     label.remove: Ongoing
     studio: Production I.G
@@ -2047,7 +2047,7 @@ metadata:
     title: "Uzaki-chan wa Asobitai!"
     sort_title: "Uzaki-chan wa Asobitai!"
     original_title: "Uzaki-chan Wants to Hang Out!"
-    critic_rating: 7.01
+    user_rating: 7.01
     genre.sync: Anime,Comedy,Adult Cast,Romantic Subtext
     label.remove: Ongoing
     studio: ENGI
@@ -2060,7 +2060,7 @@ metadata:
     title: "Vanitas no Carte"
     sort_title: "Vanitas no Carte"
     original_title: "The Case Study of Vanitas"
-    critic_rating: 7.91
+    user_rating: 7.91
     genre.sync: Anime,Supernatural,Shounen,Historical,Vampire
     label.remove: Ongoing
     studio: Bones
@@ -2068,7 +2068,7 @@ metadata:
     title: "VINLAND SAGA"
     sort_title: "VINLAND SAGA"
     original_title: "VINLAND SAGA"
-    critic_rating: 8.73
+    user_rating: 8.73
     genre.sync: Anime,Action,Adventure,Drama,Seinen,Gore,Historical
     label: Ongoing
     studio: Wit Studio
@@ -2081,7 +2081,7 @@ metadata:
     title: "Violet Evergarden"
     sort_title: "Violet Evergarden"
     original_title: "Violet Evergarden"
-    critic_rating: 8.67
+    user_rating: 8.67
     genre.sync: Anime,Drama,Fantasy
     label.remove: Ongoing
     studio: Kyoto Animation
@@ -2089,7 +2089,7 @@ metadata:
     title: "Vivy: Fluorite Eye’s Song"
     sort_title: "Vivy: Fluorite Eye’s Song"
     original_title: "Vivy -Fluorite Eye's Song-"
-    critic_rating: 8.42
+    user_rating: 8.42
     genre.sync: Anime,Action,Sci-Fi,Suspense,Music,Time Travel
     label.remove: Ongoing
     studio: Wit Studio
@@ -2097,7 +2097,7 @@ metadata:
     title: "Wolf's Rain"
     sort_title: "Wolf's Rain"
     original_title: "Wolf's Rain"
-    critic_rating: 7.8
+    user_rating: 7.8
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery,Sci-Fi
     label.remove: Ongoing
     studio: Bones
@@ -2105,7 +2105,7 @@ metadata:
     title: "Wonder Egg Priority"
     sort_title: "Wonder Egg Priority"
     original_title: "Wonder Egg Priority"
-    critic_rating: 7.66
+    user_rating: 7.66
     genre.sync: Anime,Drama,Fantasy,Psychological
     label.remove: Ongoing
     studio: CloverWorks
@@ -2113,7 +2113,7 @@ metadata:
     title: "Working!!"
     sort_title: "Working!!"
     original_title: "Wagnaria!!"
-    critic_rating: 7.65
+    user_rating: 7.65
     genre.sync: Anime,Comedy,Seinen,Romantic Subtext,Workplace
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -2128,7 +2128,7 @@ metadata:
     title: "World Trigger"
     sort_title: "World Trigger"
     original_title: "World Trigger"
-    critic_rating: 7.58
+    user_rating: 7.58
     genre.sync: Anime,Action,Sci-Fi,Supernatural,Shounen,School
     label.remove: Ongoing
     studio: Toei Animation
@@ -2143,7 +2143,7 @@ metadata:
     title: "Wotaku ni Koi wa Muzukashii"
     sort_title: "Wotaku ni Koi wa Muzukashii"
     original_title: "Wotakoi: Love is Hard for Otaku"
-    critic_rating: 7.94
+    user_rating: 7.94
     genre.sync: Anime,Romance,Adult Cast,Otaku Culture,Workplace
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -2151,7 +2151,7 @@ metadata:
     title: "Xian Wang De Richang Shenghuo"
     sort_title: "Xian Wang De Richang Shenghuo"
     original_title: "The Daily Life of the Immortal King"
-    critic_rating: 7.33
+    user_rating: 7.33
     genre.sync: Anime,Adventure,Comedy,Fantasy,Mythology,School
     label.remove: Ongoing
     studio: Haoliners Animation League
@@ -2166,7 +2166,7 @@ metadata:
     title: "Yakusoku no Neverland"
     sort_title: "Yakusoku no Neverland"
     original_title: "The Promised Neverland"
-    critic_rating: 8.52
+    user_rating: 8.52
     genre.sync: Anime,Mystery,Sci-Fi,Suspense,Shounen,Psychological,Survival
     label.remove: Ongoing
     studio: CloverWorks
@@ -2179,7 +2179,7 @@ metadata:
     title: "Yi Ren Zhi Xia"
     sort_title: "Yi Ren Zhi Xia"
     original_title: "Hitori no Shita - The Outcast"
-    critic_rating: 6.82
+    user_rating: 6.82
     genre.sync: Anime,Action,Supernatural,Super Power
     label.remove: Ongoing
     studio: Namu Animation
@@ -2192,7 +2192,7 @@ metadata:
     title: "Yofukashi no Uta"
     sort_title: "Yofukashi no Uta"
     original_title: "Call of the Night"
-    critic_rating: 8.04
+    user_rating: 8.04
     genre.sync: Anime,Romance,Supernatural,Shounen,Vampire
     label.remove: Ongoing
     studio: LIDENFILMS
@@ -2200,7 +2200,7 @@ metadata:
     title: "Yowamushi Pedal"
     sort_title: "Yowamushi Pedal"
     original_title: "Yowamushi Pedal"
-    critic_rating: 7.94
+    user_rating: 7.94
     genre.sync: Anime,Sports,Shounen,Racing
     label: Ongoing
     studio: TMS Entertainment
@@ -2219,7 +2219,7 @@ metadata:
     title: "Yuru Camp△"
     sort_title: "Yuru Camp△"
     original_title: "Laid-Back Camp"
-    critic_rating: 8.27
+    user_rating: 8.27
     genre.sync: Anime,Slice of Life,CGDCT,Iyashikei
     label.remove: Ongoing
     studio: C-Station
@@ -2232,7 +2232,7 @@ metadata:
     title: "Yuukoku no Moriarty"
     sort_title: "Yuukoku no Moriarty"
     original_title: "Moriarty the Patriot"
-    critic_rating: 8.16
+    user_rating: 8.16
     genre.sync: Anime,Mystery,Suspense,Shounen,Adult Cast,Historical,Psychological
     label.remove: Ongoing
     studio: Production I.G
@@ -2240,7 +2240,7 @@ metadata:
     title: "Zetsuen no Tempest"
     sort_title: "Zetsuen no Tempest"
     original_title: "Blast of Tempest"
-    critic_rating: 7.92
+    user_rating: 7.92
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Shounen,Psychological
     label.remove: Ongoing
     studio: Bones
