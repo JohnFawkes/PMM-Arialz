@@ -48,7 +48,7 @@ overlays:
         weight: 100
     plex_search:
       all:
-        user_rating.gte: 0.1
+        user_rating.gte: 1
         user_rating.lte: 10
 
   user_rating:
@@ -57,5 +57,5 @@ overlays:
       weight: 100
     plex_search:
       all:
-        user_rating.gte: 0.1
+        user_rating.gte: 1
         user_rating.lte: 10
