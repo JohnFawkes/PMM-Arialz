@@ -32,11 +32,11 @@ overlays:
     template: [name: Networks]
 
   Amazon:
-    variables: {key: Amazon:, weight: 20}
+    variables: {key: Amazon, weight: 20}
     template: { name: Networks }
 
   Amazon Freevee:
-    variables: {key: Amazon:, weight: 20}
+    variables: {key: Amazon, weight: 20}
     template: [name: Networks]
 
   AMC:
