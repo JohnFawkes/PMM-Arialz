@@ -15,5 +15,7 @@ metadata:
     label.remove: Ongoing
     studio: Madhouse
     seasons:
+      0:
+        user_rating: 0
       1:
         title: "Zetsuen no Tempest"        user_rating: 8.75

@@ -5,6 +5,11 @@ metadata:
     original_title: "Akira"
     genre.sync: Anime,Action,Adventure,Horror,Sci-Fi,Supernatural,Seinen,Gore,Military
     studio: Tokyo Movie Shinsha
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.16
   tt3028018:
     title: "Ao no Exorcist Movie"
@@ -12,6 +17,11 @@ metadata:
     original_title: "Blue Exorcist The Movie"
     genre.sync: Anime,Action,Fantasy,Shounen,Mythology,School
     studio: A-1 Pictures
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.58
   tt4272866:
     title: "Bakemono no Ko"
@@ -19,6 +29,11 @@ metadata:
     original_title: "The Boy and the Beast"
     genre.sync: Anime,Adventure,Supernatural,Anthropomorphic,Isekai
     studio: Studio Chizu
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.26
   tt7745068:
     title: "Boku no Hero Academia THE MOVIE: Futari no Hero"
@@ -26,6 +41,11 @@ metadata:
     original_title: "My Hero Academia: Two Heroes"
     genre.sync: Anime,Action,Shounen,Super Power
     studio: Bones
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.56
   tt11107074:
     title: "Boku no Hero Academia THE MOVIE: Heroes:Rising"
@@ -33,6 +53,11 @@ metadata:
     original_title: "My Hero Academia: Heroes Rising"
     genre.sync: Anime,Action,Shounen,Super Power
     studio: Bones
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.99
   tt13544716:
     title: "Boku no Hero Academia THE MOVIE: World Heroes' Mission"
@@ -40,6 +65,11 @@ metadata:
     original_title: "My Hero Academia: World Heroes' Mission"
     genre.sync: Anime,Action,Shounen,Super Power
     studio: Bones
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.58
   tt16360006:
     title: "Bubble"
@@ -47,6 +77,11 @@ metadata:
     original_title: "Bubble"
     genre.sync: Anime,Action,Sci-Fi
     studio: Wit Studio
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.27
   tt0983213:
     title: "Byousoku 5 Centimeter"
@@ -54,6 +89,11 @@ metadata:
     original_title: "5 Centimeters Per Second"
     genre.sync: Anime,Drama,Romance
     studio: CoMix Wave Films
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.58
   tt6915208:
     title: "Chuunibyou demo Koi ga Shitai!: Take On Me"
@@ -61,6 +101,11 @@ metadata:
     original_title: "Love, Chunibyo & Other Delusions!: Take On Me"
     genre.sync: Anime,Comedy,Drama,Romance,School
     studio: Kyoto Animation
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.11
   tt6344664:
     title: "Code Geass: Fukkatsu no Lelouch"
@@ -68,6 +113,11 @@ metadata:
     original_title: "Code Geass: Lelouch of the Re;surrection"
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Super Power
     studio: Sunrise
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.91
   tt8100900:
     title: "Code Geass: Hangyaku no Lelouch I - Koudou"
@@ -75,6 +125,11 @@ metadata:
     original_title: "Code Geass: Lelouch of the Rebellion I - Initiation"
     genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
     studio: Sunrise
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.89
   tt9598270:
     title: "Code Geass: Hangyaku no Lelouch II - Handou"
@@ -82,6 +137,11 @@ metadata:
     original_title: "Code Geass: Lelouch of the Rebellion II - Transgression"
     genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
     studio: Sunrise
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.65
   tt9844256:
     title: "Code Geass: Hangyaku no Lelouch III - Oudou"
@@ -89,6 +149,11 @@ metadata:
     original_title: "Code Geass: Lelouch of the Rebellion III - Glorification"
     genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
     studio: Sunrise
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.99
   tt0259974:
     title: "Digimon Adventure (Movie)"
@@ -96,6 +161,11 @@ metadata:
     original_title: "Digimon: The Movie"
     genre.sync: Anime,Action,Fantasy,Sci-Fi,Kids
     studio: Toei Animation
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.59
   tt9526152:
     title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya"
@@ -103,6 +173,11 @@ metadata:
     original_title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion"
     genre.sync: Anime,Action,Adventure,Fantasy
     studio: J.C.Staff
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.44
   tt0860906:
     title: "Evangelion Shin Movie: Ha"
@@ -110,6 +185,11 @@ metadata:
     original_title: "Evangelion: 2.0 You Can (Not) Advance"
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Psychological
     studio: Khara
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.31
   tt0923811:
     title: "Evangelion Shin Movie: Jo"
@@ -117,6 +197,11 @@ metadata:
     original_title: "Evangelion: 1.0 You Are (Not) Alone"
     genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Mecha,Psychological
     studio: Khara
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.01
   tt0860907:
     title: "Evangelion Shin Movie: Kyuu"
@@ -124,6 +209,11 @@ metadata:
     original_title: "Evangelion: 3.0 You Can (Not) Redo"
     genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Mecha,Psychological
     studio: Khara
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.63
   tt1715210:
     title: "Eve no Jikan Movie"
@@ -131,6 +221,11 @@ metadata:
     original_title: "Time of Eve"
     genre.sync: Anime,Sci-Fi,Slice of Life
     studio: Studio Rikka
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.99
   tt0113568:
     title: "GHOST IN THE SHELL: Koukaku Kidoutai"
@@ -138,6 +233,11 @@ metadata:
     original_title: "Ghost in the Shell"
     genre.sync: Anime,Action,Award Winning,Mystery,Sci-Fi,Suspense,Seinen,Adult Cast,Detective,Mecha,Psychological
     studio: Production I.G
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.27
   tt1260502:
     title: "GHOST IN THE SHELL: Koukaku Kidoutai 2.0"
@@ -145,6 +245,11 @@ metadata:
     original_title: "Ghost in the Shell 2.0"
     genre.sync: Anime,Action,Sci-Fi,Seinen,Adult Cast,Detective,Mecha,Psychological
     studio: Production I.G
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.98
   tt2374144:
     title: "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare"
@@ -152,6 +257,11 @@ metadata:
     original_title: "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare"
     genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen,Gag Humor,Historical,Parody,Samurai,Time Travel
     studio: Sunrise
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.92
   tt1636780:
     title: "Gintama: Shinyaku Benizakura-hen"
@@ -159,6 +269,11 @@ metadata:
     original_title: "Gintama: The Movie"
     genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen,Historical,Parody,Samurai
     studio: Sunrise
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.52
   tt10766468:
     title: "Gintama: THE FINAL"
@@ -166,6 +281,11 @@ metadata:
     original_title: "Gintama: The Very Final"
     genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Shounen,Gag Humor,Historical,Parody,Samurai
     studio: Bandai Namco Pictures
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 9.05
   tt5284414:
     title: "Girls und Panzer Movie"
@@ -173,6 +293,11 @@ metadata:
     original_title: "Girls und Panzer der Film"
     genre.sync: Anime,Action,Award Winning,Military,School
     studio: Actas
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.19
   tt7833606:
     title: "Girls und Panzer: Saishuushou 1"
@@ -180,6 +305,11 @@ metadata:
     original_title: "Girls und Panzer das Finale – Part 1"
     genre.sync: Anime,Military,School
     studio: Actas
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.95
   tt7834494:
     title: "Girls und Panzer: Saishuushou 2"
@@ -187,6 +317,11 @@ metadata:
     original_title: "Girls und Panzer das Finale – Part 2"
     genre.sync: Anime,Military,School
     studio: Actas
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.06
   tt12286898:
     title: "Girls und Panzer: Saishuushou 3"
@@ -194,6 +329,11 @@ metadata:
     original_title: "Girls und Panzer das Finale – Part 3"
     genre.sync: Anime,Military,School
     studio: Actas
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.17
   tt11639420:
     title: "High School Fleet Movie"
@@ -201,6 +341,11 @@ metadata:
     original_title: "High School Fleet Movie"
     genre.sync: Anime,Action,Military,School
     studio: A-1 Pictures
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.63
   tt0347246:
     title: "Innocence"
@@ -208,6 +353,11 @@ metadata:
     original_title: "Ghost in the Shell 2: Innocence"
     genre.sync: Anime,Award Winning,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
     studio: Production I.G
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.79
   tt12879624:
     title: "Josee to Tora to Sakanatachi"
@@ -215,6 +365,11 @@ metadata:
     original_title: "Josee, the Tiger and the Fish"
     genre.sync: Anime,Drama,Romance,Visual Arts
     studio: Bones
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.42
   tt14331144:
     title: "Jujutsu Kaisen 0"
@@ -222,6 +377,11 @@ metadata:
     original_title: "Jujutsu Kaisen 0"
     genre.sync: Anime,Action,Fantasy,Shounen,School
     studio: MAPPA
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.49
   tt9277666:
     title: "Kara no Kyoukai Remix: Gate of seventh heaven"
@@ -229,6 +389,11 @@ metadata:
     original_title: "The Garden of Sinners Remix: Gate of Seventh Heaven"
     genre.sync: Anime,Action,Mystery,Romance,Suspense,Super Power
     studio: ufotable
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.55
   tt1343089:
     title: "Kara no Kyoukai: Boukyaku Rokuon"
@@ -236,6 +401,11 @@ metadata:
     original_title: "The Garden of Sinners Chapter 6: Oblivion Recording"
     genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
     studio: ufotable
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.46
   tt1155650:
     title: "Kara no Kyoukai: Fukan Fuukei"
@@ -243,6 +413,11 @@ metadata:
     original_title: "The Garden of Sinners Chapter 1: Overlooking View"
     genre.sync: Anime,Action,Mystery,Supernatural,Suspense
     studio: ufotable
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.58
   tt1233474:
     title: "Kara no Kyoukai: Garan no Dou"
@@ -250,6 +425,11 @@ metadata:
     original_title: "The Garden of Sinners Chapter 4: The Hollow Shrine"
     genre.sync: Anime,Action,Mystery,Supernatural,Suspense
     studio: ufotable
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.84
   tt1278060:
     title: "Kara no Kyoukai: Mujun Rasen"
@@ -257,6 +437,11 @@ metadata:
     original_title: "The Garden of Sinners Chapter 5: Paradox Spiral"
     genre.sync: Anime,Action,Drama,Mystery,Romance,Supernatural,Suspense
     studio: ufotable
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.53
   tt1345776:
     title: "Kara no Kyoukai: Satsujin Kousatsu (Kou)"
@@ -264,6 +449,11 @@ metadata:
     original_title: "The Garden of Sinners Chapter 7: A Study in Murder - Part 2"
     genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
     studio: ufotable
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.4
   tt1155651:
     title: "Kara no Kyoukai: Satsujin Kousatsu (Zen)"
@@ -271,6 +461,11 @@ metadata:
     original_title: "The Garden of Sinners Chapter 2: A Study in Murder - Part 1"
     genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
     studio: ufotable
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.78
   tt3868344:
     title: "Kara no Kyoukai: Shuushou"
@@ -278,6 +473,11 @@ metadata:
     original_title: "The Garden of Sinners Chapter 8: Epilogue"
     genre.sync: Anime,Mystery
     studio: ufotable
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.21
   tt1155652:
     title: "Kara no Kyoukai: Tsuukaku Zanryuu"
@@ -285,6 +485,11 @@ metadata:
     original_title: "The Garden of Sinners Chapter 3: Remaining Sense of Pain"
     genre.sync: Anime,Action,Drama,Mystery,Supernatural,Suspense
     studio: ufotable
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.03
   tt1568921:
     title: "Karigurashi no Arrietty"
@@ -292,6 +497,11 @@ metadata:
     original_title: "The Secret World of Arrietty"
     genre.sync: Anime,Award Winning,Fantasy
     studio: Studio Ghibli
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.89
   tt1726286:
     title: "Kidou Senshi Gundam 00: A wakening of the Trailblazer"
@@ -299,6 +509,11 @@ metadata:
     original_title: "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer"
     genre.sync: Anime,Action,Sci-Fi,Mecha,Space
     studio: Sunrise
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.3
   tt7933596:
     title: "Kidou Senshi Gundam Thunderbolt: Bandit Flower"
@@ -306,6 +521,11 @@ metadata:
     original_title: "Mobile Suit Gundam Thunderbolt: Bandit Flower"
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     studio: Sunrise
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.26
   tt6035470:
     title: "Kidou Senshi Gundam Thunderbolt: December Sky"
@@ -313,6 +533,11 @@ metadata:
     original_title: "Mobile Suit Gundam Thunderbolt: December Sky"
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     studio: Sunrise
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.93
   tt13288678:
     title: "Kidou Senshi Gundam: Senkou no Hathaway"
@@ -320,6 +545,11 @@ metadata:
     original_title: "Mobile Suit Gundam Hathaway's Flash"
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     studio: Sunrise
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.83
   tt11032374:
     title: "Kimetsu no Yaiba: Mugen Ressha-hen"
@@ -327,6 +557,11 @@ metadata:
     original_title: "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train"
     genre.sync: Anime,Action,Fantasy,Shounen,Historical
     studio: ufotable
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.63
   tt5311514:
     title: "Kimi no Na wa."
@@ -334,6 +569,11 @@ metadata:
     original_title: "Your Name."
     genre.sync: Anime,Award Winning,Drama,Supernatural,Romantic Subtext
     studio: CoMix Wave Films
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.85
   tt7236034:
     title: "Kimi no Suizou wo Tabetai"
@@ -341,6 +581,11 @@ metadata:
     original_title: "I Want To Eat Your Pancreas"
     genre.sync: Anime,Drama,Romance,School
     studio: Studio VOLN
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.56
   tt5323662:
     title: "Koe no Katachi"
@@ -348,6 +593,11 @@ metadata:
     original_title: "A Silent Voice"
     genre.sync: Anime,Award Winning,Drama,Shounen,Romantic Subtext
     studio: Kyoto Animation
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.94
   tt4489416:
     title: "Kokoro ga Sakebitagatterun da."
@@ -355,6 +605,11 @@ metadata:
     original_title: "The Anthem of the Heart"
     genre.sync: Anime,Drama,Romance,Performing Arts,School
     studio: A-1 Pictures
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.84
   tt4769824:
     title: "Kono Sekai no Katasumi ni"
@@ -362,6 +617,11 @@ metadata:
     original_title: "In This Corner of the World"
     genre.sync: Anime,Award Winning,Drama,Seinen,Historical
     studio: MAPPA
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.22
   tt9239552:
     title: "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu"
@@ -369,6 +629,11 @@ metadata:
     original_title: "KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson"
     genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai,Parody,Reincarnation
     studio: J.C.Staff
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.46
   tt2591814:
     title: "Kotonoha no Niwa"
@@ -376,6 +641,11 @@ metadata:
     original_title: "The Garden of Words"
     genre.sync: Anime,Award Winning,Drama,Romance,Visual Arts
     studio: CoMix Wave Films
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.9
   tt10253816:
     title: "Koutetsujou no Kabaneri: Unato Kessen"
@@ -383,6 +653,11 @@ metadata:
     original_title: "Kabaneri of the Iron Fortress: The Battle of Unato"
     genre.sync: Anime,Action,Drama,Fantasy,Horror,Gore,Historical,Survival
     studio: Wit Studio
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.69
   tt6728390:
     title: "Kuroko no Basket: Last Game"
@@ -390,6 +665,11 @@ metadata:
     original_title: "Kuroko's Basketball the Movie: Last Game"
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     studio: Production I.G
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.08
   tt4531412:
     title: "Kyoukai no Kanata: I'LL BE HERE - Kako-hen"
@@ -397,6 +677,11 @@ metadata:
     original_title: "Beyond the Boundary: I'll Be Here - Past"
     genre.sync: Anime,Action,Fantasy,School
     studio: Kyoto Animation
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.72
   tt4539114:
     title: "Kyoukai no Kanata: I'LL BE HERE - Mirai-hen"
@@ -404,6 +689,11 @@ metadata:
     original_title: "Beyond the Boundary: I'll Be Here - Future"
     genre.sync: Anime,Action,Fantasy,Romance,School
     studio: Kyoto Animation
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.16
   tt10068916:
     title: "Made in Abyss: Fukaki Tamashii no Reimei"
@@ -411,6 +701,11 @@ metadata:
     original_title: "Made in Abyss: Dawn of the Deep Soul"
     genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
     studio: Kinema Citrus
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.64
   tt10068544:
     title: "Made in Abyss: Hourou Suru Tasogare"
@@ -418,6 +713,11 @@ metadata:
     original_title: "Made in Abyss: Wandering Twilight"
     genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
     studio: Kinema Citrus
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.37
   tt10068158:
     title: "Made in Abyss: Tabidachi no Yoake"
@@ -425,6 +725,11 @@ metadata:
     original_title: "Made in Abyss: Journey's Dawn"
     genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
     studio: Kinema Citrus
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.15
   tt6580380:
     title: "Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo"
@@ -432,6 +737,11 @@ metadata:
     original_title: "The Irregular at Magic High School The Movie - The Girl Who Summons The Stars"
     genre.sync: Anime,Action,Sci-Fi,Supernatural
     studio: 8bit
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.46
   tt15497404:
     title: "Mahouka Koukou no Rettousei: Tsuioku-hen"
@@ -439,6 +749,11 @@ metadata:
     original_title: "The Irregular at Magic High School: Reminiscence Arc"
     genre.sync: Anime,Sci-Fi,Supernatural
     studio: 8bit
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.71
   tt6900448:
     title: "Mirai no Mirai"
@@ -446,6 +761,11 @@ metadata:
     original_title: "Mirai"
     genre.sync: Anime,Adventure,Drama,Fantasy,Time Travel
     studio: Studio Chizu
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.28
   tt9089294:
     title: "Nanatsu no Taizai Movie: Tenkuu no Torawarebito"
@@ -453,6 +773,11 @@ metadata:
     original_title: "The Seven Deadly Sins the Movie: Prisoners of the Sky"
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     studio: A-1 Pictures
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.12
   tt13884144:
     title: "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi"
@@ -460,6 +785,11 @@ metadata:
     original_title: "The Seven Deadly Sins Movie 2: Cursed By Light"
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     studio: Studio Deen
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.12
   tt2140203:
     title: "Ookami Kodomo no Ame to Yuki"
@@ -467,6 +797,11 @@ metadata:
     original_title: "Wolf Children"
     genre.sync: Anime,Award Winning,Fantasy,Slice of Life,Childcare
     studio: Studio Chizu
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.58
   tt10736726:
     title: "Quanzhi Gaoshou: Dianfeng Rongyao"
@@ -474,6 +809,11 @@ metadata:
     original_title: "The King's Avatar: For the Glory"
     genre.sync: Anime,Action,Video Game
     studio: Colored Pencil Animation
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.07
   tt13651628:
     title: "Ryuu to Sobakasu no Hime"
@@ -481,6 +821,11 @@ metadata:
     original_title: "Belle"
     genre.sync: Anime,Drama,Fantasy,Music
     studio: Studio Chizu
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.54
   tt2981768:
     title: "Sakasama no Patema"
@@ -488,6 +833,11 @@ metadata:
     original_title: "Patema Inverted"
     genre.sync: Anime,Adventure,Award Winning,Sci-Fi
     studio: Studio Rikka
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.97
   tt7339826:
     title: "Sayonara no Asa ni Yakusoku no Hana wo Kazarou"
@@ -495,6 +845,11 @@ metadata:
     original_title: "Maquia: When the Promised Flower Blooms"
     genre.sync: Anime,Drama,Fantasy
     studio: P.A. Works
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.4
   tt6337252:
     title: "Seitokai Yakuindomo Movie"
@@ -502,6 +857,11 @@ metadata:
     original_title: "Seitokai Yakuindomo Movie"
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     studio: GoHands
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.83
   tt12439230:
     title: "Seitokai Yakuindomo Movie 2"
@@ -509,6 +869,11 @@ metadata:
     original_title: "Seitokai Yakuindomo Movie 2"
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     studio: GoHands
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.78
   tt2458948:
     title: "Shin Evangelion Movie:||"
@@ -516,6 +881,11 @@ metadata:
     original_title: "Evangelion: 3.0+1.0 Thrice Upon a Time"
     genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Suspense,Mecha,Psychological
     studio: Khara
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.62
   tt8346438:
     title: "SHIROBAKO Movie"
@@ -523,6 +893,11 @@ metadata:
     original_title: "SHIROBAKO Movie"
     genre.sync: Anime,Comedy,Drama,Adult Cast,Otaku Culture,Workplace
     studio: P.A. Works
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.68
   tt12642574:
     title: "Sidonia no Kishi: Ai Tsumugu Hoshi"
@@ -530,6 +905,11 @@ metadata:
     original_title: "Knights of Sidonia: Love Woven in the Stars"
     genre.sync: Anime,Action,Sci-Fi,Seinen,Mecha,Space
     studio: Polygon Pictures
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.44
   tt1121794:
     title: "Stranger: Mukou Hadan"
@@ -537,6 +917,11 @@ metadata:
     original_title: "Sword of the Stranger"
     genre.sync: Anime,Action,Adventure,Historical,Samurai
     studio: Bones
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.27
   tt1474276:
     title: "Summer Wars"
@@ -544,6 +929,11 @@ metadata:
     original_title: "Summer Wars"
     genre.sync: Anime,Award Winning,Comedy,Sci-Fi
     studio: Madhouse
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.03
   tt5544384:
     title: "Sword Art Online: Ordinal Scale"
@@ -551,6 +941,11 @@ metadata:
     original_title: "Sword Art Online the Movie: Ordinal Scale"
     genre.sync: Anime,Action,Adventure,Fantasy,Video Game
     studio: A-1 Pictures
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 7.57
   tt13424422:
     title: "Sword Art Online: Progressive - Hoshinaki Yoru no Aria"
@@ -558,6 +953,11 @@ metadata:
     original_title: "Sword Art Online the Movie: Progressive - Aria of a Starless Night"
     genre.sync: Anime,Action,Adventure,Fantasy,Video Game
     studio: A-1 Pictures
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.01
   tt9426210:
     title: "Tenki no Ko"
@@ -565,6 +965,11 @@ metadata:
     original_title: "Weathering with You"
     genre.sync: Anime,Award Winning,Drama,Fantasy,Romance
     studio: CoMix Wave Films
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.3
   tt0808506:
     title: "Toki wo Kakeru Shoujo"
@@ -572,6 +977,11 @@ metadata:
     original_title: "The Girl Who Leapt Through Time"
     genre.sync: Anime,Award Winning,Drama,Romance,Sci-Fi,School,Time Travel
     studio: Madhouse
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.12
   tt10477558:
     title: "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou"
@@ -579,6 +989,11 @@ metadata:
     original_title: "Violet Evergarden: Eternity and the Auto Memory Doll"
     genre.sync: Anime,Drama,Fantasy
     studio: Kyoto Animation
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.41
   tt8652818:
     title: "Violet Evergarden Movie"
@@ -586,6 +1001,11 @@ metadata:
     original_title: "Violet Evergarden the Movie"
     genre.sync: Anime,Award Winning,Drama,Fantasy
     studio: Kyoto Animation
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.91
   tt14364238:
     title: "Yuru Camp△ Movie"
@@ -593,4 +1013,9 @@ metadata:
     original_title: "Laid-Back Camp: The Movie"
     genre.sync: Anime,Slice of Life,Adult Cast,CGDCT,Iyashikei
     studio: C-Station
+    seasons:
+      0:
+        user_rating: 0
+      1:
+        user_rating: 0
     user_rating: 8.49
