@@ -8,23 +8,23 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
-        user_rating: 0.1
+        season_label: unwanted
       2:
-        user_rating: 0.1
+        season_label: unwanted
       3:
-        user_rating: 0.1
+        season_label: unwanted
       4:
-        user_rating: 0.1
+        season_label: unwanted
       5:
-        user_rating: 0.1
+        season_label: unwanted
       6:
-        user_rating: 0.1
+        season_label: unwanted
       7:
-        user_rating: 0.1
+        season_label: unwanted
       8:
-        user_rating: 0.1
+        season_label: unwanted
     user_rating: 7.58
   79685:
     title: "Hajime no Ippo"
@@ -35,7 +35,7 @@ metadata:
     studio: Madhouse
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Hajime no Ippo: THE FIGHTING!"
         user_rating: 8.75
@@ -55,7 +55,7 @@ metadata:
     studio: Studio Hibari
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Major S1"
         user_rating: 8.22
@@ -171,7 +171,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Ao no Exorcist"
         user_rating: 7.5
@@ -347,39 +347,39 @@ metadata:
     studio: Pierrot
     seasons:
       1:
-        user_rating: 0.1
+        season_label: unwanted
       2:
-        user_rating: 0.1
+        season_label: unwanted
       3:
-        user_rating: 0.1
+        season_label: unwanted
       4:
-        user_rating: 0.1
+        season_label: unwanted
       5:
-        user_rating: 0.1
+        season_label: unwanted
       6:
-        user_rating: 0.1
+        season_label: unwanted
       7:
-        user_rating: 0.1
+        season_label: unwanted
       8:
-        user_rating: 0.1
+        season_label: unwanted
       9:
-        user_rating: 0.1
+        season_label: unwanted
       10:
-        user_rating: 0.1
+        season_label: unwanted
       11:
-        user_rating: 0.1
+        season_label: unwanted
       12:
-        user_rating: 0.1
+        season_label: unwanted
       13:
-        user_rating: 0.1
+        season_label: unwanted
       14:
-        user_rating: 0.1
+        season_label: unwanted
       15:
-        user_rating: 0.1
+        season_label: unwanted
       16:
-        user_rating: 0.1
+        season_label: unwanted
       17:
-        user_rating: 0.1
+        season_label: unwanted
     user_rating: 7.9
   408629:
     title: "Blue Lock"
@@ -465,7 +465,7 @@ metadata:
     studio: Bones
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Bungou Stray Dogs"
         user_rating: 7.82
@@ -509,7 +509,7 @@ metadata:
     studio: P.A. Works
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Charlotte"
         user_rating: 7.75
@@ -523,7 +523,7 @@ metadata:
     studio: Madhouse
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Chihayafuru"
         user_rating: 8.19
@@ -555,7 +555,7 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Chuunibyou demo Koi ga Shitai!"
         user_rating: 7.71
@@ -611,9 +611,9 @@ metadata:
     studio: TMS Entertainment
     seasons:
       1:
-        user_rating: 0.1
+        season_label: unwanted
       2:
-        user_rating: 0.1
+        season_label: unwanted
     user_rating: 8.02
   312878:
     title: "D.Gray-man HALLOW"
@@ -636,7 +636,7 @@ metadata:
     studio: Bones
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "DARKER THAN BLACK: Kuro no Keiyakusha"
         user_rating: 8.07
@@ -665,7 +665,7 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Diamond no Ace"
         user_rating: 8.11
@@ -709,7 +709,7 @@ metadata:
     studio: TMS Entertainment
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Dr. STONE"
         user_rating: 8.29
@@ -726,7 +726,7 @@ metadata:
     studio: J.C.Staff
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
         user_rating: 7.55
@@ -776,7 +776,7 @@ metadata:
     studio: ufotable
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Fate/stay night: Unlimited Blade Works"
         user_rating: 8.19
@@ -856,7 +856,7 @@ metadata:
     studio: Sunrise
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Gintama"
         user_rating: 8.94
@@ -882,7 +882,7 @@ metadata:
     studio: Actas
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Girls und Panzer"
         user_rating: 7.52
@@ -896,7 +896,7 @@ metadata:
     studio: Tezuka Productions
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Go-toubun no Hanayome"
         user_rating: 7.67
@@ -946,7 +946,7 @@ metadata:
     studio: Bones
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
         user_rating: 9.11
@@ -960,7 +960,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Hai to Gensou no Grimgar"
         user_rating: 7.65
@@ -986,7 +986,7 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Haikyuu!!"
         user_rating: 8.44
@@ -1060,7 +1060,7 @@ metadata:
     studio: Production IMS
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "High School Fleet"
         user_rating: 7.3
@@ -1086,7 +1086,7 @@ metadata:
     studio: Doga Kobo
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Himouto! Umaru-chan"
         user_rating: 7.12
@@ -1103,7 +1103,7 @@ metadata:
     studio: Ajia-do
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
         user_rating: 8
@@ -1204,7 +1204,7 @@ metadata:
     studio: David Production
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Inu x Boku SS"
         user_rating: 7.39
@@ -1218,17 +1218,17 @@ metadata:
     studio: Sunrise
     seasons:
       1:
-        user_rating: 0.1
+        season_label: unwanted
       2:
-        user_rating: 0.1
+        season_label: unwanted
       3:
-        user_rating: 0.1
+        season_label: unwanted
       4:
-        user_rating: 0.1
+        season_label: unwanted
       5:
-        user_rating: 0.1
+        season_label: unwanted
       6:
-        user_rating: 0.1
+        season_label: unwanted
     user_rating: 7.86
   104741:
     title: "Isekai no Seikishi Monogatari"
@@ -1368,7 +1368,7 @@ metadata:
     studio: TMS Entertainment
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Kamisama Hajimemashita"
         user_rating: 8.09
@@ -1463,7 +1463,7 @@ metadata:
     studio: Sunrise
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Kidou Senshi Gundam: Suisei no Majo"
         user_rating: 7.94
@@ -1492,7 +1492,7 @@ metadata:
     studio: Trigger
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Kill la Kill"
         user_rating: 8.04
@@ -1596,7 +1596,7 @@ metadata:
     studio: Studio Deen
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Kono Subarashii Sekai ni Shukufuku wo!"
         user_rating: 8.12
@@ -1718,7 +1718,7 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Kyoukai no Kanata"
         user_rating: 7.73
@@ -1744,7 +1744,7 @@ metadata:
     studio: J.C.Staff
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Machikado Mazoku"
         user_rating: 7.65
@@ -1878,7 +1878,7 @@ metadata:
     studio: Bones
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Mob Psycho 100"
         user_rating: 8.49
@@ -1910,7 +1910,7 @@ metadata:
     studio: Studio Bind
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
         user_rating: 8.37
@@ -1924,7 +1924,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Nanatsu no Taizai"
         user_rating: 7.68
@@ -1959,7 +1959,7 @@ metadata:
     studio: Signal.MD
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Net-juu no Susume"
         user_rating: 7.55
@@ -1973,7 +1973,7 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Nichijou"
         user_rating: 8.46
@@ -2023,7 +2023,7 @@ metadata:
     studio: Bones
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Noragami"
         user_rating: 7.96
@@ -2040,49 +2040,49 @@ metadata:
     studio: Toei Animation
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
-        user_rating: 0.1
+        season_label: unwanted
       2:
-        user_rating: 0.1
+        season_label: unwanted
       3:
-        user_rating: 0.1
+        season_label: unwanted
       4:
-        user_rating: 0.1
+        season_label: unwanted
       5:
-        user_rating: 0.1
+        season_label: unwanted
       6:
-        user_rating: 0.1
+        season_label: unwanted
       7:
-        user_rating: 0.1
+        season_label: unwanted
       8:
-        user_rating: 0.1
+        season_label: unwanted
       9:
-        user_rating: 0.1
+        season_label: unwanted
       10:
-        user_rating: 0.1
+        season_label: unwanted
       11:
-        user_rating: 0.1
+        season_label: unwanted
       12:
-        user_rating: 0.1
+        season_label: unwanted
       13:
-        user_rating: 0.1
+        season_label: unwanted
       14:
-        user_rating: 0.1
+        season_label: unwanted
       15:
-        user_rating: 0.1
+        season_label: unwanted
       16:
-        user_rating: 0.1
+        season_label: unwanted
       17:
-        user_rating: 0.1
+        season_label: unwanted
       18:
-        user_rating: 0.1
+        season_label: unwanted
       19:
-        user_rating: 0.1
+        season_label: unwanted
       20:
-        user_rating: 0.1
+        season_label: unwanted
       21:
-        user_rating: 0.1
+        season_label: unwanted
     user_rating: 8.68
   293088:
     title: "One Punch Man"
@@ -2093,7 +2093,7 @@ metadata:
     studio: Madhouse
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "One Punch Man"
         user_rating: 8.5
@@ -2110,7 +2110,7 @@ metadata:
     studio: Imagin
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Ookami to Koushinryou"
         user_rating: 8.23
@@ -2175,7 +2175,7 @@ metadata:
     studio: Madhouse
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Overlord"
         user_rating: 7.92
@@ -2234,7 +2234,7 @@ metadata:
     studio: B.CMAY PICTURES
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Quanzhi Gaoshou"
         user_rating: 7.89
@@ -2263,7 +2263,7 @@ metadata:
     studio: White Fox
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Re:Zero kara Hajimeru Isekai Seikatsu"
         user_rating: 8.24
@@ -2280,7 +2280,7 @@ metadata:
     studio: TMS Entertainment
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "ReLIFE"
         user_rating: 7.98
@@ -2318,7 +2318,7 @@ metadata:
     studio: J.C.Staff
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Saiki Kusuo no Ψ-nan"
         user_rating: 8.42
@@ -2359,7 +2359,7 @@ metadata:
     studio: Studio Deen
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Sankarea"
         user_rating: 7.29
@@ -2385,7 +2385,7 @@ metadata:
     studio: GoHands
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Seitokai Yakuindomo"
         user_rating: 7.56
@@ -2441,7 +2441,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Shigatsu wa Kimi no Uso"
         user_rating: 8.65
@@ -2512,7 +2512,7 @@ metadata:
     studio: Studio Deen
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Shouwa Genroku Rakugo Shinjuu"
         user_rating: 8.57
@@ -2592,7 +2592,7 @@ metadata:
     studio: White Fox
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Steins;Gate"
         user_rating: 9.08
@@ -2606,7 +2606,7 @@ metadata:
     studio: White Fox
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Steins;Gate 0"
         user_rating: 8.53
@@ -2620,7 +2620,7 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Suisei no Gargantia"
         user_rating: 7.46
@@ -2646,7 +2646,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Sword Art Online"
         user_rating: 7.2
@@ -2732,7 +2732,7 @@ metadata:
     studio: 8bit
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Tensei Shitara Slime Datta Ken"
         user_rating: 8.14
@@ -2854,7 +2854,7 @@ metadata:
     studio: Seven Arcs
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Tonikaku Kawaii"
         user_rating: 7.9
@@ -2916,7 +2916,7 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Tsurune: Kazemai Koukou Kyuudou-bu"
         user_rating: 7.64
@@ -2957,7 +2957,7 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Usagi Drop"
         user_rating: 8.37
@@ -3037,7 +3037,7 @@ metadata:
     studio: Bones
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Wolf's Rain"
         user_rating: 7.8
@@ -3099,7 +3099,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Wotaku ni Koi wa Muzukashii"
         user_rating: 7.94
@@ -3146,7 +3146,7 @@ metadata:
     studio: Namu Animation
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Yi Ren Zhi Xia"
         user_rating: 6.82
@@ -3175,7 +3175,7 @@ metadata:
     studio: TMS Entertainment
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Yowamushi Pedal"
         user_rating: 7.94
@@ -3201,7 +3201,7 @@ metadata:
     studio: C-Station
     seasons:
       0:
-        user_rating: 0.1
+        season_label: unwanted
       1:
         title: "Yuru Camp△"
         user_rating: 8.27
