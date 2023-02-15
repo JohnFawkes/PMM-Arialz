@@ -694,28 +694,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen,Gag Humor,Historical,Parody,Samurai
     label.remove: Ongoing
     studio: Sunrise
-    seasons:
-      1:
-        title: "Gintama"
-        user_rating: 8.94
-        label: score
-      5:
-        title: "Gintama'"
-        user_rating: 9.04
-        label: score
-      6:
-        title: "Gintama': Enchousen"
-        user_rating: 9.03
-        label: score
-      7:
-        title: "Gintama°"
-        user_rating: 9.07
-        label: score
-      8:
-        title: "Gintama."
-        user_rating: 8.99
-        label: score
-    user_rating: 4.50
+    user_rating: 8.94
   262098:
     title: "Girls und Panzer"
     sort_title: "Girls und Panzer"
@@ -2062,12 +2041,7 @@ metadata:
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
     studio: Toei Animation
-    seasons:
-      1:
-        title: "SLAM DUNK"
-        user_rating: 8.54
-        label: score
-    user_rating: 2.13
+    user_rating: 8.54
   401233:
     title: "Sono Bisque Doll wa Koi wo Suru"
     sort_title: "Sono Bisque Doll wa Koi wo Suru"
@@ -2365,12 +2339,7 @@ metadata:
     genre.sync: Anime,Comedy,Sci-Fi,Seinen,Adult Cast,Space,Workplace
     label.remove: Ongoing
     studio: A-1 Pictures
-    seasons:
-      1:
-        title: "Uchuu Kyoudai"
-        user_rating: 8.5
-        label: score
-    user_rating: 4.25
+    user_rating: 8.5
   315094:
     title: "Udon no Kuni no Kiniro Kemari"
     sort_title: "Udon no Kuni no Kiniro Kemari"
