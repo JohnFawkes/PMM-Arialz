@@ -8,23 +8,23 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
-        season_label: unwanted
+        label: unwanted
       2:
-        season_label: unwanted
+        label: unwanted
       3:
-        season_label: unwanted
+        label: unwanted
       4:
-        season_label: unwanted
+        label: unwanted
       5:
-        season_label: unwanted
+        label: unwanted
       6:
-        season_label: unwanted
+        label: unwanted
       7:
-        season_label: unwanted
+        label: unwanted
       8:
-        season_label: unwanted
+        label: unwanted
     user_rating: 7.58
   79685:
     title: "Hajime no Ippo"
@@ -35,16 +35,19 @@ metadata:
     studio: Madhouse
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Hajime no Ippo: THE FIGHTING!"
         user_rating: 8.75
+        label: wanted
       2:
         title: "Hajime no Ippo: New Challenger"
         user_rating: 8.66
+        label: wanted
       3:
         title: "Hajime no Ippo: Rising"
         user_rating: 8.59
+        label: wanted
     user_rating: 8.66
   76013:
     title: "Major"
@@ -55,25 +58,31 @@ metadata:
     studio: Studio Hibari
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Major S1"
         user_rating: 8.22
+        label: wanted
       2:
         title: "Major S2"
         user_rating: 8.2
+        label: wanted
       3:
         title: "Major S3"
         user_rating: 8.23
+        label: wanted
       4:
         title: "Major S4"
         user_rating: 8.2
+        label: wanted
       5:
         title: "Major S5"
         user_rating: 8.41
+        label: wanted
       6:
         title: "Major S6"
         user_rating: 8.33
+        label: wanted
     user_rating: 8.26
   306269:
     title: "3-gatsu no Lion"
@@ -86,9 +95,11 @@ metadata:
       1:
         title: "3-gatsu no Lion"
         user_rating: 8.39
+        label: wanted
       2:
         title: "3-gatsu no Lion 2"
         user_rating: 8.94
+        label: wanted
     user_rating: 8.66
   378609:
     title: "86: Eighty Six"
@@ -101,6 +112,7 @@ metadata:
       1:
         title: "86: Eighty Six"
         user_rating: 8.27
+        label: wanted
     user_rating: 8.27
   319983:
     title: "ACCA: 13-ku Kansatsu-ka"
@@ -113,6 +125,7 @@ metadata:
       1:
         title: "ACCA: 13-ku Kansatsu-ka"
         user_rating: 7.67
+        label: wanted
     user_rating: 7.67
   421676:
     title: "Akiba Meido Sensou"
@@ -125,6 +138,7 @@ metadata:
       1:
         title: "Akiba Meido Sensou"
         user_rating: 7.68
+        label: wanted
     user_rating: 7.68
   411821:
     title: "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
@@ -137,6 +151,7 @@ metadata:
       1:
         title: "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
         user_rating: 7.26
+        label: wanted
     user_rating: 7.26
   279827:
     title: "Aldnoah.Zero"
@@ -149,6 +164,7 @@ metadata:
       1:
         title: "Aldnoah.Zero"
         user_rating: 7.4
+        label: wanted
     user_rating: 7.40
   348706:
     title: "Angolmois: Genkou Kassenki"
@@ -161,6 +177,7 @@ metadata:
       1:
         title: "Angolmois: Genkou Kassenki"
         user_rating: 7.13
+        label: wanted
     user_rating: 7.13
   248035:
     title: "Ao no Exorcist"
@@ -171,13 +188,15 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Ao no Exorcist"
         user_rating: 7.5
+        label: wanted
       2:
         title: "Ao no Exorcist: Kyoto Fujouou-hen"
         user_rating: 7.36
+        label: wanted
     user_rating: 7.43
   407840:
     title: "Aoashi"
@@ -190,6 +209,7 @@ metadata:
       1:
         title: "Aoashi"
         user_rating: 8.27
+        label: wanted
     user_rating: 8.27
   411800:
     title: "Arknights: Reimei Zensou"
@@ -202,6 +222,7 @@ metadata:
       1:
         title: "Arknights: Reimei Zensou"
         user_rating: 7.18
+        label: wanted
     user_rating: 7.18
   425368:
     title: "Ars no Kyojuu"
@@ -214,6 +235,7 @@ metadata:
       1:
         title: "Ars no Kyojuu"
         user_rating: 6.67
+        label: wanted
     user_rating: 6.67
   291630:
     title: "Arslan Senki (TV)"
@@ -226,9 +248,11 @@ metadata:
       1:
         title: "Arslan Senki (TV)"
         user_rating: 7.66
+        label: wanted
       2:
         title: "Arslan Senki: Fuujin Ranbu"
         user_rating: 7.5
+        label: wanted
     user_rating: 7.58
   79077:
     title: "Azumanga Daiou THE ANIMATION"
@@ -241,6 +265,7 @@ metadata:
       1:
         title: "Azumanga Daiou THE ANIMATION"
         user_rating: 7.98
+        label: wanted
     user_rating: 7.98
   278152:
     title: "Baby Steps"
@@ -253,9 +278,11 @@ metadata:
       1:
         title: "Baby Steps"
         user_rating: 7.81
+        label: wanted
       2:
         title: "Baby Steps 2"
         user_rating: 8.02
+        label: wanted
     user_rating: 7.91
   193811:
     title: "Bakuman."
@@ -268,12 +295,15 @@ metadata:
       1:
         title: "Bakuman."
         user_rating: 8.19
+        label: wanted
       2:
         title: "Bakuman. 2"
         user_rating: 8.35
+        label: wanted
       3:
         title: "Bakuman. 3"
         user_rating: 8.54
+        label: wanted
     user_rating: 8.36
   281270:
     title: "Barakamon"
@@ -286,6 +316,7 @@ metadata:
       1:
         title: "Barakamon"
         user_rating: 8.38
+        label: wanted
     user_rating: 8.38
   361013:
     title: "BEASTARS"
@@ -298,9 +329,11 @@ metadata:
       1:
         title: "BEASTARS"
         user_rating: 7.85
+        label: wanted
       2:
         title: "BEASTARS 2"
         user_rating: 7.82
+        label: wanted
     user_rating: 7.83
   219771:
     title: "Beelzebub"
@@ -313,6 +346,7 @@ metadata:
       1:
         title: "Beelzebub"
         user_rating: 7.86
+        label: wanted
     user_rating: 7.86
   414845:
     title: "Benriya Saitou-san, Isekai ni Iku"
@@ -325,6 +359,7 @@ metadata:
       1:
         title: "Benriya Saitou-san, Isekai ni Iku"
         user_rating: 7.18
+        label: wanted
     user_rating: 7.18
   331753:
     title: "Black Clover"
@@ -337,6 +372,7 @@ metadata:
       1:
         title: "Black Clover"
         user_rating: 8.14
+        label: wanted
     user_rating: 8.14
   74796:
     title: "BLEACH"
@@ -347,39 +383,39 @@ metadata:
     studio: Pierrot
     seasons:
       1:
-        season_label: unwanted
+        label: unwanted
       2:
-        season_label: unwanted
+        label: unwanted
       3:
-        season_label: unwanted
+        label: unwanted
       4:
-        season_label: unwanted
+        label: unwanted
       5:
-        season_label: unwanted
+        label: unwanted
       6:
-        season_label: unwanted
+        label: unwanted
       7:
-        season_label: unwanted
+        label: unwanted
       8:
-        season_label: unwanted
+        label: unwanted
       9:
-        season_label: unwanted
+        label: unwanted
       10:
-        season_label: unwanted
+        label: unwanted
       11:
-        season_label: unwanted
+        label: unwanted
       12:
-        season_label: unwanted
+        label: unwanted
       13:
-        season_label: unwanted
+        label: unwanted
       14:
-        season_label: unwanted
+        label: unwanted
       15:
-        season_label: unwanted
+        label: unwanted
       16:
-        season_label: unwanted
+        label: unwanted
       17:
-        season_label: unwanted
+        label: unwanted
     user_rating: 7.9
   408629:
     title: "Blue Lock"
@@ -392,6 +428,7 @@ metadata:
       1:
         title: "Blue Lock"
         user_rating: 8.28
+        label: wanted
     user_rating: 8.28
   413522:
     title: "Bocchi the Rock!"
@@ -404,6 +441,7 @@ metadata:
       1:
         title: "Bocchi the Rock!"
         user_rating: 8.94
+        label: wanted
     user_rating: 8.94
   303071:
     title: "Boku dake ga Inai Machi"
@@ -416,6 +454,7 @@ metadata:
       1:
         title: "Boku dake ga Inai Machi"
         user_rating: 8.31
+        label: wanted
     user_rating: 8.31
   305074:
     title: "Boku no Hero Academia"
@@ -428,21 +467,27 @@ metadata:
       1:
         title: "Boku no Hero Academia"
         user_rating: 7.91
+        label: wanted
       2:
         title: "Boku no Hero Academia 2"
         user_rating: 8.13
+        label: wanted
       3:
         title: "Boku no Hero Academia 3"
         user_rating: 8.06
+        label: wanted
       4:
         title: "Boku no Hero Academia 4"
         user_rating: 7.92
+        label: wanted
       5:
         title: "Boku no Hero Academia 5"
         user_rating: 7.4
+        label: wanted
       6:
         title: "Boku no Hero Academia 6"
         user_rating: 8.29
+        label: wanted
     user_rating: 7.95
   426294:
     title: "Buddy Daddies"
@@ -455,6 +500,7 @@ metadata:
       1:
         title: "Buddy Daddies"
         user_rating: 7.77
+        label: wanted
     user_rating: 7.77
   305075:
     title: "Bungou Stray Dogs"
@@ -465,16 +511,19 @@ metadata:
     studio: Bones
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Bungou Stray Dogs"
         user_rating: 7.82
+        label: wanted
       2:
         title: "Bungou Stray Dogs 3rd Season"
         user_rating: 8.22
+        label: wanted
       3:
         title: "Bungou Stray Dogs 4th Season"
         user_rating: 8.61
+        label: wanted
     user_rating: 8.21
   83316:
     title: "Casshern Sins"
@@ -487,6 +536,7 @@ metadata:
       1:
         title: "Casshern Sins"
         user_rating: 7.51
+        label: wanted
     user_rating: 7.51
   397934:
     title: "Chainsaw Man"
@@ -499,6 +549,7 @@ metadata:
       1:
         title: "Chainsaw Man"
         user_rating: 8.66
+        label: wanted
     user_rating: 8.66
   289679:
     title: "Charlotte"
@@ -509,10 +560,11 @@ metadata:
     studio: P.A. Works
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Charlotte"
         user_rating: 7.75
+        label: wanted
     user_rating: 7.75
   251982:
     title: "Chihayafuru"
@@ -523,16 +575,19 @@ metadata:
     studio: Madhouse
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Chihayafuru"
         user_rating: 8.19
+        label: wanted
       2:
         title: "Chihayafuru 2"
         user_rating: 8.39
+        label: wanted
       3:
         title: "Chihayafuru 3"
         user_rating: 8.47
+        label: wanted
     user_rating: 8.35
   413555:
     title: "Chikyuugai Shounen Shoujo"
@@ -545,6 +600,7 @@ metadata:
       1:
         title: "Chikyuugai Shounen Shoujo"
         user_rating: 6.87
+        label: wanted
     user_rating: 6.87
   261862:
     title: "Chuunibyou demo Koi ga Shitai!"
@@ -555,13 +611,15 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Chuunibyou demo Koi ga Shitai!"
         user_rating: 7.71
+        label: wanted
       2:
         title: "Chuunibyou demo Koi ga Shitai! Ren"
         user_rating: 7.55
+        label: wanted
     user_rating: 7.63
   79995:
     title: "CLAYMORE"
@@ -574,6 +632,7 @@ metadata:
       1:
         title: "CLAYMORE"
         user_rating: 7.74
+        label: wanted
     user_rating: 7.74
   79525:
     title: "Code Geass: Hangyaku no Lelouch"
@@ -586,9 +645,11 @@ metadata:
       1:
         title: "Code Geass: Hangyaku no Lelouch"
         user_rating: 8.7
+        label: wanted
       2:
         title: "Code Geass: Hangyaku no Lelouch R2"
         user_rating: 8.91
+        label: wanted
     user_rating: 8.80
   384541:
     title: "Cyberpunk: Edgerunners"
@@ -601,6 +662,7 @@ metadata:
       1:
         title: "Cyberpunk: Edgerunners"
         user_rating: 8.62
+        label: wanted
     user_rating: 8.62
   79635:
     title: "D.Gray-man"
@@ -611,9 +673,9 @@ metadata:
     studio: TMS Entertainment
     seasons:
       1:
-        season_label: unwanted
+        label: unwanted
       2:
-        season_label: unwanted
+        label: unwanted
     user_rating: 8.02
   312878:
     title: "D.Gray-man HALLOW"
@@ -626,6 +688,7 @@ metadata:
       1:
         title: "D.Gray-man HALLOW"
         user_rating: 7.7
+        label: wanted
     user_rating: 7.70
   80042:
     title: "DARKER THAN BLACK: Kuro no Keiyakusha"
@@ -636,13 +699,15 @@ metadata:
     studio: Bones
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "DARKER THAN BLACK: Kuro no Keiyakusha"
         user_rating: 8.07
+        label: wanted
       2:
         title: "DARKER THAN BLACK: Ryuusei no Gemini"
         user_rating: 7.44
+        label: wanted
     user_rating: 7.75
   378878:
     title: "Deca-Dence"
@@ -655,6 +720,7 @@ metadata:
       1:
         title: "Deca-Dence"
         user_rating: 7.38
+        label: wanted
     user_rating: 7.38
   273005:
     title: "Diamond no Ace"
@@ -665,16 +731,19 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Diamond no Ace"
         user_rating: 8.11
+        label: wanted
       2:
         title: "Diamond no Ace: Second Season"
         user_rating: 8.3
+        label: wanted
       3:
         title: "Diamond no Ace Act II"
         user_rating: 8.26
+        label: wanted
     user_rating: 8.22
   354170:
     title: "Domestic na Kanojo"
@@ -687,6 +756,7 @@ metadata:
       1:
         title: "Domestic na Kanojo"
         user_rating: 6.68
+        label: wanted
     user_rating: 6.68
   370761:
     title: "Dorohedoro"
@@ -699,6 +769,7 @@ metadata:
       1:
         title: "Dorohedoro"
         user_rating: 8.06
+        label: wanted
     user_rating: 8.06
   355774:
     title: "Dr. STONE"
@@ -709,13 +780,15 @@ metadata:
     studio: TMS Entertainment
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Dr. STONE"
         user_rating: 8.29
+        label: wanted
       2:
         title: "Dr. STONE: STONE WARS"
         user_rating: 8.18
+        label: wanted
     user_rating: 8.23
   289882:
     title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
@@ -726,19 +799,23 @@ metadata:
     studio: J.C.Staff
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
         user_rating: 7.55
+        label: wanted
       2:
         title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II"
         user_rating: 7.23
+        label: wanted
       3:
         title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III"
         user_rating: 7.46
+        label: wanted
       4:
         title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen"
         user_rating: 7.68
+        label: wanted
     user_rating: 7.48
   412957:
     title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
@@ -751,6 +828,7 @@ metadata:
       1:
         title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
         user_rating: 7.22
+        label: wanted
     user_rating: 7.22
   355480:
     title: "Enen no Shouboutai"
@@ -763,9 +841,11 @@ metadata:
       1:
         title: "Enen no Shouboutai"
         user_rating: 7.71
+        label: wanted
       2:
         title: "Enen no Shouboutai: Ni no Shou"
         user_rating: 7.8
+        label: wanted
     user_rating: 7.75
   278626:
     title: "Fate/stay night: Unlimited Blade Works"
@@ -776,10 +856,11 @@ metadata:
     studio: ufotable
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Fate/stay night: Unlimited Blade Works"
         user_rating: 8.19
+        label: wanted
     user_rating: 8.19
   375271:
     title: "Fumetsu no Anata e"
@@ -792,9 +873,11 @@ metadata:
       1:
         title: "Fumetsu no Anata e"
         user_rating: 8.37
+        label: wanted
       2:
         title: "Fumetsu no Anata e Season 2"
         user_rating: 7.97
+        label: wanted
     user_rating: 8.17
   79178:
     title: "Gankutsuou"
@@ -807,6 +890,7 @@ metadata:
       1:
         title: "Gankutsuou"
         user_rating: 8.14
+        label: wanted
     user_rating: 8.14
   279804:
     title: "Gekkan Shoujo Nozaki-kun"
@@ -819,6 +903,7 @@ metadata:
       1:
         title: "Gekkan Shoujo Nozaki-kun"
         user_rating: 7.84
+        label: wanted
     user_rating: 7.84
   389422:
     title: "Genjitsu Shugi Yuusha no Oukoku Saikenki"
@@ -831,6 +916,7 @@ metadata:
       1:
         title: "Genjitsu Shugi Yuusha no Oukoku Saikenki"
         user_rating: 7.24
+        label: wanted
     user_rating: 7.24
   267246:
     title: "Gin no Saji"
@@ -843,9 +929,11 @@ metadata:
       1:
         title: "Gin no Saji"
         user_rating: 8.09
+        label: wanted
       2:
         title: "Gin no Saji 2"
         user_rating: 8.28
+        label: wanted
     user_rating: 8.18
   79895:
     title: "Gintama"
@@ -856,22 +944,27 @@ metadata:
     studio: Sunrise
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Gintama"
         user_rating: 8.94
+        label: wanted
       5:
         title: "Gintama'"
         user_rating: 9.04
+        label: wanted
       6:
         title: "Gintama': Enchousen"
         user_rating: 9.03
+        label: wanted
       7:
         title: "Gintama°"
         user_rating: 9.07
+        label: wanted
       8:
         title: "Gintama."
         user_rating: 8.99
+        label: wanted
     user_rating: 4.50
   262098:
     title: "Girls und Panzer"
@@ -882,10 +975,11 @@ metadata:
     studio: Actas
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Girls und Panzer"
         user_rating: 7.52
+        label: wanted
     user_rating: 7.52
   355966:
     title: "Go-toubun no Hanayome"
@@ -896,13 +990,15 @@ metadata:
     studio: Tezuka Productions
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Go-toubun no Hanayome"
         user_rating: 7.67
+        label: wanted
       2:
         title: "Go-toubun no Hanayome ∬"
         user_rating: 8.09
+        label: wanted
     user_rating: 7.88
   338455:
     title: "Golden Kamuy"
@@ -915,15 +1011,19 @@ metadata:
       1:
         title: "Golden Kamuy"
         user_rating: 7.87
+        label: wanted
       2:
         title: "Golden Kamuy 2nd Season"
         user_rating: 8.24
+        label: wanted
       3:
         title: "Golden Kamuy 3rd Season"
         user_rating: 8.45
+        label: wanted
       4:
         title: "Golden Kamuy 4th Season"
         user_rating: 8.27
+        label: wanted
     user_rating: 8.20
   343913:
     title: "Grand Blue"
@@ -936,6 +1036,7 @@ metadata:
       1:
         title: "Grand Blue"
         user_rating: 8.43
+        label: wanted
     user_rating: 8.43
   85249:
     title: "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
@@ -946,10 +1047,11 @@ metadata:
     studio: Bones
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
         user_rating: 9.11
+        label: wanted
     user_rating: 9.11
   303868:
     title: "Hai to Gensou no Grimgar"
@@ -960,10 +1062,11 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Hai to Gensou no Grimgar"
         user_rating: 7.65
+        label: wanted
     user_rating: 7.65
   79105:
     title: "Haibane Renmei"
@@ -976,6 +1079,7 @@ metadata:
       1:
         title: "Haibane Renmei"
         user_rating: 7.97
+        label: wanted
     user_rating: 7.97
   278157:
     title: "Haikyuu!!"
@@ -986,19 +1090,23 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Haikyuu!!"
         user_rating: 8.44
+        label: wanted
       2:
         title: "Haikyuu!! 2nd Season"
         user_rating: 8.64
+        label: wanted
       3:
         title: "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
         user_rating: 8.78
+        label: wanted
       4:
         title: "Haikyuu!! TO THE TOP"
         user_rating: 8.36
+        label: wanted
     user_rating: 8.55
   267441:
     title: "Hataraku Maou-sama!"
@@ -1011,9 +1119,11 @@ metadata:
       1:
         title: "Hataraku Maou-sama!"
         user_rating: 7.76
+        label: wanted
       2:
         title: "Hataraku Maou-sama!!"
         user_rating: 6.67
+        label: wanted
     user_rating: 7.21
   401856:
     title: "Heion Sedai no Idaten-tachi"
@@ -1026,6 +1136,7 @@ metadata:
       1:
         title: "Heion Sedai no Idaten-tachi"
         user_rating: 7.65
+        label: wanted
     user_rating: 7.65
   263688:
     title: "HELLSING OVA"
@@ -1038,6 +1149,7 @@ metadata:
       1:
         title: "HELLSING OVA"
         user_rating: 8.36
+        label: wanted
     user_rating: 8.36
   404525:
     title: "HIGH CARD"
@@ -1050,6 +1162,7 @@ metadata:
       1:
         title: "HIGH CARD"
         user_rating: 7.34
+        label: wanted
     user_rating: 7.34
   306743:
     title: "High School Fleet"
@@ -1060,10 +1173,11 @@ metadata:
     studio: Production IMS
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "High School Fleet"
         user_rating: 7.3
+        label: wanted
     user_rating: 7.30
   402607:
     title: "Hikari no Ou"
@@ -1076,6 +1190,7 @@ metadata:
       1:
         title: "Hikari no Ou"
         user_rating: 6.81
+        label: wanted
     user_rating: 6.81
   293121:
     title: "Himouto! Umaru-chan"
@@ -1086,13 +1201,15 @@ metadata:
     studio: Doga Kobo
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Himouto! Umaru-chan"
         user_rating: 7.12
+        label: wanted
       2:
         title: "Himouto! Umaru-chan R"
         user_rating: 7.33
+        label: wanted
     user_rating: 7.22
   366263:
     title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
@@ -1103,10 +1220,11 @@ metadata:
     studio: Ajia-do
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
         user_rating: 8
+        label: wanted
     user_rating: 8.00
   388593:
     title: "Horimiya"
@@ -1119,6 +1237,7 @@ metadata:
       1:
         title: "Horimiya"
         user_rating: 8.2
+        label: wanted
     user_rating: 8.20
   369141:
     title: "Hoshiai no Sora"
@@ -1131,6 +1250,7 @@ metadata:
       1:
         title: "Hoshiai no Sora"
         user_rating: 7.59
+        label: wanted
     user_rating: 7.59
   372361:
     title: "Houkago Teibou Nisshi"
@@ -1143,6 +1263,7 @@ metadata:
       1:
         title: "Houkago Teibou Nisshi"
         user_rating: 7.42
+        label: wanted
     user_rating: 7.42
   331787:
     title: "Houseki no Kuni"
@@ -1155,6 +1276,7 @@ metadata:
       1:
         title: "Houseki no Kuni"
         user_rating: 8.39
+        label: wanted
     user_rating: 8.39
   419502:
     title: "Hyouken no Majutsushi ga Sekai wo Suberu"
@@ -1167,6 +1289,7 @@ metadata:
       1:
         title: "Hyouken no Majutsushi ga Sekai wo Suberu"
         user_rating: 6.53
+        label: wanted
     user_rating: 6.53
   370377:
     title: "ID: INVADED"
@@ -1179,6 +1302,7 @@ metadata:
       1:
         title: "ID: INVADED"
         user_rating: 7.84
+        label: wanted
     user_rating: 7.84
   385278:
     title: "Ijiranaide, Nagatoro-san"
@@ -1191,9 +1315,11 @@ metadata:
       1:
         title: "Ijiranaide, Nagatoro-san"
         user_rating: 7.33
+        label: wanted
       2:
         title: "Ijiranaide, Nagatoro-san 2nd Attack"
         user_rating: 7.45
+        label: wanted
     user_rating: 7.39
   255133:
     title: "Inu x Boku SS"
@@ -1204,10 +1330,11 @@ metadata:
     studio: David Production
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Inu x Boku SS"
         user_rating: 7.39
+        label: wanted
     user_rating: 7.39
   71361:
     title: "Inuyasha"
@@ -1218,17 +1345,17 @@ metadata:
     studio: Sunrise
     seasons:
       1:
-        season_label: unwanted
+        label: unwanted
       2:
-        season_label: unwanted
+        label: unwanted
       3:
-        season_label: unwanted
+        label: unwanted
       4:
-        season_label: unwanted
+        label: unwanted
       5:
-        season_label: unwanted
+        label: unwanted
       6:
-        season_label: unwanted
+        label: unwanted
     user_rating: 7.86
   104741:
     title: "Isekai no Seikishi Monogatari"
@@ -1241,6 +1368,7 @@ metadata:
       1:
         title: "Isekai no Seikishi Monogatari"
         user_rating: 7.76
+        label: wanted
     user_rating: 7.76
   405214:
     title: "Isekai Oji-san"
@@ -1253,6 +1381,7 @@ metadata:
       1:
         title: "Isekai Oji-san"
         user_rating: 7.84
+        label: wanted
     user_rating: 7.84
   406592:
     title: "Isekai Yakkyoku"
@@ -1265,6 +1394,7 @@ metadata:
       1:
         title: "Isekai Yakkyoku"
         user_rating: 7.33
+        label: wanted
     user_rating: 7.33
   373679:
     title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
@@ -1277,9 +1407,11 @@ metadata:
       1:
         title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
         user_rating: 7.56
+        label: wanted
       2:
         title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2"
         user_rating: 7.48
+        label: wanted
     user_rating: 7.52
   257756:
     title: "Jormungand"
@@ -1292,6 +1424,7 @@ metadata:
       1:
         title: "Jormungand"
         user_rating: 7.81
+        label: wanted
     user_rating: 7.81
   377543:
     title: "Jujutsu Kaisen"
@@ -1304,6 +1437,7 @@ metadata:
       1:
         title: "Jujutsu Kaisen"
         user_rating: 8.65
+        label: wanted
     user_rating: 8.65
   407520:
     title: "Kage no Jitsuryokusha ni Naritakute!"
@@ -1316,6 +1450,7 @@ metadata:
       1:
         title: "Kage no Jitsuryokusha ni Naritakute!"
         user_rating: 7.99
+        label: wanted
     user_rating: 7.99
   354198:
     title: "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
@@ -1328,12 +1463,15 @@ metadata:
       1:
         title: "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
         user_rating: 8.41
+        label: wanted
       2:
         title: "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
         user_rating: 8.64
+        label: wanted
       3:
         title: "Kaguya-sama wa Kokurasetai: Ultra Romantic"
         user_rating: 9.07
+        label: wanted
     user_rating: 8.70
   422564:
     title: "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
@@ -1346,6 +1484,7 @@ metadata:
       1:
         title: "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
         user_rating: 6.81
+        label: wanted
     user_rating: 6.81
   376729:
     title: "Kami no Tou: Tower of God"
@@ -1358,6 +1497,7 @@ metadata:
       1:
         title: "Kami no Tou: Tower of God"
         user_rating: 7.56
+        label: wanted
     user_rating: 7.56
   262106:
     title: "Kamisama Hajimemashita"
@@ -1368,13 +1508,15 @@ metadata:
     studio: TMS Entertainment
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Kamisama Hajimemashita"
         user_rating: 8.09
+        label: wanted
       2:
         title: "Kamisama Hajimemashita◎"
         user_rating: 8.2
+        label: wanted
     user_rating: 8.14
   380477:
     title: "Kamitachi ni Hirowareta Otoko"
@@ -1387,9 +1529,11 @@ metadata:
       1:
         title: "Kamitachi ni Hirowareta Otoko"
         user_rating: 6.98
+        label: wanted
       2:
         title: "Kamitachi ni Hirowareta Otoko 2"
         user_rating: 7.17
+        label: wanted
     user_rating: 7.07
   132941:
     title: "Katanagatari"
@@ -1402,6 +1546,7 @@ metadata:
       1:
         title: "Katanagatari"
         user_rating: 8.32
+        label: wanted
     user_rating: 8.32
   352853:
     title: "Kaze ga Tsuyoku Fuiteiru"
@@ -1414,6 +1559,7 @@ metadata:
       1:
         title: "Kaze ga Tsuyoku Fuiteiru"
         user_rating: 8.4
+        label: wanted
     user_rating: 8.40
   390382:
     title: "Kemono Jihen"
@@ -1426,6 +1572,7 @@ metadata:
       1:
         title: "Kemono Jihen"
         user_rating: 7.4
+        label: wanted
     user_rating: 7.40
   80675:
     title: "Kidou Senshi Gundam 00"
@@ -1438,9 +1585,11 @@ metadata:
       1:
         title: "Kidou Senshi Gundam 00"
         user_rating: 8.11
+        label: wanted
       2:
         title: "Kidou Senshi Gundam 00 2nd Season"
         user_rating: 8.08
+        label: wanted
     user_rating: 8.09
   403849:
     title: "Kidou Senshi Gundam UC"
@@ -1453,6 +1602,7 @@ metadata:
       1:
         title: "Kidou Senshi Gundam UC"
         user_rating: 8.1
+        label: wanted
     user_rating: 8.10
   418364:
     title: "Kidou Senshi Gundam: Suisei no Majo"
@@ -1463,10 +1613,11 @@ metadata:
     studio: Sunrise
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Kidou Senshi Gundam: Suisei no Majo"
         user_rating: 7.94
+        label: wanted
     user_rating: 7.94
   299497:
     title: "Kidou Senshi Gundam: Tekketsu no Orphans"
@@ -1479,9 +1630,11 @@ metadata:
       1:
         title: "Kidou Senshi Gundam: Tekketsu no Orphans"
         user_rating: 8.05
+        label: wanted
       2:
         title: "Kidou Senshi Gundam: Tekketsu no Orphans 2"
         user_rating: 8.23
+        label: wanted
     user_rating: 8.14
   272074:
     title: "Kill la Kill"
@@ -1492,10 +1645,11 @@ metadata:
     studio: Trigger
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Kill la Kill"
         user_rating: 8.04
+        label: wanted
     user_rating: 8.04
   348545:
     title: "Kimetsu no Yaiba"
@@ -1508,12 +1662,15 @@ metadata:
       1:
         title: "Kimetsu no Yaiba"
         user_rating: 8.52
+        label: wanted
       2:
         title: "Kimetsu no Yaiba: Mugen Ressha-hen (TV)"
         user_rating: 8.38
+        label: wanted
       3:
         title: "Kimetsu no Yaiba: Yuukaku-hen"
         user_rating: 8.82
+        label: wanted
     user_rating: 8.57
   387027:
     title: "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
@@ -1526,6 +1683,7 @@ metadata:
       1:
         title: "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
         user_rating: 6.64
+        label: wanted
     user_rating: 6.64
   259635:
     title: "Kingdom"
@@ -1538,15 +1696,19 @@ metadata:
       1:
         title: "Kingdom"
         user_rating: 7.94
+        label: wanted
       2:
         title: "Kingdom 2nd Season"
         user_rating: 8.33
+        label: wanted
       3:
         title: "Kingdom 3rd Season"
         user_rating: 8.82
+        label: wanted
       4:
         title: "Kingdom 4th Season"
         user_rating: 8.75
+        label: wanted
     user_rating: 8.46
   279831:
     title: "Kiseijuu: Sei no Kakuritsu"
@@ -1559,6 +1721,7 @@ metadata:
       1:
         title: "Kiseijuu: Sei no Kakuritsu"
         user_rating: 8.34
+        label: wanted
     user_rating: 8.34
   318893:
     title: "Kobayashi-san Chi no Maidragon"
@@ -1571,9 +1734,11 @@ metadata:
       1:
         title: "Kobayashi-san Chi no Maidragon"
         user_rating: 7.98
+        label: wanted
       2:
         title: "Kobayashi-san Chi no Maidragon S"
         user_rating: 8.32
+        label: wanted
     user_rating: 8.15
   358181:
     title: "Kono Oto Tomare!"
@@ -1586,6 +1751,7 @@ metadata:
       1:
         title: "Kono Oto Tomare!"
         user_rating: 7.92
+        label: wanted
     user_rating: 7.92
   303867:
     title: "Kono Subarashii Sekai ni Shukufuku wo!"
@@ -1596,13 +1762,15 @@ metadata:
     studio: Studio Deen
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Kono Subarashii Sekai ni Shukufuku wo!"
         user_rating: 8.12
+        label: wanted
       2:
         title: "Kono Subarashii Sekai ni Shukufuku wo! 2"
         user_rating: 8.27
+        label: wanted
     user_rating: 8.19
   421514:
     title: "Koori Zokusei Danshi to Cool na Douryou Joshi"
@@ -1615,6 +1783,7 @@ metadata:
       1:
         title: "Koori Zokusei Danshi to Cool na Douryou Joshi"
         user_rating: 7.41
+        label: wanted
     user_rating: 7.41
   413515:
     title: "Koukyuu no Karasu"
@@ -1627,6 +1796,7 @@ metadata:
       1:
         title: "Koukyuu no Karasu"
         user_rating: 7.51
+        label: wanted
     user_rating: 7.51
   305082:
     title: "Koutetsujou no Kabaneri"
@@ -1639,6 +1809,7 @@ metadata:
       1:
         title: "Koutetsujou no Kabaneri"
         user_rating: 7.27
+        label: wanted
     user_rating: 7.27
   409723:
     title: "Kumichou Musume to Sewagakari"
@@ -1651,6 +1822,7 @@ metadata:
       1:
         title: "Kumichou Musume to Sewagakari"
         user_rating: 7.78
+        label: wanted
     user_rating: 7.78
   377902:
     title: "Kumo desu ga, Nani ka?"
@@ -1663,6 +1835,7 @@ metadata:
       1:
         title: "Kumo desu ga, Nani ka?"
         user_rating: 7.45
+        label: wanted
     user_rating: 7.45
   416588:
     title: "Kuro no Shoukanshi"
@@ -1675,6 +1848,7 @@ metadata:
       1:
         title: "Kuro no Shoukanshi"
         user_rating: 7.12
+        label: wanted
     user_rating: 7.12
   257765:
     title: "Kuroko no Basket"
@@ -1687,12 +1861,15 @@ metadata:
       1:
         title: "Kuroko no Basket"
         user_rating: 8.07
+        label: wanted
       2:
         title: "Kuroko no Basket 2nd Season"
         user_rating: 8.22
+        label: wanted
       3:
         title: "Kuroko no Basket 3rd Season"
         user_rating: 8.3
+        label: wanted
     user_rating: 8.19
   368565:
     title: "Kyokou Suiri"
@@ -1705,9 +1882,11 @@ metadata:
       1:
         title: "Kyokou Suiri"
         user_rating: 6.91
+        label: wanted
       2:
         title: "Kyokou Suiri Season 2"
         user_rating: 7.54
+        label: wanted
     user_rating: 7.22
   272697:
     title: "Kyoukai no Kanata"
@@ -1718,10 +1897,11 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Kyoukai no Kanata"
         user_rating: 7.73
+        label: wanted
     user_rating: 7.73
   414057:
     title: "Lycoris Recoil"
@@ -1734,6 +1914,7 @@ metadata:
       1:
         title: "Lycoris Recoil"
         user_rating: 8.22
+        label: wanted
     user_rating: 8.22
   363143:
     title: "Machikado Mazoku"
@@ -1744,13 +1925,15 @@ metadata:
     studio: J.C.Staff
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Machikado Mazoku"
         user_rating: 7.65
+        label: wanted
       2:
         title: "Machikado Mazoku: 2-Choume"
         user_rating: 7.87
+        label: wanted
     user_rating: 7.76
   326109:
     title: "Made in Abyss"
@@ -1763,9 +1946,11 @@ metadata:
       1:
         title: "Made in Abyss"
         user_rating: 8.67
+        label: wanted
       2:
         title: "Made in Abyss: Retsujitsu no Ougonkyou"
         user_rating: 8.68
+        label: wanted
     user_rating: 8.67
   262094:
     title: "Magi: The labyrinth of magic"
@@ -1778,9 +1963,11 @@ metadata:
       1:
         title: "Magi: The labyrinth of magic"
         user_rating: 8.02
+        label: wanted
       2:
         title: "Magi: The kingdom of magic"
         user_rating: 8.22
+        label: wanted
     user_rating: 8.12
   278329:
     title: "Mahouka Koukou no Rettousei"
@@ -1793,9 +1980,11 @@ metadata:
       1:
         title: "Mahouka Koukou no Rettousei"
         user_rating: 7.42
+        label: wanted
       2:
         title: "Mahouka Koukou no Rettousei: Raihousha-hen"
         user_rating: 7.29
+        label: wanted
     user_rating: 7.35
   394013:
     title: "Mahouka Koukou no Yuutousei"
@@ -1808,6 +1997,7 @@ metadata:
       1:
         title: "Mahouka Koukou no Yuutousei"
         user_rating: 6.64
+        label: wanted
     user_rating: 6.64
   369144:
     title: "Mairimashita! Iruma-kun"
@@ -1820,12 +2010,15 @@ metadata:
       1:
         title: "Mairimashita! Iruma-kun"
         user_rating: 7.75
+        label: wanted
       2:
         title: "Mairimashita! Iruma-kun 2"
         user_rating: 8.07
+        label: wanted
       3:
         title: "Mairimashita! Iruma-kun 3"
         user_rating: 7.98
+        label: wanted
     user_rating: 7.93
   341436:
     title: "Major 2nd"
@@ -1838,9 +2031,11 @@ metadata:
       1:
         title: "Major 2nd"
         user_rating: 7.4
+        label: wanted
       2:
         title: "Major 2nd Season 2"
         user_rating: 7.48
+        label: wanted
     user_rating: 7.44
   375927:
     title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
@@ -1853,9 +2048,11 @@ metadata:
       1:
         title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
         user_rating: 7.38
+        label: wanted
       2:
         title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II"
         user_rating: 7.26
+        label: wanted
     user_rating: 7.32
   397965:
     title: "Mashiro no Oto"
@@ -1868,6 +2065,7 @@ metadata:
       1:
         title: "Mashiro no Oto"
         user_rating: 7.54
+        label: wanted
     user_rating: 7.54
   307375:
     title: "Mob Psycho 100"
@@ -1878,16 +2076,19 @@ metadata:
     studio: Bones
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Mob Psycho 100"
         user_rating: 8.49
+        label: wanted
       2:
         title: "Mob Psycho 100 II"
         user_rating: 8.81
+        label: wanted
       3:
         title: "Mob Psycho 100 III"
         user_rating: 8.75
+        label: wanted
     user_rating: 8.68
   412626:
     title: "Mononogatari"
@@ -1900,6 +2101,7 @@ metadata:
       1:
         title: "Mononogatari"
         user_rating: 6.61
+        label: wanted
     user_rating: 6.61
   371310:
     title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
@@ -1910,10 +2112,11 @@ metadata:
     studio: Studio Bind
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
         user_rating: 8.37
+        label: wanted
     user_rating: 8.37
   284131:
     title: "Nanatsu no Taizai"
@@ -1924,19 +2127,23 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Nanatsu no Taizai"
         user_rating: 7.68
+        label: wanted
       2:
         title: "Nanatsu no Taizai: Imashime no Fukkatsu"
         user_rating: 7.6
+        label: wanted
       3:
         title: "Nanatsu no Taizai: Kamigami no Gekirin"
         user_rating: 6.45
+        label: wanted
       4:
         title: "Nanatsu no Taizai: Funnu no Shinpan"
         user_rating: 6.58
+        label: wanted
     user_rating: 7.07
   309206:
     title: "Nejimaki Seirei Senki: Tenkyou no Alderamin"
@@ -1949,6 +2156,7 @@ metadata:
       1:
         title: "Nejimaki Seirei Senki: Tenkyou no Alderamin"
         user_rating: 7.66
+        label: wanted
     user_rating: 7.66
   332771:
     title: "Net-juu no Susume"
@@ -1959,10 +2167,11 @@ metadata:
     studio: Signal.MD
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Net-juu no Susume"
         user_rating: 7.55
+        label: wanted
     user_rating: 7.55
   240291:
     title: "Nichijou"
@@ -1973,10 +2182,11 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Nichijou"
         user_rating: 8.46
+        label: wanted
     user_rating: 8.46
   416998:
     title: "NieR:Automata Ver1.1a"
@@ -1989,6 +2199,7 @@ metadata:
       1:
         title: "NieR:Automata Ver1.1a"
         user_rating: 7.48
+        label: wanted
     user_rating: 7.48
   415188:
     title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
@@ -2001,6 +2212,7 @@ metadata:
       1:
         title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
         user_rating: 6.79
+        label: wanted
     user_rating: 6.79
   421893:
     title: "Nokemono-tachi no Yoru"
@@ -2013,6 +2225,7 @@ metadata:
       1:
         title: "Nokemono-tachi no Yoru"
         user_rating: 6.77
+        label: wanted
     user_rating: 6.77
   275610:
     title: "Noragami"
@@ -2023,13 +2236,15 @@ metadata:
     studio: Bones
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Noragami"
         user_rating: 7.96
+        label: wanted
       2:
         title: "Noragami Aragoto"
         user_rating: 8.16
+        label: wanted
     user_rating: 8.06
   81797:
     title: "ONE PIECE"
@@ -2040,49 +2255,49 @@ metadata:
     studio: Toei Animation
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
-        season_label: unwanted
+        label: unwanted
       2:
-        season_label: unwanted
+        label: unwanted
       3:
-        season_label: unwanted
+        label: unwanted
       4:
-        season_label: unwanted
+        label: unwanted
       5:
-        season_label: unwanted
+        label: unwanted
       6:
-        season_label: unwanted
+        label: unwanted
       7:
-        season_label: unwanted
+        label: unwanted
       8:
-        season_label: unwanted
+        label: unwanted
       9:
-        season_label: unwanted
+        label: unwanted
       10:
-        season_label: unwanted
+        label: unwanted
       11:
-        season_label: unwanted
+        label: unwanted
       12:
-        season_label: unwanted
+        label: unwanted
       13:
-        season_label: unwanted
+        label: unwanted
       14:
-        season_label: unwanted
+        label: unwanted
       15:
-        season_label: unwanted
+        label: unwanted
       16:
-        season_label: unwanted
+        label: unwanted
       17:
-        season_label: unwanted
+        label: unwanted
       18:
-        season_label: unwanted
+        label: unwanted
       19:
-        season_label: unwanted
+        label: unwanted
       20:
-        season_label: unwanted
+        label: unwanted
       21:
-        season_label: unwanted
+        label: unwanted
     user_rating: 8.68
   293088:
     title: "One Punch Man"
@@ -2093,13 +2308,15 @@ metadata:
     studio: Madhouse
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "One Punch Man"
         user_rating: 8.5
+        label: wanted
       2:
         title: "One Punch Man 2"
         user_rating: 7.49
+        label: wanted
     user_rating: 7.99
   81178:
     title: "Ookami to Koushinryou"
@@ -2110,13 +2327,15 @@ metadata:
     studio: Imagin
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Ookami to Koushinryou"
         user_rating: 8.23
+        label: wanted
       2:
         title: "Ookami to Koushinryou II"
         user_rating: 8.32
+        label: wanted
     user_rating: 8.27
   414908:
     title: "Ooyukiumi no Kaina"
@@ -2129,6 +2348,7 @@ metadata:
       1:
         title: "Ooyukiumi no Kaina"
         user_rating: 6.92
+        label: wanted
     user_rating: 6.92
   412826:
     title: "Otomege Sekai wa Mob ni Kibishii Sekai desu"
@@ -2141,6 +2361,7 @@ metadata:
       1:
         title: "Otomege Sekai wa Mob ni Kibishii Sekai desu"
         user_rating: 7.35
+        label: wanted
     user_rating: 7.35
   414221:
     title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
@@ -2153,6 +2374,7 @@ metadata:
       1:
         title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
         user_rating: 7.91
+        label: wanted
     user_rating: 7.91
   391625:
     title: "Ousama Ranking"
@@ -2165,6 +2387,7 @@ metadata:
       1:
         title: "Ousama Ranking"
         user_rating: 8.56
+        label: wanted
     user_rating: 8.56
   294002:
     title: "Overlord"
@@ -2175,19 +2398,23 @@ metadata:
     studio: Madhouse
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Overlord"
         user_rating: 7.92
+        label: wanted
       2:
         title: "Overlord II"
         user_rating: 7.76
+        label: wanted
       3:
         title: "Overlord III"
         user_rating: 7.92
+        label: wanted
       4:
         title: "Overlord IV"
         user_rating: 8.1
+        label: wanted
     user_rating: 7.92
   289906:
     title: "Owari no Seraph"
@@ -2200,6 +2427,7 @@ metadata:
       1:
         title: "Owari no Seraph"
         user_rating: 7.49
+        label: wanted
     user_rating: 7.49
   412580:
     title: "Paripi Koumei"
@@ -2212,6 +2440,7 @@ metadata:
       1:
         title: "Paripi Koumei"
         user_rating: 8.2
+        label: wanted
     user_rating: 8.20
   291627:
     title: "Plastic Memories"
@@ -2224,6 +2453,7 @@ metadata:
       1:
         title: "Plastic Memories"
         user_rating: 7.91
+        label: wanted
     user_rating: 7.91
   326270:
     title: "Quanzhi Gaoshou"
@@ -2234,13 +2464,15 @@ metadata:
     studio: B.CMAY PICTURES
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Quanzhi Gaoshou"
         user_rating: 7.89
+        label: wanted
       2:
         title: "Quanzhi Gaoshou 2"
         user_rating: 7.94
+        label: wanted
     user_rating: 7.91
   299506:
     title: "Rakudai Kishi no Cavalry"
@@ -2253,6 +2485,7 @@ metadata:
       1:
         title: "Rakudai Kishi no Cavalry"
         user_rating: 7.45
+        label: wanted
     user_rating: 7.45
   305089:
     title: "Re:Zero kara Hajimeru Isekai Seikatsu"
@@ -2263,13 +2496,15 @@ metadata:
     studio: White Fox
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Re:Zero kara Hajimeru Isekai Seikatsu"
         user_rating: 8.24
+        label: wanted
       2:
         title: "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
         user_rating: 8.35
+        label: wanted
     user_rating: 8.29
   299508:
     title: "ReLIFE"
@@ -2280,10 +2515,11 @@ metadata:
     studio: TMS Entertainment
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "ReLIFE"
         user_rating: 7.98
+        label: wanted
     user_rating: 7.98
   423787:
     title: "Romantic Killer"
@@ -2296,6 +2532,7 @@ metadata:
       1:
         title: "Romantic Killer"
         user_rating: 8.12
+        label: wanted
     user_rating: 8.12
   398387:
     title: "Sabikui Bisco"
@@ -2308,6 +2545,7 @@ metadata:
       1:
         title: "Sabikui Bisco"
         user_rating: 7.17
+        label: wanted
     user_rating: 7.17
   313435:
     title: "Saiki Kusuo no Ψ-nan"
@@ -2318,13 +2556,15 @@ metadata:
     studio: J.C.Staff
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Saiki Kusuo no Ψ-nan"
         user_rating: 8.42
+        label: wanted
       2:
         title: "Saiki Kusuo no Ψ-nan 2"
         user_rating: 8.43
+        label: wanted
     user_rating: 8.42
   415378:
     title: "Saikyou Onmyouji no Isekai Tenseiki"
@@ -2337,6 +2577,7 @@ metadata:
       1:
         title: "Saikyou Onmyouji no Isekai Tenseiki"
         user_rating: 7.43
+        label: wanted
     user_rating: 7.43
   262114:
     title: "Sakurasou no Pet na Kanojo"
@@ -2349,6 +2590,7 @@ metadata:
       1:
         title: "Sakurasou no Pet na Kanojo"
         user_rating: 8.09
+        label: wanted
     user_rating: 8.09
   257518:
     title: "Sankarea"
@@ -2359,10 +2601,11 @@ metadata:
     studio: Studio Deen
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Sankarea"
         user_rating: 7.29
+        label: wanted
     user_rating: 7.29
   397831:
     title: "Seijo no Maryoku wa Bannou desu"
@@ -2375,6 +2618,7 @@ metadata:
       1:
         title: "Seijo no Maryoku wa Bannou desu"
         user_rating: 7.27
+        label: wanted
     user_rating: 7.27
   173271:
     title: "Seitokai Yakuindomo"
@@ -2385,13 +2629,15 @@ metadata:
     studio: GoHands
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Seitokai Yakuindomo"
         user_rating: 7.56
+        label: wanted
       2:
         title: "Seitokai Yakuindomo＊"
         user_rating: 7.69
+        label: wanted
     user_rating: 7.62
   398193:
     title: "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
@@ -2404,6 +2650,7 @@ metadata:
       1:
         title: "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
         user_rating: 7.37
+        label: wanted
     user_rating: 7.37
   396876:
     title: "Shadows House"
@@ -2416,9 +2663,11 @@ metadata:
       1:
         title: "Shadows House"
         user_rating: 7.79
+        label: wanted
       2:
         title: "Shadows House 2nd Season"
         user_rating: 8
+        label: wanted
     user_rating: 7.89
   383837:
     title: "SHAMAN KING (2021)"
@@ -2431,6 +2680,7 @@ metadata:
       1:
         title: "SHAMAN KING (2021)"
         user_rating: 6.89
+        label: wanted
     user_rating: 6.89
   279830:
     title: "Shigatsu wa Kimi no Uso"
@@ -2441,10 +2691,11 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Shigatsu wa Kimi no Uso"
         user_rating: 8.65
+        label: wanted
     user_rating: 8.65
   267440:
     title: "Shingeki no Kyojin"
@@ -2457,15 +2708,19 @@ metadata:
       1:
         title: "Shingeki no Kyojin"
         user_rating: 8.53
+        label: wanted
       2:
         title: "Shingeki no Kyojin 2"
         user_rating: 8.5
+        label: wanted
       3:
         title: "Shingeki no Kyojin 3"
         user_rating: 8.62
+        label: wanted
       4:
         title: "Shingeki no Kyojin: The Final Season"
         user_rating: 8.81
+        label: wanted
     user_rating: 8.61
   284564:
     title: "SHIROBAKO"
@@ -2478,6 +2733,7 @@ metadata:
       1:
         title: "SHIROBAKO"
         user_rating: 8.29
+        label: wanted
     user_rating: 8.29
   402640:
     title: "Shokei Shoujo no Virgin Road"
@@ -2490,6 +2746,7 @@ metadata:
       1:
         title: "Shokei Shoujo no Virgin Road"
         user_rating: 6.81
+        label: wanted
     user_rating: 6.81
   332983:
     title: "Shoujo Shuumatsu Ryokou"
@@ -2502,6 +2759,7 @@ metadata:
       1:
         title: "Shoujo Shuumatsu Ryokou"
         user_rating: 8.2
+        label: wanted
     user_rating: 8.20
   304316:
     title: "Shouwa Genroku Rakugo Shinjuu"
@@ -2512,13 +2770,15 @@ metadata:
     studio: Studio Deen
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Shouwa Genroku Rakugo Shinjuu"
         user_rating: 8.57
+        label: wanted
       2:
         title: "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen"
         user_rating: 8.73
+        label: wanted
     user_rating: 8.65
   278154:
     title: "Sidonia no Kishi"
@@ -2531,9 +2791,11 @@ metadata:
       1:
         title: "Sidonia no Kishi"
         user_rating: 7.64
+        label: wanted
       2:
         title: "Sidonia no Kishi: Daikyuu Wakusei Seneki"
         user_rating: 7.73
+        label: wanted
     user_rating: 7.68
   72491:
     title: "SLAM DUNK"
@@ -2546,6 +2808,7 @@ metadata:
       1:
         title: "SLAM DUNK"
         user_rating: 8.54
+        label: wanted
     user_rating: 2.13
   401233:
     title: "Sono Bisque Doll wa Koi wo Suru"
@@ -2558,6 +2821,7 @@ metadata:
       1:
         title: "Sono Bisque Doll wa Koi wo Suru"
         user_rating: 8.27
+        label: wanted
     user_rating: 8.27
   415821:
     title: "Spy Kyoushitsu"
@@ -2570,6 +2834,7 @@ metadata:
       1:
         title: "Spy Kyoushitsu"
         user_rating: 6.41
+        label: wanted
     user_rating: 6.41
   405920:
     title: "SPY×FAMILY"
@@ -2582,6 +2847,7 @@ metadata:
       1:
         title: "SPY×FAMILY"
         user_rating: 8.68
+        label: wanted
     user_rating: 8.68
   244061:
     title: "Steins;Gate"
@@ -2592,10 +2858,11 @@ metadata:
     studio: White Fox
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Steins;Gate"
         user_rating: 9.08
+        label: wanted
     user_rating: 9.08
   339268:
     title: "Steins;Gate 0"
@@ -2606,10 +2873,11 @@ metadata:
     studio: White Fox
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Steins;Gate 0"
         user_rating: 8.53
+        label: wanted
     user_rating: 8.53
   267432:
     title: "Suisei no Gargantia"
@@ -2620,10 +2888,11 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Suisei no Gargantia"
         user_rating: 7.46
+        label: wanted
     user_rating: 7.46
   407306:
     title: "Summer Time Render"
@@ -2636,6 +2905,7 @@ metadata:
       1:
         title: "Summer Time Render"
         user_rating: 8.53
+        label: wanted
     user_rating: 8.53
   259640:
     title: "Sword Art Online"
@@ -2646,19 +2916,23 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Sword Art Online"
         user_rating: 7.2
+        label: wanted
       2:
         title: "Sword Art Online II"
         user_rating: 6.7
+        label: wanted
       3:
         title: "Sword Art Online: Alicization"
         user_rating: 7.56
+        label: wanted
       4:
         title: "Sword Art Online: Alicization - War of Underworld"
         user_rating: 7.58
+        label: wanted
     user_rating: 7.26
   305104:
     title: "Tanaka-kun wa Itsumo Kedaruge"
@@ -2671,6 +2945,7 @@ metadata:
       1:
         title: "Tanaka-kun wa Itsumo Kedaruge"
         user_rating: 7.84
+        label: wanted
     user_rating: 7.84
   353712:
     title: "Tate no Yuusha no Nariagari"
@@ -2683,9 +2958,11 @@ metadata:
       1:
         title: "Tate no Yuusha no Nariagari"
         user_rating: 7.99
+        label: wanted
       2:
         title: "Tate no Yuusha no Nariagari Season 2"
         user_rating: 6.56
+        label: wanted
     user_rating: 7.27
   400961:
     title: "Tensai Ouji no Akaji Kokka Saisei Jutsu"
@@ -2698,6 +2975,7 @@ metadata:
       1:
         title: "Tensai Ouji no Akaji Kokka Saisei Jutsu"
         user_rating: 7.4
+        label: wanted
     user_rating: 7.40
   423362:
     title: "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
@@ -2710,6 +2988,7 @@ metadata:
       1:
         title: "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
         user_rating: 7.86
+        label: wanted
     user_rating: 7.86
   410378:
     title: "Tensei Shitara Ken Deshita"
@@ -2722,6 +3001,7 @@ metadata:
       1:
         title: "Tensei Shitara Ken Deshita"
         user_rating: 7.57
+        label: wanted
     user_rating: 7.57
   352408:
     title: "Tensei Shitara Slime Datta Ken"
@@ -2732,13 +3012,15 @@ metadata:
     studio: 8bit
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Tensei Shitara Slime Datta Ken"
         user_rating: 8.14
+        label: wanted
       2:
         title: "Tensei Shitara Slime Datta Ken 2nd Season"
         user_rating: 8.39
+        label: wanted
     user_rating: 8.26
   385374:
     title: "Tensei Shitara Slime Datta Ken: Tensura Nikki"
@@ -2751,6 +3033,7 @@ metadata:
       1:
         title: "Tensei Shitara Slime Datta Ken: Tensura Nikki"
         user_rating: 7.58
+        label: wanted
     user_rating: 7.58
   378556:
     title: "THE GOD OF HIGH SCHOOL"
@@ -2763,6 +3046,7 @@ metadata:
       1:
         title: "THE GOD OF HIGH SCHOOL"
         user_rating: 7.07
+        label: wanted
     user_rating: 7.07
   281249:
     title: "Tokyo Ghoul"
@@ -2775,12 +3059,15 @@ metadata:
       1:
         title: "Tokyo Ghoul"
         user_rating: 7.79
+        label: wanted
       2:
         title: "Tokyo Ghoul √A"
         user_rating: 7.03
+        label: wanted
       3:
         title: "Tokyo Ghoul:re"
         user_rating: 6.38
+        label: wanted
     user_rating: 7.06
   272043:
     title: "Tokyo Ravens"
@@ -2793,6 +3080,7 @@ metadata:
       1:
         title: "Tokyo Ravens"
         user_rating: 7.44
+        label: wanted
     user_rating: 7.44
   393478:
     title: "Tokyo Revengers"
@@ -2805,9 +3093,11 @@ metadata:
       1:
         title: "Tokyo Revengers"
         user_rating: 8.04
+        label: wanted
       2:
         title: "Tokyo Revengers: Seiya Kessen-hen"
         user_rating: 7.73
+        label: wanted
     user_rating: 7.88
   421994:
     title: "Tomo-chan wa Onnanoko!"
@@ -2820,6 +3110,7 @@ metadata:
       1:
         title: "Tomo-chan wa Onnanoko!"
         user_rating: 7.57
+        label: wanted
     user_rating: 7.57
   262107:
     title: "Tonari no Kaibutsu-kun"
@@ -2832,6 +3123,7 @@ metadata:
       1:
         title: "Tonari no Kaibutsu-kun"
         user_rating: 7.48
+        label: wanted
     user_rating: 7.48
   426572:
     title: "Tondemo Skill de Isekai Hourou Meshi"
@@ -2844,6 +3136,7 @@ metadata:
       1:
         title: "Tondemo Skill de Isekai Hourou Meshi"
         user_rating: 7.66
+        label: wanted
     user_rating: 7.66
   385077:
     title: "Tonikaku Kawaii"
@@ -2854,10 +3147,11 @@ metadata:
     studio: Seven Arcs
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Tonikaku Kawaii"
         user_rating: 7.9
+        label: wanted
     user_rating: 7.90
   83277:
     title: "Toradora!"
@@ -2870,6 +3164,7 @@ metadata:
       1:
         title: "Toradora!"
         user_rating: 8.09
+        label: wanted
     user_rating: 8.09
   421378:
     title: "TRIGUN STAMPEDE"
@@ -2882,6 +3177,7 @@ metadata:
       1:
         title: "TRIGUN STAMPEDE"
         user_rating: 7.35
+        label: wanted
     user_rating: 7.35
   325197:
     title: "Tsuki ga Kirei"
@@ -2894,6 +3190,7 @@ metadata:
       1:
         title: "Tsuki ga Kirei"
         user_rating: 8.07
+        label: wanted
     user_rating: 8.07
   422405:
     title: "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san"
@@ -2906,6 +3203,7 @@ metadata:
       1:
         title: "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san"
         user_rating: 7.27
+        label: wanted
     user_rating: 7.27
   352796:
     title: "Tsurune: Kazemai Koukou Kyuudou-bu"
@@ -2916,13 +3214,15 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Tsurune: Kazemai Koukou Kyuudou-bu"
         user_rating: 7.64
+        label: wanted
       2:
         title: "Tsurune: Tsunagari no Issha"
         user_rating: 7.75
+        label: wanted
     user_rating: 7.69
   256705:
     title: "Uchuu Kyoudai"
@@ -2935,6 +3235,7 @@ metadata:
       1:
         title: "Uchuu Kyoudai"
         user_rating: 8.5
+        label: wanted
     user_rating: 4.25
   315094:
     title: "Udon no Kuni no Kiniro Kemari"
@@ -2947,6 +3248,7 @@ metadata:
       1:
         title: "Udon no Kuni no Kiniro Kemari"
         user_rating: 7.75
+        label: wanted
     user_rating: 7.75
   249872:
     title: "Usagi Drop"
@@ -2957,10 +3259,11 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Usagi Drop"
         user_rating: 8.37
+        label: wanted
     user_rating: 8.37
   381406:
     title: "Uzaki-chan wa Asobitai!"
@@ -2973,9 +3276,11 @@ metadata:
       1:
         title: "Uzaki-chan wa Asobitai!"
         user_rating: 7.01
+        label: wanted
       2:
         title: "Uzaki-chan wa Asobitai! ω"
         user_rating: 7.26
+        label: wanted
     user_rating: 7.13
   400133:
     title: "Vanitas no Carte"
@@ -2988,6 +3293,7 @@ metadata:
       1:
         title: "Vanitas no Carte"
         user_rating: 7.91
+        label: wanted
     user_rating: 7.91
   359274:
     title: "VINLAND SAGA"
@@ -3000,9 +3306,11 @@ metadata:
       1:
         title: "VINLAND SAGA"
         user_rating: 8.73
+        label: wanted
       2:
         title: "VINLAND SAGA SEASON 2"
         user_rating: 8.78
+        label: wanted
     user_rating: 8.75
   330139:
     title: "Violet Evergarden"
@@ -3015,6 +3323,7 @@ metadata:
       1:
         title: "Violet Evergarden"
         user_rating: 8.67
+        label: wanted
     user_rating: 8.67
   397774:
     title: "Vivy: Fluorite Eye’s Song"
@@ -3027,6 +3336,7 @@ metadata:
       1:
         title: "Vivy: Fluorite Eye’s Song"
         user_rating: 8.42
+        label: wanted
     user_rating: 8.42
   79060:
     title: "Wolf's Rain"
@@ -3037,10 +3347,11 @@ metadata:
     studio: Bones
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Wolf's Rain"
         user_rating: 7.8
+        label: wanted
     user_rating: 7.80
   390028:
     title: "Wonder Egg Priority"
@@ -3053,6 +3364,7 @@ metadata:
       1:
         title: "Wonder Egg Priority"
         user_rating: 7.66
+        label: wanted
     user_rating: 7.66
   145211:
     title: "Working!!"
@@ -3065,12 +3377,15 @@ metadata:
       1:
         title: "Working!!"
         user_rating: 7.65
+        label: wanted
       2:
         title: "Working'!!"
         user_rating: 7.83
+        label: wanted
       3:
         title: "Working!!!"
         user_rating: 7.97
+        label: wanted
     user_rating: 7.81
   283934:
     title: "World Trigger"
@@ -3083,12 +3398,15 @@ metadata:
       1:
         title: "World Trigger"
         user_rating: 7.58
+        label: wanted
       2:
         title: "World Trigger 2nd Season"
         user_rating: 8.07
+        label: wanted
       3:
         title: "World Trigger 3rd Season"
         user_rating: 8.29
+        label: wanted
     user_rating: 7.98
   341425:
     title: "Wotaku ni Koi wa Muzukashii"
@@ -3099,10 +3417,11 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Wotaku ni Koi wa Muzukashii"
         user_rating: 7.94
+        label: wanted
     user_rating: 7.94
   376751:
     title: "Xian Wang De Richang Shenghuo"
@@ -3115,12 +3434,15 @@ metadata:
       1:
         title: "Xian Wang De Richang Shenghuo"
         user_rating: 7.33
+        label: wanted
       2:
         title: "Xian Wang De Richang Shenghuo 2"
         user_rating: 7.41
+        label: wanted
       3:
         title: "Xian Wang De Richang Shenghuo 3"
         user_rating: 7.31
+        label: wanted
     user_rating: 7.35
   348002:
     title: "Yakusoku no Neverland"
@@ -3133,9 +3455,11 @@ metadata:
       1:
         title: "Yakusoku no Neverland"
         user_rating: 8.52
+        label: wanted
       2:
         title: "Yakusoku no Neverland 2"
         user_rating: 5.32
+        label: wanted
     user_rating: 6.92
   313488:
     title: "Yi Ren Zhi Xia"
@@ -3146,13 +3470,15 @@ metadata:
     studio: Namu Animation
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Yi Ren Zhi Xia"
         user_rating: 6.82
+        label: wanted
       2:
         title: "Yi Ren Zhi Xia 2"
         user_rating: 7.39
+        label: wanted
     user_rating: 3.55
   412374:
     title: "Yofukashi no Uta"
@@ -3165,6 +3491,7 @@ metadata:
       1:
         title: "Yofukashi no Uta"
         user_rating: 8.04
+        label: wanted
     user_rating: 8.04
   272309:
     title: "Yowamushi Pedal"
@@ -3175,22 +3502,27 @@ metadata:
     studio: TMS Entertainment
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Yowamushi Pedal"
         user_rating: 7.94
+        label: wanted
       2:
         title: "Yowamushi Pedal: GRANDE ROAD"
         user_rating: 8.07
+        label: wanted
       3:
         title: "Yowamushi Pedal: NEW GENERATION"
         user_rating: 7.65
+        label: wanted
       4:
         title: "Yowamushi Pedal: GLORY LINE"
         user_rating: 7.59
+        label: wanted
       5:
         title: "Yowamushi Pedal: LIMIT BREAK"
         user_rating: 7.49
+        label: wanted
     user_rating: 7.74
   330692:
     title: "Yuru Camp△"
@@ -3201,13 +3533,15 @@ metadata:
     studio: C-Station
     seasons:
       0:
-        season_label: unwanted
+        label: unwanted
       1:
         title: "Yuru Camp△"
         user_rating: 8.27
+        label: wanted
       2:
         title: "Yuru Camp△ SEASON 2"
         user_rating: 8.53
+        label: wanted
     user_rating: 8.40
   385542:
     title: "Yuukoku no Moriarty"
@@ -3220,6 +3554,7 @@ metadata:
       1:
         title: "Yuukoku no Moriarty"
         user_rating: 8.16
+        label: wanted
     user_rating: 8.16
   262109:
     title: "Zetsuen no Tempest"
@@ -3232,4 +3567,5 @@ metadata:
       1:
         title: "Zetsuen no Tempest"
         user_rating: 7.92
+        label: wanted
     user_rating: 7.92
