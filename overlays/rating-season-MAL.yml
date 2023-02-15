@@ -46,7 +46,7 @@ overlays:
         weight: 100
     plex_search:
       all:
-        season_label.not: unwanted
+        season_label: wanted
 
 
   user_rating:
@@ -55,4 +55,4 @@ overlays:
       weight: 100
     plex_search:
       all:
-        season_label.not: unwanted
+        season_label: wanted
