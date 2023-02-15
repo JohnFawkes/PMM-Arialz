@@ -1,10 +1,8 @@
 templates:
   MAL_Rating:                                                               #IDMB Rating Logo
-    optional:
-      - overlay_level
     default:
       overlay: <<overlay_name>>
-    builder_level: <<overlay_level>>
+    builder_level: season
     overlay:
       name: <<overlay_name>>
       repo: overlays/Images/Rating/<<overlay>>
@@ -20,7 +18,7 @@ templates:
       - overlay_level
     default:
       rating_type: user_rating
-    builder_level: <<overlay_level>>
+    builder_level: season
     overlay:
       name: text(<<rating_type>>)
       queue: Rating_Queue_Text
