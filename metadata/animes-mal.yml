@@ -85,11 +85,6 @@ metadata:
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military
     label.remove: Ongoing
     studio: A-1 Pictures
-    seasons:
-      1:
-        title: "86: Eighty Six"
-        user_rating: 8.27
-        label: score
     user_rating: 8.27
   319983:
     title: "ACCA: 13-ku Kansatsu-ka"
@@ -98,11 +93,6 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Mystery,Seinen,Adult Cast,Detective
     label.remove: Ongoing
     studio: Madhouse
-    seasons:
-      1:
-        title: "ACCA: 13-ku Kansatsu-ka"
-        user_rating: 7.67
-        label: score
     user_rating: 7.67
   421676:
     title: "Akiba Meido Sensou"
@@ -111,11 +101,6 @@ metadata:
     genre.sync: Anime,Action,Comedy
     label.remove: Ongoing
     studio: P.A. Works
-    seasons:
-      1:
-        title: "Akiba Meido Sensou"
-        user_rating: 7.68
-        label: score
     user_rating: 7.68
   411821:
     title: "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
@@ -124,11 +109,6 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Shoujo,Isekai
     label.remove: Ongoing
     studio: Maho Film
-    seasons:
-      1:
-        title: "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
-        user_rating: 7.26
-        label: score
     user_rating: 7.26
   279827:
     title: "Aldnoah.Zero"
@@ -137,12 +117,7 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Mecha,Military
     label.remove: Ongoing
     studio: A-1 Pictures
-    seasons:
-      1:
-        title: "Aldnoah.Zero"
-        user_rating: 7.4
-        label: score
-    user_rating: 7.40
+    user_rating: 7.4
   348706:
     title: "Angolmois: Genkou Kassenki"
     sort_title: "Angolmois: Genkou Kassenki"
@@ -150,11 +125,6 @@ metadata:
     genre.sync: Anime,Action,Drama,Historical,Military,Samurai
     label.remove: Ongoing
     studio: NAZ
-    seasons:
-      1:
-        title: "Angolmois: Genkou Kassenki"
-        user_rating: 7.13
-        label: score
     user_rating: 7.13
   248035:
     title: "Ao no Exorcist"
@@ -180,11 +150,6 @@ metadata:
     genre.sync: Anime,Sports,Seinen,Team Sports
     label.remove: Ongoing
     studio: Production I.G
-    seasons:
-      1:
-        title: "Aoashi"
-        user_rating: 8.27
-        label: score
     user_rating: 8.27
   411800:
     title: "Arknights: Reimei Zensou"
@@ -193,11 +158,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy
     label.remove: Ongoing
     studio: Yostar Pictures
-    seasons:
-      1:
-        title: "Arknights: Reimei Zensou"
-        user_rating: 7.18
-        label: score
     user_rating: 7.18
   425368:
     title: "Ars no Kyojuu"
@@ -206,11 +166,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Asahi Production
-    seasons:
-      1:
-        title: "Ars no Kyojuu"
-        user_rating: 6.67
-        label: score
     user_rating: 6.67
   291630:
     title: "Arslan Senki (TV)"
@@ -236,11 +191,6 @@ metadata:
     genre.sync: Anime,Comedy,Slice of Life,CGDCT,Gag Humor,School
     label.remove: Ongoing
     studio: J.C.Staff
-    seasons:
-      1:
-        title: "Azumanga Daiou THE ANIMATION"
-        user_rating: 7.98
-        label: score
     user_rating: 7.98
   278152:
     title: "Baby Steps"
@@ -287,11 +237,6 @@ metadata:
     genre.sync: Anime,Slice of Life,Childcare,Iyashikei,Visual Arts
     label.remove: Ongoing
     studio: Kinema Citrus
-    seasons:
-      1:
-        title: "Barakamon"
-        user_rating: 8.38
-        label: score
     user_rating: 8.38
   361013:
     title: "BEASTARS"
@@ -317,11 +262,6 @@ metadata:
     genre.sync: Anime,Action,Comedy,Supernatural,Shounen,Childcare,Delinquents,Mythology,School
     label.remove: Ongoing
     studio: Pierrot Plus
-    seasons:
-      1:
-        title: "Beelzebub"
-        user_rating: 7.86
-        label: score
     user_rating: 7.86
   414845:
     title: "Benriya Saitou-san, Isekai ni Iku"
@@ -330,11 +270,6 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Adult Cast,Isekai
     label: Ongoing
     studio: C2C
-    seasons:
-      1:
-        title: "Benriya Saitou-san, Isekai ni Iku"
-        user_rating: 7.18
-        label: score
     user_rating: 7.18
   331753:
     title: "Black Clover"
@@ -343,11 +278,6 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Shounen
     label.remove: Ongoing
     studio: Pierrot
-    seasons:
-      1:
-        title: "Black Clover"
-        user_rating: 8.14
-        label: score
     user_rating: 8.14
   74796:
     title: "BLEACH"
@@ -364,11 +294,6 @@ metadata:
     genre.sync: Anime,Sports,Shounen,Team Sports
     label: Ongoing
     studio: 8bit
-    seasons:
-      1:
-        title: "Blue Lock"
-        user_rating: 8.28
-        label: score
     user_rating: 8.28
   413522:
     title: "Bocchi the Rock!"
@@ -377,11 +302,6 @@ metadata:
     genre.sync: Anime,Comedy,CGDCT,Music
     label.remove: Ongoing
     studio: CloverWorks
-    seasons:
-      1:
-        title: "Bocchi the Rock!"
-        user_rating: 8.94
-        label: score
     user_rating: 8.94
   303071:
     title: "Boku dake ga Inai Machi"
@@ -390,11 +310,6 @@ metadata:
     genre.sync: Anime,Mystery,Supernatural,Suspense,Seinen,Psychological,Time Travel
     label.remove: Ongoing
     studio: A-1 Pictures
-    seasons:
-      1:
-        title: "Boku dake ga Inai Machi"
-        user_rating: 8.31
-        label: score
     user_rating: 8.31
   305074:
     title: "Boku no Hero Academia"
@@ -436,11 +351,6 @@ metadata:
     genre.sync: Anime,Action,Comedy,Childcare,Organized Crime
     label: Ongoing
     studio: P.A. Works
-    seasons:
-      1:
-        title: "Buddy Daddies"
-        user_rating: 7.77
-        label: score
     user_rating: 7.77
   305075:
     title: "Bungou Stray Dogs"
@@ -470,11 +380,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Sci-Fi,Psychological
     label.remove: Ongoing
     studio: Madhouse
-    seasons:
-      1:
-        title: "Casshern Sins"
-        user_rating: 7.51
-        label: score
     user_rating: 7.51
   397934:
     title: "Chainsaw Man"
@@ -483,11 +388,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Shounen,Gore
     label.remove: Ongoing
     studio: MAPPA
-    seasons:
-      1:
-        title: "Chainsaw Man"
-        user_rating: 8.66
-        label: score
     user_rating: 8.66
   289679:
     title: "Charlotte"
@@ -496,11 +396,6 @@ metadata:
     genre.sync: Anime,Drama,School,Super Power
     label.remove: Ongoing
     studio: P.A. Works
-    seasons:
-      1:
-        title: "Charlotte"
-        user_rating: 7.75
-        label: score
     user_rating: 7.75
   251982:
     title: "Chihayafuru"
@@ -530,11 +425,6 @@ metadata:
     genre.sync: Anime,Adventure,Sci-Fi,Space,Survival
     label.remove: Ongoing
     studio: Production +h.
-    seasons:
-      1:
-        title: "Chikyuugai Shounen Shoujo"
-        user_rating: 6.87
-        label: score
     user_rating: 6.87
   261862:
     title: "Chuunibyou demo Koi ga Shitai!"
@@ -560,11 +450,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen,Gore,Mythology,Super Power
     label.remove: Ongoing
     studio: Madhouse
-    seasons:
-      1:
-        title: "CLAYMORE"
-        user_rating: 7.74
-        label: score
     user_rating: 7.74
   79525:
     title: "Code Geass: Hangyaku no Lelouch"
@@ -590,11 +475,6 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Gore,Psychological
     label.remove: Ongoing
     studio: Trigger
-    seasons:
-      1:
-        title: "Cyberpunk: Edgerunners"
-        user_rating: 8.62
-        label: score
     user_rating: 8.62
   79635:
     title: "D.Gray-man"
@@ -611,12 +491,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Shounen,Mythology,Super Power
     label.remove: Ongoing
     studio: TMS Entertainment
-    seasons:
-      1:
-        title: "D.Gray-man HALLOW"
-        user_rating: 7.7
-        label: score
-    user_rating: 7.70
+    user_rating: 7.7
   80042:
     title: "DARKER THAN BLACK: Kuro no Keiyakusha"
     sort_title: "DARKER THAN BLACK: Kuro no Keiyakusha"
@@ -641,11 +516,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Sci-Fi
     label.remove: Ongoing
     studio: Nut
-    seasons:
-      1:
-        title: "Deca-Dence"
-        user_rating: 7.38
-        label: score
     user_rating: 7.38
   273005:
     title: "Diamond no Ace"
@@ -675,11 +545,6 @@ metadata:
     genre.sync: Anime,Drama,Romance,Shounen,Love Polygon,School
     label.remove: Ongoing
     studio: Diomedéa
-    seasons:
-      1:
-        title: "Domestic na Kanojo"
-        user_rating: 6.68
-        label: score
     user_rating: 6.68
   370761:
     title: "Dorohedoro"
@@ -688,11 +553,6 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Horror,Seinen,Gore
     label.remove: Ongoing
     studio: MAPPA
-    seasons:
-      1:
-        title: "Dorohedoro"
-        user_rating: 8.06
-        label: score
     user_rating: 8.06
   355774:
     title: "Dr. STONE"
@@ -743,11 +603,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Magical Sex Shift,Reincarnation
     label: Ongoing
     studio: Studio Comet
-    seasons:
-      1:
-        title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
-        user_rating: 7.22
-        label: score
     user_rating: 7.22
   355480:
     title: "Enen no Shouboutai"
@@ -773,11 +628,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Supernatural
     label.remove: Ongoing
     studio: ufotable
-    seasons:
-      1:
-        title: "Fate/stay night: Unlimited Blade Works"
-        user_rating: 8.19
-        label: score
     user_rating: 8.19
   375271:
     title: "Fumetsu no Anata e"
@@ -803,11 +653,6 @@ metadata:
     genre.sync: Anime,Award Winning,Drama,Mystery,Sci-Fi,Supernatural,Suspense
     label.remove: Ongoing
     studio: Gonzo
-    seasons:
-      1:
-        title: "Gankutsuou"
-        user_rating: 8.14
-        label: score
     user_rating: 8.14
   279804:
     title: "Gekkan Shoujo Nozaki-kun"
@@ -816,11 +661,6 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Otaku Culture,School
     label.remove: Ongoing
     studio: Doga Kobo
-    seasons:
-      1:
-        title: "Gekkan Shoujo Nozaki-kun"
-        user_rating: 7.84
-        label: score
     user_rating: 7.84
   389422:
     title: "Genjitsu Shugi Yuusha no Oukoku Saikenki"
@@ -829,11 +669,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,Harem,Isekai,Military
     label.remove: Ongoing
     studio: J.C.Staff
-    seasons:
-      1:
-        title: "Genjitsu Shugi Yuusha no Oukoku Saikenki"
-        user_rating: 7.24
-        label: score
     user_rating: 7.24
   267246:
     title: "Gin no Saji"
@@ -888,11 +723,6 @@ metadata:
     genre.sync: Anime,Action,Military,School
     label.remove: Ongoing
     studio: Actas
-    seasons:
-      1:
-        title: "Girls und Panzer"
-        user_rating: 7.52
-        label: score
     user_rating: 7.52
   355966:
     title: "Go-toubun no Hanayome"
@@ -943,11 +773,6 @@ metadata:
     genre.sync: Anime,Comedy,Seinen,Adult Cast
     label.remove: Ongoing
     studio: Zero-G
-    seasons:
-      1:
-        title: "Grand Blue"
-        user_rating: 8.43
-        label: score
     user_rating: 8.43
   85249:
     title: "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
@@ -956,11 +781,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Shounen,Military
     label.remove: Ongoing
     studio: Bones
-    seasons:
-      1:
-        title: "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
-        user_rating: 9.11
-        label: score
     user_rating: 9.11
   303868:
     title: "Hai to Gensou no Grimgar"
@@ -969,11 +789,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
     label.remove: Ongoing
     studio: A-1 Pictures
-    seasons:
-      1:
-        title: "Hai to Gensou no Grimgar"
-        user_rating: 7.65
-        label: score
     user_rating: 7.65
   79105:
     title: "Haibane Renmei"
@@ -982,11 +797,6 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Mystery,Psychological
     label.remove: Ongoing
     studio: Radix
-    seasons:
-      1:
-        title: "Haibane Renmei"
-        user_rating: 7.97
-        label: score
     user_rating: 7.97
   278157:
     title: "Haikyuu!!"
@@ -1037,11 +847,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Seinen,Mythology
     label.remove: Ongoing
     studio: MAPPA
-    seasons:
-      1:
-        title: "Heion Sedai no Idaten-tachi"
-        user_rating: 7.65
-        label: score
     user_rating: 7.65
   263688:
     title: "HELLSING OVA"
@@ -1050,11 +855,6 @@ metadata:
     genre.sync: Anime,Action,Horror,Supernatural,Seinen,Adult Cast,Gore,Military,Vampire
     label.remove: Ongoing
     studio: Madhouse
-    seasons:
-      1:
-        title: "HELLSING OVA"
-        user_rating: 8.36
-        label: score
     user_rating: 8.36
   404525:
     title: "HIGH CARD"
@@ -1063,11 +863,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Adult Cast,Organized Crime,Super Power
     label: Ongoing
     studio: Studio Hibari
-    seasons:
-      1:
-        title: "HIGH CARD"
-        user_rating: 7.34
-        label: score
     user_rating: 7.34
   306743:
     title: "High School Fleet"
@@ -1076,12 +871,7 @@ metadata:
     genre.sync: Anime,Action,Military,School
     label.remove: Ongoing
     studio: Production IMS
-    seasons:
-      1:
-        title: "High School Fleet"
-        user_rating: 7.3
-        label: score
-    user_rating: 7.30
+    user_rating: 7.3
   402607:
     title: "Hikari no Ou"
     sort_title: "Hikari no Ou"
@@ -1089,11 +879,6 @@ metadata:
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
-    seasons:
-      1:
-        title: "Hikari no Ou"
-        user_rating: 6.81
-        label: score
     user_rating: 6.81
   293121:
     title: "Himouto! Umaru-chan"
@@ -1119,12 +904,7 @@ metadata:
     genre.sync: Anime,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Ajia-do
-    seasons:
-      1:
-        title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
-        user_rating: 8
-        label: score
-    user_rating: 8.00
+    user_rating: 8
   388593:
     title: "Horimiya"
     sort_title: "Horimiya"
@@ -1132,12 +912,7 @@ metadata:
     genre.sync: Anime,Romance,Shounen,School
     label.remove: Ongoing
     studio: CloverWorks
-    seasons:
-      1:
-        title: "Horimiya"
-        user_rating: 8.2
-        label: score
-    user_rating: 8.20
+    user_rating: 8.2
   369141:
     title: "Hoshiai no Sora"
     sort_title: "Hoshiai no Sora"
@@ -1145,11 +920,6 @@ metadata:
     genre.sync: Anime,Drama,Sports,School
     label.remove: Ongoing
     studio: 8bit
-    seasons:
-      1:
-        title: "Hoshiai no Sora"
-        user_rating: 7.59
-        label: score
     user_rating: 7.59
   372361:
     title: "Houkago Teibou Nisshi"
@@ -1158,11 +928,6 @@ metadata:
     genre.sync: Anime,Gourmet,Slice of Life,Seinen,CGDCT,Iyashikei,School
     label.remove: Ongoing
     studio: Doga Kobo
-    seasons:
-      1:
-        title: "Houkago Teibou Nisshi"
-        user_rating: 7.42
-        label: score
     user_rating: 7.42
   331787:
     title: "Houseki no Kuni"
@@ -1171,11 +936,6 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Seinen,Anthropomorphic
     label.remove: Ongoing
     studio: Orange
-    seasons:
-      1:
-        title: "Houseki no Kuni"
-        user_rating: 8.39
-        label: score
     user_rating: 8.39
   419502:
     title: "Hyouken no Majutsushi ga Sekai wo Suberu"
@@ -1184,11 +944,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,School
     label: Ongoing
     studio: Cloud Hearts
-    seasons:
-      1:
-        title: "Hyouken no Majutsushi ga Sekai wo Suberu"
-        user_rating: 6.53
-        label: score
     user_rating: 6.53
   370377:
     title: "ID: INVADED"
@@ -1197,11 +952,6 @@ metadata:
     genre.sync: Anime,Mystery,Sci-Fi,Suspense,Adult Cast,Detective,Psychological
     label.remove: Ongoing
     studio: NAZ
-    seasons:
-      1:
-        title: "ID: INVADED"
-        user_rating: 7.84
-        label: score
     user_rating: 7.84
   385278:
     title: "Ijiranaide, Nagatoro-san"
@@ -1227,11 +977,6 @@ metadata:
     genre.sync: Anime,Comedy,Drama,Romance,Supernatural,Shounen,Mythology,School
     label.remove: Ongoing
     studio: David Production
-    seasons:
-      1:
-        title: "Inu x Boku SS"
-        user_rating: 7.39
-        label: score
     user_rating: 7.39
   71361:
     title: "Inuyasha"
@@ -1248,11 +993,6 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Harem,Isekai,Mecha,School
     label.remove: Ongoing
     studio: AIC Spirits
-    seasons:
-      1:
-        title: "Isekai no Seikishi Monogatari"
-        user_rating: 7.76
-        label: score
     user_rating: 7.76
   405214:
     title: "Isekai Oji-san"
@@ -1261,11 +1001,6 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Adult Cast,Isekai,Otaku Culture,Parody
     label: Ongoing
     studio: AtelierPontdarc
-    seasons:
-      1:
-        title: "Isekai Oji-san"
-        user_rating: 7.84
-        label: score
     user_rating: 7.84
   406592:
     title: "Isekai Yakkyoku"
@@ -1274,11 +1009,6 @@ metadata:
     genre.sync: Anime,Fantasy,Isekai,Medical,Reincarnation
     label.remove: Ongoing
     studio: Diomedéa
-    seasons:
-      1:
-        title: "Isekai Yakkyoku"
-        user_rating: 7.33
-        label: score
     user_rating: 7.33
   373679:
     title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
@@ -1304,11 +1034,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Seinen,Organized Crime
     label.remove: Ongoing
     studio: White Fox
-    seasons:
-      1:
-        title: "Jormungand"
-        user_rating: 7.81
-        label: score
     user_rating: 7.81
   377543:
     title: "Jujutsu Kaisen"
@@ -1317,11 +1042,6 @@ metadata:
     genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,School
     label.remove: Ongoing
     studio: MAPPA
-    seasons:
-      1:
-        title: "Jujutsu Kaisen"
-        user_rating: 8.65
-        label: score
     user_rating: 8.65
   407520:
     title: "Kage no Jitsuryokusha ni Naritakute!"
@@ -1330,11 +1050,6 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Nexus
-    seasons:
-      1:
-        title: "Kage no Jitsuryokusha ni Naritakute!"
-        user_rating: 7.99
-        label: score
     user_rating: 7.99
   354198:
     title: "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
@@ -1364,11 +1079,6 @@ metadata:
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Encourage Films
-    seasons:
-      1:
-        title: "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
-        user_rating: 6.81
-        label: score
     user_rating: 6.81
   376729:
     title: "Kami no Tou: Tower of God"
@@ -1377,11 +1087,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery
     label.remove: Ongoing
     studio: Telecom Animation Film
-    seasons:
-      1:
-        title: "Kami no Tou: Tower of God"
-        user_rating: 7.56
-        label: score
     user_rating: 7.56
   262106:
     title: "Kamisama Hajimemashita"
@@ -1424,11 +1129,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Romance,Historical,Martial Arts
     label.remove: Ongoing
     studio: White Fox
-    seasons:
-      1:
-        title: "Katanagatari"
-        user_rating: 8.32
-        label: score
     user_rating: 8.32
   352853:
     title: "Kaze ga Tsuyoku Fuiteiru"
@@ -1437,12 +1137,7 @@ metadata:
     genre.sync: Anime,Drama,Sports,Adult Cast
     label.remove: Ongoing
     studio: Production I.G
-    seasons:
-      1:
-        title: "Kaze ga Tsuyoku Fuiteiru"
-        user_rating: 8.4
-        label: score
-    user_rating: 8.40
+    user_rating: 8.4
   390382:
     title: "Kemono Jihen"
     sort_title: "Kemono Jihen"
@@ -1450,12 +1145,7 @@ metadata:
     genre.sync: Anime,Action,Mystery,Supernatural,Shounen,Mythology
     label.remove: Ongoing
     studio: Ajia-do
-    seasons:
-      1:
-        title: "Kemono Jihen"
-        user_rating: 7.4
-        label: score
-    user_rating: 7.40
+    user_rating: 7.4
   80675:
     title: "Kidou Senshi Gundam 00"
     sort_title: "Kidou Senshi Gundam 00"
@@ -1480,12 +1170,7 @@ metadata:
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     label.remove: Ongoing
     studio: Sunrise
-    seasons:
-      1:
-        title: "Kidou Senshi Gundam UC"
-        user_rating: 8.1
-        label: score
-    user_rating: 8.10
+    user_rating: 8.1
   418364:
     title: "Kidou Senshi Gundam: Suisei no Majo"
     sort_title: "Kidou Senshi Gundam: Suisei no Majo"
@@ -1493,11 +1178,6 @@ metadata:
     genre.sync: Anime,Sci-Fi,Mecha,School,Space
     label.remove: Ongoing
     studio: Sunrise
-    seasons:
-      1:
-        title: "Kidou Senshi Gundam: Suisei no Majo"
-        user_rating: 7.94
-        label: score
     user_rating: 7.94
   299497:
     title: "Kidou Senshi Gundam: Tekketsu no Orphans"
@@ -1523,11 +1203,6 @@ metadata:
     genre.sync: Anime,Action,Comedy,Ecchi,School,Super Power
     label.remove: Ongoing
     studio: Trigger
-    seasons:
-      1:
-        title: "Kill la Kill"
-        user_rating: 8.04
-        label: score
     user_rating: 8.04
   348545:
     title: "Kimetsu no Yaiba"
@@ -1557,11 +1232,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,Military
     label.remove: Ongoing
     studio: SILVER LINK.
-    seasons:
-      1:
-        title: "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
-        user_rating: 6.64
-        label: score
     user_rating: 6.64
   259635:
     title: "Kingdom"
@@ -1595,11 +1265,6 @@ metadata:
     genre.sync: Anime,Action,Horror,Sci-Fi,Seinen,Gore,Psychological
     label.remove: Ongoing
     studio: Madhouse
-    seasons:
-      1:
-        title: "Kiseijuu: Sei no Kakuritsu"
-        user_rating: 8.34
-        label: score
     user_rating: 8.34
   318893:
     title: "Kobayashi-san Chi no Maidragon"
@@ -1625,11 +1290,6 @@ metadata:
     genre.sync: Anime,Drama,Romance,Shounen,Music,Performing Arts,School
     label.remove: Ongoing
     studio: Platinum Vision
-    seasons:
-      1:
-        title: "Kono Oto Tomare!"
-        user_rating: 7.92
-        label: score
     user_rating: 7.92
   303867:
     title: "Kono Subarashii Sekai ni Shukufuku wo!"
@@ -1655,11 +1315,6 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Adult Cast,Workplace
     label: Ongoing
     studio: Zero-G
-    seasons:
-      1:
-        title: "Koori Zokusei Danshi to Cool na Douryou Joshi"
-        user_rating: 7.41
-        label: score
     user_rating: 7.41
   413515:
     title: "Koukyuu no Karasu"
@@ -1668,11 +1323,6 @@ metadata:
     genre.sync: Anime,Fantasy,Mystery,Josei,Historical,Mythology
     label.remove: Ongoing
     studio: Bandai Namco Pictures
-    seasons:
-      1:
-        title: "Koukyuu no Karasu"
-        user_rating: 7.51
-        label: score
     user_rating: 7.51
   305082:
     title: "Koutetsujou no Kabaneri"
@@ -1681,11 +1331,6 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Horror,Gore,Historical,Survival
     label.remove: Ongoing
     studio: Wit Studio
-    seasons:
-      1:
-        title: "Koutetsujou no Kabaneri"
-        user_rating: 7.27
-        label: score
     user_rating: 7.27
   409723:
     title: "Kumichou Musume to Sewagakari"
@@ -1694,11 +1339,6 @@ metadata:
     genre.sync: Anime,Slice of Life,Childcare,Organized Crime
     label.remove: Ongoing
     studio: feel.
-    seasons:
-      1:
-        title: "Kumichou Musume to Sewagakari"
-        user_rating: 7.78
-        label: score
     user_rating: 7.78
   377902:
     title: "Kumo desu ga, Nani ka?"
@@ -1707,11 +1347,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Mystery,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Millepensee
-    seasons:
-      1:
-        title: "Kumo desu ga, Nani ka?"
-        user_rating: 7.45
-        label: score
     user_rating: 7.45
   416588:
     title: "Kuro no Shoukanshi"
@@ -1720,11 +1355,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Satelight
-    seasons:
-      1:
-        title: "Kuro no Shoukanshi"
-        user_rating: 7.12
-        label: score
     user_rating: 7.12
   257765:
     title: "Kuroko no Basket"
@@ -1771,11 +1401,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,School
     label.remove: Ongoing
     studio: Kyoto Animation
-    seasons:
-      1:
-        title: "Kyoukai no Kanata"
-        user_rating: 7.73
-        label: score
     user_rating: 7.73
   414057:
     title: "Lycoris Recoil"
@@ -1784,11 +1409,6 @@ metadata:
     genre.sync: Anime,Action
     label.remove: Ongoing
     studio: A-1 Pictures
-    seasons:
-      1:
-        title: "Lycoris Recoil"
-        user_rating: 8.22
-        label: score
     user_rating: 8.22
   363143:
     title: "Machikado Mazoku"
@@ -1865,11 +1485,6 @@ metadata:
     genre.sync: Anime,Fantasy,Sci-Fi
     label.remove: Ongoing
     studio: Connect
-    seasons:
-      1:
-        title: "Mahouka Koukou no Yuutousei"
-        user_rating: 6.64
-        label: score
     user_rating: 6.64
   369144:
     title: "Mairimashita! Iruma-kun"
@@ -1933,11 +1548,6 @@ metadata:
     genre.sync: Anime,Drama,Shounen,Music,School
     label.remove: Ongoing
     studio: Shin-Ei Animation
-    seasons:
-      1:
-        title: "Mashiro no Oto"
-        user_rating: 7.54
-        label: score
     user_rating: 7.54
   307375:
     title: "Mob Psycho 100"
@@ -1967,11 +1577,6 @@ metadata:
     genre.sync: Anime,Action,Supernatural,Seinen,Adult Cast,Mythology
     label: Ongoing
     studio: Bandai Namco Pictures
-    seasons:
-      1:
-        title: "Mononogatari"
-        user_rating: 6.61
-        label: score
     user_rating: 6.61
   371310:
     title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
@@ -1980,11 +1585,6 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Ecchi,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Studio Bind
-    seasons:
-      1:
-        title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
-        user_rating: 8.37
-        label: score
     user_rating: 8.37
   284131:
     title: "Nanatsu no Taizai"
@@ -2018,11 +1618,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Military
     label.remove: Ongoing
     studio: Madhouse
-    seasons:
-      1:
-        title: "Nejimaki Seirei Senki: Tenkyou no Alderamin"
-        user_rating: 7.66
-        label: score
     user_rating: 7.66
   332771:
     title: "Net-juu no Susume"
@@ -2031,11 +1626,6 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Adult Cast,Video Game
     label.remove: Ongoing
     studio: Signal.MD
-    seasons:
-      1:
-        title: "Net-juu no Susume"
-        user_rating: 7.55
-        label: score
     user_rating: 7.55
   240291:
     title: "Nichijou"
@@ -2044,11 +1634,6 @@ metadata:
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     label.remove: Ongoing
     studio: Kyoto Animation
-    seasons:
-      1:
-        title: "Nichijou"
-        user_rating: 8.46
-        label: score
     user_rating: 8.46
   416998:
     title: "NieR:Automata Ver1.1a"
@@ -2057,11 +1642,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Sci-Fi
     label: Ongoing
     studio: A-1 Pictures
-    seasons:
-      1:
-        title: "NieR:Automata Ver1.1a"
-        user_rating: 7.48
-        label: score
     user_rating: 7.48
   415188:
     title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
@@ -2070,11 +1650,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
-    seasons:
-      1:
-        title: "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
-        user_rating: 6.79
-        label: score
     user_rating: 6.79
   421893:
     title: "Nokemono-tachi no Yoru"
@@ -2083,11 +1658,6 @@ metadata:
     genre.sync: Anime,Fantasy,Shounen,Anthropomorphic,Historical
     label: Ongoing
     studio: Ashi Productions
-    seasons:
-      1:
-        title: "Nokemono-tachi no Yoru"
-        user_rating: 6.77
-        label: score
     user_rating: 6.77
   275610:
     title: "Noragami"
@@ -2155,11 +1725,6 @@ metadata:
     genre.sync: Anime,Fantasy,Survival
     label: Ongoing
     studio: Polygon Pictures
-    seasons:
-      1:
-        title: "Ooyukiumi no Kaina"
-        user_rating: 6.92
-        label: score
     user_rating: 6.92
   412826:
     title: "Otomege Sekai wa Mob ni Kibishii Sekai desu"
@@ -2168,11 +1733,6 @@ metadata:
     genre.sync: Anime,Fantasy,Isekai,Mecha,Reincarnation,School
     label.remove: Ongoing
     studio: ENGI
-    seasons:
-      1:
-        title: "Otomege Sekai wa Mob ni Kibishii Sekai desu"
-        user_rating: 7.35
-        label: score
     user_rating: 7.35
   414221:
     title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
@@ -2181,11 +1741,6 @@ metadata:
     genre.sync: Anime,Comedy,Romance,School
     label: Ongoing
     studio: Project No.9
-    seasons:
-      1:
-        title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
-        user_rating: 7.91
-        label: score
     user_rating: 7.91
   391625:
     title: "Ousama Ranking"
@@ -2194,11 +1749,6 @@ metadata:
     genre.sync: Anime,Adventure,Fantasy
     label.remove: Ongoing
     studio: Wit Studio
-    seasons:
-      1:
-        title: "Ousama Ranking"
-        user_rating: 8.56
-        label: score
     user_rating: 8.56
   294002:
     title: "Overlord"
@@ -2232,11 +1782,6 @@ metadata:
     genre.sync: Anime,Action,Drama,Supernatural,Shounen,Military,Vampire
     label.remove: Ongoing
     studio: Wit Studio
-    seasons:
-      1:
-        title: "Owari no Seraph"
-        user_rating: 7.49
-        label: score
     user_rating: 7.49
   412580:
     title: "Paripi Koumei"
@@ -2245,12 +1790,7 @@ metadata:
     genre.sync: Anime,Comedy,Adult Cast,Music,Reincarnation
     label.remove: Ongoing
     studio: P.A. Works
-    seasons:
-      1:
-        title: "Paripi Koumei"
-        user_rating: 8.2
-        label: score
-    user_rating: 8.20
+    user_rating: 8.2
   291627:
     title: "Plastic Memories"
     sort_title: "Plastic Memories"
@@ -2258,11 +1798,6 @@ metadata:
     genre.sync: Anime,Drama,Romance,Sci-Fi
     label.remove: Ongoing
     studio: Doga Kobo
-    seasons:
-      1:
-        title: "Plastic Memories"
-        user_rating: 7.91
-        label: score
     user_rating: 7.91
   326270:
     title: "Quanzhi Gaoshou"
@@ -2288,11 +1823,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,Ecchi,School
     label.remove: Ongoing
     studio: SILVER LINK.
-    seasons:
-      1:
-        title: "Rakudai Kishi no Cavalry"
-        user_rating: 7.45
-        label: score
     user_rating: 7.45
   305089:
     title: "Re:Zero kara Hajimeru Isekai Seikatsu"
@@ -2318,11 +1848,6 @@ metadata:
     genre.sync: Anime,Drama,Romance,School
     label.remove: Ongoing
     studio: TMS Entertainment
-    seasons:
-      1:
-        title: "ReLIFE"
-        user_rating: 7.98
-        label: score
     user_rating: 7.98
   423787:
     title: "Romantic Killer"
@@ -2331,11 +1856,6 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Supernatural,Shounen,Parody,Reverse Harem
     label.remove: Ongoing
     studio: domerica
-    seasons:
-      1:
-        title: "Romantic Killer"
-        user_rating: 8.12
-        label: score
     user_rating: 8.12
   398387:
     title: "Sabikui Bisco"
@@ -2344,11 +1864,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Sci-Fi
     label.remove: Ongoing
     studio: OZ
-    seasons:
-      1:
-        title: "Sabikui Bisco"
-        user_rating: 7.17
-        label: score
     user_rating: 7.17
   313435:
     title: "Saiki Kusuo no Ψ-nan"
@@ -2374,11 +1889,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Studio Blanc.
-    seasons:
-      1:
-        title: "Saikyou Onmyouji no Isekai Tenseiki"
-        user_rating: 7.43
-        label: score
     user_rating: 7.43
   262114:
     title: "Sakurasou no Pet na Kanojo"
@@ -2387,11 +1897,6 @@ metadata:
     genre.sync: Anime,Drama,Romance,School,Visual Arts
     label.remove: Ongoing
     studio: J.C.Staff
-    seasons:
-      1:
-        title: "Sakurasou no Pet na Kanojo"
-        user_rating: 8.09
-        label: score
     user_rating: 8.09
   257518:
     title: "Sankarea"
@@ -2400,11 +1905,6 @@ metadata:
     genre.sync: Anime,Comedy,Horror,Romance,Supernatural,Ecchi,Shounen
     label.remove: Ongoing
     studio: Studio Deen
-    seasons:
-      1:
-        title: "Sankarea"
-        user_rating: 7.29
-        label: score
     user_rating: 7.29
   397831:
     title: "Seijo no Maryoku wa Bannou desu"
@@ -2413,11 +1913,6 @@ metadata:
     genre.sync: Anime,Fantasy,Romance,Adult Cast,Isekai,Medical
     label.remove: Ongoing
     studio: Diomedéa
-    seasons:
-      1:
-        title: "Seijo no Maryoku wa Bannou desu"
-        user_rating: 7.27
-        label: score
     user_rating: 7.27
   173271:
     title: "Seitokai Yakuindomo"
@@ -2443,11 +1938,6 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Romance,Isekai,Reincarnation
     label.remove: Ongoing
     studio: SILVER LINK.
-    seasons:
-      1:
-        title: "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
-        user_rating: 7.37
-        label: score
     user_rating: 7.37
   396876:
     title: "Shadows House"
@@ -2473,11 +1963,6 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Supernatural,Shounen,Super Power
     label.remove: Ongoing
     studio: Bridge
-    seasons:
-      1:
-        title: "SHAMAN KING (2021)"
-        user_rating: 6.89
-        label: score
     user_rating: 6.89
   279830:
     title: "Shigatsu wa Kimi no Uso"
@@ -2486,11 +1971,6 @@ metadata:
     genre.sync: Anime,Drama,Romance,Shounen,Music,School
     label.remove: Ongoing
     studio: A-1 Pictures
-    seasons:
-      1:
-        title: "Shigatsu wa Kimi no Uso"
-        user_rating: 8.65
-        label: score
     user_rating: 8.65
   267440:
     title: "Shingeki no Kyojin"
@@ -2524,11 +2004,6 @@ metadata:
     genre.sync: Anime,Award Winning,Comedy,Drama,Adult Cast,Otaku Culture,Workplace
     label.remove: Ongoing
     studio: P.A. Works
-    seasons:
-      1:
-        title: "SHIROBAKO"
-        user_rating: 8.29
-        label: score
     user_rating: 8.29
   402640:
     title: "Shokei Shoujo no Virgin Road"
@@ -2537,11 +2012,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai
     label.remove: Ongoing
     studio: J.C.Staff
-    seasons:
-      1:
-        title: "Shokei Shoujo no Virgin Road"
-        user_rating: 6.81
-        label: score
     user_rating: 6.81
   332983:
     title: "Shoujo Shuumatsu Ryokou"
@@ -2550,12 +2020,7 @@ metadata:
     genre.sync: Anime,Adventure,Mystery,Sci-Fi,Slice of Life,Iyashikei
     label.remove: Ongoing
     studio: White Fox
-    seasons:
-      1:
-        title: "Shoujo Shuumatsu Ryokou"
-        user_rating: 8.2
-        label: score
-    user_rating: 8.20
+    user_rating: 8.2
   304316:
     title: "Shouwa Genroku Rakugo Shinjuu"
     sort_title: "Shouwa Genroku Rakugo Shinjuu"
@@ -2610,11 +2075,6 @@ metadata:
     genre.sync: Anime,Romance,Slice of Life,Seinen,Otaku Culture,School
     label.remove: Ongoing
     studio: CloverWorks
-    seasons:
-      1:
-        title: "Sono Bisque Doll wa Koi wo Suru"
-        user_rating: 8.27
-        label: score
     user_rating: 8.27
   415821:
     title: "Spy Kyoushitsu"
@@ -2623,11 +2083,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Mystery
     label: Ongoing
     studio: feel.
-    seasons:
-      1:
-        title: "Spy Kyoushitsu"
-        user_rating: 6.41
-        label: score
     user_rating: 6.41
   405920:
     title: "SPY×FAMILY"
@@ -2636,11 +2091,6 @@ metadata:
     genre.sync: Anime,Action,Award Winning,Comedy,Shounen,Childcare
     label.remove: Ongoing
     studio: Wit Studio
-    seasons:
-      1:
-        title: "SPY×FAMILY"
-        user_rating: 8.68
-        label: score
     user_rating: 8.68
   244061:
     title: "Steins;Gate"
@@ -2649,11 +2099,6 @@ metadata:
     genre.sync: Anime,Drama,Sci-Fi,Suspense,Psychological,Time Travel
     label.remove: Ongoing
     studio: White Fox
-    seasons:
-      1:
-        title: "Steins;Gate"
-        user_rating: 9.08
-        label: score
     user_rating: 9.08
   339268:
     title: "Steins;Gate 0"
@@ -2662,11 +2107,6 @@ metadata:
     genre.sync: Anime,Drama,Sci-Fi,Suspense,Time Travel
     label.remove: Ongoing
     studio: White Fox
-    seasons:
-      1:
-        title: "Steins;Gate 0"
-        user_rating: 8.53
-        label: score
     user_rating: 8.53
   267432:
     title: "Suisei no Gargantia"
@@ -2675,11 +2115,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Sci-Fi,Mecha
     label.remove: Ongoing
     studio: Production I.G
-    seasons:
-      1:
-        title: "Suisei no Gargantia"
-        user_rating: 7.46
-        label: score
     user_rating: 7.46
   407306:
     title: "Summer Time Render"
@@ -2688,11 +2123,6 @@ metadata:
     genre.sync: Anime,Mystery,Supernatural,Suspense,Shounen,Time Travel
     label.remove: Ongoing
     studio: OLM
-    seasons:
-      1:
-        title: "Summer Time Render"
-        user_rating: 8.53
-        label: score
     user_rating: 8.53
   259640:
     title: "Sword Art Online"
@@ -2726,11 +2156,6 @@ metadata:
     genre.sync: Anime,Slice of Life,Iyashikei,School
     label.remove: Ongoing
     studio: SILVER LINK.
-    seasons:
-      1:
-        title: "Tanaka-kun wa Itsumo Kedaruge"
-        user_rating: 7.84
-        label: score
     user_rating: 7.84
   353712:
     title: "Tate no Yuusha no Nariagari"
@@ -2756,12 +2181,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy
     label.remove: Ongoing
     studio: Yokohama Animation Lab
-    seasons:
-      1:
-        title: "Tensai Ouji no Akaji Kokka Saisei Jutsu"
-        user_rating: 7.4
-        label: score
-    user_rating: 7.40
+    user_rating: 7.4
   423362:
     title: "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
     sort_title: "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
@@ -2769,11 +2189,6 @@ metadata:
     genre.sync: Anime,Fantasy,Girls Love,Isekai,Reincarnation
     label: Ongoing
     studio: Diomedéa
-    seasons:
-      1:
-        title: "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
-        user_rating: 7.86
-        label: score
     user_rating: 7.86
   410378:
     title: "Tensei Shitara Ken Deshita"
@@ -2782,11 +2197,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: C2C
-    seasons:
-      1:
-        title: "Tensei Shitara Ken Deshita"
-        user_rating: 7.57
-        label: score
     user_rating: 7.57
   352408:
     title: "Tensei Shitara Slime Datta Ken"
@@ -2812,11 +2222,6 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Shounen,Isekai,Reincarnation
     label.remove: Ongoing
     studio: 8bit
-    seasons:
-      1:
-        title: "Tensei Shitara Slime Datta Ken: Tensura Nikki"
-        user_rating: 7.58
-        label: score
     user_rating: 7.58
   378556:
     title: "THE GOD OF HIGH SCHOOL"
@@ -2825,11 +2230,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Martial Arts,Super Power
     label.remove: Ongoing
     studio: MAPPA
-    seasons:
-      1:
-        title: "THE GOD OF HIGH SCHOOL"
-        user_rating: 7.07
-        label: score
     user_rating: 7.07
   281249:
     title: "Tokyo Ghoul"
@@ -2859,11 +2259,6 @@ metadata:
     genre.sync: Anime,Action,Romance,Supernatural,School
     label.remove: Ongoing
     studio: 8bit
-    seasons:
-      1:
-        title: "Tokyo Ravens"
-        user_rating: 7.44
-        label: score
     user_rating: 7.44
   393478:
     title: "Tokyo Revengers"
@@ -2889,11 +2284,6 @@ metadata:
     genre.sync: Anime,Comedy,Romance,School
     label: Ongoing
     studio: Lay-duce
-    seasons:
-      1:
-        title: "Tomo-chan wa Onnanoko!"
-        user_rating: 7.57
-        label: score
     user_rating: 7.57
   262107:
     title: "Tonari no Kaibutsu-kun"
@@ -2902,11 +2292,6 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Shoujo,School
     label.remove: Ongoing
     studio: Brain's Base
-    seasons:
-      1:
-        title: "Tonari no Kaibutsu-kun"
-        user_rating: 7.48
-        label: score
     user_rating: 7.48
   426572:
     title: "Tondemo Skill de Isekai Hourou Meshi"
@@ -2915,11 +2300,6 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Gourmet,Isekai
     label: Ongoing
     studio: MAPPA
-    seasons:
-      1:
-        title: "Tondemo Skill de Isekai Hourou Meshi"
-        user_rating: 7.66
-        label: score
     user_rating: 7.66
   385077:
     title: "Tonikaku Kawaii"
@@ -2928,12 +2308,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Shounen
     label.remove: Ongoing
     studio: Seven Arcs
-    seasons:
-      1:
-        title: "Tonikaku Kawaii"
-        user_rating: 7.9
-        label: score
-    user_rating: 7.90
+    user_rating: 7.9
   83277:
     title: "Toradora!"
     sort_title: "Toradora!"
@@ -2941,11 +2316,6 @@ metadata:
     genre.sync: Anime,Drama,Romance,Love Polygon,School
     label.remove: Ongoing
     studio: J.C.Staff
-    seasons:
-      1:
-        title: "Toradora!"
-        user_rating: 8.09
-        label: score
     user_rating: 8.09
   421378:
     title: "TRIGUN STAMPEDE"
@@ -2954,11 +2324,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
     label: Ongoing
     studio: Orange
-    seasons:
-      1:
-        title: "TRIGUN STAMPEDE"
-        user_rating: 7.35
-        label: score
     user_rating: 7.35
   325197:
     title: "Tsuki ga Kirei"
@@ -2967,11 +2332,6 @@ metadata:
     genre.sync: Anime,Romance,School
     label.remove: Ongoing
     studio: feel.
-    seasons:
-      1:
-        title: "Tsuki ga Kirei"
-        user_rating: 8.07
-        label: score
     user_rating: 8.07
   422405:
     title: "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san"
@@ -2980,11 +2340,6 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Video Game
     label: Ongoing
     studio: Tezuka Productions
-    seasons:
-      1:
-        title: "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san"
-        user_rating: 7.27
-        label: score
     user_rating: 7.27
   352796:
     title: "Tsurune: Kazemai Koukou Kyuudou-bu"
@@ -3023,11 +2378,6 @@ metadata:
     genre.sync: Anime,Slice of Life,Supernatural,Seinen,Anthropomorphic,Childcare,Iyashikei
     label.remove: Ongoing
     studio: LIDENFILMS
-    seasons:
-      1:
-        title: "Udon no Kuni no Kiniro Kemari"
-        user_rating: 7.75
-        label: score
     user_rating: 7.75
   249872:
     title: "Usagi Drop"
@@ -3036,11 +2386,6 @@ metadata:
     genre.sync: Anime,Slice of Life,Josei,Childcare,Iyashikei
     label.remove: Ongoing
     studio: Production I.G
-    seasons:
-      1:
-        title: "Usagi Drop"
-        user_rating: 8.37
-        label: score
     user_rating: 8.37
   381406:
     title: "Uzaki-chan wa Asobitai!"
@@ -3066,11 +2411,6 @@ metadata:
     genre.sync: Anime,Supernatural,Shounen,Historical,Vampire
     label.remove: Ongoing
     studio: Bones
-    seasons:
-      1:
-        title: "Vanitas no Carte"
-        user_rating: 7.91
-        label: score
     user_rating: 7.91
   359274:
     title: "VINLAND SAGA"
@@ -3096,11 +2436,6 @@ metadata:
     genre.sync: Anime,Drama,Fantasy
     label.remove: Ongoing
     studio: Kyoto Animation
-    seasons:
-      1:
-        title: "Violet Evergarden"
-        user_rating: 8.67
-        label: score
     user_rating: 8.67
   397774:
     title: "Vivy: Fluorite Eye’s Song"
@@ -3109,11 +2444,6 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Suspense,Music,Time Travel
     label.remove: Ongoing
     studio: Wit Studio
-    seasons:
-      1:
-        title: "Vivy: Fluorite Eye’s Song"
-        user_rating: 8.42
-        label: score
     user_rating: 8.42
   79060:
     title: "Wolf's Rain"
@@ -3122,12 +2452,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery,Sci-Fi
     label.remove: Ongoing
     studio: Bones
-    seasons:
-      1:
-        title: "Wolf's Rain"
-        user_rating: 7.8
-        label: score
-    user_rating: 7.80
+    user_rating: 7.8
   390028:
     title: "Wonder Egg Priority"
     sort_title: "Wonder Egg Priority"
@@ -3135,11 +2460,6 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Psychological
     label.remove: Ongoing
     studio: CloverWorks
-    seasons:
-      1:
-        title: "Wonder Egg Priority"
-        user_rating: 7.66
-        label: score
     user_rating: 7.66
   145211:
     title: "Working!!"
@@ -3190,11 +2510,6 @@ metadata:
     genre.sync: Anime,Romance,Adult Cast,Otaku Culture,Workplace
     label.remove: Ongoing
     studio: A-1 Pictures
-    seasons:
-      1:
-        title: "Wotaku ni Koi wa Muzukashii"
-        user_rating: 7.94
-        label: score
     user_rating: 7.94
   376751:
     title: "Xian Wang De Richang Shenghuo"
@@ -3258,11 +2573,6 @@ metadata:
     genre.sync: Anime,Romance,Supernatural,Shounen,Vampire
     label.remove: Ongoing
     studio: LIDENFILMS
-    seasons:
-      1:
-        title: "Yofukashi no Uta"
-        user_rating: 8.04
-        label: score
     user_rating: 8.04
   272309:
     title: "Yowamushi Pedal"
@@ -3317,11 +2627,6 @@ metadata:
     genre.sync: Anime,Mystery,Suspense,Shounen,Adult Cast,Historical,Psychological
     label.remove: Ongoing
     studio: Production I.G
-    seasons:
-      1:
-        title: "Yuukoku no Moriarty"
-        user_rating: 8.16
-        label: score
     user_rating: 8.16
   262109:
     title: "Zetsuen no Tempest"
@@ -3330,9 +2635,4 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Shounen,Psychological
     label.remove: Ongoing
     studio: Bones
-    seasons:
-      1:
-        title: "Zetsuen no Tempest"
-        user_rating: 7.92
-        label: score
     user_rating: 7.92
