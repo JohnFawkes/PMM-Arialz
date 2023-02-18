@@ -1612,14 +1612,6 @@ metadata:
         user_rating: 8.8
         label: score
     critic_rating: 8.7
-  412626:
-    title: "Mononogatari"
-    sort_title: "Mononogatari"
-    original_title: "Malevolent Spirits: Mononogatari"
-    genre.sync: Anime,Action,Supernatural,Seinen,Adult Cast,Mythology
-    label: Ongoing
-    studio: Bandai Namco Pictures
-    critic_rating: 6.6
   371310:
     title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
     sort_title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
@@ -1632,7 +1624,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 6.6
+    critic_rating: 8.7
   284131:
     title: "Nanatsu no Taizai"
     sort_title: "Nanatsu no Taizai"
@@ -1709,14 +1701,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
-    critic_rating: 6.7
-  421893:
-    title: "Nokemono-tachi no Yoru"
-    sort_title: "Nokemono-tachi no Yoru"
-    original_title: "The Tale of Outcasts"
-    genre.sync: Anime,Fantasy,Shounen,Anthropomorphic,Historical
-    label: Ongoing
-    studio: Ashi Productions
     critic_rating: 6.7
   275610:
     title: "Noragami"
