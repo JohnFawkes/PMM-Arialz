@@ -1078,7 +1078,7 @@ metadata:
     sort_title: "Kage no Jitsuryokusha ni Naritakute!"
     original_title: "The Eminence in Shadow"
     genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Reincarnation
-    label: Ongoing
+    label.remove: Ongoing
     studio: Nexus
     critic_rating: 8.4
   354198:
