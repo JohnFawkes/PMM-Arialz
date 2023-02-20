@@ -1413,11 +1413,11 @@ metadata:
         user_rating: 8.1
         label: score
       2:
-        title: "Kuroko no Basket 2nd Season"
+        title: "Kuroko no Basket 2nd SEASON"
         user_rating: 8.2
         label: score
       3:
-        title: "Kuroko no Basket 3rd Season"
+        title: "Kuroko no Basket 3rd SEASON"
         user_rating: 8.3
         label: score
     critic_rating: 8.2
@@ -1717,7 +1717,7 @@ metadata:
         user_rating: 8.0
         label: score
       2:
-        title: "Noragami Aragoto"
+        title: "Noragami ARAGOTO"
         user_rating: 8.2
         label: score
     critic_rating: 8.1
