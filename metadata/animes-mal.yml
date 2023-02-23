@@ -381,7 +381,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Shounen,Gore
     label.remove: Ongoing
     studio: MAPPA
-    critic_rating: 8.7
+    critic_rating: 8.6
   289679:
     title: "Charlotte"
     sort_title: "Charlotte"
@@ -394,7 +394,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 8.7
+    critic_rating: 8.6
   251982:
     title: "Chihayafuru"
     sort_title: "Chihayafuru"
@@ -613,7 +613,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Magical Sex Shift,Reincarnation
     label: Ongoing
     studio: Studio Comet
-    critic_rating: 7.2
+    critic_rating: 7.1
   355480:
     title: "Enen no Shouboutai"
     sort_title: "Enen no Shouboutai"
@@ -897,7 +897,7 @@ metadata:
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
-    critic_rating: 6.8
+    critic_rating: 6.7
   293121:
     title: "Himouto! Umaru-chan"
     sort_title: "Himouto! Umaru-chan"
@@ -1274,7 +1274,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,Military
     label.remove: Ongoing
     studio: SILVER LINK.
-    critic_rating: 6.6
+    critic_rating: 6.7
   259635:
     title: "Kingdom"
     sort_title: "Kingdom"
@@ -2154,7 +2154,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Mystery
     label: Ongoing
     studio: feel.
-    critic_rating: 6.4
+    critic_rating: 6.3
   405920:
     title: "SPY×FAMILY"
     sort_title: "SPY×FAMILY"
