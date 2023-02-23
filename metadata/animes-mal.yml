@@ -2435,7 +2435,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Video Game
     label: Ongoing
     studio: Tezuka Productions
-    critic_rating: 7.3
+    critic_rating: 7.2
   352796:
     title: "Tsurune: Kazemai Koukou Kyuudou-bu"
     sort_title: "Tsurune: Kazemai Koukou Kyuudou-bu"
@@ -2448,13 +2448,13 @@ metadata:
         label.remove: score
       1:
         title: "Tsurune: Kazemai Koukou Kyuudou-bu"
-        user_rating: 7.6
+        user_rating: 7.7
         label: score
       2:
         title: "Tsurune: Tsunagari no Issha"
         user_rating: 7.8
         label: score
-    critic_rating: 7.7
+    critic_rating: 7.8
   256705:
     title: "Uchuu Kyoudai"
     sort_title: "Uchuu Kyoudai"
