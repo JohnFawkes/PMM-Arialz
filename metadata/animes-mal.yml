@@ -2412,6 +2412,14 @@ metadata:
     label.remove: Ongoing
     studio: J.C.Staff
     critic_rating: 8.1
+  77680:
+    title: "TRIGUN"
+    sort_title: "TRIGUN"
+    original_title: "Trigun"
+    genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
+    label.remove: Ongoing
+    studio: Madhouse
+    critic_rating: 8.2
   421378:
     title: "TRIGUN STAMPEDE"
     sort_title: "TRIGUN STAMPEDE"
