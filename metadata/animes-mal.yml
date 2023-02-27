@@ -293,6 +293,14 @@ metadata:
     label.remove: Ongoing
     studio: Pierrot
     critic_rating: 7.9
+  408629:
+    title: "Blue Lock"
+    sort_title: "Blue Lock"
+    original_title: "Blue Lock"
+    genre.sync: Anime,Sports,Shounen,Team Sports
+    label: Ongoing
+    studio: 8bit
+    critic_rating: 8.3
   413522:
     title: "Bocchi the Rock!"
     sort_title: "Bocchi the Rock!"
@@ -358,14 +366,6 @@ metadata:
     label: Ongoing
     studio: Bones
     critic_rating: 7.8
-  408629:
-    title: "Blue Lock"
-    sort_title: "Blue Lock"
-    original_title: "Blue Lock"
-    genre.sync: Anime,Sports,Shounen,Team Sports
-    label: Ongoing
-    studio: 8bit
-    critic_rating: 8.3
   83316:
     title: "Casshern Sins"
     sort_title: "Casshern Sins"
