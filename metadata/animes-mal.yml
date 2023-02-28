@@ -165,14 +165,6 @@ metadata:
     label.remove: Ongoing
     studio: Yostar Pictures
     critic_rating: 7.2
-  425368:
-    title: "Ars no Kyojuu"
-    sort_title: "Ars no Kyojuu"
-    original_title: "Giant Beasts of Ars"
-    genre.sync: Anime,Action,Adventure,Fantasy
-    label: Ongoing
-    studio: Asahi Production
-    critic_rating: 6.6
   291630:
     title: "Arslan Senki (TV)"
     sort_title: "Arslan Senki (TV)"
@@ -962,14 +954,6 @@ metadata:
     label.remove: Ongoing
     studio: Orange
     critic_rating: 8.4
-  419502:
-    title: "Hyouken no Majutsushi ga Sekai wo Suberu"
-    sort_title: "Hyouken no Majutsushi ga Sekai wo Suberu"
-    original_title: "The Iceblade Sorcerer Shall Rule the World"
-    genre.sync: Anime,Action,Fantasy,School
-    label: Ongoing
-    studio: Cloud Hearts
-    critic_rating: 6.5
   370377:
     title: "ID: INVADED"
     sort_title: "ID: INVADED"
@@ -2147,14 +2131,6 @@ metadata:
     label.remove: Ongoing
     studio: CloverWorks
     critic_rating: 8.3
-  415821:
-    title: "Spy Kyoushitsu"
-    sort_title: "Spy Kyoushitsu"
-    original_title: "Spy Classroom"
-    genre.sync: Anime,Action,Fantasy,Mystery
-    label: Ongoing
-    studio: feel.
-    critic_rating: 6.3
   405920:
     title: "SPY×FAMILY"
     sort_title: "SPY×FAMILY"
