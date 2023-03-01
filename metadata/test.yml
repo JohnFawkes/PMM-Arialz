@@ -1,7 +1,7 @@
 collections:
   Ongoing à voir test:
     collection_filtering: user
-    plex_search:
+    smart_filter:
       all:
         label: Ongoing
         unplayed_episodes: true
@@ -9,7 +9,7 @@ collections:
     visible_library: false
   Ended à voir test:
     collection_filtering: user
-    plex_search:
+    smart_filter:
       all:
         label.not: Ongoing
         unplayed_episodes: true
@@ -17,7 +17,7 @@ collections:
     visible_library: false
   Ongoing All test:
     collection_filtering: user
-    plex_search:
+    smart_filter:
       all:
         label: Ongoing
     sort_title: 0 - Ongoing All test
