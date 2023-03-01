@@ -7,8 +7,6 @@ collections:
         label: Ongoing
         unplayed: true
     sort_title: 1 - Ongoing à voir test
-
-collections:
   Ended à voir test:
     collection_filtering: user
     smart_label:
@@ -17,8 +15,6 @@ collections:
         label.not: Ongoing
         unplayed: true
     sort_title: 2 - Ended à voir test
-
-collections:
   Ongoing All test:
     collection_filtering: user
     smart_label:
