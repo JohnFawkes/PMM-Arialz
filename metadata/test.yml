@@ -1,24 +1,24 @@
 collections:
   Ongoing à voir test:
     collection_filtering: user
-    smart_label:
-      sort_by: episode_added.desc
+    plex_search:
       all:
         label: Ongoing
-        unplayed: true
+        unplayed_episodes: true
     sort_title: 1 - Ongoing à voir test
+    visible_library: false
   Ended à voir test:
     collection_filtering: user
-    smart_label:
-      sort_by: episode_added.desc
+    plex_search:
       all:
         label.not: Ongoing
-        unplayed: true
+        unplayed_episodes: true
     sort_title: 2 - Ended à voir test
+    visible_library: false
   Ongoing All test:
     collection_filtering: user
-    smart_label:
-      sort_by: episode_added.desc
+    plex_search:
       all:
         label: Ongoing
     sort_title: 0 - Ongoing All test
+    visible_library: false
