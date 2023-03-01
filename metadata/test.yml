@@ -1,9 +1,28 @@
 collections:
-  Unplayed Marvel Cinematic Universe:
+  Ongoing à voir test:
     collection_filtering: user
-    trakt_list: https://trakt.tv/users/jawann2002/lists/marvel-cinematic-universe-movies?sort=rank,asc
     smart_label:
-      sort_by: release.desc
+      sort_by: episode_added.desc
       all:
-        label: <<smart_label>>
+        label: Ongoing
         unplayed: true
+    sort_title: 1 - Ongoing à voir test
+
+collections:
+  Ended à voir test:
+    collection_filtering: user
+    smart_label:
+      sort_by: episode_added.desc
+      all:
+        label.not: Ongoing
+        unplayed: true
+    sort_title: 2 - Ended à voir test
+
+collections:
+  Ongoing All test:
+    collection_filtering: user
+    smart_label:
+      sort_by: episode_added.desc
+      all:
+        label: Ongoing
+    sort_title: 0 - Ongoing All test
