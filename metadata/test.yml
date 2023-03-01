@@ -1,0 +1,24 @@
+collections:
+  Ongoing à voir test:
+    collection_filtering: user
+    smart_filter:
+      all:
+        label: Ongoing
+        unplayed_episodes: true
+    sort_title: 1 - Ongoing à voir test
+    visible_library: false
+  Ended à voir test:
+    collection_filtering: user
+    smart_filter:
+      all:
+        label.not: Ongoing
+        unplayed_episodes: true
+    sort_title: 2 - Ended à voir test
+    visible_library: false
+  Ongoing All test:
+    collection_filtering: user
+    smart_filter:
+      all:
+        label: Ongoing
+    sort_title: 0 - Ongoing All test
+    visible_library: false

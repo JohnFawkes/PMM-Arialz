@@ -165,14 +165,6 @@ metadata:
     label.remove: Ongoing
     studio: Yostar Pictures
     critic_rating: 7.2
-  425368:
-    title: "Ars no Kyojuu"
-    sort_title: "Ars no Kyojuu"
-    original_title: "Giant Beasts of Ars"
-    genre.sync: Anime,Action,Adventure,Fantasy
-    label: Ongoing
-    studio: Asahi Production
-    critic_rating: 6.6
   291630:
     title: "Arslan Senki (TV)"
     sort_title: "Arslan Senki (TV)"
@@ -381,7 +373,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Shounen,Gore
     label.remove: Ongoing
     studio: MAPPA
-    critic_rating: 8.7
+    critic_rating: 8.6
   289679:
     title: "Charlotte"
     sort_title: "Charlotte"
@@ -394,7 +386,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 8.7
+    critic_rating: 8.6
   251982:
     title: "Chihayafuru"
     sort_title: "Chihayafuru"
@@ -613,7 +605,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Magical Sex Shift,Reincarnation
     label: Ongoing
     studio: Studio Comet
-    critic_rating: 7.2
+    critic_rating: 7.1
   355480:
     title: "Enen no Shouboutai"
     sort_title: "Enen no Shouboutai"
@@ -897,7 +889,7 @@ metadata:
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
-    critic_rating: 6.8
+    critic_rating: 6.7
   293121:
     title: "Himouto! Umaru-chan"
     sort_title: "Himouto! Umaru-chan"
@@ -962,14 +954,6 @@ metadata:
     label.remove: Ongoing
     studio: Orange
     critic_rating: 8.4
-  419502:
-    title: "Hyouken no Majutsushi ga Sekai wo Suberu"
-    sort_title: "Hyouken no Majutsushi ga Sekai wo Suberu"
-    original_title: "The Iceblade Sorcerer Shall Rule the World"
-    genre.sync: Anime,Action,Fantasy,School
-    label: Ongoing
-    studio: Cloud Hearts
-    critic_rating: 6.5
   370377:
     title: "ID: INVADED"
     sort_title: "ID: INVADED"
@@ -1054,9 +1038,9 @@ metadata:
         label: score
       2:
         title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2"
-        user_rating: 7.5
+        user_rating: 7.4
         label: score
-    critic_rating: 7.6
+    critic_rating: 7.5
   257756:
     title: "Jormungand"
     sort_title: "Jormungand"
@@ -1109,7 +1093,7 @@ metadata:
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Encourage Films
-    critic_rating: 6.8
+    critic_rating: 6.9
   376729:
     title: "Kami no Tou: Tower of God"
     sort_title: "Kami no Tou: Tower of God"
@@ -1151,7 +1135,7 @@ metadata:
         label: score
       2:
         title: "Kamitachi ni Hirowareta Otoko 2"
-        user_rating: 7.2
+        user_rating: 7.1
         label: score
     critic_rating: 7.1
   132941:
@@ -1274,7 +1258,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,Military
     label.remove: Ongoing
     studio: SILVER LINK.
-    critic_rating: 6.6
+    critic_rating: 6.7
   259635:
     title: "Kingdom"
     sort_title: "Kingdom"
@@ -1774,7 +1758,7 @@ metadata:
     genre.sync: Anime,Fantasy,Survival
     label: Ongoing
     studio: Polygon Pictures
-    critic_rating: 6.9
+    critic_rating: 6.8
   412826:
     title: "Otomege Sekai wa Mob ni Kibishii Sekai desu"
     sort_title: "Otomege Sekai wa Mob ni Kibishii Sekai desu"
@@ -2147,14 +2131,6 @@ metadata:
     label.remove: Ongoing
     studio: CloverWorks
     critic_rating: 8.3
-  415821:
-    title: "Spy Kyoushitsu"
-    sort_title: "Spy Kyoushitsu"
-    original_title: "Spy Classroom"
-    genre.sync: Anime,Action,Fantasy,Mystery
-    label: Ongoing
-    studio: feel.
-    critic_rating: 6.4
   405920:
     title: "SPY×FAMILY"
     sort_title: "SPY×FAMILY"
@@ -2412,6 +2388,14 @@ metadata:
     label.remove: Ongoing
     studio: J.C.Staff
     critic_rating: 8.1
+  77680:
+    title: "TRIGUN"
+    sort_title: "TRIGUN"
+    original_title: "Trigun"
+    genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
+    label.remove: Ongoing
+    studio: Madhouse
+    critic_rating: 8.2
   421378:
     title: "TRIGUN STAMPEDE"
     sort_title: "TRIGUN STAMPEDE"
@@ -2435,7 +2419,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Video Game
     label: Ongoing
     studio: Tezuka Productions
-    critic_rating: 7.3
+    critic_rating: 7.2
   352796:
     title: "Tsurune: Kazemai Koukou Kyuudou-bu"
     sort_title: "Tsurune: Kazemai Koukou Kyuudou-bu"
@@ -2448,13 +2432,13 @@ metadata:
         label.remove: score
       1:
         title: "Tsurune: Kazemai Koukou Kyuudou-bu"
-        user_rating: 7.6
+        user_rating: 7.7
         label: score
       2:
         title: "Tsurune: Tsunagari no Issha"
         user_rating: 7.8
         label: score
-    critic_rating: 7.7
+    critic_rating: 7.8
   256705:
     title: "Uchuu Kyoudai"
     sort_title: "Uchuu Kyoudai"
@@ -2523,9 +2507,9 @@ metadata:
         label: score
       2:
         title: "VINLAND SAGA SEASON 2"
-        user_rating: 8.8
+        user_rating: 8.7
         label: score
-    critic_rating: 8.8
+    critic_rating: 8.7
   330139:
     title: "Violet Evergarden"
     sort_title: "Violet Evergarden"
