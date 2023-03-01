@@ -1,0 +1,9 @@
+collections:
+  Unplayed Marvel Cinematic Universe:
+    trakt_list: https://trakt.tv/users/jawann2002/lists/marvel-cinematic-universe-movies?sort=rank,asc
+    smart_label:
+      sort_by: release.desc
+      all:
+        label: <<smart_label>>
+        unplayed: true
+        collection_filtering: user
