@@ -5,10 +5,10 @@ collections:
       all:
         label: Ongoing
         unplayed_episodes: true
-      sort_by: episode_release.desc
+      sort_by: viewed.desc
     sort_title: 1 - Ongoing à voir
     collection_mode: show_items
-    collection_order: custom.desc
+    visible_library: true
     visible_home: true
     visible_shared: true
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_ongoing.jpg
@@ -20,10 +20,10 @@ collections:
       all:
         label.not: Ongoing
         unplayed_episodes: true
-      sort_by: episode_release.desc
+      sort_by: episode_added.desc
     sort_title: 2 - Ended à voir
     collection_mode: show_items
-    collection_order: custom.desc
+    visible_library: true
     visible_home: true
     visible_shared: true
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_ended.jpg
@@ -35,6 +35,7 @@ collections:
         label: Ongoing
     sort_title: 0 - Ongoing All
     collection_mode: hide
+    visible_library: false
     visible_home: false
     visible_shared: false
     url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
