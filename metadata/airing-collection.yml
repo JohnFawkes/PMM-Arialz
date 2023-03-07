@@ -4,8 +4,8 @@ collections:
     smart_filter:
       all:
         label: Ongoing
-        sort_by: episode_release.desc
         unplayed_episodes: true
+      sort_by: episode_release.desc
     sort_title: 1 - Ongoing à voir
     collection_mode: show_items
     collection_order: custom.desc
@@ -19,8 +19,8 @@ collections:
     smart_filter:
       all:
         label.not: Ongoing
-        sort_by: episode_release.desc
         unplayed_episodes: true
+      sort_by: episode_release.desc
     sort_title: 2 - Ended à voir
     collection_mode: show_items
     collection_order: custom.desc
