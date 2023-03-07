@@ -976,9 +976,9 @@ metadata:
         label: score
       2:
         title: "Ijiranaide, Nagatoro-san 2nd Attack"
-        user_rating: 7.4
+        user_rating: 7.5
         label: score
-    critic_rating: 7.3
+    critic_rating: 7.4
   255133:
     title: "Inu x Boku SS"
     sort_title: "Inu x Boku SS"
@@ -991,7 +991,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.3
+    critic_rating: 7.4
   71361:
     title: "Inuyasha"
     sort_title: "Inuyasha"
@@ -1528,9 +1528,9 @@ metadata:
         label: score
       3:
         title: "Mairimashita! Iruma-kun 3"
-        user_rating: 8.0
+        user_rating: 7.9
         label: score
-    critic_rating: 8.0
+    critic_rating: 7.9
   341436:
     title: "Major 2nd"
     sort_title: "Major 2nd"
