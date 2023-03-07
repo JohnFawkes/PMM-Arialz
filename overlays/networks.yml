@@ -27,6 +27,10 @@ templates:
       vertical_align: <<vertical_align>>
 
 overlays:
+  A&E:
+    variables: {key: A&E, weight: 20}
+    template: [name: Networks]
+
   ABC:
     variables: {key: ABC, weight: 10}
     template: [name: Networks]
@@ -45,6 +49,10 @@ overlays:
 
   AMC+:
     variables: {key: AMC, weight: 20}
+    template: [name: Networks]
+
+  Animal Planet:
+    variables: {key: Animal Planet, weight: 10}
     template: [name: Networks]
 
   Apple TV+:
@@ -107,6 +115,10 @@ overlays:
     variables: {key: Netflix, weight: 10}
     template: [name: Networks]
 
+  M6:
+    variables: {key: M6, weight: 10}
+    template: [name: Networks]
+
   Paramount Network:
     variables: {key: Paramount Network, weight: 10}
     template: [name: Networks]
@@ -121,6 +133,10 @@ overlays:
 
   Showtime:
     variables: {key: Showtime, weight: 10}
+    template: [name: Networks]
+
+  Sky Atlantic:
+    variables: {key: Sky Atlantic, weight: 10}
     template: [name: Networks]
 
   Starz:
