@@ -4,9 +4,11 @@ collections:
     smart_filter:
       all:
         label: Ongoing
+        sort_by: episode_release.desc
         unplayed_episodes: true
     sort_title: 1 - Ongoing à voir
-    collection_mode: hide
+    collection_mode: show_items
+    collection_order: custom.desc
     visible_home: true
     visible_shared: true
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_ongoing.jpg
@@ -17,9 +19,11 @@ collections:
     smart_filter:
       all:
         label.not: Ongoing
+        sort_by: episode_release.desc
         unplayed_episodes: true
     sort_title: 2 - Ended à voir
-    collection_mode: hide
+    collection_mode: show_items
+    collection_order: custom.desc
     visible_home: true
     visible_shared: true
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_ended.jpg
