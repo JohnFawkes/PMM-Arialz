@@ -68,7 +68,7 @@ overlays:
     template: [name: Networks]
 
   AXN:
-    variables: {key: AXN, weight: 20}
+    variables: {key: AXN, weight: 10}
     template: { name: Networks }
 
   Amazon:
@@ -148,7 +148,7 @@ overlays:
     template: [name: Networks]
 
   CBC Television:
-    variables: {key: CBC Television, weight: 20}
+    variables: {key: CBC Television, weight: 10}
     template: [name: Networks]
 
   CBS:
@@ -160,36 +160,55 @@ overlays:
     template: [name: Networks]
 
   Channel 4:
-    variables: {key: Channel 4, weight: 20}
+    variables: {key: Channel 4, weight: 10}
     template: [name: Networks]
 
   Channel 5:
-    variables: {key: Channel 5, weight: 20}
+    variables: {key: Channel 5, weight: 10}
     template: [name: Networks]
 
   CHCH-DT:
-    variables: {key: CHCH-DT, weight: 20}
+    variables: {key: CHCH-DT, weight: 10}
     template: [name: Networks]
 
   Chiller:
-    variables: {key: Chiller, weight: 20}
+    variables: {key: Chiller, weight: 10}
     template: [name: Networks]
 
   Cinemax:
-    variables: {key: Cinemax, weight: 20}
+    variables: {key: Cinemax, weight: 10}
     template: [name: Networks]
 
   Citytv:
-    variables: {key: Citytv, weight: 20}
+    variables: {key: Citytv, weight: 10}
     template: [name: Networks]
 
-
   CNN:
-    variables: {key: CNN, weight: 20}
+    variables: {key: CNN, weight: 10}
     template: [name: Networks]
 
   CNN+:
-    variables: {key: CNN, weight: 20}
+    variables: {key: CNN, weight: 10}
+    template: [name: Networks]
+
+  Comedy Central:
+    variables: {key: Comedy Central, weight: 10}
+    template: [name: Networks]
+
+  Crime + Investigation:
+    variables: {key: Crime + Investigation, weight: 10}
+    template: [name: Networks]
+
+  Crunchyroll:
+    variables: {key: Crunchyroll, weight: 10}
+    template: [name: Networks]
+
+  CTV:
+    variables: {key: CTV, weight: 10}
+    template: [name: Networks]
+
+  CuriosityStream:
+    variables: {key: CuriosityStream, weight: 10}
     template: [name: Networks]
 
   discovery+:
