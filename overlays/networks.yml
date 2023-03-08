@@ -40,6 +40,10 @@ overlays:
     template: { name: Networks }
 
   Amazon Freevee:
+    variables: {key: Freevee, weight: 20}
+    template: [name: Networks]
+
+  Amazon Prime Video:
     variables: {key: Amazon, weight: 20}
     template: [name: Networks]
 
@@ -79,12 +83,20 @@ overlays:
     variables: {key: CBS, weight: 20}
     template: [name: Networks]
 
+  CBS All Access:
+    variables: {key: CBS, weight: 20}
+    template: [name: Networks]
+
   discovery+:
     variables: {key: discovery+, weight: 10}
     template: [name: Networks]
 
   Disney+:
     variables: {key: Disney+, weight: 10}
+    template: [name: Networks]
+
+  Epix:
+    variables: {key: Epix, weight: 10}
     template: [name: Networks]
 
   FOX:
@@ -99,12 +111,16 @@ overlays:
     variables: {key: Hulu, weight: 20}
     template: [name: Networks]
 
+  HBO:
+    variables: {key: HBO, weight: 10}
+    template: [name: Networks]
+
   HBO Max:
     variables: {key: HBO, weight: 10}
     template: [name: Networks]
 
-  HBO:
-    variables: {key: HBO, weight: 10}
+  M6:
+    variables: {key: M6, weight: 10}
     template: [name: Networks]
 
   NBC:
@@ -113,10 +129,6 @@ overlays:
 
   Netflix:
     variables: {key: Netflix, weight: 10}
-    template: [name: Networks]
-
-  M6:
-    variables: {key: M6, weight: 10}
     template: [name: Networks]
 
   Paramount Network:
@@ -136,7 +148,7 @@ overlays:
     template: [name: Networks]
 
   Sky Atlantic:
-    variables: {key: Sky Atlantic, weight: 10}
+    variables: {key: Sky, weight: 10}
     template: [name: Networks]
 
   Starz:
