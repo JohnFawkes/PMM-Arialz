@@ -533,7 +533,7 @@ metadata:
         user_rating: 8.3
         label: score
       3:
-        title: "Diamond no Ace Act II"
+        title: "Diamond no Ace act II"
         user_rating: 8.3
         label: score
     critic_rating: 8.2
@@ -606,7 +606,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Magical Sex Shift,Reincarnation
     label: Ongoing
     studio: Studio Comet
-    critic_rating: 7.1
+    critic_rating: 7.0
   355480:
     title: "Enen no Shouboutai"
     sort_title: "Enen no Shouboutai"
@@ -977,9 +977,9 @@ metadata:
         label: score
       2:
         title: "Ijiranaide, Nagatoro-san 2nd Attack"
-        user_rating: 7.4
+        user_rating: 7.5
         label: score
-    critic_rating: 7.3
+    critic_rating: 7.4
   255133:
     title: "Inu x Boku SS"
     sort_title: "Inu x Boku SS"
@@ -992,7 +992,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.3
+    critic_rating: 7.4
   71361:
     title: "Inuyasha"
     sort_title: "Inuyasha"
@@ -1529,9 +1529,9 @@ metadata:
         label: score
       3:
         title: "Mairimashita! Iruma-kun 3"
-        user_rating: 8.0
+        user_rating: 7.9
         label: score
-    critic_rating: 8.0
+    critic_rating: 7.9
   341436:
     title: "Major 2nd"
     sort_title: "Major 2nd"
@@ -1686,7 +1686,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
-    critic_rating: 6.7
+    critic_rating: 6.6
   275610:
     title: "Noragami"
     sort_title: "Noragami"
@@ -1936,7 +1936,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Studio Blanc.
-    critic_rating: 7.4
+    critic_rating: 7.3
   262114:
     title: "Sakurasou no Pet na Kanojo"
     sort_title: "Sakurasou no Pet na Kanojo"
@@ -2036,7 +2036,7 @@ metadata:
     sort_title: "Shingeki no Kyojin"
     original_title: "Attack on Titan"
     genre.sync: Anime,Action,Award Winning,Drama,Suspense,Shounen,Gore,Military,Survival
-    label.remove: Ongoing
+    label: Ongoing
     studio: Wit Studio
     seasons:
       1:

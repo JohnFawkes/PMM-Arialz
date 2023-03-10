@@ -27,15 +27,59 @@ templates:
       vertical_align: <<vertical_align>>
 
 overlays:
+  A&E:
+    variables: {key: A&E, weight: 20}
+    template: [name: Networks]
+
   ABC:
     variables: {key: ABC, weight: 10}
     template: [name: Networks]
+
+  ABC (US):
+    variables: {key: ABC, weight: 10}
+    template: [name: Networks]
+
+  ABC Family:
+    variables: {key: ABC, weight: 10}
+    template: [name: Networks]
+
+  ABC KIDS:
+    variables: {key: ABC, weight: 10}
+    template: [name: Networks]
+
+  ABC TV:
+    variables: {key: ABC, weight: 10}
+    template: [name: Networks]
+
+  Acorn TV:
+    variables: {key: Acorn TV, weight: 10}
+    template: [name: Networks]
+
+  Adult Swim:
+    variables: {key: Adult Swim, weight: 10}
+    template: [name: Networks]
+
+  Alibi:
+    variables: {key: Alibi, weight: 10}
+    template: [name: Networks]
+
+  Audience:
+    variables: {key: Audience, weight: 10}
+    template: [name: Networks]
+
+  AXN:
+    variables: {key: AXN, weight: 10}
+    template: { name: Networks }
 
   Amazon:
     variables: {key: Amazon, weight: 20}
     template: { name: Networks }
 
   Amazon Freevee:
+    variables: {key: Freevee, weight: 20}
+    template: [name: Networks]
+
+  Amazon Prime Video:
     variables: {key: Amazon, weight: 20}
     template: [name: Networks]
 
@@ -47,8 +91,16 @@ overlays:
     variables: {key: AMC, weight: 20}
     template: [name: Networks]
 
+  Animal Planet:
+    variables: {key: Animal Planet, weight: 10}
+    template: [name: Networks]
+
   Apple TV+:
     variables: {key: Apple TV+, weight: 10}
+    template: [name: Networks]
+
+  BBC America:
+    variables: {key: BBC, weight: 10}
     template: [name: Networks]
 
   BBC One:
@@ -67,8 +119,96 @@ overlays:
     variables: {key: BBC, weight: 10}
     template: [name: Networks]
 
+  BET:
+    variables: {key: BET, weight: 10}
+    template: [name: Networks]
+
+  Boomerang:
+    variables: {key: Boomerang, weight: 10}
+    template: [name: Networks]
+
+  BritBox:
+    variables: {key: BritBox, weight: 10}
+    template: [name: Networks]
+
+  Canal J:
+    variables: {key: Canal J, weight: 10}
+    template: [name: Networks]
+
+  Canal+:
+    variables: {key: Canal+, weight: 10}
+    template: [name: Networks]
+
+  Cartoon Network:
+    variables: {key: Cartoon Network, weight: 10}
+    template: [name: Networks]
+
+  CBBC:
+    variables: {key: BBC, weight: 10}
+    template: [name: Networks]
+
+  CBC Television:
+    variables: {key: CBC Television, weight: 10}
+    template: [name: Networks]
+
   CBS:
     variables: {key: CBS, weight: 20}
+    template: [name: Networks]
+
+  CBS All Access:
+    variables: {key: CBS, weight: 20}
+    template: [name: Networks]
+
+  Channel 4:
+    variables: {key: Channel 4, weight: 10}
+    template: [name: Networks]
+
+  Channel 5:
+    variables: {key: Channel 5, weight: 10}
+    template: [name: Networks]
+
+  CHCH-DT:
+    variables: {key: CHCH-DT, weight: 10}
+    template: [name: Networks]
+
+  Chiller:
+    variables: {key: Chiller, weight: 10}
+    template: [name: Networks]
+
+  Cinemax:
+    variables: {key: Cinemax, weight: 10}
+    template: [name: Networks]
+
+  Citytv:
+    variables: {key: Citytv, weight: 10}
+    template: [name: Networks]
+
+  CNN:
+    variables: {key: CNN, weight: 10}
+    template: [name: Networks]
+
+  CNN+:
+    variables: {key: CNN, weight: 10}
+    template: [name: Networks]
+
+  Comedy Central:
+    variables: {key: Comedy Central, weight: 10}
+    template: [name: Networks]
+
+  Crime + Investigation:
+    variables: {key: Crime + Investigation, weight: 10}
+    template: [name: Networks]
+
+  Crunchyroll:
+    variables: {key: Crunchyroll, weight: 10}
+    template: [name: Networks]
+
+  CTV:
+    variables: {key: CTV, weight: 10}
+    template: [name: Networks]
+
+  CuriosityStream:
+    variables: {key: CuriosityStream, weight: 10}
     template: [name: Networks]
 
   discovery+:
@@ -77,6 +217,10 @@ overlays:
 
   Disney+:
     variables: {key: Disney+, weight: 10}
+    template: [name: Networks]
+
+  Epix:
+    variables: {key: Epix, weight: 10}
     template: [name: Networks]
 
   FOX:
@@ -91,12 +235,16 @@ overlays:
     variables: {key: Hulu, weight: 20}
     template: [name: Networks]
 
+  HBO:
+    variables: {key: HBO, weight: 10}
+    template: [name: Networks]
+
   HBO Max:
     variables: {key: HBO, weight: 10}
     template: [name: Networks]
 
-  HBO:
-    variables: {key: HBO, weight: 10}
+  M6:
+    variables: {key: M6, weight: 10}
     template: [name: Networks]
 
   NBC:
@@ -121,6 +269,10 @@ overlays:
 
   Showtime:
     variables: {key: Showtime, weight: 10}
+    template: [name: Networks]
+
+  Sky Atlantic:
+    variables: {key: Sky, weight: 10}
     template: [name: Networks]
 
   Starz:
