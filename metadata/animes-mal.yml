@@ -99,6 +99,14 @@ metadata:
     label.remove: Ongoing
     studio: Madhouse
     critic_rating: 7.7
+  305077:
+    title: "Gyakuten Saiban: Sono 'Shinjitsu', Igi Ari!"
+    sort_title: "Gyakuten Saiban: Sono 'Shinjitsu', Igi Ari!"
+    original_title: "Ace Attorney"
+    genre.sync: Anime,Comedy,Drama,Mystery,Detective,Workplace
+    label.remove: Ongoing
+    studio: A-1 Pictures
+    critic_rating: 6.5
   421676:
     title: "Akiba Meido Sensou"
     sort_title: "Akiba Meido Sensou"
