@@ -2036,7 +2036,7 @@ metadata:
     sort_title: "Shingeki no Kyojin"
     original_title: "Attack on Titan"
     genre.sync: Anime,Action,Award Winning,Drama,Suspense,Shounen,Gore,Military,Survival
-    label: Ongoing
+    label.remove: Ongoing
     studio: Wit Studio
     seasons:
       1:
