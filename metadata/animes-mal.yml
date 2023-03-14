@@ -795,7 +795,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Reincarnation
     label: Ongoing
     studio: Studio Comet
-    critic_rating: 7.0
+    critic_rating: 6.9
   355480:
     title: |-
       Enen no Shouboutai
@@ -853,7 +853,7 @@ metadata:
       2:
         title: |-
          Fumetsu no Anata e Season 2
-        user_rating: 8.0
+        user_rating: 8.1
         label: score
     critic_rating: 8.2
   79178:
@@ -1174,7 +1174,7 @@ metadata:
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
-    critic_rating: 6.7
+    critic_rating: 6.6
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -2058,9 +2058,9 @@ metadata:
       2:
         title: |-
          Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II
-        user_rating: 7.2
+        user_rating: 7.1
         label: score
-    critic_rating: 7.3
+    critic_rating: 7.2
   397965:
     title: |-
       Mashiro no Oto
