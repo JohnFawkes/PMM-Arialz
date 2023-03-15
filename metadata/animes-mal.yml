@@ -1005,17 +1005,6 @@ metadata:
     label.remove: Ongoing
     studio: Zero-G
     critic_rating: 8.4
-  305077:
-    title: |-
-      Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
-    sort_title: |-
-      Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
-    original_title: |-
-      Ace Attorney
-    genre.sync: Anime,Comedy,Drama,Mystery,Detective,Workplace
-    label.remove: Ongoing
-    studio: A-1 Pictures
-    critic_rating: 6.5
   85249:
     title: |-
       Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
@@ -1031,7 +1020,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 6.5
+    critic_rating: 8.4
   303868:
     title: |-
       Hai to Gensou no Grimgar
@@ -1047,7 +1036,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 6.5
+    critic_rating: 8.4
   79105:
     title: |-
       Haibane Renmei
