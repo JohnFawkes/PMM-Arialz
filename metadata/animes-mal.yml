@@ -461,7 +461,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Childcare,Organized Crime
     label: Ongoing
     studio: P.A. Works
-    critic_rating: 7.8
+    critic_rating: 7.9
   305075:
     title: |-
       Bungou Stray Dogs
@@ -1114,7 +1114,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Seinen,Mythology
     label.remove: Ongoing
     studio: MAPPA
-    critic_rating: 7.7
+    critic_rating: 7.6
   263688:
     title: |-
       HELLSING OVA
@@ -1756,7 +1756,7 @@ metadata:
       Koori Zokusei Danshi to Cool na Douryou Joshi
     original_title: |-
       The Ice Guy and His Cool Female Colleague
-    genre.sync: Anime,Comedy,Fantasy,Romance,Adult Cast,Workplace
+    genre.sync: Anime,Comedy,Fantasy,Romance,Adult Cast,Mythology,Workplace
     label: Ongoing
     studio: Zero-G
     critic_rating: 7.4
@@ -2204,7 +2204,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
-    critic_rating: 6.6
+    critic_rating: 6.5
   275610:
     title: |-
       Noragami
@@ -2782,7 +2782,7 @@ metadata:
       Sono Bisque Doll wa Koi wo Suru
     original_title: |-
       My Dress-Up Darling
-    genre.sync: Anime,Comedy,Ecchi,Seinen,Otaku Culture,Romantic Subtext,School
+    genre.sync: Anime,Romance,Slice of Life,Seinen,Otaku Culture,School
     label.remove: Ongoing
     studio: CloverWorks
     critic_rating: 8.3
@@ -3072,7 +3072,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,School
     label: Ongoing
     studio: Lay-duce
-    critic_rating: 7.6
+    critic_rating: 7.7
   262107:
     title: |-
       Tonari no Kaibutsu-kun
