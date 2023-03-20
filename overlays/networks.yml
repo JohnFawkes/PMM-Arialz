@@ -303,6 +303,10 @@ overlays:
     variables: {key: Sky, weight: 10}
     template: [name: Networks]
 
+  Sky Documentaries:
+    variables: {key: Sky, weight: 10}
+    template: [name: Networks]
+
   Sky Max:
     variables: {key: Sky, weight: 10}
     template: [name: Networks]
