@@ -243,6 +243,34 @@ overlays:
     variables: {key: HBO, weight: 10}
     template: [name: Networks]
 
+  ITV:
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITV2:
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITV3:
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITV4:
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITVBe:
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITV Encore:
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITVX:
+    variables: {key: ITVX, weight: 10}
+    template: [name: Networks]
+
   M6:
     variables: {key: M6, weight: 10}
     template: [name: Networks]
@@ -269,6 +297,18 @@ overlays:
 
   Showtime:
     variables: {key: Showtime, weight: 10}
+    template: [name: Networks]
+
+  Sky Comedy:
+    variables: {key: Sky, weight: 10}
+    template: [name: Networks]
+
+  Sky Max:
+    variables: {key: Sky, weight: 10}
+    template: [name: Networks]
+
+  Sky One:
+    variables: {key: Sky, weight: 10}
     template: [name: Networks]
 
   Sky Atlantic:
