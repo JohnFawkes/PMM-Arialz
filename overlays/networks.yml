@@ -475,8 +475,40 @@ overlays:
     variables: {key: Sky, weight: 10}
     template: [name: Networks]
 
+  Space:
+    variables: {key: Space, weight: 10}
+    template: [name: Networks]
+
+  Spectrum TV:
+    variables: {key: Spectrum TV, weight: 10}
+    template: [name: Networks]
+
+  Spike:
+    variables: {key: Spike, weight: 10}
+    template: [name: Networks]
+
+  Stan:
+    variables: {key: Stan, weight: 10}
+    template: [name: Networks]
+
+  Stargate Command:
+    variables: {key: Stargate Command, weight: 10}
+    template: [name: Networks]
+
   Starz:
     variables: {key: Starz, weight: 10}
+    template: [name: Networks]
+
+  Super Channel:
+    variables: {key: Super Channel, weight: 10}
+    template: [name: Networks]
+
+  SVT Play:
+    variables: {key: SVT Play, weight: 20}
+    template: [name: Networks]
+
+  Syndication:
+    variables: {key: Syndication, weight: 20}
     template: [name: Networks]
 
   Syfy:
