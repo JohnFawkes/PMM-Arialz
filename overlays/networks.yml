@@ -76,11 +76,7 @@ overlays:
     template: { name: Networks }
 
   Amazon Freevee:
-    variables: {key: Freevee, weight: 20}
-    template: [name: Networks]
-
-  Amazon Prime Video:
-    variables: {key: Amazon, weight: 20}
+    variables: {key: Freevee, weight: 10}
     template: [name: Networks]
 
   AMC:
@@ -211,12 +207,60 @@ overlays:
     variables: {key: CuriosityStream, weight: 10}
     template: [name: Networks]
 
+  Dave:
+    variables: {key: Dave, weight: 10}
+    template: [name: Networks]
+
+  DC Universe:
+    variables: {key: DC Universe, weight: 10}
+    template: [name: Networks]
+
+  Destination America:
+    variables: {key: Destination America, weight: 10}
+    template: [name: Networks]
+
+  Discovery:
+    variables: {key: Discovery, weight: 10}
+    template: [name: Networks]
+
+  Discovery Family:
+    variables: {key: Discovery, weight: 10}
+    template: [name: Networks]
+
+  Discovery Life:
+    variables: {key: Discovery, weight: 10}
+    template: [name: Networks]
+
   discovery+:
     variables: {key: discovery+, weight: 10}
     template: [name: Networks]
 
+  Disney Channel:
+    variables: {key: Disney Channel, weight: 10}
+    template: [name: Networks]
+
+  Disney Junior:
+    variables: {key: Disney Junior, weight: 10}
+    template: [name: Networks]
+
+  Disney XD:
+    variables: {key: Disney XD, weight: 10}
+    template: [name: Networks]
+
   Disney+:
     variables: {key: Disney+, weight: 10}
+    template: [name: Networks]
+
+  DocPlay:
+    variables: {key: DocPlay, weight: 10}
+    template: [name: Networks]
+
+  DR Ramasjang:
+    variables: {key: DR Ramasjang, weight: 10}
+    template: [name: Networks]
+
+  Eleven:
+    variables: {key: Eleven, weight: 10}
     template: [name: Networks]
 
   Epix:
@@ -227,20 +271,56 @@ overlays:
     variables: {key: FOX, weight: 10}
     template: [name: Networks]
 
+  Fox Kids:
+    variables: {key: Fox Kids, weight: 10}
+    template: [name: Networks]
+
+  Freeform:
+    variables: {key: Freeform, weight: 10}
+    template: [name: Networks]
+
   FX:
     variables: {key: FX, weight: 10}
     template: [name: Networks]
 
-  Hulu:
-    variables: {key: Hulu, weight: 20}
+  FXX:
+    variables: {key: FX, weight: 10}
     template: [name: Networks]
 
   HBO:
+    variables: {key: HBO, weight: 20}
+    template: [name: Networks]
+
+  HBO Asia:
     variables: {key: HBO, weight: 10}
     template: [name: Networks]
 
   HBO Max:
     variables: {key: HBO, weight: 10}
+    template: [name: Networks]
+
+  HGTV:
+    variables: {key: HGTV, weight: 10}
+    template: [name: Networks]
+
+  History:
+    variables: {key: History, weight: 10}
+    template: [name: Networks]
+
+  Hub Network:
+    variables: {key: Hub Network, weight: 10}
+    template: [name: Networks]
+
+  Hulu:
+    variables: {key: Hulu, weight: 10}
+    template: [name: Networks]
+
+  IMDb TV:
+    variables: {key: IMDb TV, weight: 10}
+    template: [name: Networks]
+
+  Investigation Discovery:
+    variables: {key: Investigation Discovery, weight: 10}
     template: [name: Networks]
 
   ITV:
@@ -271,8 +351,28 @@ overlays:
     variables: {key: ITVX, weight: 10}
     template: [name: Networks]
 
+  Lifetime:
+    variables: {key: Lifetime, weight: 10}
+    template: [name: Networks]
+
   M6:
     variables: {key: M6, weight: 10}
+    template: [name: Networks]
+
+  MGM+:
+    variables: {key: MGM+, weight: 10}
+    template: [name: Networks]
+
+  MTV:
+    variables: {key: MTV, weight: 10}
+    template: [name: Networks]
+
+  National Geographic:
+    variables: {key: National Geographic, weight: 10}
+    template: [name: Networks]
+
+  National Geographic Channel:
+    variables: {key: National Geographic, weight: 10}
     template: [name: Networks]
 
   NBC:
@@ -283,6 +383,26 @@ overlays:
     variables: {key: Netflix, weight: 10}
     template: [name: Networks]
 
+  Nick Jr.:
+    variables: {key: Nick Jr., weight: 20}
+    template: [name: Networks]
+
+  Nickelodeon:
+    variables: {key: Nickelodeon, weight: 20}
+    template: [name: Networks]
+
+  Nicktoons:
+    variables: {key: Nicktoons, weight: 20}
+    template: [name: Networks]
+
+  OWN:
+    variables: {key: OWN, weight: 20}
+    template: [name: Networks]
+
+  Oxygen:
+    variables: {key: Oxygen, weight: 20}
+    template: [name: Networks]
+
   Paramount Network:
     variables: {key: Paramount Network, weight: 10}
     template: [name: Networks]
@@ -291,12 +411,44 @@ overlays:
     variables: {key: Paramount+, weight: 10}
     template: [name: Networks]
 
+  PBS:
+    variables: {key: PBS, weight: 10}
+    template: [name: Networks]
+
+  Really:
+    variables: {key: Really, weight: 10}
+    template: [name: Networks]
+
+  Reelz:
+    variables: {key: Reelz, weight: 10}
+    template: [name: Networks]
+
   Peacock:
     variables: {key: Peacock, weight: 10}
     template: [name: Networks]
 
+  Science:
+    variables: {key: Science Channel, weight: 10}
+    template: [name: Networks]
+
+  Science Channel:
+    variables: {key: Science Channel, weight: 10}
+    template: [name: Networks]
+
+  Showcase:
+    variables: {key: Showcase, weight: 10}
+    template: [name: Networks]
+
   Showtime:
     variables: {key: Showtime, weight: 10}
+    template: [name: Networks]
+
+  Shudder:
+    variables: {key: Shudder, weight: 10}
+    template: [name: Networks]
+
+  Smithsonian Channel:
+    variables: {key: Smithsonian Channel, weight: 10}
     template: [name: Networks]
 
   Sky Comedy:
