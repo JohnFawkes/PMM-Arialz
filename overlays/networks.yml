@@ -67,10 +67,6 @@ overlays:
     variables: {key: Audience, weight: 10}
     template: [name: Networks]
 
-  AXN:
-    variables: {key: AXN, weight: 10}
-    template: { name: Networks }
-
   Amazon:
     variables: {key: Amazon, weight: 20}
     template: { name: Networks }
@@ -91,9 +87,17 @@ overlays:
     variables: {key: Animal Planet, weight: 10}
     template: [name: Networks]
 
+  336320:
+    variables: {key: Antena 3, weight: 10}
+    template: [name: Networks]
+
   Apple TV+:
     variables: {key: Apple TV+, weight: 10}
     template: [name: Networks]
+
+  AXN:
+    variables: {key: AXN, weight: 10}
+    template: { name: Networks }
 
   BBC America:
     variables: {key: BBC, weight: 10}
