@@ -448,9 +448,9 @@ metadata:
       6:
         title: |-
           Boku no Hero Academia 6
-        user_rating: 8.3
+        user_rating: 8.4
         label: score
-    critic_rating: 7.9
+    critic_rating: 8.0
   426294:
     title: |-
       Buddy Daddies
@@ -795,7 +795,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Reincarnation
     label: Ongoing
     studio: Studio Comet
-    critic_rating: 6.9
+    critic_rating: 6.8
   355480:
     title: |-
       Enen no Shouboutai
@@ -1163,7 +1163,7 @@ metadata:
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
-    critic_rating: 6.6
+    critic_rating: 6.5
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -1278,7 +1278,7 @@ metadata:
       2:
         title: |-
           Ijiranaide, Nagatoro-san 2nd Attack
-        user_rating: 7.5
+        user_rating: 7.6
         label: score
     critic_rating: 7.4
   255133:
@@ -1488,9 +1488,9 @@ metadata:
       2:
         title: |-
           Kamitachi ni Hirowareta Otoko 2
-        user_rating: 7.1
+        user_rating: 7.0
         label: score
-    critic_rating: 7.1
+    critic_rating: 7.0
   132941:
     title: |-
       Katanagatari
@@ -2003,7 +2003,7 @@ metadata:
       3:
         title: |-
           Mairimashita! Iruma-kun 3
-        user_rating: 7.9
+        user_rating: 7.8
         label: score
     critic_rating: 7.9
   341436:
@@ -2530,7 +2530,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label: Ongoing
     studio: Studio Blanc.
-    critic_rating: 7.3
+    critic_rating: 7.2
   262114:
     title: |-
       Sakurasou no Pet na Kanojo
@@ -2782,7 +2782,7 @@ metadata:
       Sono Bisque Doll wa Koi wo Suru
     original_title: |-
       My Dress-Up Darling
-    genre.sync: Anime,Romance,Slice of Life,Seinen,Otaku Culture,School
+    genre.sync: Anime,Romance,Seinen,Otaku Culture,School
     label.remove: Ongoing
     studio: CloverWorks
     critic_rating: 8.3
@@ -2944,7 +2944,7 @@ metadata:
     genre.sync: Anime,Fantasy,Girls Love,Isekai,Reincarnation
     label: Ongoing
     studio: Diomedéa
-    critic_rating: 7.8
+    critic_rating: 7.7
   410378:
     title: |-
       Tensei Shitara Ken Deshita
@@ -3366,7 +3366,7 @@ metadata:
       World Trigger
     original_title: |-
       World Trigger
-    genre.sync: Anime,Action,Sci-Fi,Supernatural,Shounen,School
+    genre.sync: Anime,Action,Sci-Fi,Shounen
     label.remove: Ongoing
     studio: Toei Animation
     seasons:
