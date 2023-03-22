@@ -519,14 +519,82 @@ overlays:
     variables: {key: Syfy, weight: 20}
     template: [name: Networks]
 
+  T+E:
+    variables: {key: T+E, weight: 10}
+    template: [name: Networks]
+
+  TBS:
+    variables: {key: TBS, weight: 10}
+    template: [name: Networks]
+
+  Teletoon:
+    variables: {key: Teletoon, weight: 10}
+    template: [name: Networks]
+
+  TF1:
+    variables: {key: TF1, weight: 10}
+    template: [name: Networks]
+
   The CW:
     variables: {key: The CW, weight: 10}
+    template: [name: Networks]
+
+  The WB:
+    variables: {key: The WB, weight: 10}
+    template: [name: Networks]
+
+  TIMVision:
+    variables: {key: TIMVision, weight: 10}
+    template: [name: Networks]
+
+  Toon Disney:
+    variables: {key: Toon Disney, weight: 10}
     template: [name: Networks]
 
   TNT:
     variables: {key: TNT, weight: 10}
     template: [name: Networks]
 
+  Travel Channel:
+    variables: {key: Travel Channel, weight: 10}
+    template: [name: Networks]
+
+  Travel Channel United Kingdom:
+    variables: {key: Travel Channel, weight: 10}
+    template: [name: Networks]
+
+  truTV:
+    variables: {key: truTV, weight: 10}
+    template: [name: Networks]
+
+  UPN:
+    variables: {key: UPN, weight: 10}
+    template: [name: Networks]
+
   USA Network:
     variables: {key: USA Network, weight: 10}
+    template: [name: Networks]
+
+  VH1:
+    variables: {key: VH1, weight: 10}
+    template: [name: Networks]
+
+  Vice TV:
+    variables: {key: Vice TV, weight: 10}
+    template: [name: Networks]
+
+  WGN America:
+    variables: {key: WGN America, weight: 10}
+    template: [name: Networks]
+
+  Xbox Live:
+    variables: {key: Xbox Live, weight: 10}
+    template: [name: Networks]
+
+  Xbox Video:
+    variables: {key: Xbox Live, weight: 10}
+    template: [name: Networks]
+
+  YouTube Premium:
+    variables: {key: YouTube Premium, weight: 10}
     template: [name: Networks]
