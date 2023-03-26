@@ -386,7 +386,7 @@ metadata:
     genre.sync: Anime,Sports,Shounen,Team Sports
     label: Ongoing
     studio: 8bit
-    critic_rating: 8.3
+    critic_rating: 8.4
   413522:
     title: |-
       Bocchi the Rock!
@@ -1163,7 +1163,7 @@ metadata:
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Signal.MD
-    critic_rating: 6.5
+    critic_rating: 6.4
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -1278,7 +1278,7 @@ metadata:
       2:
         title: |-
           Ijiranaide, Nagatoro-san 2nd Attack
-        user_rating: 7.6
+        user_rating: 7.5
         label: score
     critic_rating: 7.4
   255133:
@@ -1433,7 +1433,7 @@ metadata:
     genre.sync: Anime,Fantasy
     label: Ongoing
     studio: Encourage Films
-    critic_rating: 6.9
+    critic_rating: 7.1
   376729:
     title: |-
       Kami no Tou: Tower of God
@@ -2204,7 +2204,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
-    critic_rating: 6.5
+    critic_rating: 6.4
   275610:
     title: |-
       Noragami
@@ -2298,7 +2298,7 @@ metadata:
     genre.sync: Anime,Fantasy,Survival
     label: Ongoing
     studio: Polygon Pictures
-    critic_rating: 6.8
+    critic_rating: 6.7
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -2320,7 +2320,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,School
     label: Ongoing
     studio: Project No.9
-    critic_rating: 7.9
+    critic_rating: 8.0
   391625:
     title: |-
       Ousama Ranking
@@ -2944,7 +2944,7 @@ metadata:
     genre.sync: Anime,Fantasy,Girls Love,Isekai,Reincarnation
     label: Ongoing
     studio: Diomedéa
-    critic_rating: 7.7
+    critic_rating: 7.6
   410378:
     title: |-
       Tensei Shitara Ken Deshita
@@ -3143,7 +3143,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
     label: Ongoing
     studio: Orange
-    critic_rating: 7.4
+    critic_rating: 7.7
   325197:
     title: |-
       Tsuki ga Kirei
@@ -3165,7 +3165,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Video Game
     label: Ongoing
     studio: Tezuka Productions
-    critic_rating: 7.2
+    critic_rating: 7.3
   352796:
     title: |-
       Tsurune: Kazemai Koukou Kyuudou-bu
@@ -3187,7 +3187,7 @@ metadata:
       2:
         title: |-
           Tsurune: Tsunagari no Issha
-        user_rating: 7.8
+        user_rating: 7.9
         label: score
     critic_rating: 7.8
   256705:
@@ -3257,7 +3257,7 @@ metadata:
       Vanitas no Carte
     original_title: |-
       The Case Study of Vanitas
-    genre.sync: Anime,Supernatural,Shounen,Historical,Vampire
+    genre.sync: Anime,Action,Fantasy,Mystery,Shounen,Historical,Vampire
     label.remove: Ongoing
     studio: Bones
     critic_rating: 7.9
