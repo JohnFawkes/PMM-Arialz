@@ -676,33 +676,6 @@ metadata:
     label.remove: Ongoing
     studio: Nut
     critic_rating: 7.4
-  348545:
-    title: |-
-      Kimetsu no Yaiba
-    sort_title: |-
-      Kimetsu no Yaiba
-    original_title: |-
-      Demon Slayer: Kimetsu no Yaiba
-    genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,Historical
-    label.remove: Ongoing
-    studio: ufotable
-    seasons:
-      1:
-        title: |-
-          Kimetsu no Yaiba
-        user_rating: 8.5
-        label: score
-      2:
-        title: |-
-          Kimetsu no Yaiba: Mugen Ressha-hen (TV)
-        user_rating: 8.4
-        label: score
-      3:
-        title: |-
-          Kimetsu no Yaiba: Yuukaku-hen
-        user_rating: 8.8
-        label: score
-    critic_rating: 8.6
   273005:
     title: |-
       Diamond no Ace
@@ -1638,6 +1611,33 @@ metadata:
       1:
         label.remove: score
     critic_rating: 8.0
+  348545:
+    title: |-
+      Kimetsu no Yaiba
+    sort_title: |-
+      Kimetsu no Yaiba
+    original_title: |-
+      Demon Slayer: Kimetsu no Yaiba
+    genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,Historical
+    label.remove: Ongoing
+    studio: ufotable
+    seasons:
+      1:
+        title: |-
+          Kimetsu no Yaiba
+        user_rating: 8.5
+        label: score
+      2:
+        title: |-
+          Kimetsu no Yaiba: Mugen Ressha-hen (TV)
+        user_rating: 8.4
+        label: score
+      3:
+        title: |-
+          Kimetsu no Yaiba: Yuukaku-hen
+        user_rating: 8.8
+        label: score
+    critic_rating: 8.6
   387027:
     title: |-
       Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
