@@ -50,8 +50,6 @@ metadata:
     label.remove: Ongoing
     studio: Studio Hibari
     seasons:
-      0:
-        label.remove: score
       1:
         title: |-
           Major S1
@@ -116,17 +114,6 @@ metadata:
     label.remove: Ongoing
     studio: A-1 Pictures
     critic_rating: 8.3
-  319983:
-    title: |-
-      ACCA: 13-ku Kansatsu-ka
-    sort_title: |-
-      ACCA: 13-ku Kansatsu-ka
-    original_title: |-
-      ACCA: 13-Territory Inspection Dept.
-    genre.sync: Anime,Drama,Fantasy,Mystery,Seinen,Adult Cast,Detective
-    label.remove: Ongoing
-    studio: Madhouse
-    critic_rating: 7.7
   421676:
     title: |-
       Akiba Meido Sensou
@@ -272,33 +259,6 @@ metadata:
         user_rating: 8.0
         label: score
     critic_rating: 7.9
-  193811:
-    title: |-
-      Bakuman.
-    sort_title: |-
-      Bakuman.
-    original_title: |-
-      Bakuman.
-    genre.sync: Anime,Comedy,Drama,Romance,Shounen,Otaku Culture
-    label.remove: Ongoing
-    studio: J.C.Staff
-    seasons:
-      1:
-        title: |-
-          Bakuman.
-        user_rating: 8.2
-        label: score
-      2:
-        title: |-
-          Bakuman. 2
-        user_rating: 8.4
-        label: score
-      3:
-        title: |-
-          Bakuman. 3
-        user_rating: 8.5
-        label: score
-    critic_rating: 8.4
   281270:
     title: |-
       Barakamon
@@ -630,17 +590,6 @@ metadata:
     label.remove: Ongoing
     studio: TMS Entertainment
     critic_rating: 8.0
-  312878:
-    title: |-
-      D.Gray-man HALLOW
-    sort_title: |-
-      D.Gray-man HALLOW
-    original_title: |-
-      D.Gray-man HALLOW
-    genre.sync: Anime,Action,Adventure,Shounen,Mythology,Super Power
-    label.remove: Ongoing
-    studio: TMS Entertainment
-    critic_rating: 7.7
   80042:
     title: |-
       DARKER THAN BLACK: Kuro no Keiyakusha
@@ -665,17 +614,6 @@ metadata:
         user_rating: 7.4
         label: score
     critic_rating: 7.8
-  378878:
-    title: |-
-      Deca-Dence
-    sort_title: |-
-      Deca-Dence
-    original_title: |-
-      Deca-Dence
-    genre.sync: Anime,Action,Adventure,Sci-Fi
-    label.remove: Ongoing
-    studio: Nut
-    critic_rating: 7.4
   273005:
     title: |-
       Diamond no Ace
@@ -932,11 +870,6 @@ metadata:
     genre.sync: Anime,Action,Military,School
     label.remove: Ongoing
     studio: Actas
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
     critic_rating: 7.5
   355966:
     title: |-
@@ -1164,30 +1097,6 @@ metadata:
     label: Ongoing
     studio: Signal.MD
     critic_rating: 6.4
-  293121:
-    title: |-
-      Himouto! Umaru-chan
-    sort_title: |-
-      Himouto! Umaru-chan
-    original_title: |-
-      Himouto! Umaru-chan
-    genre.sync: Anime,Comedy,Seinen,Otaku Culture,School
-    label.remove: Ongoing
-    studio: Doga Kobo
-    seasons:
-      0:
-        label.remove: score
-      1:
-        title: |-
-          Himouto! Umaru-chan
-        user_rating: 7.1
-        label: score
-      2:
-        title: |-
-          Himouto! Umaru-chan R
-        user_rating: 7.3
-        label: score
-    critic_rating: 7.2
   366263:
     title: |-
       Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
@@ -1198,11 +1107,6 @@ metadata:
     genre.sync: Anime,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Ajia-do
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
     critic_rating: 8.0
   388593:
     title: |-
@@ -1281,22 +1185,6 @@ metadata:
         user_rating: 7.5
         label: score
     critic_rating: 7.4
-  255133:
-    title: |-
-      Inu x Boku SS
-    sort_title: |-
-      Inu x Boku SS
-    original_title: |-
-      Inu X Boku Secret Service
-    genre.sync: Anime,Comedy,Drama,Romance,Supernatural,Shounen,Mythology,School
-    label.remove: Ongoing
-    studio: David Production
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
-    critic_rating: 7.4
   71361:
     title: |-
       Inuyasha
@@ -1308,17 +1196,6 @@ metadata:
     label.remove: Ongoing
     studio: Sunrise
     critic_rating: 7.9
-  104741:
-    title: |-
-      Isekai no Seikishi Monogatari
-    sort_title: |-
-      Isekai no Seikishi Monogatari
-    original_title: |-
-      Tenchi Muyo! War on Geminar
-    genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Harem,Isekai,Mecha,School
-    label.remove: Ongoing
-    studio: AIC Spirits
-    critic_rating: 7.8
   405214:
     title: |-
       Isekai Oji-san
@@ -1456,8 +1333,6 @@ metadata:
     label.remove: Ongoing
     studio: TMS Entertainment
     seasons:
-      0:
-        label.remove: score
       1:
         title: |-
           Kamisama Hajimemashita
@@ -1491,17 +1366,6 @@ metadata:
         user_rating: 7.0
         label: score
     critic_rating: 7.0
-  132941:
-    title: |-
-      Katanagatari
-    sort_title: |-
-      Katanagatari
-    original_title: |-
-      Katanagatari
-    genre.sync: Anime,Action,Adventure,Romance,Historical,Martial Arts
-    label.remove: Ongoing
-    studio: White Fox
-    critic_rating: 8.3
   352853:
     title: |-
       Kaze ga Tsuyoku Fuiteiru
@@ -1595,22 +1459,6 @@ metadata:
         user_rating: 8.2
         label: score
     critic_rating: 8.1
-  272074:
-    title: |-
-      Kill la Kill
-    sort_title: |-
-      Kill la Kill
-    original_title: |-
-      Kill la Kill
-    genre.sync: Anime,Action,Comedy,Ecchi,School,Super Power
-    label.remove: Ongoing
-    studio: Trigger
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
-    critic_rating: 8.0
   348545:
     title: |-
       Kimetsu no Yaiba
@@ -1725,30 +1573,6 @@ metadata:
     label.remove: Ongoing
     studio: Platinum Vision
     critic_rating: 7.9
-  303867:
-    title: |-
-      Kono Subarashii Sekai ni Shukufuku wo!
-    sort_title: |-
-      Kono Subarashii Sekai ni Shukufuku wo!
-    original_title: |-
-      KonoSuba: God's Blessing on This Wonderful World!
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai,Parody,Reincarnation
-    label.remove: Ongoing
-    studio: Studio Deen
-    seasons:
-      0:
-        label.remove: score
-      1:
-        title: |-
-          Kono Subarashii Sekai ni Shukufuku wo!
-        user_rating: 8.1
-        label: score
-      2:
-        title: |-
-          Kono Subarashii Sekai ni Shukufuku wo! 2
-        user_rating: 8.3
-        label: score
-    critic_rating: 8.2
   421514:
     title: |-
       Koori Zokusei Danshi to Cool na Douryou Joshi
@@ -2072,8 +1896,6 @@ metadata:
     label.remove: Ongoing
     studio: Bones
     seasons:
-      0:
-        label.remove: score
       1:
         title: |-
           Mob Psycho 100
@@ -2100,11 +1922,6 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Ecchi,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Studio Bind
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
     critic_rating: 8.4
   284131:
     title: |-
@@ -2161,11 +1978,6 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Adult Cast,Video Game
     label.remove: Ongoing
     studio: Signal.MD
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
     critic_rating: 7.6
   240291:
     title: |-
@@ -2506,19 +2318,6 @@ metadata:
     genre.sync: Anime,Comedy,Supernatural,Shounen,Gag Humor,School,Super Power
     label.remove: Ongoing
     studio: J.C.Staff
-    seasons:
-      0:
-        label.remove: score
-      1:
-        title: |-
-          Saiki Kusuo no Ψ-nan
-        user_rating: 8.4
-        label: score
-      2:
-        title: |-
-          Saiki Kusuo no Ψ-nan 2
-        user_rating: 8.4
-        label: score
     critic_rating: 8.4
   415378:
     title: |-
@@ -2647,11 +2446,6 @@ metadata:
     genre.sync: Anime,Drama,Romance,Shounen,Music,School
     label.remove: Ongoing
     studio: A-1 Pictures
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
     critic_rating: 8.6
   267440:
     title: |-
@@ -2901,28 +2695,6 @@ metadata:
     label.remove: Ongoing
     studio: SILVER LINK.
     critic_rating: 7.8
-  353712:
-    title: |-
-      Tate no Yuusha no Nariagari
-    sort_title: |-
-      Tate no Yuusha no Nariagari
-    original_title: |-
-      The Rising of the Shield Hero
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
-    label.remove: Ongoing
-    studio: Kinema Citrus
-    seasons:
-      1:
-        title: |-
-          Tate no Yuusha no Nariagari
-        user_rating: 8.0
-        label: score
-      2:
-        title: |-
-          Tate no Yuusha no Nariagari Season 2
-        user_rating: 6.6
-        label: score
-    critic_rating: 7.3
   400961:
     title: |-
       Tensai Ouji no Akaji Kokka Saisei Jutsu
@@ -3105,11 +2877,6 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Shounen
     label.remove: Ongoing
     studio: Seven Arcs
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
     critic_rating: 7.9
   83277:
     title: |-
@@ -3177,8 +2944,6 @@ metadata:
     label: Ongoing
     studio: Kyoto Animation
     seasons:
-      0:
-        label.remove: score
       1:
         title: |-
           Tsurune: Kazemai Koukou Kyuudou-bu
@@ -3250,17 +3015,6 @@ metadata:
         user_rating: 7.3
         label: score
     critic_rating: 7.2
-  400133:
-    title: |-
-      Vanitas no Carte
-    sort_title: |-
-      Vanitas no Carte
-    original_title: |-
-      The Case Study of Vanitas
-    genre.sync: Anime,Action,Fantasy,Mystery,Shounen,Historical,Vampire
-    label.remove: Ongoing
-    studio: Bones
-    critic_rating: 7.9
   359274:
     title: |-
       VINLAND SAGA
@@ -3461,20 +3215,7 @@ metadata:
     genre.sync: Anime,Action,Supernatural,Super Power
     label.remove: Ongoing
     studio: Namu Animation
-    seasons:
-      0:
-        label.remove: score
-      1:
-        title: |-
-          Yi Ren Zhi Xia
-        user_rating: 6.8
-        label: score
-      2:
-        title: |-
-          Yi Ren Zhi Xia 2
-        user_rating: 7.4
-        label: score
-    critic_rating: 3.5
+    critic_rating: 6.8
   412374:
     title: |-
       Yofukashi no Uta
