@@ -1,4 +1,24 @@
 metadata:
+  tt0094625:
+    title: |-
+      AKIRA
+    sort_title: |-
+      AKIRA
+    original_title: |-
+      Akira
+    genre.sync: Anime,Action,Adventure,Horror,Sci-Fi,Supernatural,Seinen,Gore,Military
+    studio: Tokyo Movie Shinsha
+    critic_rating: 8.2
+  tt1568921:
+    title: |-
+      Karigurashi no Arrietty
+    sort_title: |-
+      Karigurashi no Arrietty
+    original_title: |-
+      The Secret World of Arrietty
+    genre.sync: Anime,Award Winning,Fantasy
+    studio: Studio Ghibli
+    critic_rating: 7.9
   tt4272866:
     title: |-
       Bakemono no Ko
@@ -9,6 +29,16 @@ metadata:
     genre.sync: Anime,Adventure,Supernatural,Anthropomorphic,Isekai
     studio: Studio Chizu
     critic_rating: 8.3
+  tt3028018:
+    title: |-
+      Ao no Exorcist Movie
+    sort_title: |-
+      Ao no Exorcist Movie
+    original_title: |-
+      Blue Exorcist The Movie
+    genre.sync: Anime,Action,Fantasy,Shounen,Mythology,School
+    studio: A-1 Pictures
+    critic_rating: 7.6
   tt7745068:
     title: |-
       Boku no Hero Academia THE MOVIE: Futari no Hero
@@ -99,6 +129,26 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
     studio: Sunrise
     critic_rating: 8.0
+  tt4769824:
+    title: |-
+      Kono Sekai no Katasumi ni
+    sort_title: |-
+      Kono Sekai no Katasumi ni
+    original_title: |-
+      In This Corner of the World
+    genre.sync: Anime,Award Winning,Drama,Seinen,Historical
+    studio: MAPPA
+    critic_rating: 8.2
+  tt11032374:
+    title: |-
+      Kimetsu no Yaiba: Mugen Ressha-hen
+    sort_title: |-
+      Kimetsu no Yaiba: Mugen Ressha-hen
+    original_title: |-
+      Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
+    genre.sync: Anime,Action,Fantasy,Shounen,Historical
+    studio: ufotable
+    critic_rating: 8.6
   tt0259974:
     title: |-
       Digimon Adventure (Movie)
@@ -119,6 +169,16 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy
     studio: J.C.Staff
     critic_rating: 7.4
+  tt0860907:
+    title: |-
+      Evangelion Shin Movie: Kyuu
+    sort_title: |-
+      Evangelion Shin Movie: Kyuu
+    original_title: |-
+      Evangelion: 3.0 You Can (Not) Redo
+    genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Mecha,Psychological
+    studio: Khara
+    critic_rating: 7.6
   tt0860906:
     title: |-
       Evangelion Shin Movie: Ha
@@ -129,6 +189,16 @@ metadata:
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Psychological
     studio: Khara
     critic_rating: 8.3
+  tt0923811:
+    title: |-
+      Evangelion Shin Movie: Jo
+    sort_title: |-
+      Evangelion Shin Movie: Jo
+    original_title: |-
+      Evangelion: 1.0 You Are (Not) Alone
+    genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Mecha,Psychological
+    studio: Khara
+    critic_rating: 8.0
   tt1715210:
     title: |-
       Eve no Jikan Movie
@@ -139,6 +209,66 @@ metadata:
     genre.sync: Anime,Sci-Fi,Slice of Life
     studio: Studio Rikka
     critic_rating: 8.0
+  tt1155650:
+    title: |-
+      Kara no Kyoukai: Fukan Fuukei
+    sort_title: |-
+      Kara no Kyoukai: Fukan Fuukei
+    original_title: |-
+      The Garden of Sinners Chapter 1: Overlooking View
+    genre.sync: Anime,Action,Mystery,Supernatural,Suspense
+    studio: ufotable
+    critic_rating: 7.6
+  tt1155652:
+    title: |-
+      Kara no Kyoukai: Tsuukaku Zanryuu
+    sort_title: |-
+      Kara no Kyoukai: Tsuukaku Zanryuu
+    original_title: |-
+      The Garden of Sinners Chapter 3: Remaining Sense of Pain
+    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Suspense
+    studio: ufotable
+    critic_rating: 8.0
+  tt1278060:
+    title: |-
+      Kara no Kyoukai: Mujun Rasen
+    sort_title: |-
+      Kara no Kyoukai: Mujun Rasen
+    original_title: |-
+      The Garden of Sinners Chapter 5: Paradox Spiral
+    genre.sync: Anime,Action,Drama,Mystery,Romance,Supernatural,Suspense
+    studio: ufotable
+    critic_rating: 8.5
+  tt1345776:
+    title: |-
+      Kara no Kyoukai: Satsujin Kousatsu (Kou)
+    sort_title: |-
+      Kara no Kyoukai: Satsujin Kousatsu (Kou)
+    original_title: |-
+      The Garden of Sinners Chapter 7: A Study in Murder - Part 2
+    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
+    studio: ufotable
+    critic_rating: 8.4
+  tt12439230:
+    title: |-
+      Seitokai Yakuindomo Movie 2
+    sort_title: |-
+      Seitokai Yakuindomo Movie 2
+    original_title: |-
+      Seitokai Yakuindomo Movie 2
+    genre.sync: Anime,Comedy,Shounen,Gag Humor,School
+    studio: GoHands
+    critic_rating: 7.8
+  tt0347246:
+    title: |-
+      Innocence
+    sort_title: |-
+      Innocence
+    original_title: |-
+      Ghost in the Shell 2: Innocence
+    genre.sync: Anime,Award Winning,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
+    studio: Production I.G
+    critic_rating: 7.8
   tt0113568:
     title: |-
       GHOST IN THE SHELL: Koukaku Kidoutai
@@ -159,6 +289,16 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Seinen,Adult Cast,Detective,Mecha,Psychological
     studio: Production I.G
     critic_rating: 8.0
+  tt2374144:
+    title: |-
+      Gintama: Kanketsu-hen - Yorozuya yo Eien Nare
+    sort_title: |-
+      Gintama: Kanketsu-hen - Yorozuya yo Eien Nare
+    original_title: |-
+      Gintama: The Movie: The Final Chapter: Be Forever Yorozuya
+    genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen,Gag Humor,Historical,Parody,Samurai,Time Travel
+    studio: Sunrise
+    critic_rating: 8.9
   tt1636780:
     title: |-
       Gintama: Shinyaku Benizakura-hen
@@ -179,6 +319,26 @@ metadata:
     genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Shounen,Gag Humor,Historical,Parody,Samurai
     studio: Bandai Namco Pictures
     critic_rating: 9.1
+  tt7834494:
+    title: |-
+      Girls und Panzer: Saishuushou 2
+    sort_title: |-
+      Girls und Panzer: Saishuushou 2
+    original_title: |-
+      Girls und Panzer das Finale – Part 2
+    genre.sync: Anime,Military,School
+    studio: Actas
+    critic_rating: 8.1
+  tt7833606:
+    title: |-
+      Girls und Panzer: Saishuushou 1
+    sort_title: |-
+      Girls und Panzer: Saishuushou 1
+    original_title: |-
+      Girls und Panzer das Finale – Part 1
+    genre.sync: Anime,Military,School
+    studio: Actas
+    critic_rating: 7.9
   tt5284414:
     title: |-
       Girls und Panzer Movie
@@ -209,6 +369,16 @@ metadata:
     genre.sync: Anime,Action,Military,School
     studio: A-1 Pictures
     critic_rating: 7.6
+  tt6580380:
+    title: |-
+      Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo
+    sort_title: |-
+      Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo
+    original_title: |-
+      The Irregular at Magic High School The Movie - The Girl Who Summons The Stars
+    genre.sync: Anime,Action,Sci-Fi,Supernatural
+    studio: 8bit
+    critic_rating: 7.5
   tt12879624:
     title: |-
       Josee to Tora to Sakanatachi
@@ -229,6 +399,16 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Shounen,School
     studio: MAPPA
     critic_rating: 8.5
+  tt4489416:
+    title: |-
+      Kokoro ga Sakebitagatterun da.
+    sort_title: |-
+      Kokoro ga Sakebitagatterun da.
+    original_title: |-
+      The Anthem of the Heart
+    genre.sync: Anime,Drama,Romance,Performing Arts,School
+    studio: A-1 Pictures
+    critic_rating: 7.8
   tt9277666:
     title: |-
       Kara no Kyoukai Remix: Gate of seventh heaven
@@ -319,6 +499,16 @@ metadata:
     genre.sync: Anime,Award Winning,Drama,Shounen,Romantic Subtext
     studio: Kyoto Animation
     critic_rating: 8.9
+  tt9239552:
+    title: |-
+      Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu
+    sort_title: |-
+      Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu
+    original_title: |-
+      KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai,Parody,Reincarnation
+    studio: J.C.Staff
+    critic_rating: 8.4
   tt2591814:
     title: |-
       Kotonoha no Niwa
@@ -339,6 +529,16 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Horror,Gore,Historical,Survival
     studio: Wit Studio
     critic_rating: 7.7
+  tt4539114:
+    title: |-
+      Kyoukai no Kanata: I'LL BE HERE - Mirai-hen
+    sort_title: |-
+      Kyoukai no Kanata: I'LL BE HERE - Mirai-hen
+    original_title: |-
+      Beyond the Boundary: I'll Be Here - Future
+    genre.sync: Anime,Action,Fantasy,Romance,School
+    studio: Kyoto Animation
+    critic_rating: 8.1
   tt4531412:
     title: |-
       Kyoukai no Kanata: I'LL BE HERE - Kako-hen
@@ -349,6 +549,26 @@ metadata:
     genre.sync: Anime,Action,Fantasy,School
     studio: Kyoto Animation
     critic_rating: 7.7
+  tt9426210:
+    title: |-
+      Tenki no Ko
+    sort_title: |-
+      Tenki no Ko
+    original_title: |-
+      Weathering with You
+    genre.sync: Anime,Award Winning,Drama,Fantasy,Romance
+    studio: CoMix Wave Films
+    critic_rating: 8.3
+  tt10068916:
+    title: |-
+      Made in Abyss: Fukaki Tamashii no Reimei
+    sort_title: |-
+      Made in Abyss: Fukaki Tamashii no Reimei
+    original_title: |-
+      Made in Abyss: Dawn of the Deep Soul
+    genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
+    studio: Kinema Citrus
+    critic_rating: 8.6
   tt10068544:
     title: |-
       Made in Abyss: Hourou Suru Tasogare
@@ -379,6 +599,16 @@ metadata:
     genre.sync: Anime,Sci-Fi,Supernatural
     studio: 8bit
     critic_rating: 7.7
+  tt7339826:
+    title: |-
+      Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+    sort_title: |-
+      Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+    original_title: |-
+      Maquia: When the Promised Flower Blooms
+    genre.sync: Anime,Drama,Fantasy
+    studio: P.A. Works
+    critic_rating: 8.4
   tt6900448:
     title: |-
       Mirai no Mirai
@@ -389,6 +619,36 @@ metadata:
     genre.sync: Anime,Adventure,Drama,Fantasy,Time Travel
     studio: Studio Chizu
     critic_rating: 7.3
+  tt7933596:
+    title: |-
+      Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
+    sort_title: |-
+      Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
+    original_title: |-
+      Mobile Suit Gundam Thunderbolt: Bandit Flower
+    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
+    studio: Sunrise
+    critic_rating: 7.3
+  tt6035470:
+    title: |-
+      Kidou Senshi Gundam Thunderbolt: December Sky
+    sort_title: |-
+      Kidou Senshi Gundam Thunderbolt: December Sky
+    original_title: |-
+      Mobile Suit Gundam Thunderbolt: December Sky
+    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
+    studio: Sunrise
+    critic_rating: 7.9
+  tt13544716:
+    title: |-
+      Boku no Hero Academia THE MOVIE: World Heroes' Mission
+    sort_title: |-
+      Boku no Hero Academia THE MOVIE: World Heroes' Mission
+    original_title: |-
+      My Hero Academia: World Heroes' Mission
+    genre.sync: Anime,Action,Shounen,Super Power
+    studio: Bones
+    critic_rating: 7.6
   tt10736726:
     title: |-
       Quanzhi Gaoshou: Dianfeng Rongyao
@@ -419,6 +679,26 @@ metadata:
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     studio: GoHands
     critic_rating: 7.8
+  tt9089294:
+    title: |-
+      Nanatsu no Taizai Movie: Tenkuu no Torawarebito
+    sort_title: |-
+      Nanatsu no Taizai Movie: Tenkuu no Torawarebito
+    original_title: |-
+      The Seven Deadly Sins the Movie: Prisoners of the Sky
+    genre.sync: Anime,Action,Adventure,Fantasy,Shounen
+    studio: A-1 Pictures
+    critic_rating: 7.1
+  tt13884144:
+    title: |-
+      Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi
+    sort_title: |-
+      Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi
+    original_title: |-
+      The Seven Deadly Sins Movie 2: Cursed By Light
+    genre.sync: Anime,Action,Adventure,Fantasy,Shounen
+    studio: Studio Deen
+    critic_rating: 7.1
   tt2458948:
     title: |-
       Shin Evangelion Movie:||
@@ -429,6 +709,16 @@ metadata:
     genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Suspense,Mecha,Psychological
     studio: Khara
     critic_rating: 8.6
+  tt12642574:
+    title: |-
+      Sidonia no Kishi: Ai Tsumugu Hoshi
+    sort_title: |-
+      Sidonia no Kishi: Ai Tsumugu Hoshi
+    original_title: |-
+      Knights of Sidonia: Love Woven in the Stars
+    genre.sync: Anime,Action,Sci-Fi,Seinen,Mecha,Space
+    studio: Polygon Pictures
+    critic_rating: 7.4
   tt1121794:
     title: |-
       Stranger: Mukou Hadan
@@ -498,6 +788,16 @@ metadata:
       Violet Evergarden the Movie
     genre.sync: Anime,Award Winning,Drama,Fantasy
     studio: Kyoto Animation
+    critic_rating: 8.9
+  tt5311514:
+    title: |-
+      Kimi no Na wa.
+    sort_title: |-
+      Kimi no Na wa.
+    original_title: |-
+      Your Name.
+    genre.sync: Anime,Award Winning,Drama,Supernatural,Romantic Subtext
+    studio: CoMix Wave Films
     critic_rating: 8.9
   tt14364238:
     title: |-
