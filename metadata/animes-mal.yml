@@ -192,7 +192,7 @@ metadata:
     genre.sync: Anime,Sports,Seinen,Team Sports
     label.remove: Ongoing
     studio: Production I.G
-    critic_rating: 8.3
+    critic_rating: 8.2
   411800:
     title: |-
       Arknights: Reimei Zensou
@@ -313,7 +313,7 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Adult Cast,Isekai
     label: Ongoing
     studio: C2C
-    critic_rating: 7.2
+    critic_rating: 7.5
   331753:
     title: |-
       Black Clover
@@ -733,7 +733,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Reincarnation
     label: Ongoing
     studio: Studio Comet
-    critic_rating: 6.8
+    critic_rating: 6.6
   355480:
     title: |-
       Enen no Shouboutai
@@ -1022,7 +1022,7 @@ metadata:
       Hataraku Maou-sama!
     original_title: |-
       The Devil is a Part-Timer!
-    genre.sync: Anime,Comedy,Fantasy,Isekai,Mythology,Romantic Subtext,Workplace
+    genre.sync: Anime,Comedy,Fantasy,Mythology,Romantic Subtext,Workplace
     label.remove: Ongoing
     studio: White Fox
     seasons:
@@ -1237,9 +1237,9 @@ metadata:
       2:
         title: |-
           Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2
-        user_rating: 7.4
+        user_rating: 7.3
         label: score
-    critic_rating: 7.5
+    critic_rating: 7.4
   257756:
     title: |-
       Jormungand
@@ -1363,9 +1363,9 @@ metadata:
       2:
         title: |-
           Kamitachi ni Hirowareta Otoko 2
-        user_rating: 7.0
+        user_rating: 6.8
         label: score
-    critic_rating: 7.0
+    critic_rating: 6.9
   352853:
     title: |-
       Kaze ga Tsuyoku Fuiteiru
@@ -1685,7 +1685,7 @@ metadata:
       2:
         title: |-
           Kyokou Suiri Season 2
-        user_rating: 7.5
+        user_rating: 7.4
         label: score
     critic_rating: 7.2
   272697:
@@ -2016,7 +2016,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Geek Toys
-    critic_rating: 6.4
+    critic_rating: 6.3
   275610:
     title: |-
       Noragami
@@ -2132,7 +2132,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,School
     label: Ongoing
     studio: Project No.9
-    critic_rating: 8.0
+    critic_rating: 7.9
   391625:
     title: |-
       Ousama Ranking
@@ -2579,7 +2579,7 @@ metadata:
     genre.sync: Anime,Romance,Seinen,Otaku Culture,School
     label.remove: Ongoing
     studio: CloverWorks
-    critic_rating: 8.3
+    critic_rating: 8.2
   405920:
     title: |-
       SPY×FAMILY
@@ -2590,7 +2590,7 @@ metadata:
     genre.sync: Anime,Action,Award Winning,Comedy,Shounen,Childcare
     label.remove: Ongoing
     studio: Wit Studio
-    critic_rating: 8.7
+    critic_rating: 8.6
   244061:
     title: |-
       Steins;Gate
@@ -2844,7 +2844,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,School
     label: Ongoing
     studio: Lay-duce
-    critic_rating: 7.7
+    critic_rating: 7.8
   262107:
     title: |-
       Tonari no Kaibutsu-kun
@@ -2910,7 +2910,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
     label: Ongoing
     studio: Orange
-    critic_rating: 7.7
+    critic_rating: 7.8
   325197:
     title: |-
       Tsuki ga Kirei
@@ -2952,7 +2952,7 @@ metadata:
       2:
         title: |-
           Tsurune: Tsunagari no Issha
-        user_rating: 7.9
+        user_rating: 8.0
         label: score
     critic_rating: 7.8
   256705:
