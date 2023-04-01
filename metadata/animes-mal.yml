@@ -1869,17 +1869,6 @@ metadata:
       1:
         label.remove: score
     critic_rating: 7.7
-  400133:
-    title: |-
-      Vanitas no Carte
-    sort_title: |-
-      Vanitas no Carte
-    original_title: |-
-      The Case Study of Vanitas
-    genre.sync: Anime,Action,Fantasy,Mystery,Shounen,Historical,Vampire
-    label.remove: Ongoing
-    studio: Bones
-    critic_rating: 7.9
   414057:
     title: |-
       Lycoris Recoil
@@ -2474,28 +2463,6 @@ metadata:
       1:
         label.remove: score
     critic_rating: 8.0
-  353712:
-    title: |-
-      Tate no Yuusha no Nariagari
-    sort_title: |-
-      Tate no Yuusha no Nariagari
-    original_title: |-
-      The Rising of the Shield Hero
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
-    label.remove: Ongoing
-    studio: Kinema Citrus
-    seasons:
-      1:
-        title: |-
-          Tate no Yuusha no Nariagari
-        user_rating: 8.0
-        label: score
-      2:
-        title: |-
-          Tate no Yuusha no Nariagari Season 2
-        user_rating: 6.6
-        label: score
-    critic_rating: 7.3
   423787:
     title: |-
       Romantic Killer
@@ -2923,6 +2890,28 @@ metadata:
     label.remove: Ongoing
     studio: SILVER LINK.
     critic_rating: 7.8
+  353712:
+    title: |-
+      Tate no Yuusha no Nariagari
+    sort_title: |-
+      Tate no Yuusha no Nariagari
+    original_title: |-
+      The Rising of the Shield Hero
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
+    label.remove: Ongoing
+    studio: Kinema Citrus
+    seasons:
+      1:
+        title: |-
+          Tate no Yuusha no Nariagari
+        user_rating: 8.0
+        label: score
+      2:
+        title: |-
+          Tate no Yuusha no Nariagari Season 2
+        user_rating: 6.6
+        label: score
+    critic_rating: 7.3
   400961:
     title: |-
       Tensai Ouji no Akaji Kokka Saisei Jutsu
@@ -3250,6 +3239,17 @@ metadata:
         user_rating: 7.3
         label: score
     critic_rating: 7.2
+  400133:
+    title: |-
+      Vanitas no Carte
+    sort_title: |-
+      Vanitas no Carte
+    original_title: |-
+      The Case Study of Vanitas
+    genre.sync: Anime,Action,Fantasy,Mystery,Shounen,Historical,Vampire
+    label.remove: Ongoing
+    studio: Bones
+    critic_rating: 7.9
   359274:
     title: |-
       VINLAND SAGA
