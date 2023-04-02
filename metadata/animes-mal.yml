@@ -2650,7 +2650,7 @@ metadata:
     original_title: |-
       Attack on Titan
     genre.sync: Anime,Action,Award Winning,Drama,Suspense,Shounen,Gore,Military,Survival
-    label.remove: Ongoing
+    label: Ongoing
     studio: Wit Studio
     seasons:
       1:
