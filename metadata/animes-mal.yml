@@ -351,7 +351,7 @@ metadata:
     original_title: |-
       Handyman Saitou in Another World
     genre.sync: Anime,Adventure,Comedy,Fantasy,Adult Cast,Isekai
-    label: Ongoing
+    label.remove: Ongoing
     studio: C2C
     critic_rating: 7.5
   331753:
@@ -384,7 +384,7 @@ metadata:
     original_title: |-
       Blue Lock
     genre.sync: Anime,Sports,Shounen,Team Sports
-    label: Ongoing
+    label.remove: Ongoing
     studio: 8bit
     critic_rating: 8.4
   413522:
@@ -417,7 +417,7 @@ metadata:
     original_title: |-
       My Hero Academia
     genre.sync: Anime,Action,Shounen,School,Super Power
-    label: Ongoing
+    label.remove: Ongoing
     studio: Bones
     seasons:
       1:
@@ -459,7 +459,7 @@ metadata:
     original_title: |-
       Buddy Daddies
     genre.sync: Anime,Action,Comedy,Childcare,Organized Crime
-    label: Ongoing
+    label.remove: Ongoing
     studio: P.A. Works
     critic_rating: 7.9
   305075:
@@ -470,7 +470,7 @@ metadata:
     original_title: |-
       Bungo Stray Dogs
     genre.sync: Anime,Action,Mystery,Supernatural,Seinen,Adult Cast,Organized Crime,Super Power
-    label: Ongoing
+    label.remove: Ongoing
     studio: Bones
     critic_rating: 7.8
   83316:
@@ -748,7 +748,7 @@ metadata:
     original_title: |-
       Is It Wrong to Try to Pick Up Girls in a Dungeon?
     genre.sync: Anime,Action,Adventure,Fantasy
-    label: Ongoing
+    label.remove: Ongoing
     studio: J.C.Staff
     seasons:
       0:
@@ -782,7 +782,7 @@ metadata:
     original_title: |-
       Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀
     genre.sync: Anime,Action,Fantasy,Reincarnation
-    label: Ongoing
+    label.remove: Ongoing
     studio: Studio Comet
     critic_rating: 6.6
   355480:
@@ -831,7 +831,7 @@ metadata:
     original_title: |-
       To Your Eternity
     genre.sync: Anime,Adventure,Drama,Supernatural,Shounen
-    label: Ongoing
+    label.remove: Ongoing
     studio: Brain's Base
     seasons:
       1:
@@ -1123,7 +1123,7 @@ metadata:
     original_title: |-
       HIGH CARD
     genre.sync: Anime,Action,Fantasy,Adult Cast,Organized Crime,Super Power
-    label: Ongoing
+    label.remove: Ongoing
     studio: Studio Hibari
     critic_rating: 7.2
   306743:
@@ -1150,7 +1150,7 @@ metadata:
     original_title: |-
       The Fire Hunter
     genre.sync: Anime,Fantasy
-    label: Ongoing
+    label.remove: Ongoing
     studio: Signal.MD
     critic_rating: 6.4
   293121:
@@ -1256,7 +1256,7 @@ metadata:
     original_title: |-
       Don't Toy with Me, Miss Nagatoro
     genre.sync: Anime,Comedy,Romantic Subtext,School
-    label: Ongoing
+    label.remove: Ongoing
     studio: Telecom Animation Film
     seasons:
       1:
@@ -1316,7 +1316,7 @@ metadata:
     original_title: |-
       Uncle from Another World
     genre.sync: Anime,Comedy,Fantasy,Adult Cast,Isekai,Otaku Culture,Parody
-    label: Ongoing
+    label.remove: Ongoing
     studio: AtelierPontdarc
     critic_rating: 7.9
   406592:
@@ -1420,7 +1420,7 @@ metadata:
     original_title: |-
       Chillin' in My 30s after Getting Fired from the Demon King's Army
     genre.sync: Anime,Fantasy
-    label: Ongoing
+    label.remove: Ongoing
     studio: Encourage Films
     critic_rating: 7.1
   376729:
@@ -1466,7 +1466,7 @@ metadata:
     original_title: |-
       By the Grace of the Gods
     genre.sync: Anime,Fantasy,Slice of Life,Isekai,Iyashikei,Reincarnation
-    label: Ongoing
+    label.remove: Ongoing
     studio: Maho Film
     seasons:
       1:
@@ -1746,7 +1746,7 @@ metadata:
     original_title: |-
       The Ice Guy and His Cool Female Colleague
     genre.sync: Anime,Comedy,Fantasy,Romance,Adult Cast,Mythology,Workplace
-    label: Ongoing
+    label.remove: Ongoing
     studio: Zero-G
     critic_rating: 7.4
   413515:
@@ -1839,7 +1839,7 @@ metadata:
     original_title: |-
       In/Spectre
     genre.sync: Anime,Mystery,Romance,Supernatural,Shounen,Adult Cast,Mythology
-    label: Ongoing
+    label.remove: Ongoing
     studio: Brain's Base
     seasons:
       1:
@@ -1976,7 +1976,7 @@ metadata:
     original_title: |-
       Welcome to Demon School! Iruma-kun
     genre.sync: Anime,Comedy,Fantasy,Shounen,Isekai,Mythology,School
-    label: Ongoing
+    label.remove: Ongoing
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -2191,7 +2191,7 @@ metadata:
     original_title: |-
       Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World
     genre.sync: Anime,Action,Adventure,Fantasy
-    label: Ongoing
+    label.remove: Ongoing
     studio: Geek Toys
     critic_rating: 6.3
   275610:
@@ -2285,7 +2285,7 @@ metadata:
     original_title: |-
       Kaina of the Great Snow Sea
     genre.sync: Anime,Fantasy,Survival
-    label: Ongoing
+    label.remove: Ongoing
     studio: Polygon Pictures
     critic_rating: 6.7
   412826:
@@ -2307,7 +2307,7 @@ metadata:
     original_title: |-
       The Angel Next Door Spoils Me Rotten
     genre.sync: Anime,Comedy,Romance,School
-    label: Ongoing
+    label.remove: Ongoing
     studio: Project No.9
     critic_rating: 7.9
   391625:
@@ -2517,7 +2517,7 @@ metadata:
     original_title: |-
       The Reincarnation of the Strongest Exorcist in Another World
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
-    label: Ongoing
+    label.remove: Ongoing
     studio: Studio Blanc.
     critic_rating: 7.2
   262114:
@@ -2931,7 +2931,7 @@ metadata:
     original_title: |-
       The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
     genre.sync: Anime,Fantasy,Girls Love,Isekai,Reincarnation
-    label: Ongoing
+    label.remove: Ongoing
     studio: Diomedéa
     critic_rating: 7.6
   410378:
@@ -3037,7 +3037,7 @@ metadata:
     original_title: |-
       Tokyo Revengers
     genre.sync: Anime,Action,Drama,Supernatural,Shounen,Delinquents,Time Travel
-    label: Ongoing
+    label.remove: Ongoing
     studio: LIDENFILMS
     seasons:
       1:
@@ -3059,7 +3059,7 @@ metadata:
     original_title: |-
       Tomo-chan Is a Girl!
     genre.sync: Anime,Comedy,Romance,School
-    label: Ongoing
+    label.remove: Ongoing
     studio: Lay-duce
     critic_rating: 7.8
   262107:
@@ -3081,7 +3081,7 @@ metadata:
     original_title: |-
       Campfire Cooking in Another World with My Absurd Skill
     genre.sync: Anime,Adventure,Comedy,Fantasy,Gourmet,Isekai
-    label: Ongoing
+    label.remove: Ongoing
     studio: MAPPA
     critic_rating: 7.7
   385077:
@@ -3130,7 +3130,7 @@ metadata:
     original_title: |-
       Trigun Stampede
     genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
-    label: Ongoing
+    label.remove: Ongoing
     studio: Orange
     critic_rating: 7.8
   325197:
@@ -3152,7 +3152,7 @@ metadata:
     original_title: |-
       Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte
     genre.sync: Anime,Comedy,Fantasy,Romance,Video Game
-    label: Ongoing
+    label.remove: Ongoing
     studio: Tezuka Productions
     critic_rating: 7.3
   352796:
@@ -3163,7 +3163,7 @@ metadata:
     original_title: |-
       Tsurune: Kazemai High School Kyudo Club
     genre.sync: Anime,Sports,School
-    label: Ongoing
+    label.remove: Ongoing
     studio: Kyoto Animation
     seasons:
       0:
@@ -3483,7 +3483,7 @@ metadata:
     original_title: |-
       Yowamushi Pedal
     genre.sync: Anime,Sports,Shounen,Racing
-    label: Ongoing
+    label.remove: Ongoing
     studio: TMS Entertainment
     critic_rating: 7.9
   330692:
