@@ -461,7 +461,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Childcare,Organized Crime
     label.remove: Ongoing
     studio: P.A. Works
-    critic_rating: 7.9
+    critic_rating: 8.2
   305075:
     title: |-
       Bungou Stray Dogs
@@ -959,7 +959,7 @@ metadata:
     original_title: |-
       Golden Kamuy
     genre.sync: Anime,Action,Adventure,Seinen,Adult Cast,Historical,Military
-    label: Ongoing
+    label.remove: Ongoing
     studio: Geno Studio
     seasons:
       1:
@@ -1338,7 +1338,7 @@ metadata:
     original_title: |-
       BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Video Game
-    label: Ongoing
+    label.remove: Ongoing
     studio: SILVER LINK.
     seasons:
       1:
@@ -2025,7 +2025,7 @@ metadata:
     original_title: |-
       The Misfit of Demon King Academy
     genre.sync: Anime,Action,Fantasy,Mythology,Reincarnation,School
-    label: Ongoing
+    label.remove: Ongoing
     studio: SILVER LINK.
     seasons:
       1:
@@ -2036,7 +2036,7 @@ metadata:
       2:
         title: |-
           Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II
-        user_rating: 7.1
+        user_rating: 7.0
         label: score
     critic_rating: 7.2
   397965:
@@ -2180,7 +2180,7 @@ metadata:
     original_title: |-
       NieR:Automata Ver1.1a
     genre.sync: Anime,Action,Fantasy,Sci-Fi
-    label: Ongoing
+    label.remove: Ongoing
     studio: A-1 Pictures
     critic_rating: 7.5
   415188:
@@ -2226,7 +2226,7 @@ metadata:
     original_title: |-
       One Piece
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
-    label: Ongoing
+    label.remove: Ongoing
     studio: Toei Animation
     critic_rating: 8.7
   293088:
@@ -2650,7 +2650,7 @@ metadata:
     original_title: |-
       Attack on Titan
     genre.sync: Anime,Action,Award Winning,Drama,Suspense,Shounen,Gore,Military,Survival
-    label: Ongoing
+    label.remove: Ongoing
     studio: Wit Studio
     seasons:
       1:
@@ -3061,7 +3061,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,School
     label.remove: Ongoing
     studio: Lay-duce
-    critic_rating: 7.8
+    critic_rating: 7.9
   262107:
     title: |-
       Tonari no Kaibutsu-kun
@@ -3154,7 +3154,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Video Game
     label.remove: Ongoing
     studio: Tezuka Productions
-    critic_rating: 7.3
+    critic_rating: 7.2
   352796:
     title: |-
       Tsurune: Kazemai Koukou Kyuudou-bu
@@ -3176,9 +3176,9 @@ metadata:
       2:
         title: |-
           Tsurune: Tsunagari no Issha
-        user_rating: 8.0
+        user_rating: 8.1
         label: score
-    critic_rating: 7.8
+    critic_rating: 7.9
   256705:
     title: |-
       Uchuu Kyoudai
@@ -3258,7 +3258,7 @@ metadata:
     original_title: |-
       VINLAND SAGA
     genre.sync: Anime,Action,Adventure,Drama,Seinen,Gore,Historical
-    label: Ongoing
+    label.remove: Ongoing
     studio: Wit Studio
     seasons:
       1:
@@ -3320,7 +3320,7 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Psychological
     label.remove: Ongoing
     studio: CloverWorks
-    critic_rating: 7.7
+    critic_rating: 7.6
   145211:
     title: |-
       Working!!
