@@ -959,7 +959,7 @@ metadata:
     original_title: |-
       Golden Kamuy
     genre.sync: Anime,Action,Adventure,Seinen,Adult Cast,Historical,Military
-    label.remove: Ongoing
+    label: Ongoing
     studio: Geno Studio
     seasons:
       1:
@@ -1338,7 +1338,7 @@ metadata:
     original_title: |-
       BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Video Game
-    label.remove: Ongoing
+    label: Ongoing
     studio: SILVER LINK.
     seasons:
       1:
@@ -2025,7 +2025,7 @@ metadata:
     original_title: |-
       The Misfit of Demon King Academy
     genre.sync: Anime,Action,Fantasy,Mythology,Reincarnation,School
-    label.remove: Ongoing
+    label: Ongoing
     studio: SILVER LINK.
     seasons:
       1:
@@ -2180,7 +2180,7 @@ metadata:
     original_title: |-
       NieR:Automata Ver1.1a
     genre.sync: Anime,Action,Fantasy,Sci-Fi
-    label.remove: Ongoing
+    label: Ongoing
     studio: A-1 Pictures
     critic_rating: 7.5
   415188:
@@ -2226,7 +2226,7 @@ metadata:
     original_title: |-
       One Piece
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Toei Animation
     critic_rating: 8.7
   293088:
@@ -2650,7 +2650,7 @@ metadata:
     original_title: |-
       Attack on Titan
     genre.sync: Anime,Action,Award Winning,Drama,Suspense,Shounen,Gore,Military,Survival
-    label.remove: Ongoing
+    label: Ongoing
     studio: Wit Studio
     seasons:
       1:
@@ -3258,7 +3258,7 @@ metadata:
     original_title: |-
       VINLAND SAGA
     genre.sync: Anime,Action,Adventure,Drama,Seinen,Gore,Historical
-    label.remove: Ongoing
+    label: Ongoing
     studio: Wit Studio
     seasons:
       1:
