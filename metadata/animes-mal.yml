@@ -739,7 +739,12 @@ metadata:
           Dr. STONE: STONE WARS
         user_rating: 8.2
         label: score
-    critic_rating: 8.2
+      3:
+        title: |-
+          Dr. STONE: NEW WORLD
+        user_rating: 0.0
+        label: score
+    critic_rating: 5.5
   289882:
     title: |-
       Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
