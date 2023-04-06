@@ -549,6 +549,16 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Horror,Gore,Historical,Survival
     studio: Wit Studio
     critic_rating: 7.7
+  tt6728390:
+    title: |-
+      Kuroko no Basket: Last Game
+    sort_title: |-
+      Kuroko no Basket: Last Game
+    original_title: |-
+      Kuroko's Basketball the Movie: Last Game
+    genre.sync: Anime,Sports,Shounen,School,Team Sports
+    studio: Production I.G
+    critic_rating: 8.1
   tt4531412:
     title: |-
       Kyoukai no Kanata: I'LL BE HERE - Kako-hen
@@ -649,6 +659,16 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     studio: Studio Deen
     critic_rating: 7.1
+  tt2140203:
+    title: |-
+      Ookami Kodomo no Ame to Yuki
+    sort_title: |-
+      Ookami Kodomo no Ame to Yuki
+    original_title: |-
+      Wolf Children
+    genre.sync: Anime,Award Winning,Fantasy,Slice of Life,Childcare
+    studio: Studio Chizu
+    critic_rating: 8.6
   tt10736726:
     title: |-
       Quanzhi Gaoshou: Dianfeng Rongyao
@@ -659,6 +679,16 @@ metadata:
     genre.sync: Anime,Action,Video Game
     studio: Colored Pencil Animation
     critic_rating: 8.1
+  tt13651628:
+    title: |-
+      Ryuu to Sobakasu no Hime
+    sort_title: |-
+      Ryuu to Sobakasu no Hime
+    original_title: |-
+      Belle
+    genre.sync: Anime,Drama,Fantasy,Music
+    studio: Studio Chizu
+    critic_rating: 7.5
   tt2981768:
     title: |-
       Sakasama no Patema
@@ -709,6 +739,16 @@ metadata:
     genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Suspense,Mecha,Psychological
     studio: Khara
     critic_rating: 8.6
+  tt8346438:
+    title: |-
+      SHIROBAKO Movie
+    sort_title: |-
+      SHIROBAKO Movie
+    original_title: |-
+      SHIROBAKO Movie
+    genre.sync: Anime,Comedy,Drama,Adult Cast,Otaku Culture,Workplace
+    studio: P.A. Works
+    critic_rating: 7.7
   tt12642574:
     title: |-
       Sidonia no Kishi: Ai Tsumugu Hoshi
