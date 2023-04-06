@@ -29,16 +29,6 @@ metadata:
     genre.sync: Anime,Adventure,Supernatural,Anthropomorphic,Isekai
     studio: Studio Chizu
     critic_rating: 8.3
-  tt13651628:
-    title: |-
-      Ryuu to Sobakasu no Hime
-    sort_title: |-
-      Ryuu to Sobakasu no Hime
-    original_title: |-
-      Belle
-    genre.sync: Anime,Drama,Fantasy,Music
-    studio: Studio Chizu
-    critic_rating: 7.5
   tt7745068:
     title: |-
       Boku no Hero Academia THE MOVIE: Futari no Hero
@@ -589,16 +579,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,School
     studio: Kyoto Animation
     critic_rating: 8.1
-  tt2140203:
-    title: |-
-      Ookami Kodomo no Ame to Yuki
-    sort_title: |-
-      Ookami Kodomo no Ame to Yuki
-    original_title: |-
-      Wolf Children
-    genre.sync: Anime,Award Winning,Fantasy,Slice of Life,Childcare
-    studio: Studio Chizu
-    critic_rating: 8.6
   tt10068916:
     title: |-
       Made in Abyss: Fukaki Tamashii no Reimei
@@ -679,6 +659,16 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     studio: Studio Deen
     critic_rating: 7.1
+  tt2140203:
+    title: |-
+      Ookami Kodomo no Ame to Yuki
+    sort_title: |-
+      Ookami Kodomo no Ame to Yuki
+    original_title: |-
+      Wolf Children
+    genre.sync: Anime,Award Winning,Fantasy,Slice of Life,Childcare
+    studio: Studio Chizu
+    critic_rating: 8.6
   tt10736726:
     title: |-
       Quanzhi Gaoshou: Dianfeng Rongyao
@@ -689,6 +679,16 @@ metadata:
     genre.sync: Anime,Action,Video Game
     studio: Colored Pencil Animation
     critic_rating: 8.1
+  tt13651628:
+    title: |-
+      Ryuu to Sobakasu no Hime
+    sort_title: |-
+      Ryuu to Sobakasu no Hime
+    original_title: |-
+      Belle
+    genre.sync: Anime,Drama,Fantasy,Music
+    studio: Studio Chizu
+    critic_rating: 7.5
   tt2981768:
     title: |-
       Sakasama no Patema
