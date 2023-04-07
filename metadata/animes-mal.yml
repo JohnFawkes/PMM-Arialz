@@ -724,7 +724,7 @@ metadata:
     original_title: |-
       Dr. Stone
     genre.sync: Anime,Adventure,Comedy,Sci-Fi,Shounen,Survival,Time Travel
-    label.remove: Ongoing
+    label: Ongoing
     studio: TMS Entertainment
     seasons:
       0:
@@ -1738,7 +1738,7 @@ metadata:
     original_title: |-
       KonoSuba: An Explosion on This Wonderful World!
     genre.sync: Anime,Comedy,Fantasy
-    label.remove: Ongoing
+    label: Ongoing
     studio: Drive
     critic_rating: 0.0
   303867:
@@ -2677,7 +2677,7 @@ metadata:
     original_title: |-
       Attack on Titan
     genre.sync: Anime,Action,Award Winning,Drama,Suspense,Shounen,Gore,Military,Survival
-    label: Ongoing
+    label.remove: Ongoing
     studio: Wit Studio
     seasons:
       1:
