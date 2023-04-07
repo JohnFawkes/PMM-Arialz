@@ -39,50 +39,6 @@ metadata:
         user_rating: 8.6
         label: score
     critic_rating: 8.7
-  76013:
-    title: |-
-      Major
-    sort_title: |-
-      Major
-    original_title: |-
-      Major
-    genre.sync: Anime,Sports,Shounen,Team Sports
-    label.remove: Ongoing
-    studio: Studio Hibari
-    seasons:
-      0:
-        label.remove: score
-      1:
-        title: |-
-          Major S1
-        user_rating: 8.2
-        label: score
-      2:
-        title: |-
-          Major S2
-        user_rating: 8.2
-        label: score
-      3:
-        title: |-
-          Major S3
-        user_rating: 8.2
-        label: score
-      4:
-        title: |-
-          Major S4
-        user_rating: 8.2
-        label: score
-      5:
-        title: |-
-          Major S5
-        user_rating: 8.4
-        label: score
-      6:
-        title: |-
-          Major S6
-        user_rating: 8.3
-        label: score
-    critic_rating: 8.2
   306269:
     title: |-
       3-gatsu no Lion
@@ -1740,7 +1696,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy
     label: Ongoing
     studio: Drive
-    critic_rating: 0.0
+    critic_rating: 8.1
   303867:
     title: |-
       Kono Subarashii Sekai ni Shukufuku wo!
@@ -2022,6 +1978,50 @@ metadata:
         user_rating: 7.8
         label: score
     critic_rating: 7.9
+  76013:
+    title: |-
+      Major S1
+    sort_title: |-
+      Major S1
+    original_title: |-
+      Major S1
+    genre.sync: Anime,Sports,Shounen,Team Sports
+    label.remove: Ongoing
+    studio: Studio Hibari
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Major S1
+        user_rating: 8.2
+        label: score
+      2:
+        title: |-
+          Major S2
+        user_rating: 8.2
+        label: score
+      3:
+        title: |-
+          Major S3
+        user_rating: 8.2
+        label: score
+      4:
+        title: |-
+          Major S4
+        user_rating: 8.2
+        label: score
+      5:
+        title: |-
+          Major S5
+        user_rating: 8.4
+        label: score
+      6:
+        title: |-
+          Major S6
+        user_rating: 8.3
+        label: score
+    critic_rating: 8.2
   341436:
     title: |-
       Major 2nd
@@ -2077,6 +2077,17 @@ metadata:
     label.remove: Ongoing
     studio: Shin-Ei Animation
     critic_rating: 7.5
+  421737:
+    title: |-
+      MASHLE
+    sort_title: |-
+      MASHLE
+    original_title: |-
+      Mashle: Magic and Muscles
+    genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Gag Humor,Parody,School
+    label.remove: Ongoing
+    studio: A-1 Pictures
+    critic_rating: 0.0
   307375:
     title: |-
       Mob Psycho 100
