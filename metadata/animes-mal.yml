@@ -9,7 +9,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
     studio: A-1 Pictures
-    critic_rating: 7.6
+    audience_rating: 7.6
   79685:
     title: |-
       Hajime no Ippo
@@ -38,7 +38,7 @@ metadata:
           Hajime no Ippo: Rising
         user_rating: 8.6
         label: score
-    critic_rating: 8.7
+    audience_rating: 8.7
   306269:
     title: |-
       3-gatsu no Lion
@@ -60,7 +60,7 @@ metadata:
           3-gatsu no Lion 2
         user_rating: 8.9
         label: score
-    critic_rating: 8.6
+    audience_rating: 8.6
   378609:
     title: |-
       86: Eighty Six
@@ -71,7 +71,7 @@ metadata:
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military
     label.remove: Ongoing
     studio: A-1 Pictures
-    critic_rating: 8.3
+    audience_rating: 8.3
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -82,7 +82,7 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Mystery,Seinen,Adult Cast,Detective
     label.remove: Ongoing
     studio: Madhouse
-    critic_rating: 7.7
+    audience_rating: 7.7
   421676:
     title: |-
       Akiba Meido Sensou
@@ -93,7 +93,7 @@ metadata:
     genre.sync: Anime,Action,Comedy
     label.remove: Ongoing
     studio: P.A. Works
-    critic_rating: 7.7
+    audience_rating: 7.7
   411821:
     title: |-
       Akuyaku Reijou nano de Last Boss wo Kattemimashita
@@ -104,7 +104,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Shoujo,Isekai
     label.remove: Ongoing
     studio: Maho Film
-    critic_rating: 7.2
+    audience_rating: 7.2
   279827:
     title: |-
       Aldnoah.Zero
@@ -115,7 +115,7 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Mecha,Military
     label.remove: Ongoing
     studio: A-1 Pictures
-    critic_rating: 7.4
+    audience_rating: 7.4
   348706:
     title: |-
       Angolmois: Genkou Kassenki
@@ -126,7 +126,7 @@ metadata:
     genre.sync: Anime,Action,Drama,Historical,Military,Samurai
     label.remove: Ongoing
     studio: NAZ
-    critic_rating: 7.1
+    audience_rating: 7.1
   248035:
     title: |-
       Ao no Exorcist
@@ -150,7 +150,7 @@ metadata:
           Ao no Exorcist: Kyoto Fujouou-hen
         user_rating: 7.3
         label: score
-    critic_rating: 7.4
+    audience_rating: 7.4
   407840:
     title: |-
       Aoashi
@@ -161,7 +161,7 @@ metadata:
     genre.sync: Anime,Sports,Seinen,Team Sports
     label.remove: Ongoing
     studio: Production I.G
-    critic_rating: 8.2
+    audience_rating: 8.2
   411800:
     title: |-
       Arknights: Reimei Zensou
@@ -172,7 +172,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy
     label.remove: Ongoing
     studio: Yostar Pictures
-    critic_rating: 7.2
+    audience_rating: 7.2
   291630:
     title: |-
       Arslan Senki (TV)
@@ -194,7 +194,7 @@ metadata:
           Arslan Senki: Fuujin Ranbu
         user_rating: 7.5
         label: score
-    critic_rating: 7.6
+    audience_rating: 7.6
   79077:
     title: |-
       Azumanga Daiou THE ANIMATION
@@ -205,7 +205,7 @@ metadata:
     genre.sync: Anime,Comedy,Slice of Life,CGDCT,Gag Humor,School
     label.remove: Ongoing
     studio: J.C.Staff
-    critic_rating: 8.0
+    audience_rating: 8.0
   278152:
     title: |-
       Baby Steps
@@ -227,7 +227,7 @@ metadata:
           Baby Steps 2
         user_rating: 8.0
         label: score
-    critic_rating: 7.9
+    audience_rating: 7.9
   193811:
     title: |-
       Bakuman.
@@ -254,7 +254,7 @@ metadata:
           Bakuman. 3
         user_rating: 8.5
         label: score
-    critic_rating: 8.4
+    audience_rating: 8.4
   281270:
     title: |-
       Barakamon
@@ -265,7 +265,7 @@ metadata:
     genre.sync: Anime,Slice of Life,Childcare,Iyashikei,Visual Arts
     label.remove: Ongoing
     studio: Kinema Citrus
-    critic_rating: 8.4
+    audience_rating: 8.4
   361013:
     title: |-
       BEASTARS
@@ -287,7 +287,7 @@ metadata:
           BEASTARS 2
         user_rating: 7.8
         label: score
-    critic_rating: 7.8
+    audience_rating: 7.8
   219771:
     title: |-
       Beelzebub
@@ -298,7 +298,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Supernatural,Shounen,Childcare,Delinquents,Mythology,School
     label.remove: Ongoing
     studio: Pierrot Plus
-    critic_rating: 7.9
+    audience_rating: 7.9
   414845:
     title: |-
       Benriya Saitou-san, Isekai ni Iku
@@ -309,7 +309,7 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Adult Cast,Isekai
     label.remove: Ongoing
     studio: C2C
-    critic_rating: 7.5
+    audience_rating: 7.5
   331753:
     title: |-
       Black Clover
@@ -320,7 +320,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Shounen
     label.remove: Ongoing
     studio: Pierrot
-    critic_rating: 8.1
+    audience_rating: 8.1
   74796:
     title: |-
       BLEACH
@@ -331,7 +331,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
     studio: Pierrot
-    critic_rating: 7.9
+    audience_rating: 7.9
   408629:
     title: |-
       Blue Lock
@@ -342,7 +342,7 @@ metadata:
     genre.sync: Anime,Sports,Shounen,Team Sports
     label.remove: Ongoing
     studio: 8bit
-    critic_rating: 8.4
+    audience_rating: 8.4
   413522:
     title: |-
       Bocchi the Rock!
@@ -353,7 +353,7 @@ metadata:
     genre.sync: Anime,Comedy,CGDCT,Music
     label.remove: Ongoing
     studio: CloverWorks
-    critic_rating: 8.9
+    audience_rating: 8.9
   303071:
     title: |-
       Boku dake ga Inai Machi
@@ -364,7 +364,7 @@ metadata:
     genre.sync: Anime,Mystery,Supernatural,Suspense,Seinen,Psychological,Time Travel
     label.remove: Ongoing
     studio: A-1 Pictures
-    critic_rating: 8.3
+    audience_rating: 8.3
   305074:
     title: |-
       Boku no Hero Academia
@@ -406,7 +406,7 @@ metadata:
           Boku no Hero Academia 6
         user_rating: 8.4
         label: score
-    critic_rating: 8.0
+    audience_rating: 8.0
   426294:
     title: |-
       Buddy Daddies
@@ -417,7 +417,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Childcare,Organized Crime
     label.remove: Ongoing
     studio: P.A. Works
-    critic_rating: 8.2
+    audience_rating: 8.2
   305075:
     title: |-
       Bungou Stray Dogs
@@ -428,7 +428,7 @@ metadata:
     genre.sync: Anime,Action,Mystery,Supernatural,Seinen,Adult Cast,Organized Crime,Super Power
     label.remove: Ongoing
     studio: Bones
-    critic_rating: 7.8
+    audience_rating: 7.8
   83316:
     title: |-
       Casshern Sins
@@ -439,7 +439,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Sci-Fi,Psychological
     label.remove: Ongoing
     studio: Madhouse
-    critic_rating: 7.5
+    audience_rating: 7.5
   397934:
     title: |-
       Chainsaw Man
@@ -450,7 +450,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Shounen,Gore
     label.remove: Ongoing
     studio: MAPPA
-    critic_rating: 8.6
+    audience_rating: 8.6
   289679:
     title: |-
       Charlotte
@@ -466,7 +466,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.8
+    audience_rating: 7.8
   251982:
     title: |-
       Chihayafuru
@@ -495,7 +495,7 @@ metadata:
           Chihayafuru 3
         user_rating: 8.5
         label: score
-    critic_rating: 8.4
+    audience_rating: 8.4
   413555:
     title: |-
       Chikyuugai Shounen Shoujo
@@ -506,7 +506,7 @@ metadata:
     genre.sync: Anime,Adventure,Sci-Fi,Space,Survival
     label.remove: Ongoing
     studio: Production +h.
-    critic_rating: 6.9
+    audience_rating: 6.9
   261862:
     title: |-
       Chuunibyou demo Koi ga Shitai!
@@ -530,7 +530,7 @@ metadata:
           Chuunibyou demo Koi ga Shitai! Ren
         user_rating: 7.6
         label: score
-    critic_rating: 7.7
+    audience_rating: 7.7
   79995:
     title: |-
       CLAYMORE
@@ -541,7 +541,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen,Gore,Mythology,Super Power
     label.remove: Ongoing
     studio: Madhouse
-    critic_rating: 7.7
+    audience_rating: 7.7
   79525:
     title: |-
       Code Geass: Hangyaku no Lelouch
@@ -563,7 +563,7 @@ metadata:
           Code Geass: Hangyaku no Lelouch R2
         user_rating: 8.9
         label: score
-    critic_rating: 8.8
+    audience_rating: 8.8
   384541:
     title: |-
       Cyberpunk: Edgerunners
@@ -574,7 +574,7 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Gore,Psychological
     label.remove: Ongoing
     studio: Trigger
-    critic_rating: 8.6
+    audience_rating: 8.6
   79635:
     title: |-
       D.Gray-man
@@ -585,7 +585,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Comedy,Shounen,Mythology,Super Power
     label.remove: Ongoing
     studio: TMS Entertainment
-    critic_rating: 8.0
+    audience_rating: 8.0
   80042:
     title: |-
       DARKER THAN BLACK: Kuro no Keiyakusha
@@ -609,7 +609,7 @@ metadata:
           DARKER THAN BLACK: Ryuusei no Gemini
         user_rating: 7.4
         label: score
-    critic_rating: 7.8
+    audience_rating: 7.8
   378878:
     title: |-
       Deca-Dence
@@ -620,7 +620,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Sci-Fi
     label.remove: Ongoing
     studio: Nut
-    critic_rating: 7.4
+    audience_rating: 7.4
   273005:
     title: |-
       Diamond no Ace
@@ -649,7 +649,7 @@ metadata:
           Diamond no Ace act II
         user_rating: 8.3
         label: score
-    critic_rating: 8.2
+    audience_rating: 8.2
   354170:
     title: |-
       Domestic na Kanojo
@@ -660,7 +660,7 @@ metadata:
     genre.sync: Anime,Drama,Romance,Shounen,Love Polygon,School
     label.remove: Ongoing
     studio: Diomedéa
-    critic_rating: 6.7
+    audience_rating: 6.7
   370761:
     title: |-
       Dorohedoro
@@ -671,7 +671,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Horror,Seinen,Gore
     label.remove: Ongoing
     studio: MAPPA
-    critic_rating: 8.1
+    audience_rating: 8.1
   355774:
     title: |-
       Dr. STONE
@@ -700,7 +700,7 @@ metadata:
           Dr. STONE: NEW WORLD
         user_rating: 0.0
         label: score
-    critic_rating: 5.5
+    audience_rating: 5.5
   289882:
     title: |-
       Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
@@ -734,7 +734,7 @@ metadata:
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen
         user_rating: 7.7
         label: score
-    critic_rating: 7.5
+    audience_rating: 7.5
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -745,7 +745,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Reincarnation
     label.remove: Ongoing
     studio: Studio Comet
-    critic_rating: 6.6
+    audience_rating: 6.6
   355480:
     title: |-
       Enen no Shouboutai
@@ -767,7 +767,7 @@ metadata:
           Enen no Shouboutai: Ni no Shou
         user_rating: 7.8
         label: score
-    critic_rating: 7.8
+    audience_rating: 7.8
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -783,7 +783,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 8.2
+    audience_rating: 8.2
   375271:
     title: |-
       Fumetsu no Anata e
@@ -805,7 +805,7 @@ metadata:
           Fumetsu no Anata e Season 2
         user_rating: 8.1
         label: score
-    critic_rating: 8.2
+    audience_rating: 8.2
   79178:
     title: |-
       Gankutsuou
@@ -816,7 +816,7 @@ metadata:
     genre.sync: Anime,Award Winning,Drama,Mystery,Sci-Fi,Supernatural,Suspense
     label.remove: Ongoing
     studio: Gonzo
-    critic_rating: 8.1
+    audience_rating: 8.1
   279804:
     title: |-
       Gekkan Shoujo Nozaki-kun
@@ -827,7 +827,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Otaku Culture,School
     label.remove: Ongoing
     studio: Doga Kobo
-    critic_rating: 7.8
+    audience_rating: 7.8
   389422:
     title: |-
       Genjitsu Shugi Yuusha no Oukoku Saikenki
@@ -838,7 +838,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,Harem,Isekai,Military
     label.remove: Ongoing
     studio: J.C.Staff
-    critic_rating: 7.2
+    audience_rating: 7.2
   267246:
     title: |-
       Gin no Saji
@@ -860,7 +860,7 @@ metadata:
           Gin no Saji 2
         user_rating: 8.3
         label: score
-    critic_rating: 8.2
+    audience_rating: 8.2
   79895:
     title: |-
       Gintama
@@ -871,7 +871,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen,Gag Humor,Historical,Parody,Samurai
     label.remove: Ongoing
     studio: Sunrise
-    critic_rating: 8.9
+    audience_rating: 8.9
   262098:
     title: |-
       Girls und Panzer
@@ -887,7 +887,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.5
+    audience_rating: 7.5
   355966:
     title: |-
       Go-toubun no Hanayome
@@ -911,7 +911,7 @@ metadata:
           Go-toubun no Hanayome ∬
         user_rating: 8.1
         label: score
-    critic_rating: 7.9
+    audience_rating: 7.9
   338455:
     title: |-
       Golden Kamuy
@@ -943,7 +943,7 @@ metadata:
           Golden Kamuy 4th Season
         user_rating: 8.3
         label: score
-    critic_rating: 8.2
+    audience_rating: 8.2
   343913:
     title: |-
       Grand Blue
@@ -954,7 +954,7 @@ metadata:
     genre.sync: Anime,Comedy,Seinen,Adult Cast
     label.remove: Ongoing
     studio: Zero-G
-    critic_rating: 8.4
+    audience_rating: 8.4
   85249:
     title: |-
       Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
@@ -970,7 +970,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 9.1
+    audience_rating: 9.1
   303868:
     title: |-
       Hai to Gensou no Grimgar
@@ -986,7 +986,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.7
+    audience_rating: 7.7
   79105:
     title: |-
       Haibane Renmei
@@ -997,7 +997,7 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Mystery,Psychological
     label.remove: Ongoing
     studio: Radix
-    critic_rating: 8.0
+    audience_rating: 8.0
   278157:
     title: |-
       Haikyuu!!
@@ -1031,7 +1031,7 @@ metadata:
           Haikyuu!! TO THE TOP
         user_rating: 8.4
         label: score
-    critic_rating: 8.6
+    audience_rating: 8.6
   267441:
     title: |-
       Hataraku Maou-sama!
@@ -1053,7 +1053,7 @@ metadata:
           Hataraku Maou-sama!!
         user_rating: 6.7
         label: score
-    critic_rating: 7.2
+    audience_rating: 7.2
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -1064,7 +1064,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Seinen,Mythology
     label.remove: Ongoing
     studio: MAPPA
-    critic_rating: 7.6
+    audience_rating: 7.6
   263688:
     title: |-
       HELLSING OVA
@@ -1075,7 +1075,7 @@ metadata:
     genre.sync: Anime,Action,Horror,Supernatural,Seinen,Adult Cast,Gore,Military,Vampire
     label.remove: Ongoing
     studio: Madhouse
-    critic_rating: 8.4
+    audience_rating: 8.4
   404525:
     title: |-
       HIGH CARD
@@ -1086,7 +1086,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Adult Cast,Organized Crime,Super Power
     label.remove: Ongoing
     studio: Studio Hibari
-    critic_rating: 7.2
+    audience_rating: 7.2
   306743:
     title: |-
       High School Fleet
@@ -1102,7 +1102,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.3
+    audience_rating: 7.3
   402607:
     title: |-
       Hikari no Ou
@@ -1113,7 +1113,7 @@ metadata:
     genre.sync: Anime,Fantasy
     label.remove: Ongoing
     studio: Signal.MD
-    critic_rating: 6.4
+    audience_rating: 6.4
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -1137,7 +1137,7 @@ metadata:
           Himouto! Umaru-chan R
         user_rating: 7.3
         label: score
-    critic_rating: 7.2
+    audience_rating: 7.2
   366263:
     title: |-
       Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
@@ -1153,7 +1153,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 8.0
+    audience_rating: 8.0
   388593:
     title: |-
       Horimiya
@@ -1164,7 +1164,7 @@ metadata:
     genre.sync: Anime,Romance,Shounen,School
     label.remove: Ongoing
     studio: CloverWorks
-    critic_rating: 8.2
+    audience_rating: 8.2
   369141:
     title: |-
       Hoshiai no Sora
@@ -1175,7 +1175,7 @@ metadata:
     genre.sync: Anime,Drama,Sports,School
     label.remove: Ongoing
     studio: 8bit
-    critic_rating: 7.6
+    audience_rating: 7.6
   372361:
     title: |-
       Houkago Teibou Nisshi
@@ -1186,7 +1186,7 @@ metadata:
     genre.sync: Anime,Gourmet,Slice of Life,Seinen,CGDCT,Iyashikei,School
     label.remove: Ongoing
     studio: Doga Kobo
-    critic_rating: 7.4
+    audience_rating: 7.4
   331787:
     title: |-
       Houseki no Kuni
@@ -1197,7 +1197,7 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Seinen,Anthropomorphic
     label.remove: Ongoing
     studio: Orange
-    critic_rating: 8.4
+    audience_rating: 8.4
   370377:
     title: |-
       ID: INVADED
@@ -1208,7 +1208,7 @@ metadata:
     genre.sync: Anime,Mystery,Sci-Fi,Suspense,Adult Cast,Detective,Psychological
     label.remove: Ongoing
     studio: NAZ
-    critic_rating: 7.8
+    audience_rating: 7.8
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -1230,7 +1230,7 @@ metadata:
           Ijiranaide, Nagatoro-san 2nd Attack
         user_rating: 7.5
         label: score
-    critic_rating: 7.4
+    audience_rating: 7.4
   255133:
     title: |-
       Inu x Boku SS
@@ -1246,7 +1246,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.4
+    audience_rating: 7.4
   71361:
     title: |-
       Inuyasha
@@ -1257,7 +1257,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Romance,Shounen,Historical,Mythology,Time Travel
     label.remove: Ongoing
     studio: Sunrise
-    critic_rating: 7.9
+    audience_rating: 7.9
   104741:
     title: |-
       Isekai no Seikishi Monogatari
@@ -1268,7 +1268,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Harem,Isekai,Mecha,School
     label.remove: Ongoing
     studio: AIC Spirits
-    critic_rating: 7.8
+    audience_rating: 7.8
   405214:
     title: |-
       Isekai Oji-san
@@ -1279,7 +1279,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Adult Cast,Isekai,Otaku Culture,Parody
     label.remove: Ongoing
     studio: AtelierPontdarc
-    critic_rating: 7.9
+    audience_rating: 7.9
   406592:
     title: |-
       Isekai Yakkyoku
@@ -1290,7 +1290,7 @@ metadata:
     genre.sync: Anime,Fantasy,Isekai,Medical,Reincarnation
     label.remove: Ongoing
     studio: Diomedéa
-    critic_rating: 7.3
+    audience_rating: 7.3
   373679:
     title: |-
       Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
@@ -1312,7 +1312,7 @@ metadata:
           Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2
         user_rating: 7.3
         label: score
-    critic_rating: 7.4
+    audience_rating: 7.4
   402474:
     title: |-
       Jigokuraku
@@ -1323,7 +1323,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen,Gore,Historical
     label: Ongoing
     studio: MAPPA
-    critic_rating: 8.4
+    audience_rating: 8.4
   257756:
     title: |-
       Jormungand
@@ -1334,7 +1334,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Seinen,Organized Crime
     label.remove: Ongoing
     studio: White Fox
-    critic_rating: 7.8
+    audience_rating: 7.8
   377543:
     title: |-
       Jujutsu Kaisen
@@ -1345,7 +1345,7 @@ metadata:
     genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,School
     label.remove: Ongoing
     studio: MAPPA
-    critic_rating: 8.6
+    audience_rating: 8.6
   407520:
     title: |-
       Kage no Jitsuryokusha ni Naritakute!
@@ -1356,7 +1356,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Nexus
-    critic_rating: 8.4
+    audience_rating: 8.4
   354198:
     title: |-
       Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
@@ -1383,7 +1383,7 @@ metadata:
           Kaguya-sama wa Kokurasetai: Ultra Romantic
         user_rating: 9.1
         label: score
-    critic_rating: 8.7
+    audience_rating: 8.7
   422564:
     title: |-
       Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life
@@ -1394,7 +1394,7 @@ metadata:
     genre.sync: Anime,Fantasy
     label.remove: Ongoing
     studio: Encourage Films
-    critic_rating: 7.1
+    audience_rating: 7.1
   376729:
     title: |-
       Kami no Tou: Tower of God
@@ -1405,7 +1405,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery
     label.remove: Ongoing
     studio: Telecom Animation Film
-    critic_rating: 7.6
+    audience_rating: 7.6
   262106:
     title: |-
       Kamisama Hajimemashita
@@ -1429,7 +1429,7 @@ metadata:
           Kamisama Hajimemashita◎
         user_rating: 8.2
         label: score
-    critic_rating: 8.1
+    audience_rating: 8.1
   380477:
     title: |-
       Kamitachi ni Hirowareta Otoko
@@ -1451,7 +1451,7 @@ metadata:
           Kamitachi ni Hirowareta Otoko 2
         user_rating: 6.8
         label: score
-    critic_rating: 6.9
+    audience_rating: 6.9
   132941:
     title: |-
       Katanagatari
@@ -1462,7 +1462,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Romance,Historical,Martial Arts
     label.remove: Ongoing
     studio: White Fox
-    critic_rating: 8.3
+    audience_rating: 8.3
   352853:
     title: |-
       Kaze ga Tsuyoku Fuiteiru
@@ -1473,7 +1473,7 @@ metadata:
     genre.sync: Anime,Drama,Sports,Adult Cast
     label.remove: Ongoing
     studio: Production I.G
-    critic_rating: 8.4
+    audience_rating: 8.4
   390382:
     title: |-
       Kemono Jihen
@@ -1484,7 +1484,7 @@ metadata:
     genre.sync: Anime,Action,Mystery,Supernatural,Shounen,Mythology
     label.remove: Ongoing
     studio: Ajia-do
-    critic_rating: 7.4
+    audience_rating: 7.4
   80675:
     title: |-
       Kidou Senshi Gundam 00
@@ -1506,7 +1506,7 @@ metadata:
           Kidou Senshi Gundam 00 2nd Season
         user_rating: 8.1
         label: score
-    critic_rating: 8.1
+    audience_rating: 8.1
   403849:
     title: |-
       Kidou Senshi Gundam UC
@@ -1517,7 +1517,7 @@ metadata:
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     label.remove: Ongoing
     studio: Sunrise
-    critic_rating: 8.1
+    audience_rating: 8.1
   418364:
     title: |-
       Kidou Senshi Gundam: Suisei no Majo
@@ -1533,7 +1533,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.9
+    audience_rating: 7.9
   299497:
     title: |-
       Kidou Senshi Gundam: Tekketsu no Orphans
@@ -1555,7 +1555,7 @@ metadata:
           Kidou Senshi Gundam: Tekketsu no Orphans 2
         user_rating: 8.2
         label: score
-    critic_rating: 8.1
+    audience_rating: 8.1
   272074:
     title: |-
       Kill la Kill
@@ -1571,7 +1571,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 8.0
+    audience_rating: 8.0
   348545:
     title: |-
       Kimetsu no Yaiba
@@ -1598,7 +1598,7 @@ metadata:
           Kimetsu no Yaiba: Yuukaku-hen
         user_rating: 8.8
         label: score
-    critic_rating: 8.6
+    audience_rating: 8.6
   387027:
     title: |-
       Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
@@ -1609,7 +1609,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,Military
     label.remove: Ongoing
     studio: SILVER LINK.
-    critic_rating: 6.7
+    audience_rating: 6.7
   259635:
     title: |-
       Kingdom
@@ -1641,7 +1641,7 @@ metadata:
           Kingdom 4th Season
         user_rating: 8.8
         label: score
-    critic_rating: 8.4
+    audience_rating: 8.4
   279831:
     title: |-
       Kiseijuu: Sei no Kakuritsu
@@ -1652,7 +1652,7 @@ metadata:
     genre.sync: Anime,Action,Horror,Sci-Fi,Seinen,Gore,Psychological
     label.remove: Ongoing
     studio: Madhouse
-    critic_rating: 8.3
+    audience_rating: 8.3
   318893:
     title: |-
       Kobayashi-san Chi no Maidragon
@@ -1674,7 +1674,7 @@ metadata:
           Kobayashi-san Chi no Maidragon S
         user_rating: 8.3
         label: score
-    critic_rating: 8.1
+    audience_rating: 8.1
   358181:
     title: |-
       Kono Oto Tomare!
@@ -1685,7 +1685,7 @@ metadata:
     genre.sync: Anime,Drama,Romance,Shounen,Music,Performing Arts,School
     label.remove: Ongoing
     studio: Platinum Vision
-    critic_rating: 7.9
+    audience_rating: 7.9
   420657:
     title: |-
       Kono Subarashii Sekai ni Bakuen wo!
@@ -1696,7 +1696,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy
     label: Ongoing
     studio: Drive
-    critic_rating: 8.1
+    audience_rating: 8.1
   303867:
     title: |-
       Kono Subarashii Sekai ni Shukufuku wo!
@@ -1720,7 +1720,7 @@ metadata:
           Kono Subarashii Sekai ni Shukufuku wo! 2
         user_rating: 8.3
         label: score
-    critic_rating: 8.2
+    audience_rating: 8.2
   421514:
     title: |-
       Koori Zokusei Danshi to Cool na Douryou Joshi
@@ -1731,7 +1731,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Adult Cast,Mythology,Workplace
     label.remove: Ongoing
     studio: Zero-G
-    critic_rating: 7.4
+    audience_rating: 7.4
   413515:
     title: |-
       Koukyuu no Karasu
@@ -1742,7 +1742,7 @@ metadata:
     genre.sync: Anime,Fantasy,Mystery,Josei,Historical,Mythology
     label.remove: Ongoing
     studio: Bandai Namco Pictures
-    critic_rating: 7.5
+    audience_rating: 7.5
   305082:
     title: |-
       Koutetsujou no Kabaneri
@@ -1753,7 +1753,7 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Horror,Gore,Historical,Survival
     label.remove: Ongoing
     studio: Wit Studio
-    critic_rating: 7.3
+    audience_rating: 7.3
   409723:
     title: |-
       Kumichou Musume to Sewagakari
@@ -1764,7 +1764,7 @@ metadata:
     genre.sync: Anime,Slice of Life,Childcare,Organized Crime
     label.remove: Ongoing
     studio: feel.
-    critic_rating: 7.8
+    audience_rating: 7.8
   377902:
     title: |-
       Kumo desu ga, Nani ka?
@@ -1775,7 +1775,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Mystery,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Millepensee
-    critic_rating: 7.4
+    audience_rating: 7.4
   416588:
     title: |-
       Kuro no Shoukanshi
@@ -1786,7 +1786,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Satelight
-    critic_rating: 7.1
+    audience_rating: 7.1
   257765:
     title: |-
       Kuroko no Basket
@@ -1813,7 +1813,7 @@ metadata:
           Kuroko no Basket 3rd SEASON
         user_rating: 8.3
         label: score
-    critic_rating: 8.2
+    audience_rating: 8.2
   368565:
     title: |-
       Kyokou Suiri
@@ -1835,7 +1835,7 @@ metadata:
           Kyokou Suiri Season 2
         user_rating: 7.4
         label: score
-    critic_rating: 7.2
+    audience_rating: 7.2
   272697:
     title: |-
       Kyoukai no Kanata
@@ -1851,7 +1851,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.7
+    audience_rating: 7.7
   414057:
     title: |-
       Lycoris Recoil
@@ -1862,7 +1862,7 @@ metadata:
     genre.sync: Anime,Action
     label.remove: Ongoing
     studio: A-1 Pictures
-    critic_rating: 8.2
+    audience_rating: 8.2
   363143:
     title: |-
       Machikado Mazoku
@@ -1873,7 +1873,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,CGDCT,Mahou Shoujo,School
     label.remove: Ongoing
     studio: J.C.Staff
-    critic_rating: 7.7
+    audience_rating: 7.7
   326109:
     title: |-
       Made in Abyss
@@ -1895,7 +1895,7 @@ metadata:
           Made in Abyss: Retsujitsu no Ougonkyou
         user_rating: 8.7
         label: score
-    critic_rating: 8.7
+    audience_rating: 8.7
   262094:
     title: |-
       Magi: The labyrinth of magic
@@ -1917,7 +1917,7 @@ metadata:
           Magi: The kingdom of magic
         user_rating: 8.2
         label: score
-    critic_rating: 8.1
+    audience_rating: 8.1
   278329:
     title: |-
       Mahouka Koukou no Rettousei
@@ -1939,7 +1939,7 @@ metadata:
           Mahouka Koukou no Rettousei: Raihousha-hen
         user_rating: 7.3
         label: score
-    critic_rating: 7.3
+    audience_rating: 7.3
   394013:
     title: |-
       Mahouka Koukou no Yuutousei
@@ -1950,7 +1950,7 @@ metadata:
     genre.sync: Anime,Fantasy,Sci-Fi
     label.remove: Ongoing
     studio: Connect
-    critic_rating: 6.6
+    audience_rating: 6.6
   369144:
     title: |-
       Mairimashita! Iruma-kun
@@ -1977,7 +1977,7 @@ metadata:
           Mairimashita! Iruma-kun 3
         user_rating: 7.8
         label: score
-    critic_rating: 7.9
+    audience_rating: 7.9
   341436:
     title: |-
       Major 2nd
@@ -1999,7 +1999,7 @@ metadata:
           Major 2nd Season 2
         user_rating: 7.5
         label: score
-    critic_rating: 7.4
+    audience_rating: 7.4
   76013:
     title: |-
       Major S1
@@ -2043,7 +2043,7 @@ metadata:
           Major S6
         user_rating: 8.3
         label: score
-    critic_rating: 8.2
+    audience_rating: 8.2
   375927:
     title: |-
       Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
@@ -2065,7 +2065,7 @@ metadata:
           Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II
         user_rating: 7.0
         label: score
-    critic_rating: 7.2
+    audience_rating: 7.2
   397965:
     title: |-
       Mashiro no Oto
@@ -2076,7 +2076,7 @@ metadata:
     genre.sync: Anime,Drama,Shounen,Music,School
     label.remove: Ongoing
     studio: Shin-Ei Animation
-    critic_rating: 7.5
+    audience_rating: 7.5
   421737:
     title: |-
       MASHLE
@@ -2087,7 +2087,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Gag Humor,Parody,School
     label: Ongoing
     studio: A-1 Pictures
-    critic_rating: 0.0
+    audience_rating: 0.0
   307375:
     title: |-
       Mob Psycho 100
@@ -2116,7 +2116,7 @@ metadata:
           Mob Psycho 100 III
         user_rating: 8.7
         label: score
-    critic_rating: 8.7
+    audience_rating: 8.7
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -2132,7 +2132,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 8.4
+    audience_rating: 8.4
   284131:
     title: |-
       Nanatsu no Taizai
@@ -2166,7 +2166,7 @@ metadata:
           Nanatsu no Taizai: Funnu no Shinpan
         user_rating: 6.6
         label: score
-    critic_rating: 7.1
+    audience_rating: 7.1
   309206:
     title: |-
       Nejimaki Seirei Senki: Tenkyou no Alderamin
@@ -2177,7 +2177,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Military
     label.remove: Ongoing
     studio: Madhouse
-    critic_rating: 7.7
+    audience_rating: 7.7
   332771:
     title: |-
       Net-juu no Susume
@@ -2193,7 +2193,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.6
+    audience_rating: 7.6
   240291:
     title: |-
       Nichijou
@@ -2209,7 +2209,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 8.5
+    audience_rating: 8.5
   416998:
     title: |-
       NieR:Automata Ver1.1a
@@ -2220,7 +2220,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Sci-Fi
     label: Ongoing
     studio: A-1 Pictures
-    critic_rating: 7.5
+    audience_rating: 7.5
   415188:
     title: |-
       Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu
@@ -2231,7 +2231,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy
     label.remove: Ongoing
     studio: Geek Toys
-    critic_rating: 6.3
+    audience_rating: 6.3
   275610:
     title: |-
       Noragami
@@ -2255,7 +2255,7 @@ metadata:
           Noragami ARAGOTO
         user_rating: 8.2
         label: score
-    critic_rating: 8.1
+    audience_rating: 8.1
   81797:
     title: |-
       ONE PIECE
@@ -2266,7 +2266,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label: Ongoing
     studio: Toei Animation
-    critic_rating: 8.7
+    audience_rating: 8.7
   293088:
     title: |-
       One Punch Man
@@ -2290,7 +2290,7 @@ metadata:
           One Punch Man 2
         user_rating: 7.5
         label: score
-    critic_rating: 8.0
+    audience_rating: 8.0
   81178:
     title: |-
       Ookami to Koushinryou
@@ -2314,7 +2314,7 @@ metadata:
           Ookami to Koushinryou II
         user_rating: 8.3
         label: score
-    critic_rating: 8.2
+    audience_rating: 8.2
   414908:
     title: |-
       Ooyukiumi no Kaina
@@ -2325,7 +2325,7 @@ metadata:
     genre.sync: Anime,Fantasy,Survival
     label.remove: Ongoing
     studio: Polygon Pictures
-    critic_rating: 6.7
+    audience_rating: 6.7
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -2336,7 +2336,7 @@ metadata:
     genre.sync: Anime,Fantasy,Isekai,Mecha,Reincarnation,School
     label.remove: Ongoing
     studio: ENGI
-    critic_rating: 7.3
+    audience_rating: 7.3
   414221:
     title: |-
       Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
@@ -2347,7 +2347,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,School
     label.remove: Ongoing
     studio: Project No.9
-    critic_rating: 7.9
+    audience_rating: 7.9
   391625:
     title: |-
       Ousama Ranking
@@ -2358,7 +2358,7 @@ metadata:
     genre.sync: Anime,Adventure,Fantasy
     label.remove: Ongoing
     studio: Wit Studio
-    critic_rating: 8.6
+    audience_rating: 8.6
   294002:
     title: |-
       Overlord
@@ -2392,7 +2392,7 @@ metadata:
           Overlord IV
         user_rating: 8.1
         label: score
-    critic_rating: 7.9
+    audience_rating: 7.9
   289906:
     title: |-
       Owari no Seraph
@@ -2403,7 +2403,7 @@ metadata:
     genre.sync: Anime,Action,Drama,Supernatural,Shounen,Military,Vampire
     label.remove: Ongoing
     studio: Wit Studio
-    critic_rating: 7.5
+    audience_rating: 7.5
   412580:
     title: |-
       Paripi Koumei
@@ -2414,7 +2414,7 @@ metadata:
     genre.sync: Anime,Comedy,Adult Cast,Music
     label.remove: Ongoing
     studio: P.A. Works
-    critic_rating: 8.2
+    audience_rating: 8.2
   291627:
     title: |-
       Plastic Memories
@@ -2425,7 +2425,7 @@ metadata:
     genre.sync: Anime,Drama,Romance,Sci-Fi
     label.remove: Ongoing
     studio: Doga Kobo
-    critic_rating: 7.9
+    audience_rating: 7.9
   326270:
     title: |-
       Quanzhi Gaoshou
@@ -2449,7 +2449,7 @@ metadata:
           Quanzhi Gaoshou 2
         user_rating: 7.9
         label: score
-    critic_rating: 7.9
+    audience_rating: 7.9
   299506:
     title: |-
       Rakudai Kishi no Cavalry
@@ -2460,7 +2460,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,Ecchi,School
     label.remove: Ongoing
     studio: SILVER LINK.
-    critic_rating: 7.4
+    audience_rating: 7.4
   305089:
     title: |-
       Re:Zero kara Hajimeru Isekai Seikatsu
@@ -2484,7 +2484,7 @@ metadata:
           Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
         user_rating: 8.4
         label: score
-    critic_rating: 8.3
+    audience_rating: 8.3
   299508:
     title: |-
       ReLIFE
@@ -2500,7 +2500,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 8.0
+    audience_rating: 8.0
   423787:
     title: |-
       Romantic Killer
@@ -2511,7 +2511,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Supernatural,Shounen,Parody,Reverse Harem
     label.remove: Ongoing
     studio: domerica
-    critic_rating: 8.1
+    audience_rating: 8.1
   398387:
     title: |-
       Sabikui Bisco
@@ -2522,7 +2522,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Sci-Fi
     label.remove: Ongoing
     studio: OZ
-    critic_rating: 7.2
+    audience_rating: 7.2
   313435:
     title: |-
       Saiki Kusuo no Ψ-nan
@@ -2546,7 +2546,7 @@ metadata:
           Saiki Kusuo no Ψ-nan 2
         user_rating: 8.4
         label: score
-    critic_rating: 8.4
+    audience_rating: 8.4
   415378:
     title: |-
       Saikyou Onmyouji no Isekai Tenseiki
@@ -2557,7 +2557,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Studio Blanc.
-    critic_rating: 7.2
+    audience_rating: 7.2
   262114:
     title: |-
       Sakurasou no Pet na Kanojo
@@ -2568,7 +2568,7 @@ metadata:
     genre.sync: Anime,Drama,Romance,School,Visual Arts
     label.remove: Ongoing
     studio: J.C.Staff
-    critic_rating: 8.1
+    audience_rating: 8.1
   257518:
     title: |-
       Sankarea
@@ -2584,7 +2584,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.3
+    audience_rating: 7.3
   397831:
     title: |-
       Seijo no Maryoku wa Bannou desu
@@ -2595,7 +2595,7 @@ metadata:
     genre.sync: Anime,Fantasy,Romance,Adult Cast,Isekai,Medical
     label.remove: Ongoing
     studio: Diomedéa
-    critic_rating: 7.3
+    audience_rating: 7.3
   173271:
     title: |-
       Seitokai Yakuindomo
@@ -2619,7 +2619,7 @@ metadata:
           Seitokai Yakuindomo＊
         user_rating: 7.7
         label: score
-    critic_rating: 7.7
+    audience_rating: 7.7
   398193:
     title: |-
       Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
@@ -2630,7 +2630,7 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Romance,Isekai,Reincarnation
     label.remove: Ongoing
     studio: SILVER LINK.
-    critic_rating: 7.4
+    audience_rating: 7.4
   396876:
     title: |-
       Shadows House
@@ -2652,7 +2652,7 @@ metadata:
           Shadows House 2nd Season
         user_rating: 8.0
         label: score
-    critic_rating: 7.9
+    audience_rating: 7.9
   383837:
     title: |-
       SHAMAN KING (2021)
@@ -2663,7 +2663,7 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Supernatural,Shounen,Super Power
     label.remove: Ongoing
     studio: Bridge
-    critic_rating: 6.9
+    audience_rating: 6.9
   279830:
     title: |-
       Shigatsu wa Kimi no Uso
@@ -2679,7 +2679,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 8.6
+    audience_rating: 8.6
   267440:
     title: |-
       Shingeki no Kyojin
@@ -2711,7 +2711,7 @@ metadata:
           Shingeki no Kyojin: The Final Season
         user_rating: 8.8
         label: score
-    critic_rating: 8.6
+    audience_rating: 8.6
   284564:
     title: |-
       SHIROBAKO
@@ -2722,7 +2722,7 @@ metadata:
     genre.sync: Anime,Award Winning,Comedy,Drama,Adult Cast,Otaku Culture,Workplace
     label.remove: Ongoing
     studio: P.A. Works
-    critic_rating: 8.3
+    audience_rating: 8.3
   402640:
     title: |-
       Shokei Shoujo no Virgin Road
@@ -2733,7 +2733,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai
     label.remove: Ongoing
     studio: J.C.Staff
-    critic_rating: 6.8
+    audience_rating: 6.8
   332983:
     title: |-
       Shoujo Shuumatsu Ryokou
@@ -2744,7 +2744,7 @@ metadata:
     genre.sync: Anime,Adventure,Mystery,Sci-Fi,Slice of Life,Iyashikei
     label.remove: Ongoing
     studio: White Fox
-    critic_rating: 8.2
+    audience_rating: 8.2
   304316:
     title: |-
       Shouwa Genroku Rakugo Shinjuu
@@ -2768,7 +2768,7 @@ metadata:
           Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
         user_rating: 8.7
         label: score
-    critic_rating: 8.6
+    audience_rating: 8.6
   278154:
     title: |-
       Sidonia no Kishi
@@ -2790,7 +2790,7 @@ metadata:
           Sidonia no Kishi: Daikyuu Wakusei Seneki
         user_rating: 7.7
         label: score
-    critic_rating: 7.7
+    audience_rating: 7.7
   72491:
     title: |-
       SLAM DUNK
@@ -2801,7 +2801,7 @@ metadata:
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
     studio: Toei Animation
-    critic_rating: 8.5
+    audience_rating: 8.5
   401233:
     title: |-
       Sono Bisque Doll wa Koi wo Suru
@@ -2812,7 +2812,7 @@ metadata:
     genre.sync: Anime,Romance,Seinen,Otaku Culture,School
     label.remove: Ongoing
     studio: CloverWorks
-    critic_rating: 8.2
+    audience_rating: 8.2
   405920:
     title: |-
       SPY×FAMILY
@@ -2823,7 +2823,7 @@ metadata:
     genre.sync: Anime,Action,Award Winning,Comedy,Shounen,Childcare
     label.remove: Ongoing
     studio: Wit Studio
-    critic_rating: 8.6
+    audience_rating: 8.6
   244061:
     title: |-
       Steins;Gate
@@ -2839,7 +2839,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 9.1
+    audience_rating: 9.1
   339268:
     title: |-
       Steins;Gate 0
@@ -2855,7 +2855,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 8.5
+    audience_rating: 8.5
   267432:
     title: |-
       Suisei no Gargantia
@@ -2871,7 +2871,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.5
+    audience_rating: 7.5
   407306:
     title: |-
       Summer Time Render
@@ -2882,7 +2882,7 @@ metadata:
     genre.sync: Anime,Mystery,Supernatural,Suspense,Shounen,Time Travel
     label.remove: Ongoing
     studio: OLM
-    critic_rating: 8.5
+    audience_rating: 8.5
   259640:
     title: |-
       Sword Art Online
@@ -2916,7 +2916,7 @@ metadata:
           Sword Art Online: Alicization - War of Underworld
         user_rating: 7.6
         label: score
-    critic_rating: 7.3
+    audience_rating: 7.3
   305104:
     title: |-
       Tanaka-kun wa Itsumo Kedaruge
@@ -2927,7 +2927,7 @@ metadata:
     genre.sync: Anime,Slice of Life,Iyashikei,School
     label.remove: Ongoing
     studio: SILVER LINK.
-    critic_rating: 7.8
+    audience_rating: 7.8
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -2949,7 +2949,7 @@ metadata:
           Tate no Yuusha no Nariagari Season 2
         user_rating: 6.6
         label: score
-    critic_rating: 7.3
+    audience_rating: 7.3
   400961:
     title: |-
       Tensai Ouji no Akaji Kokka Saisei Jutsu
@@ -2960,7 +2960,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy
     label.remove: Ongoing
     studio: Yokohama Animation Lab
-    critic_rating: 7.4
+    audience_rating: 7.4
   423362:
     title: |-
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
@@ -2971,7 +2971,7 @@ metadata:
     genre.sync: Anime,Fantasy,Girls Love,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Diomedéa
-    critic_rating: 7.6
+    audience_rating: 7.6
   410378:
     title: |-
       Tensei Shitara Ken Deshita
@@ -2982,7 +2982,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: C2C
-    critic_rating: 7.6
+    audience_rating: 7.6
   352408:
     title: |-
       Tensei Shitara Slime Datta Ken
@@ -3006,7 +3006,7 @@ metadata:
           Tensei Shitara Slime Datta Ken 2nd Season
         user_rating: 8.4
         label: score
-    critic_rating: 8.2
+    audience_rating: 8.2
   385374:
     title: |-
       Tensei Shitara Slime Datta Ken: Tensura Nikki
@@ -3017,7 +3017,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Shounen,Isekai,Reincarnation
     label.remove: Ongoing
     studio: 8bit
-    critic_rating: 7.6
+    audience_rating: 7.6
   378556:
     title: |-
       THE GOD OF HIGH SCHOOL
@@ -3028,7 +3028,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Martial Arts,Super Power
     label.remove: Ongoing
     studio: MAPPA
-    critic_rating: 7.1
+    audience_rating: 7.1
   281249:
     title: |-
       Tokyo Ghoul
@@ -3055,7 +3055,7 @@ metadata:
           Tokyo Ghoul:re
         user_rating: 6.4
         label: score
-    critic_rating: 7.1
+    audience_rating: 7.1
   272043:
     title: |-
       Tokyo Ravens
@@ -3066,7 +3066,7 @@ metadata:
     genre.sync: Anime,Action,Romance,Supernatural,School
     label.remove: Ongoing
     studio: 8bit
-    critic_rating: 7.4
+    audience_rating: 7.4
   393478:
     title: |-
       Tokyo Revengers
@@ -3088,7 +3088,7 @@ metadata:
           Tokyo Revengers: Seiya Kessen-hen
         user_rating: 7.7
         label: score
-    critic_rating: 7.8
+    audience_rating: 7.8
   421994:
     title: |-
       Tomo-chan wa Onnanoko!
@@ -3099,7 +3099,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,School
     label.remove: Ongoing
     studio: Lay-duce
-    critic_rating: 7.9
+    audience_rating: 7.9
   262107:
     title: |-
       Tonari no Kaibutsu-kun
@@ -3110,7 +3110,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Shoujo,School
     label.remove: Ongoing
     studio: Brain's Base
-    critic_rating: 7.5
+    audience_rating: 7.5
   426572:
     title: |-
       Tondemo Skill de Isekai Hourou Meshi
@@ -3121,7 +3121,7 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Gourmet,Isekai
     label.remove: Ongoing
     studio: MAPPA
-    critic_rating: 7.7
+    audience_rating: 7.7
   385077:
     title: |-
       Tonikaku Kawaii
@@ -3137,7 +3137,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.9
+    audience_rating: 7.9
   83277:
     title: |-
       Toradora!
@@ -3148,7 +3148,7 @@ metadata:
     genre.sync: Anime,Drama,Romance,Love Polygon,School
     label.remove: Ongoing
     studio: J.C.Staff
-    critic_rating: 8.1
+    audience_rating: 8.1
   77680:
     title: |-
       TRIGUN
@@ -3159,7 +3159,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
     label.remove: Ongoing
     studio: Madhouse
-    critic_rating: 8.2
+    audience_rating: 8.2
   421378:
     title: |-
       TRIGUN STAMPEDE
@@ -3170,7 +3170,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
     label.remove: Ongoing
     studio: Orange
-    critic_rating: 7.8
+    audience_rating: 7.8
   325197:
     title: |-
       Tsuki ga Kirei
@@ -3181,7 +3181,7 @@ metadata:
     genre.sync: Anime,Romance,School
     label.remove: Ongoing
     studio: feel.
-    critic_rating: 8.1
+    audience_rating: 8.1
   422405:
     title: |-
       Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
@@ -3192,7 +3192,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Video Game
     label.remove: Ongoing
     studio: Tezuka Productions
-    critic_rating: 7.2
+    audience_rating: 7.2
   352796:
     title: |-
       Tsurune: Kazemai Koukou Kyuudou-bu
@@ -3216,7 +3216,7 @@ metadata:
           Tsurune: Tsunagari no Issha
         user_rating: 8.1
         label: score
-    critic_rating: 7.9
+    audience_rating: 7.9
   256705:
     title: |-
       Uchuu Kyoudai
@@ -3227,7 +3227,7 @@ metadata:
     genre.sync: Anime,Comedy,Sci-Fi,Seinen,Adult Cast,Space,Workplace
     label.remove: Ongoing
     studio: A-1 Pictures
-    critic_rating: 8.5
+    audience_rating: 8.5
   315094:
     title: |-
       Udon no Kuni no Kiniro Kemari
@@ -3238,7 +3238,7 @@ metadata:
     genre.sync: Anime,Slice of Life,Supernatural,Seinen,Anthropomorphic,Childcare,Iyashikei
     label.remove: Ongoing
     studio: LIDENFILMS
-    critic_rating: 7.8
+    audience_rating: 7.8
   249872:
     title: |-
       Usagi Drop
@@ -3254,7 +3254,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 8.4
+    audience_rating: 8.4
   381406:
     title: |-
       Uzaki-chan wa Asobitai!
@@ -3276,7 +3276,7 @@ metadata:
           Uzaki-chan wa Asobitai! ω
         user_rating: 7.3
         label: score
-    critic_rating: 7.2
+    audience_rating: 7.2
   400133:
     title: |-
       Vanitas no Carte
@@ -3287,7 +3287,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Mystery,Shounen,Historical,Vampire
     label.remove: Ongoing
     studio: Bones
-    critic_rating: 7.9
+    audience_rating: 7.9
   359274:
     title: |-
       VINLAND SAGA
@@ -3309,7 +3309,7 @@ metadata:
           VINLAND SAGA SEASON 2
         user_rating: 8.7
         label: score
-    critic_rating: 8.7
+    audience_rating: 8.7
   330139:
     title: |-
       Violet Evergarden
@@ -3320,7 +3320,7 @@ metadata:
     genre.sync: Anime,Drama,Fantasy
     label.remove: Ongoing
     studio: Kyoto Animation
-    critic_rating: 8.7
+    audience_rating: 8.7
   397774:
     title: |-
       Vivy: Fluorite Eye’s Song
@@ -3331,7 +3331,7 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Suspense,Music,Time Travel
     label.remove: Ongoing
     studio: Wit Studio
-    critic_rating: 8.4
+    audience_rating: 8.4
   79060:
     title: |-
       Wolf's Rain
@@ -3347,7 +3347,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.8
+    audience_rating: 7.8
   390028:
     title: |-
       Wonder Egg Priority
@@ -3358,7 +3358,7 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Psychological
     label.remove: Ongoing
     studio: CloverWorks
-    critic_rating: 7.6
+    audience_rating: 7.6
   145211:
     title: |-
       Working!!
@@ -3385,7 +3385,7 @@ metadata:
           Working!!!
         user_rating: 8.0
         label: score
-    critic_rating: 7.8
+    audience_rating: 7.8
   283934:
     title: |-
       World Trigger
@@ -3412,7 +3412,7 @@ metadata:
           World Trigger 3rd Season
         user_rating: 8.3
         label: score
-    critic_rating: 8.0
+    audience_rating: 8.0
   341425:
     title: |-
       Wotaku ni Koi wa Muzukashii
@@ -3428,7 +3428,7 @@ metadata:
         label.remove: score
       1:
         label.remove: score
-    critic_rating: 7.9
+    audience_rating: 7.9
   376751:
     title: |-
       Xian Wang De Richang Shenghuo
@@ -3455,7 +3455,7 @@ metadata:
           Xian Wang De Richang Shenghuo 3
         user_rating: 7.3
         label: score
-    critic_rating: 7.3
+    audience_rating: 7.3
   348002:
     title: |-
       Yakusoku no Neverland
@@ -3477,7 +3477,7 @@ metadata:
           Yakusoku no Neverland 2
         user_rating: 5.3
         label: score
-    critic_rating: 6.9
+    audience_rating: 6.9
   313488:
     title: |-
       Yi Ren Zhi Xia
@@ -3501,7 +3501,7 @@ metadata:
           Yi Ren Zhi Xia 2
         user_rating: 7.4
         label: score
-    critic_rating: 3.5
+    audience_rating: 3.5
   412374:
     title: |-
       Yofukashi no Uta
@@ -3512,7 +3512,7 @@ metadata:
     genre.sync: Anime,Romance,Supernatural,Shounen,Vampire
     label.remove: Ongoing
     studio: LIDENFILMS
-    critic_rating: 8.0
+    audience_rating: 8.0
   272309:
     title: |-
       Yowamushi Pedal
@@ -3523,7 +3523,7 @@ metadata:
     genre.sync: Anime,Sports,Shounen,Racing
     label.remove: Ongoing
     studio: TMS Entertainment
-    critic_rating: 7.9
+    audience_rating: 7.9
   330692:
     title: |-
       Yuru Camp△
@@ -3547,7 +3547,7 @@ metadata:
           Yuru Camp△ SEASON 2
         user_rating: 8.5
         label: score
-    critic_rating: 8.4
+    audience_rating: 8.4
   385542:
     title: |-
       Yuukoku no Moriarty
@@ -3558,7 +3558,7 @@ metadata:
     genre.sync: Anime,Mystery,Suspense,Shounen,Adult Cast,Historical,Psychological
     label.remove: Ongoing
     studio: Production I.G
-    critic_rating: 8.2
+    audience_rating: 8.2
   262109:
     title: |-
       Zetsuen no Tempest
@@ -3569,4 +3569,4 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Shounen,Psychological
     label.remove: Ongoing
     studio: Bones
-    critic_rating: 7.9
+    audience_rating: 7.9
