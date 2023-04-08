@@ -2085,7 +2085,7 @@ metadata:
     original_title: |-
       Mashle: Magic and Muscles
     genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Gag Humor,Parody,School
-    label.remove: Ongoing
+    label: Ongoing
     studio: A-1 Pictures
     critic_rating: 0.0
   307375:
@@ -3130,7 +3130,7 @@ metadata:
     original_title: |-
       TONIKAWA: Over The Moon For You
     genre.sync: Anime,Comedy,Romance,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Seven Arcs
     seasons:
       0:
