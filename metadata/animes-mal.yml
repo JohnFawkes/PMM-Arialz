@@ -1198,6 +1198,17 @@ metadata:
     label.remove: Ongoing
     studio: Orange
     critic_rating: 8.4
+  423653:
+    title: |-
+      Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
+    sort_title: |-
+      Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
+    original_title: |-
+      I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too
+    genre.sync: Anime,Action,Adventure,Fantasy,Isekai,School
+    label: Ongoing
+    studio: Millepensee
+    critic_rating: 7.5
   370377:
     title: |-
       ID: INVADED
@@ -1280,6 +1291,17 @@ metadata:
     label.remove: Ongoing
     studio: AtelierPontdarc
     critic_rating: 7.9
+  411893:
+    title: |-
+      Isekai Shoukan wa Nidome desu
+    sort_title: |-
+      Isekai Shoukan wa Nidome desu
+    original_title: |-
+      Summoned to Another World for a Second Time
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Romance,Harem,Isekai
+    label: Ongoing
+    studio: Studio Elle
+    critic_rating: 0.0
   406592:
     title: |-
       Isekai Yakkyoku
@@ -2337,6 +2359,17 @@ metadata:
     label.remove: Ongoing
     studio: ENGI
     critic_rating: 7.3
+  419490:
+    title: |-
+      Otonari ni Ginga
+    sort_title: |-
+      Otonari ni Ginga
+    original_title: |-
+      A Galaxy Next Door
+    genre.sync: Anime,Comedy,Romance,Supernatural,Seinen,Childcare
+    label: Ongoing
+    studio: Asahi Production
+    critic_rating: 0.0
   414221:
     title: |-
       Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
@@ -2950,6 +2983,17 @@ metadata:
         user_rating: 6.6
         label: score
     critic_rating: 7.3
+  426165:
+    title: |-
+      Tengoku Daimakyou
+    sort_title: |-
+      Tengoku Daimakyou
+    original_title: |-
+      Heavenly Delusion
+    genre.sync: Anime,Adventure,Sci-Fi,Seinen
+    label: Ongoing
+    studio: Production I.G
+    critic_rating: 8.1
   400961:
     title: |-
       Tensai Ouji no Akaji Kokka Saisei Jutsu
