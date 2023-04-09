@@ -1198,17 +1198,6 @@ metadata:
     label.remove: Ongoing
     studio: Orange
     critic_rating: 8.4
-  423653:
-    title: |-
-      Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
-    sort_title: |-
-      Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
-    original_title: |-
-      I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too
-    genre.sync: Anime,Action,Adventure,Fantasy,Isekai,School
-    label: Ongoing
-    studio: Millepensee
-    critic_rating: 7.5
   370377:
     title: |-
       ID: INVADED
@@ -1269,6 +1258,17 @@ metadata:
     label.remove: Ongoing
     studio: Sunrise
     critic_rating: 7.9
+  423653:
+    title: |-
+      Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
+    sort_title: |-
+      Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
+    original_title: |-
+      I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too
+    genre.sync: Anime,Action,Adventure,Fantasy,Isekai,School
+    label: Ongoing
+    studio: Millepensee
+    critic_rating: 7.5
   104741:
     title: |-
       Isekai no Seikishi Monogatari
