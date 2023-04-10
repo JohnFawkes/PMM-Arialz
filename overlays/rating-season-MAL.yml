@@ -47,6 +47,8 @@ overlays:
     plex_search:
       all:
         season_label: score
+        user_rating.gte: 0.1
+        user_rating.lte: 10
 
 
   user_rating:
@@ -56,3 +58,5 @@ overlays:
     plex_search:
       all:
         season_label: score
+        user_rating.gte: 0.1
+        user_rating.lte: 10
