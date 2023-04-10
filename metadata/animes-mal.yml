@@ -48,7 +48,7 @@ metadata:
       March Comes In Like a Lion
     genre.sync: Anime,Drama,Slice of Life,Seinen,Childcare,Iyashikei,Strategy Game
     label.remove: Ongoing
-    studio: Shaft
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -70,7 +70,7 @@ metadata:
       86 Eighty-Six
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Madhouse
     critic_rating: 8.3
   319983:
     title: |-
@@ -92,7 +92,7 @@ metadata:
       Akiba Maid War
     genre.sync: Anime,Action,Comedy
     label.remove: Ongoing
-    studio: P.A. Works
+    studio: Madhouse
     critic_rating: 7.7
   411821:
     title: |-
@@ -103,7 +103,7 @@ metadata:
       I'm the Villainess, So I'm Taming the Final Boss
     genre.sync: Anime,Comedy,Fantasy,Romance,Shoujo,Isekai
     label.remove: Ongoing
-    studio: Maho Film
+    studio: Madhouse
     critic_rating: 7.2
   279827:
     title: |-
@@ -114,7 +114,7 @@ metadata:
       Aldnoah.Zero
     genre.sync: Anime,Action,Sci-Fi,Mecha,Military
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Madhouse
     critic_rating: 7.4
   348706:
     title: |-
@@ -125,7 +125,7 @@ metadata:
       Angolmois: Record of Mongol Invasion
     genre.sync: Anime,Action,Drama,Historical,Military,Samurai
     label.remove: Ongoing
-    studio: NAZ
+    studio: Madhouse
     critic_rating: 7.1
   248035:
     title: |-
@@ -136,7 +136,7 @@ metadata:
       Blue Exorcist
     genre.sync: Anime,Action,Fantasy,Shounen,Mythology,School
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -160,7 +160,7 @@ metadata:
       Aoashi
     genre.sync: Anime,Sports,Seinen,Team Sports
     label.remove: Ongoing
-    studio: Production I.G
+    studio: Madhouse
     critic_rating: 8.2
   411800:
     title: |-
@@ -171,7 +171,7 @@ metadata:
       Arknights Animation: Prelude to Dawn
     genre.sync: Anime,Action,Fantasy
     label.remove: Ongoing
-    studio: Yostar Pictures
+    studio: Madhouse
     critic_rating: 7.2
   291630:
     title: |-
@@ -182,7 +182,7 @@ metadata:
       The Heroic Legend of Arslan
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Shounen,Historical,Military
     label.remove: Ongoing
-    studio: SANZIGEN
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -204,7 +204,7 @@ metadata:
       Azumanga Daioh: The Animation
     genre.sync: Anime,Comedy,Slice of Life,CGDCT,Gag Humor,School
     label.remove: Ongoing
-    studio: J.C.Staff
+    studio: Madhouse
     critic_rating: 8.0
   278152:
     title: |-
@@ -215,7 +215,7 @@ metadata:
       Baby Steps
     genre.sync: Anime,Sports,Shounen,School
     label.remove: Ongoing
-    studio: Pierrot
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -237,7 +237,7 @@ metadata:
       Bakuman.
     genre.sync: Anime,Comedy,Drama,Romance,Shounen,Otaku Culture
     label.remove: Ongoing
-    studio: J.C.Staff
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -264,7 +264,7 @@ metadata:
       Barakamon
     genre.sync: Anime,Slice of Life,Childcare,Iyashikei,Visual Arts
     label.remove: Ongoing
-    studio: Kinema Citrus
+    studio: Madhouse
     critic_rating: 8.4
   361013:
     title: |-
@@ -275,7 +275,7 @@ metadata:
       BEASTARS
     genre.sync: Anime,Drama,Slice of Life,Shounen,Anthropomorphic,Psychological,School
     label.remove: Ongoing
-    studio: Orange
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -297,7 +297,7 @@ metadata:
       Beelzebub
     genre.sync: Anime,Action,Comedy,Supernatural,Shounen,Childcare,Delinquents,Mythology,School
     label.remove: Ongoing
-    studio: Pierrot Plus
+    studio: Madhouse
     critic_rating: 7.9
   414845:
     title: |-
@@ -308,7 +308,7 @@ metadata:
       Handyman Saitou in Another World
     genre.sync: Anime,Adventure,Comedy,Fantasy,Adult Cast,Isekai
     label.remove: Ongoing
-    studio: C2C
+    studio: Madhouse
     critic_rating: 7.5
   331753:
     title: |-
@@ -319,7 +319,7 @@ metadata:
       Black Clover
     genre.sync: Anime,Action,Comedy,Fantasy,Shounen
     label.remove: Ongoing
-    studio: Pierrot
+    studio: Madhouse
     critic_rating: 8.1
   74796:
     title: |-
@@ -330,7 +330,7 @@ metadata:
       Bleach
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
-    studio: Pierrot
+    studio: Madhouse
     critic_rating: 7.9
   408629:
     title: |-
@@ -341,7 +341,7 @@ metadata:
       Blue Lock
     genre.sync: Anime,Sports,Shounen,Team Sports
     label.remove: Ongoing
-    studio: 8bit
+    studio: Madhouse
     critic_rating: 8.4
   413522:
     title: |-
@@ -352,7 +352,7 @@ metadata:
       Bocchi the Rock!
     genre.sync: Anime,Comedy,CGDCT,Music
     label.remove: Ongoing
-    studio: CloverWorks
+    studio: Madhouse
     critic_rating: 8.9
   303071:
     title: |-
@@ -363,7 +363,7 @@ metadata:
       ERASED
     genre.sync: Anime,Mystery,Supernatural,Suspense,Seinen,Psychological,Time Travel
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Madhouse
     critic_rating: 8.3
   305074:
     title: |-
@@ -374,7 +374,7 @@ metadata:
       My Hero Academia
     genre.sync: Anime,Action,Shounen,School,Super Power
     label.remove: Ongoing
-    studio: Bones
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -416,7 +416,7 @@ metadata:
       Buddy Daddies
     genre.sync: Anime,Action,Comedy,Childcare,Organized Crime
     label.remove: Ongoing
-    studio: P.A. Works
+    studio: Madhouse
     critic_rating: 8.2
   305075:
     title: |-
@@ -427,7 +427,7 @@ metadata:
       Bungo Stray Dogs
     genre.sync: Anime,Action,Mystery,Supernatural,Seinen,Adult Cast,Organized Crime,Super Power
     label.remove: Ongoing
-    studio: Bones
+    studio: Madhouse
     critic_rating: 7.8
   83316:
     title: |-
@@ -449,7 +449,7 @@ metadata:
       Chainsaw Man
     genre.sync: Anime,Action,Fantasy,Shounen,Gore
     label.remove: Ongoing
-    studio: MAPPA
+    studio: Madhouse
     critic_rating: 8.6
   289679:
     title: |-
@@ -460,7 +460,7 @@ metadata:
       Charlotte
     genre.sync: Anime,Drama,School,Super Power
     label.remove: Ongoing
-    studio: P.A. Works
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -505,7 +505,7 @@ metadata:
       The Orbital Children
     genre.sync: Anime,Adventure,Sci-Fi,Space,Survival
     label.remove: Ongoing
-    studio: Production +h.
+    studio: Madhouse
     critic_rating: 6.9
   261862:
     title: |-
@@ -516,7 +516,7 @@ metadata:
       Love, Chunibyo & Other Delusions!
     genre.sync: Anime,Comedy,Romance,School
     label.remove: Ongoing
-    studio: Kyoto Animation
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -551,7 +551,7 @@ metadata:
       Code Geass: Lelouch of the Rebellion
     genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Mecha,Military,School,Super Power
     label.remove: Ongoing
-    studio: Sunrise
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -573,7 +573,7 @@ metadata:
       Cyberpunk: Edgerunners
     genre.sync: Anime,Action,Sci-Fi,Gore,Psychological
     label.remove: Ongoing
-    studio: Trigger
+    studio: Madhouse
     critic_rating: 8.6
   79635:
     title: |-
@@ -584,7 +584,7 @@ metadata:
       D.Gray-man
     genre.sync: Anime,Action,Adventure,Comedy,Shounen,Mythology,Super Power
     label.remove: Ongoing
-    studio: TMS Entertainment
+    studio: Madhouse
     critic_rating: 8.0
   312878:
     title: |-
@@ -595,7 +595,7 @@ metadata:
       D.Gray-man HALLOW
     genre.sync: Anime,Action,Adventure,Shounen,Mythology,Super Power
     label.remove: Ongoing
-    studio: TMS Entertainment
+    studio: Madhouse
     critic_rating: 7.7
   80042:
     title: |-
@@ -606,7 +606,7 @@ metadata:
       Darker than Black
     genre.sync: Anime,Action,Mystery,Sci-Fi,Super Power
     label.remove: Ongoing
-    studio: Bones
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -630,7 +630,7 @@ metadata:
       Deca-Dence
     genre.sync: Anime,Action,Adventure,Sci-Fi
     label.remove: Ongoing
-    studio: Nut
+    studio: Madhouse
     critic_rating: 7.4
   273005:
     title: |-
@@ -641,7 +641,7 @@ metadata:
       Ace of Diamond
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
-    studio: Production I.G
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -670,7 +670,7 @@ metadata:
       Domestic Girlfriend
     genre.sync: Anime,Drama,Romance,Shounen,Love Polygon,School
     label.remove: Ongoing
-    studio: Diomedéa
+    studio: Madhouse
     critic_rating: 6.7
   370761:
     title: |-
@@ -681,7 +681,7 @@ metadata:
       Dorohedoro
     genre.sync: Anime,Action,Comedy,Fantasy,Horror,Seinen,Gore
     label.remove: Ongoing
-    studio: MAPPA
+    studio: Madhouse
     critic_rating: 8.1
   355774:
     title: |-
@@ -692,7 +692,7 @@ metadata:
       Dr. Stone
     genre.sync: Anime,Adventure,Comedy,Sci-Fi,Shounen,Survival,Time Travel
     label: Ongoing
-    studio: TMS Entertainment
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -721,7 +721,7 @@ metadata:
       Is It Wrong to Try to Pick Up Girls in a Dungeon?
     genre.sync: Anime,Action,Adventure,Fantasy
     label.remove: Ongoing
-    studio: J.C.Staff
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -755,7 +755,7 @@ metadata:
       Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀
     genre.sync: Anime,Action,Fantasy,Reincarnation
     label.remove: Ongoing
-    studio: Studio Comet
+    studio: Madhouse
     critic_rating: 6.6
   355480:
     title: |-
@@ -766,7 +766,7 @@ metadata:
       Fire Force
     genre.sync: Anime,Action,Supernatural,Shounen
     label.remove: Ongoing
-    studio: David Production
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -788,7 +788,7 @@ metadata:
       Fate/stay night [Unlimited Blade Works]
     genre.sync: Anime,Action,Fantasy,Supernatural
     label.remove: Ongoing
-    studio: ufotable
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -804,7 +804,7 @@ metadata:
       To Your Eternity
     genre.sync: Anime,Adventure,Drama,Supernatural,Shounen
     label.remove: Ongoing
-    studio: Brain's Base
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -826,7 +826,7 @@ metadata:
       A Galaxy Next Door
     genre.sync: Anime,Comedy,Romance,Supernatural,Seinen,Childcare
     label: Ongoing
-    studio: Asahi Production
+    studio: Madhouse
     critic_rating: 7.3
   79178:
     title: |-
@@ -837,7 +837,7 @@ metadata:
       Gankutsuou: The Count of Monte Cristo
     genre.sync: Anime,Award Winning,Drama,Mystery,Sci-Fi,Supernatural,Suspense
     label.remove: Ongoing
-    studio: Gonzo
+    studio: Madhouse
     critic_rating: 8.1
   279804:
     title: |-
@@ -848,7 +848,7 @@ metadata:
       Monthly Girls' Nozaki-kun
     genre.sync: Anime,Comedy,Romance,Otaku Culture,School
     label.remove: Ongoing
-    studio: Doga Kobo
+    studio: Madhouse
     critic_rating: 7.8
   389422:
     title: |-
@@ -859,7 +859,7 @@ metadata:
       How a Realist Hero Rebuilt the Kingdom
     genre.sync: Anime,Action,Fantasy,Romance,Harem,Isekai,Military
     label.remove: Ongoing
-    studio: J.C.Staff
+    studio: Madhouse
     critic_rating: 7.2
   267246:
     title: |-
@@ -870,7 +870,7 @@ metadata:
       Silver Spoon
     genre.sync: Anime,Comedy,Shounen,School
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -892,7 +892,7 @@ metadata:
       Gintama
     genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen,Gag Humor,Historical,Parody,Samurai
     label.remove: Ongoing
-    studio: Sunrise
+    studio: Madhouse
     critic_rating: 8.9
   262098:
     title: |-
@@ -903,7 +903,7 @@ metadata:
       Girls und Panzer
     genre.sync: Anime,Action,Military,School
     label.remove: Ongoing
-    studio: Actas
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -919,7 +919,7 @@ metadata:
       The Quintessential Quintuplets
     genre.sync: Anime,Comedy,Romance,Shounen,Harem,School
     label.remove: Ongoing
-    studio: Tezuka Productions
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -943,7 +943,7 @@ metadata:
       Golden Kamuy
     genre.sync: Anime,Action,Adventure,Seinen,Adult Cast,Historical,Military
     label: Ongoing
-    studio: Geno Studio
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -975,7 +975,7 @@ metadata:
       Grand Blue Dreaming
     genre.sync: Anime,Comedy,Seinen,Adult Cast
     label.remove: Ongoing
-    studio: Zero-G
+    studio: Madhouse
     critic_rating: 8.4
   85249:
     title: |-
@@ -986,7 +986,7 @@ metadata:
       Fullmetal Alchemist: Brotherhood
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Shounen,Military
     label.remove: Ongoing
-    studio: Bones
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1002,7 +1002,7 @@ metadata:
       Grimgar: Ashes and Illusions
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1018,7 +1018,7 @@ metadata:
       Haibane Renmei
     genre.sync: Anime,Drama,Fantasy,Mystery,Psychological
     label.remove: Ongoing
-    studio: Radix
+    studio: Madhouse
     critic_rating: 8.0
   278157:
     title: |-
@@ -1029,7 +1029,7 @@ metadata:
       Haikyu!!
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
-    studio: Production I.G
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1063,7 +1063,7 @@ metadata:
       The Devil is a Part-Timer!
     genre.sync: Anime,Comedy,Fantasy,Mythology,Romantic Subtext,Workplace
     label.remove: Ongoing
-    studio: White Fox
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1085,7 +1085,7 @@ metadata:
       The Idaten Deities Know Only Peace
     genre.sync: Anime,Action,Adventure,Fantasy,Seinen,Mythology
     label.remove: Ongoing
-    studio: MAPPA
+    studio: Madhouse
     critic_rating: 7.6
   263688:
     title: |-
@@ -1107,7 +1107,7 @@ metadata:
       HIGH CARD
     genre.sync: Anime,Action,Fantasy,Adult Cast,Organized Crime,Super Power
     label.remove: Ongoing
-    studio: Studio Hibari
+    studio: Madhouse
     critic_rating: 7.2
   306743:
     title: |-
@@ -1118,7 +1118,7 @@ metadata:
       High School Fleet
     genre.sync: Anime,Action,Military,School
     label.remove: Ongoing
-    studio: Production IMS
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1134,7 +1134,7 @@ metadata:
       The Fire Hunter
     genre.sync: Anime,Fantasy
     label.remove: Ongoing
-    studio: Signal.MD
+    studio: Madhouse
     critic_rating: 6.4
   293121:
     title: |-
@@ -1145,7 +1145,7 @@ metadata:
       Himouto! Umaru-chan
     genre.sync: Anime,Comedy,Seinen,Otaku Culture,School
     label.remove: Ongoing
-    studio: Doga Kobo
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1169,7 +1169,7 @@ metadata:
       Ascendance of a Bookworm
     genre.sync: Anime,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
-    studio: Ajia-do
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1185,7 +1185,7 @@ metadata:
       Horimiya
     genre.sync: Anime,Romance,Shounen,School
     label.remove: Ongoing
-    studio: CloverWorks
+    studio: Madhouse
     critic_rating: 8.2
   369141:
     title: |-
@@ -1196,7 +1196,7 @@ metadata:
       Stars Align
     genre.sync: Anime,Drama,Sports,School
     label.remove: Ongoing
-    studio: 8bit
+    studio: Madhouse
     critic_rating: 7.6
   372361:
     title: |-
@@ -1207,7 +1207,7 @@ metadata:
       Diary of Our Days at the Breakwater
     genre.sync: Anime,Gourmet,Slice of Life,Seinen,CGDCT,Iyashikei,School
     label.remove: Ongoing
-    studio: Doga Kobo
+    studio: Madhouse
     critic_rating: 7.4
   331787:
     title: |-
@@ -1218,7 +1218,7 @@ metadata:
       Land of the Lustrous
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Seinen,Anthropomorphic
     label.remove: Ongoing
-    studio: Orange
+    studio: Madhouse
     critic_rating: 8.4
   370377:
     title: |-
@@ -1229,7 +1229,7 @@ metadata:
       ID: INVADED
     genre.sync: Anime,Mystery,Sci-Fi,Suspense,Adult Cast,Detective,Psychological
     label.remove: Ongoing
-    studio: NAZ
+    studio: Madhouse
     critic_rating: 7.8
   385278:
     title: |-
@@ -1240,7 +1240,7 @@ metadata:
       Don't Toy with Me, Miss Nagatoro
     genre.sync: Anime,Comedy,Romantic Subtext,School
     label.remove: Ongoing
-    studio: Telecom Animation Film
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1262,7 +1262,7 @@ metadata:
       Inu X Boku Secret Service
     genre.sync: Anime,Comedy,Drama,Romance,Supernatural,Shounen,Mythology,School
     label.remove: Ongoing
-    studio: David Production
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1278,7 +1278,7 @@ metadata:
       InuYasha
     genre.sync: Anime,Action,Adventure,Fantasy,Romance,Shounen,Historical,Mythology,Time Travel
     label.remove: Ongoing
-    studio: Sunrise
+    studio: Madhouse
     critic_rating: 7.9
   423653:
     title: |-
@@ -1289,7 +1289,7 @@ metadata:
       I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,School
     label: Ongoing
-    studio: Millepensee
+    studio: Madhouse
     critic_rating: 7.5
   104741:
     title: |-
@@ -1300,7 +1300,7 @@ metadata:
       Tenchi Muyo! War on Geminar
     genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Harem,Isekai,Mecha,School
     label.remove: Ongoing
-    studio: AIC Spirits
+    studio: Madhouse
     critic_rating: 7.8
   405214:
     title: |-
@@ -1311,7 +1311,7 @@ metadata:
       Uncle from Another World
     genre.sync: Anime,Comedy,Fantasy,Adult Cast,Isekai,Otaku Culture,Parody
     label.remove: Ongoing
-    studio: AtelierPontdarc
+    studio: Madhouse
     critic_rating: 7.9
   406592:
     title: |-
@@ -1322,7 +1322,7 @@ metadata:
       Parallel World Pharmacy
     genre.sync: Anime,Fantasy,Isekai,Medical,Reincarnation
     label.remove: Ongoing
-    studio: Diomedéa
+    studio: Madhouse
     critic_rating: 7.3
   373679:
     title: |-
@@ -1333,7 +1333,7 @@ metadata:
       BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Video Game
     label: Ongoing
-    studio: SILVER LINK.
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1355,7 +1355,7 @@ metadata:
       Summoned to Another World for a Second Time
     genre.sync: Anime,Adventure,Comedy,Fantasy,Romance,Harem,Isekai
     label: Ongoing
-    studio: Studio Elle
+    studio: Madhouse
     critic_rating: 6.9
   402474:
     title: |-
@@ -1366,7 +1366,7 @@ metadata:
       Hell's Paradise
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen,Gore,Historical
     label: Ongoing
-    studio: MAPPA
+    studio: Madhouse
     critic_rating: 8.4
   257756:
     title: |-
@@ -1377,7 +1377,7 @@ metadata:
       Jormungand
     genre.sync: Anime,Action,Adventure,Seinen,Organized Crime
     label.remove: Ongoing
-    studio: White Fox
+    studio: Madhouse
     critic_rating: 7.8
   377543:
     title: |-
@@ -1388,7 +1388,7 @@ metadata:
       Jujutsu Kaisen
     genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,School
     label.remove: Ongoing
-    studio: MAPPA
+    studio: Madhouse
     critic_rating: 8.6
   407520:
     title: |-
@@ -1399,7 +1399,7 @@ metadata:
       The Eminence in Shadow
     genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
-    studio: Nexus
+    studio: Madhouse
     critic_rating: 8.4
   354198:
     title: |-
@@ -1410,7 +1410,7 @@ metadata:
       Kaguya-sama: Love is War
     genre.sync: Anime,Comedy,Seinen,Psychological,Romantic Subtext,School
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1437,7 +1437,7 @@ metadata:
       Chillin' in My 30s after Getting Fired from the Demon King's Army
     genre.sync: Anime,Fantasy
     label.remove: Ongoing
-    studio: Encourage Films
+    studio: Madhouse
     critic_rating: 7.1
   376729:
     title: |-
@@ -1448,7 +1448,7 @@ metadata:
       Tower of God
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery
     label.remove: Ongoing
-    studio: Telecom Animation Film
+    studio: Madhouse
     critic_rating: 7.6
   262106:
     title: |-
@@ -1459,7 +1459,7 @@ metadata:
       Kamisama Kiss
     genre.sync: Anime,Comedy,Fantasy,Romance,Shoujo,Mythology
     label.remove: Ongoing
-    studio: TMS Entertainment
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1483,7 +1483,7 @@ metadata:
       By the Grace of the Gods
     genre.sync: Anime,Fantasy,Slice of Life,Isekai,Iyashikei,Reincarnation
     label.remove: Ongoing
-    studio: Maho Film
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1505,7 +1505,7 @@ metadata:
       Katanagatari
     genre.sync: Anime,Action,Adventure,Romance,Historical,Martial Arts
     label.remove: Ongoing
-    studio: White Fox
+    studio: Madhouse
     critic_rating: 8.3
   352853:
     title: |-
@@ -1516,7 +1516,7 @@ metadata:
       Run with the Wind
     genre.sync: Anime,Drama,Sports,Adult Cast
     label.remove: Ongoing
-    studio: Production I.G
+    studio: Madhouse
     critic_rating: 8.4
   390382:
     title: |-
@@ -1527,7 +1527,7 @@ metadata:
       Kemono Jihen
     genre.sync: Anime,Action,Mystery,Supernatural,Shounen,Mythology
     label.remove: Ongoing
-    studio: Ajia-do
+    studio: Madhouse
     critic_rating: 7.4
   80675:
     title: |-
@@ -1538,7 +1538,7 @@ metadata:
       Mobile Suit Gundam 00
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     label.remove: Ongoing
-    studio: Sunrise
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1560,7 +1560,7 @@ metadata:
       Mobile Suit Gundam Unicorn
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     label.remove: Ongoing
-    studio: Sunrise
+    studio: Madhouse
     critic_rating: 8.1
   418364:
     title: |-
@@ -1571,7 +1571,7 @@ metadata:
       Mobile Suit Gundam: The Witch from Mercury
     genre.sync: Anime,Action,Sci-Fi,Mecha,School,Space
     label: Ongoing
-    studio: Sunrise
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1587,7 +1587,7 @@ metadata:
       Mobile Suit Gundam: Iron-Blooded Orphans
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Space
     label.remove: Ongoing
-    studio: Sunrise
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1609,7 +1609,7 @@ metadata:
       Kill la Kill
     genre.sync: Anime,Action,Comedy,Ecchi,School,Super Power
     label.remove: Ongoing
-    studio: Trigger
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1625,7 +1625,7 @@ metadata:
       Demon Slayer: Kimetsu no Yaiba
     genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,Historical
     label: Ongoing
-    studio: ufotable
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1657,7 +1657,7 @@ metadata:
       Our Last Crusade or the Rise of a New World
     genre.sync: Anime,Action,Fantasy,Romance,Military
     label.remove: Ongoing
-    studio: SILVER LINK.
+    studio: Madhouse
     critic_rating: 6.7
   259635:
     title: |-
@@ -1668,7 +1668,7 @@ metadata:
       Kingdom
     genre.sync: Anime,Action,Seinen,Historical,Military
     label.remove: Ongoing
-    studio: Pierrot
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1711,7 +1711,7 @@ metadata:
       Miss Kobayashi's Dragon Maid
     genre.sync: Anime,Fantasy,Slice of Life
     label.remove: Ongoing
-    studio: Kyoto Animation
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1733,7 +1733,7 @@ metadata:
       Kono Oto Tomare!: Sounds of Life
     genre.sync: Anime,Drama,Romance,Shounen,Music,Performing Arts,School
     label.remove: Ongoing
-    studio: Platinum Vision
+    studio: Madhouse
     critic_rating: 7.9
   420657:
     title: |-
@@ -1744,7 +1744,7 @@ metadata:
       KonoSuba: An Explosion on This Wonderful World!
     genre.sync: Anime,Comedy,Fantasy
     label: Ongoing
-    studio: Drive
+    studio: Madhouse
     critic_rating: 8.1
   303867:
     title: |-
@@ -1755,7 +1755,7 @@ metadata:
       KonoSuba: God's Blessing on This Wonderful World!
     genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai,Parody,Reincarnation
     label.remove: Ongoing
-    studio: Studio Deen
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1779,7 +1779,7 @@ metadata:
       The Ice Guy and His Cool Female Colleague
     genre.sync: Anime,Comedy,Fantasy,Romance,Adult Cast,Mythology,Workplace
     label.remove: Ongoing
-    studio: Zero-G
+    studio: Madhouse
     critic_rating: 7.4
   413515:
     title: |-
@@ -1790,7 +1790,7 @@ metadata:
       Raven of the Inner Palace
     genre.sync: Anime,Fantasy,Mystery,Josei,Historical,Mythology
     label.remove: Ongoing
-    studio: Bandai Namco Pictures
+    studio: Madhouse
     critic_rating: 7.5
   305082:
     title: |-
@@ -1801,7 +1801,7 @@ metadata:
       Kabaneri of the Iron Fortress
     genre.sync: Anime,Action,Drama,Fantasy,Horror,Gore,Historical,Survival
     label.remove: Ongoing
-    studio: Wit Studio
+    studio: Madhouse
     critic_rating: 7.3
   409723:
     title: |-
@@ -1812,7 +1812,7 @@ metadata:
       The Yakuza's Guide to Babysitting
     genre.sync: Anime,Slice of Life,Childcare,Organized Crime
     label.remove: Ongoing
-    studio: feel.
+    studio: Madhouse
     critic_rating: 7.8
   377902:
     title: |-
@@ -1823,7 +1823,7 @@ metadata:
       So I'm a Spider, So What?
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Mystery,Isekai,Reincarnation
     label.remove: Ongoing
-    studio: Millepensee
+    studio: Madhouse
     critic_rating: 7.4
   416588:
     title: |-
@@ -1834,7 +1834,7 @@ metadata:
       Black Summoner
     genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
-    studio: Satelight
+    studio: Madhouse
     critic_rating: 7.1
   257765:
     title: |-
@@ -1845,7 +1845,7 @@ metadata:
       Kuroko's Basketball
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
-    studio: Production I.G
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1872,7 +1872,7 @@ metadata:
       In/Spectre
     genre.sync: Anime,Mystery,Romance,Supernatural,Shounen,Adult Cast,Mythology
     label.remove: Ongoing
-    studio: Brain's Base
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1894,7 +1894,7 @@ metadata:
       Beyond the Boundary
     genre.sync: Anime,Action,Fantasy,School
     label.remove: Ongoing
-    studio: Kyoto Animation
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -1910,7 +1910,7 @@ metadata:
       Lycoris Recoil
     genre.sync: Anime,Action
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Madhouse
     critic_rating: 8.2
   363143:
     title: |-
@@ -1921,7 +1921,7 @@ metadata:
       The Demon Girl Next Door
     genre.sync: Anime,Comedy,Fantasy,CGDCT,Mahou Shoujo,School
     label.remove: Ongoing
-    studio: J.C.Staff
+    studio: Madhouse
     critic_rating: 7.7
   326109:
     title: |-
@@ -1932,7 +1932,7 @@ metadata:
       Made in Abyss
     genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
     label.remove: Ongoing
-    studio: Kinema Citrus
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1954,7 +1954,7 @@ metadata:
       Magi: The Labyrinth of Magic
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -1998,7 +1998,7 @@ metadata:
       The Honor Student at Magic High School
     genre.sync: Anime,Fantasy,Sci-Fi
     label.remove: Ongoing
-    studio: Connect
+    studio: Madhouse
     critic_rating: 6.6
   369144:
     title: |-
@@ -2009,7 +2009,7 @@ metadata:
       Welcome to Demon School! Iruma-kun
     genre.sync: Anime,Comedy,Fantasy,Shounen,Isekai,Mythology,School
     label.remove: Ongoing
-    studio: Bandai Namco Pictures
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -2036,7 +2036,7 @@ metadata:
       Major 2nd
     genre.sync: Anime,Sports,Shounen,Team Sports
     label.remove: Ongoing
-    studio: OLM
+    studio: Madhouse
     seasons:
       1:
         title: |-
@@ -2102,7 +2102,7 @@ metadata:
       The Misfit of Demon King Academy
     genre.sync: Anime,Action,Fantasy,Mythology,Reincarnation,School
     label: Ongoing
-    studio: SILVER LINK.
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -2124,7 +2124,7 @@ metadata:
       Those Snow White Notes
     genre.sync: Anime,Drama,Shounen,Music,School
     label.remove: Ongoing
-    studio: Shin-Ei Animation
+    studio: Studio Hibari
     critic_rating: 7.5
   421737:
     title: |-
@@ -2135,7 +2135,7 @@ metadata:
       Mashle: Magic and Muscles
     genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Gag Humor,Parody,School
     label: Ongoing
-    studio: A-1 Pictures
+    studio: Studio Hibari
     critic_rating: 7.3
   307375:
     title: |-
@@ -2146,7 +2146,7 @@ metadata:
       Mob Psycho 100
     genre.sync: Anime,Action,Comedy,Supernatural,Super Power
     label.remove: Ongoing
-    studio: Bones
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2175,7 +2175,7 @@ metadata:
       Mushoku Tensei: Jobless Reincarnation
     genre.sync: Anime,Drama,Fantasy,Ecchi,Isekai,Reincarnation
     label.remove: Ongoing
-    studio: Studio Bind
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2191,7 +2191,7 @@ metadata:
       The Seven Deadly Sins
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2225,7 +2225,7 @@ metadata:
       Alderamin on the Sky
     genre.sync: Anime,Action,Adventure,Fantasy,Military
     label.remove: Ongoing
-    studio: Madhouse
+    studio: Studio Hibari
     critic_rating: 7.7
   332771:
     title: |-
@@ -2236,7 +2236,7 @@ metadata:
       Recovery of an MMO Junkie
     genre.sync: Anime,Comedy,Romance,Adult Cast,Video Game
     label.remove: Ongoing
-    studio: Signal.MD
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2252,7 +2252,7 @@ metadata:
       Nichijou - My Ordinary Life
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     label.remove: Ongoing
-    studio: Kyoto Animation
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2268,7 +2268,7 @@ metadata:
       NieR:Automata Ver1.1a
     genre.sync: Anime,Action,Fantasy,Sci-Fi
     label: Ongoing
-    studio: A-1 Pictures
+    studio: Studio Hibari
     critic_rating: 7.5
   415188:
     title: |-
@@ -2279,7 +2279,7 @@ metadata:
       Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World
     genre.sync: Anime,Action,Adventure,Fantasy
     label.remove: Ongoing
-    studio: Geek Toys
+    studio: Studio Hibari
     critic_rating: 6.3
   275610:
     title: |-
@@ -2290,7 +2290,7 @@ metadata:
       Noragami
     genre.sync: Anime,Action,Fantasy,Shounen,Mythology
     label.remove: Ongoing
-    studio: Bones
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2314,7 +2314,7 @@ metadata:
       One Piece
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label: Ongoing
-    studio: Toei Animation
+    studio: Studio Hibari
     critic_rating: 8.7
   293088:
     title: |-
@@ -2325,7 +2325,7 @@ metadata:
       One Punch Man
     genre.sync: Anime,Action,Comedy,Seinen,Adult Cast,Parody,Super Power
     label.remove: Ongoing
-    studio: Madhouse
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2349,7 +2349,7 @@ metadata:
       Spice and Wolf
     genre.sync: Anime,Adventure,Fantasy,Romance,Adult Cast
     label.remove: Ongoing
-    studio: Imagin
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2373,7 +2373,7 @@ metadata:
       Kaina of the Great Snow Sea
     genre.sync: Anime,Fantasy,Survival
     label.remove: Ongoing
-    studio: Polygon Pictures
+    studio: Studio Hibari
     critic_rating: 6.7
   412826:
     title: |-
@@ -2384,7 +2384,7 @@ metadata:
       Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs
     genre.sync: Anime,Fantasy,Isekai,Mecha,Reincarnation,School
     label.remove: Ongoing
-    studio: ENGI
+    studio: Studio Hibari
     critic_rating: 7.3
   414221:
     title: |-
@@ -2395,7 +2395,7 @@ metadata:
       The Angel Next Door Spoils Me Rotten
     genre.sync: Anime,Comedy,Romance,School
     label.remove: Ongoing
-    studio: Project No.9
+    studio: Studio Hibari
     critic_rating: 7.9
   391625:
     title: |-
@@ -2406,7 +2406,7 @@ metadata:
       Ranking of Kings
     genre.sync: Anime,Adventure,Fantasy
     label.remove: Ongoing
-    studio: Wit Studio
+    studio: Studio Hibari
     critic_rating: 8.6
   294002:
     title: |-
@@ -2417,7 +2417,7 @@ metadata:
       Overlord
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai
     label.remove: Ongoing
-    studio: Madhouse
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2451,7 +2451,7 @@ metadata:
       Seraph of the End: Vampire Reign
     genre.sync: Anime,Action,Drama,Supernatural,Shounen,Military,Vampire
     label.remove: Ongoing
-    studio: Wit Studio
+    studio: Studio Hibari
     critic_rating: 7.5
   412580:
     title: |-
@@ -2462,7 +2462,7 @@ metadata:
       Ya Boy Kongming!
     genre.sync: Anime,Comedy,Adult Cast,Music
     label.remove: Ongoing
-    studio: P.A. Works
+    studio: Studio Hibari
     critic_rating: 8.2
   291627:
     title: |-
@@ -2473,7 +2473,7 @@ metadata:
       Plastic Memories
     genre.sync: Anime,Drama,Romance,Sci-Fi
     label.remove: Ongoing
-    studio: Doga Kobo
+    studio: Studio Hibari
     critic_rating: 7.9
   326270:
     title: |-
@@ -2484,7 +2484,7 @@ metadata:
       The King's Avatar
     genre.sync: Anime,Action,Video Game
     label.remove: Ongoing
-    studio: B.CMAY PICTURES
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2508,7 +2508,7 @@ metadata:
       Chivalry of a Failed Knight
     genre.sync: Anime,Action,Fantasy,Romance,Ecchi,School
     label.remove: Ongoing
-    studio: SILVER LINK.
+    studio: Studio Hibari
     critic_rating: 7.4
   305089:
     title: |-
@@ -2519,7 +2519,7 @@ metadata:
       Re:ZERO -Starting Life in Another World-
     genre.sync: Anime,Drama,Fantasy,Suspense,Isekai,Psychological,Time Travel
     label.remove: Ongoing
-    studio: White Fox
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2543,7 +2543,7 @@ metadata:
       ReLIFE
     genre.sync: Anime,Drama,Romance,School
     label.remove: Ongoing
-    studio: TMS Entertainment
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2559,7 +2559,7 @@ metadata:
       Romantic Killer
     genre.sync: Anime,Comedy,Romance,Supernatural,Shounen,Parody,Reverse Harem
     label.remove: Ongoing
-    studio: domerica
+    studio: Studio Hibari
     critic_rating: 8.1
   398387:
     title: |-
@@ -2570,7 +2570,7 @@ metadata:
       Sabikui Bisco
     genre.sync: Anime,Action,Adventure,Fantasy,Sci-Fi
     label.remove: Ongoing
-    studio: OZ
+    studio: Studio Hibari
     critic_rating: 7.2
   313435:
     title: |-
@@ -2581,7 +2581,7 @@ metadata:
       The Disastrous Life of Saiki K.
     genre.sync: Anime,Comedy,Supernatural,Shounen,Gag Humor,School,Super Power
     label.remove: Ongoing
-    studio: J.C.Staff
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2605,7 +2605,7 @@ metadata:
       The Reincarnation of the Strongest Exorcist in Another World
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
-    studio: Studio Blanc.
+    studio: Studio Hibari
     critic_rating: 7.2
   262114:
     title: |-
@@ -2616,7 +2616,7 @@ metadata:
       The Pet Girl of Sakurasou
     genre.sync: Anime,Drama,Romance,School,Visual Arts
     label.remove: Ongoing
-    studio: J.C.Staff
+    studio: Studio Hibari
     critic_rating: 8.1
   257518:
     title: |-
@@ -2627,7 +2627,7 @@ metadata:
       Sankarea: Undying Love
     genre.sync: Anime,Comedy,Horror,Romance,Supernatural,Ecchi,Shounen
     label.remove: Ongoing
-    studio: Studio Deen
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2643,7 +2643,7 @@ metadata:
       The Saint's Magic Power is Omnipotent
     genre.sync: Anime,Fantasy,Romance,Adult Cast,Isekai,Medical
     label.remove: Ongoing
-    studio: Diomedéa
+    studio: Studio Hibari
     critic_rating: 7.3
   173271:
     title: |-
@@ -2654,7 +2654,7 @@ metadata:
       Student Council Staff Members
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     label.remove: Ongoing
-    studio: GoHands
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2678,7 +2678,7 @@ metadata:
       The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Romance,Isekai,Reincarnation
     label.remove: Ongoing
-    studio: SILVER LINK.
+    studio: Studio Hibari
     critic_rating: 7.4
   396876:
     title: |-
@@ -2689,7 +2689,7 @@ metadata:
       Shadows House
     genre.sync: Anime,Fantasy,Mystery,Seinen
     label.remove: Ongoing
-    studio: CloverWorks
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -2711,7 +2711,7 @@ metadata:
       SHAMAN KING (2021)
     genre.sync: Anime,Adventure,Comedy,Supernatural,Shounen,Super Power
     label.remove: Ongoing
-    studio: Bridge
+    studio: Studio Hibari
     critic_rating: 6.9
   279830:
     title: |-
@@ -2722,7 +2722,7 @@ metadata:
       Your Lie in April
     genre.sync: Anime,Drama,Romance,Shounen,Music,School
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2738,7 +2738,7 @@ metadata:
       Attack on Titan
     genre.sync: Anime,Action,Award Winning,Drama,Suspense,Shounen,Gore,Military,Survival
     label.remove: Ongoing
-    studio: Wit Studio
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -2770,7 +2770,7 @@ metadata:
       Shirobako
     genre.sync: Anime,Award Winning,Comedy,Drama,Adult Cast,Otaku Culture,Workplace
     label.remove: Ongoing
-    studio: P.A. Works
+    studio: Studio Hibari
     critic_rating: 8.3
   402640:
     title: |-
@@ -2781,7 +2781,7 @@ metadata:
       The Executioner and Her Way of Life
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai
     label.remove: Ongoing
-    studio: J.C.Staff
+    studio: Studio Hibari
     critic_rating: 6.8
   332983:
     title: |-
@@ -2792,7 +2792,7 @@ metadata:
       Girls' Last Tour
     genre.sync: Anime,Adventure,Mystery,Sci-Fi,Slice of Life,Iyashikei
     label.remove: Ongoing
-    studio: White Fox
+    studio: Studio Hibari
     critic_rating: 8.2
   304316:
     title: |-
@@ -2803,7 +2803,7 @@ metadata:
       Showa Genroku Rakugo Shinju
     genre.sync: Anime,Drama,Josei,Historical,Love Polygon,Performing Arts
     label.remove: Ongoing
-    studio: Studio Deen
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2827,7 +2827,7 @@ metadata:
       Knights of Sidonia
     genre.sync: Anime,Action,Sci-Fi,Seinen,Mecha,Space
     label.remove: Ongoing
-    studio: Polygon Pictures
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -2849,7 +2849,7 @@ metadata:
       Slam Dunk
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     label.remove: Ongoing
-    studio: Toei Animation
+    studio: Studio Hibari
     critic_rating: 8.5
   401233:
     title: |-
@@ -2860,7 +2860,7 @@ metadata:
       My Dress-Up Darling
     genre.sync: Anime,Romance,Seinen,Otaku Culture,School
     label.remove: Ongoing
-    studio: CloverWorks
+    studio: Studio Hibari
     critic_rating: 8.2
   405920:
     title: |-
@@ -2871,7 +2871,7 @@ metadata:
       SPY×FAMILY
     genre.sync: Anime,Action,Award Winning,Comedy,Shounen,Childcare
     label.remove: Ongoing
-    studio: Wit Studio
+    studio: Studio Hibari
     critic_rating: 8.6
   244061:
     title: |-
@@ -2882,7 +2882,7 @@ metadata:
       Steins;Gate
     genre.sync: Anime,Drama,Sci-Fi,Suspense,Psychological,Time Travel
     label.remove: Ongoing
-    studio: White Fox
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2898,7 +2898,7 @@ metadata:
       Steins;Gate 0
     genre.sync: Anime,Drama,Sci-Fi,Suspense,Time Travel
     label.remove: Ongoing
-    studio: White Fox
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2914,7 +2914,7 @@ metadata:
       Gargantia on the Verdurous Planet
     genre.sync: Anime,Action,Adventure,Sci-Fi,Mecha
     label.remove: Ongoing
-    studio: Production I.G
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2930,7 +2930,7 @@ metadata:
       Summer Time Rendering
     genre.sync: Anime,Mystery,Supernatural,Suspense,Shounen,Time Travel
     label.remove: Ongoing
-    studio: OLM
+    studio: Studio Hibari
     critic_rating: 8.5
   259640:
     title: |-
@@ -2941,7 +2941,7 @@ metadata:
       Sword Art Online
     genre.sync: Anime,Action,Adventure,Fantasy,Romance,Love Polygon,Video Game
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -2975,7 +2975,7 @@ metadata:
       Tanaka-kun is Always Listless
     genre.sync: Anime,Slice of Life,Iyashikei,School
     label.remove: Ongoing
-    studio: SILVER LINK.
+    studio: Studio Hibari
     critic_rating: 7.8
   353712:
     title: |-
@@ -2986,7 +2986,7 @@ metadata:
       The Rising of the Shield Hero
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
     label.remove: Ongoing
-    studio: Kinema Citrus
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -3008,7 +3008,7 @@ metadata:
       Heavenly Delusion
     genre.sync: Anime,Adventure,Sci-Fi,Seinen
     label: Ongoing
-    studio: Production I.G
+    studio: Studio Hibari
     critic_rating: 8.1
   400961:
     title: |-
@@ -3019,7 +3019,7 @@ metadata:
       The Genius Prince's Guide to Raising a Nation Out of Debt
     genre.sync: Anime,Comedy,Fantasy
     label.remove: Ongoing
-    studio: Yokohama Animation Lab
+    studio: Studio Hibari
     critic_rating: 7.4
   423362:
     title: |-
@@ -3030,7 +3030,7 @@ metadata:
       The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
     genre.sync: Anime,Fantasy,Girls Love,Isekai,Reincarnation
     label.remove: Ongoing
-    studio: Diomedéa
+    studio: Studio Hibari
     critic_rating: 7.6
   410378:
     title: |-
@@ -3041,7 +3041,7 @@ metadata:
       Reincarnated as a Sword
     genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
-    studio: C2C
+    studio: Studio Hibari
     critic_rating: 7.6
   352408:
     title: |-
@@ -3052,7 +3052,7 @@ metadata:
       That Time I Got Reincarnated as a Slime
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Mythology,Reincarnation
     label.remove: Ongoing
-    studio: 8bit
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -3076,7 +3076,7 @@ metadata:
       The Slime Diaries
     genre.sync: Anime,Comedy,Fantasy,Shounen,Isekai,Reincarnation
     label.remove: Ongoing
-    studio: 8bit
+    studio: Studio Hibari
     critic_rating: 7.6
   378556:
     title: |-
@@ -3087,7 +3087,7 @@ metadata:
       The God of High School
     genre.sync: Anime,Action,Fantasy,Martial Arts,Super Power
     label.remove: Ongoing
-    studio: MAPPA
+    studio: Studio Hibari
     critic_rating: 7.1
   281249:
     title: |-
@@ -3098,7 +3098,7 @@ metadata:
       Tokyo Ghoul
     genre.sync: Anime,Action,Fantasy,Horror,Seinen,Gore,Psychological
     label.remove: Ongoing
-    studio: Pierrot
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -3125,7 +3125,7 @@ metadata:
       Tokyo Ravens
     genre.sync: Anime,Action,Romance,Supernatural,School
     label.remove: Ongoing
-    studio: 8bit
+    studio: Studio Hibari
     critic_rating: 7.4
   393478:
     title: |-
@@ -3136,7 +3136,7 @@ metadata:
       Tokyo Revengers
     genre.sync: Anime,Action,Drama,Supernatural,Shounen,Delinquents,Time Travel
     label.remove: Ongoing
-    studio: LIDENFILMS
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -3158,7 +3158,7 @@ metadata:
       Tomo-chan Is a Girl!
     genre.sync: Anime,Comedy,Romance,School
     label.remove: Ongoing
-    studio: Lay-duce
+    studio: Studio Hibari
     critic_rating: 7.9
   262107:
     title: |-
@@ -3169,7 +3169,7 @@ metadata:
       My Little Monster
     genre.sync: Anime,Comedy,Romance,Shoujo,School
     label.remove: Ongoing
-    studio: Brain's Base
+    studio: Studio Hibari
     critic_rating: 7.5
   426572:
     title: |-
@@ -3180,7 +3180,7 @@ metadata:
       Campfire Cooking in Another World with My Absurd Skill
     genre.sync: Anime,Adventure,Comedy,Fantasy,Gourmet,Isekai
     label.remove: Ongoing
-    studio: MAPPA
+    studio: Studio Hibari
     critic_rating: 7.7
   385077:
     title: |-
@@ -3191,7 +3191,7 @@ metadata:
       TONIKAWA: Over The Moon For You
     genre.sync: Anime,Comedy,Romance,Shounen
     label: Ongoing
-    studio: Seven Arcs
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -3207,7 +3207,7 @@ metadata:
       Toradora!
     genre.sync: Anime,Drama,Romance,Love Polygon,School
     label.remove: Ongoing
-    studio: J.C.Staff
+    studio: Studio Hibari
     critic_rating: 8.1
   77680:
     title: |-
@@ -3218,7 +3218,7 @@ metadata:
       Trigun
     genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
     label.remove: Ongoing
-    studio: Madhouse
+    studio: Studio Hibari
     critic_rating: 8.2
   421378:
     title: |-
@@ -3229,7 +3229,7 @@ metadata:
       Trigun Stampede
     genre.sync: Anime,Action,Adventure,Sci-Fi,Shounen,Adult Cast
     label.remove: Ongoing
-    studio: Orange
+    studio: Studio Hibari
     critic_rating: 7.8
   325197:
     title: |-
@@ -3240,7 +3240,7 @@ metadata:
       Tsukigakirei
     genre.sync: Anime,Romance,School
     label.remove: Ongoing
-    studio: feel.
+    studio: Studio Hibari
     critic_rating: 8.1
   422405:
     title: |-
@@ -3251,7 +3251,7 @@ metadata:
       Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte
     genre.sync: Anime,Comedy,Fantasy,Romance,Video Game
     label.remove: Ongoing
-    studio: Tezuka Productions
+    studio: Studio Hibari
     critic_rating: 7.2
   352796:
     title: |-
@@ -3262,7 +3262,7 @@ metadata:
       Tsurune: Kazemai High School Kyudo Club
     genre.sync: Anime,Sports,School
     label.remove: Ongoing
-    studio: Kyoto Animation
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -3286,7 +3286,7 @@ metadata:
       Space Brothers
     genre.sync: Anime,Comedy,Sci-Fi,Seinen,Adult Cast,Space,Workplace
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Studio Hibari
     critic_rating: 8.5
   315094:
     title: |-
@@ -3297,7 +3297,7 @@ metadata:
       Poco's Udon World
     genre.sync: Anime,Slice of Life,Supernatural,Seinen,Anthropomorphic,Childcare,Iyashikei
     label.remove: Ongoing
-    studio: LIDENFILMS
+    studio: Studio Hibari
     critic_rating: 7.8
   249872:
     title: |-
@@ -3308,7 +3308,7 @@ metadata:
       Bunny Drop
     genre.sync: Anime,Slice of Life,Josei,Childcare,Iyashikei
     label.remove: Ongoing
-    studio: Production I.G
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -3324,7 +3324,7 @@ metadata:
       Uzaki-chan Wants to Hang Out!
     genre.sync: Anime,Comedy,Adult Cast,Romantic Subtext
     label.remove: Ongoing
-    studio: ENGI
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -3346,7 +3346,7 @@ metadata:
       The Case Study of Vanitas
     genre.sync: Anime,Action,Fantasy,Mystery,Shounen,Historical,Vampire
     label.remove: Ongoing
-    studio: Bones
+    studio: Studio Hibari
     critic_rating: 7.9
   359274:
     title: |-
@@ -3357,7 +3357,7 @@ metadata:
       VINLAND SAGA
     genre.sync: Anime,Action,Adventure,Drama,Seinen,Gore,Historical
     label: Ongoing
-    studio: Wit Studio
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -3379,7 +3379,7 @@ metadata:
       Violet Evergarden
     genre.sync: Anime,Drama,Fantasy
     label.remove: Ongoing
-    studio: Kyoto Animation
+    studio: Studio Hibari
     critic_rating: 8.7
   397774:
     title: |-
@@ -3390,7 +3390,7 @@ metadata:
       Vivy -Fluorite Eye's Song-
     genre.sync: Anime,Action,Sci-Fi,Suspense,Music,Time Travel
     label.remove: Ongoing
-    studio: Wit Studio
+    studio: Studio Hibari
     critic_rating: 8.4
   79060:
     title: |-
@@ -3401,7 +3401,7 @@ metadata:
       Wolf's Rain
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery,Sci-Fi
     label.remove: Ongoing
-    studio: Bones
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -3417,7 +3417,7 @@ metadata:
       Wonder Egg Priority
     genre.sync: Anime,Drama,Fantasy,Psychological
     label.remove: Ongoing
-    studio: CloverWorks
+    studio: Studio Hibari
     critic_rating: 7.6
   145211:
     title: |-
@@ -3428,7 +3428,7 @@ metadata:
       Wagnaria!!
     genre.sync: Anime,Comedy,Seinen,Romantic Subtext,Workplace
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -3455,7 +3455,7 @@ metadata:
       World Trigger
     genre.sync: Anime,Action,Sci-Fi,Shounen
     label.remove: Ongoing
-    studio: Toei Animation
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -3482,7 +3482,7 @@ metadata:
       Wotakoi: Love is Hard for Otaku
     genre.sync: Anime,Romance,Adult Cast,Otaku Culture,Workplace
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -3498,7 +3498,7 @@ metadata:
       The Daily Life of the Immortal King
     genre.sync: Anime,Adventure,Comedy,Fantasy,Mythology,School
     label.remove: Ongoing
-    studio: Haoliners Animation League
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -3525,7 +3525,7 @@ metadata:
       The Promised Neverland
     genre.sync: Anime,Mystery,Sci-Fi,Suspense,Shounen,Psychological,Survival
     label.remove: Ongoing
-    studio: CloverWorks
+    studio: Studio Hibari
     seasons:
       1:
         title: |-
@@ -3547,7 +3547,7 @@ metadata:
       Hitori no Shita - The Outcast
     genre.sync: Anime,Action,Supernatural,Super Power
     label.remove: Ongoing
-    studio: Namu Animation
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -3571,7 +3571,7 @@ metadata:
       Call of the Night
     genre.sync: Anime,Romance,Supernatural,Shounen,Vampire
     label.remove: Ongoing
-    studio: LIDENFILMS
+    studio: Studio Hibari
     critic_rating: 8.0
   272309:
     title: |-
@@ -3582,7 +3582,7 @@ metadata:
       Yowamushi Pedal
     genre.sync: Anime,Sports,Shounen,Racing
     label.remove: Ongoing
-    studio: TMS Entertainment
+    studio: Studio Hibari
     critic_rating: 7.9
   330692:
     title: |-
@@ -3593,7 +3593,7 @@ metadata:
       Laid-Back Camp
     genre.sync: Anime,Slice of Life,CGDCT,Iyashikei
     label.remove: Ongoing
-    studio: C-Station
+    studio: Studio Hibari
     seasons:
       0:
         label.remove: score
@@ -3617,7 +3617,7 @@ metadata:
       Moriarty the Patriot
     genre.sync: Anime,Mystery,Suspense,Shounen,Adult Cast,Historical,Psychological
     label.remove: Ongoing
-    studio: Production I.G
+    studio: Studio Hibari
     critic_rating: 8.2
   262109:
     title: |-
@@ -3628,5 +3628,5 @@ metadata:
       Blast of Tempest
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Shounen,Psychological
     label.remove: Ongoing
-    studio: Bones
+    studio: Studio Hibari
     critic_rating: 7.9
