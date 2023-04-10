@@ -817,6 +817,17 @@ metadata:
         user_rating: 8.1
         label: score
     critic_rating: 8.2
+  419490:
+    title: |-
+      Otonari ni Ginga
+    sort_title: |-
+      Otonari ni Ginga
+    original_title: |-
+      A Galaxy Next Door
+    genre.sync: Anime,Comedy,Romance,Supernatural,Seinen,Childcare
+    label: Ongoing
+    studio: Asahi Production
+    critic_rating: 7.3
   79178:
     title: |-
       Gankutsuou
@@ -1302,17 +1313,6 @@ metadata:
     label.remove: Ongoing
     studio: AtelierPontdarc
     critic_rating: 7.9
-  411893:
-    title: |-
-      Isekai Shoukan wa Nidome desu
-    sort_title: |-
-      Isekai Shoukan wa Nidome desu
-    original_title: |-
-      Summoned to Another World for a Second Time
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Romance,Harem,Isekai
-    label: Ongoing
-    studio: Studio Elle
-    critic_rating: 0.0
   406592:
     title: |-
       Isekai Yakkyoku
@@ -1346,6 +1346,17 @@ metadata:
         user_rating: 7.3
         label: score
     critic_rating: 7.4
+  411893:
+    title: |-
+      Isekai Shoukan wa Nidome desu
+    sort_title: |-
+      Isekai Shoukan wa Nidome desu
+    original_title: |-
+      Summoned to Another World for a Second Time
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Romance,Harem,Isekai
+    label: Ongoing
+    studio: Studio Elle
+    critic_rating: 6.9
   402474:
     title: |-
       Jigokuraku
@@ -2374,17 +2385,6 @@ metadata:
     genre.sync: Anime,Fantasy,Isekai,Mecha,Reincarnation,School
     label.remove: Ongoing
     studio: ENGI
-    critic_rating: 7.3
-  419490:
-    title: |-
-      Otonari ni Ginga
-    sort_title: |-
-      Otonari ni Ginga
-    original_title: |-
-      A Galaxy Next Door
-    genre.sync: Anime,Comedy,Romance,Supernatural,Seinen,Childcare
-    label: Ongoing
-    studio: Asahi Production
     critic_rating: 7.3
   414221:
     title: |-
