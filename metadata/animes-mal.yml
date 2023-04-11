@@ -1097,7 +1097,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Adult Cast,Organized Crime,Super Power
     label.remove: Ongoing
     studio: Madhouse
-    critic_rating: 7.2
+    critic_rating: 7.1
   306743:
     title: |-
       High School Fleet
@@ -1985,7 +1985,7 @@ metadata:
       Mahouka Koukou no Yuutousei
     original_title: |-
       The Honor Student at Magic High School
-    genre.sync: Anime,Fantasy,Sci-Fi
+    genre.sync: Anime,Fantasy,Sci-Fi,School
     label.remove: Ongoing
     studio: Madhouse
     critic_rating: 6.6
@@ -2531,9 +2531,9 @@ metadata:
       2:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-        user_rating: 8.4
+        user_rating: 8.3
         label: score
-    critic_rating: 8.3
+    critic_rating: 8.2
   299508:
     title: |-
       ReLIFE
