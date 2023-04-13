@@ -130,6 +130,9 @@ overlays:
   Geek Toys:
     template: { name: Studios }
 
+  Gekkou:
+    template: { name: Studios }
+
   Geno Studio:
     template: { name: Studios }
 
@@ -140,6 +143,9 @@ overlays:
     template: { name: Studios }
 
   Haoliners Animation League:
+    template: { name: Studios }
+
+  Hotline:
     template: { name: Studios }
 
   Imagin:
@@ -172,6 +178,9 @@ overlays:
   Madhouse:
     template: { name: Studios }
 
+  Magic Bus:
+    template: { name: Studios }
+
   Maho Film:
     template: { name: Studios }
 
@@ -188,6 +197,9 @@ overlays:
     template: { name: Studios }
 
   Nexus:
+    template: { name: Studios }
+
+  SNippon Animation:
     template: { name: Studios }
 
   Nut:
@@ -211,6 +223,9 @@ overlays:
   Platinum Vision:
     template: { name: Studios }
 
+  Passione:
+    template: { name: Studios }
+
   Polygon Pictures:
     template: { name: Studios }
 
@@ -221,6 +236,9 @@ overlays:
     template: { name: Studios }
 
   Production IMS:
+    template: { name: Studios }
+
+  Production Reed:
     template: { name: Studios }
 
   Project No.9:
@@ -253,6 +271,9 @@ overlays:
   Shuka:
     template: { name: Studios }
 
+  SILVER LINK.:
+    template: { name: Studios }
+
   Signal.MD:
     template: { name: Studios }
 
@@ -265,9 +286,6 @@ overlays:
   Studio Blanc.:
     template: { name: Studios }
 
-  SILVER LINK.:
-    template: { name: Studios }
-
   Studio Chizu:
     template: { name: Studios }
 
@@ -275,6 +293,9 @@ overlays:
     template: { name: Studios }
 
   Studio Deen:
+    template: { name: Studios }
+
+  Studio Elle:
     template: { name: Studios }
 
   Studio Ghibli:
@@ -287,6 +308,9 @@ overlays:
     template: { name: Studios }
 
   studio MOTHER:
+    template: { name: Studios }
+
+  Studio Palette:
     template: { name: Studios }
 
   Studio Rikka:
