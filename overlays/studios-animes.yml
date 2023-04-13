@@ -277,6 +277,9 @@ overlays:
   Signal.MD:
     template: { name: Studios }
 
+  Staple Entertainment:
+    template: { name: Studios }
+
   Studio A-CAT:
     template: { name: Studios }
 
