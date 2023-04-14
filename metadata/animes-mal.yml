@@ -621,6 +621,17 @@ metadata:
         user_rating: 7.4
         label: score
     critic_rating: 7.8
+  427239:
+    title: |-
+      Dead Mount Death Play
+    sort_title: |-
+      Dead Mount Death Play
+    original_title: |-
+      Dead Mount Death Play
+    genre.sync: Anime,Action,Fantasy,Supernatural,Seinen,Reincarnation
+    label: Ongoing
+    studio: Geek Toys
+    critic_rating: 7.7
   378878:
     title: |-
       Deca-Dence
@@ -1242,6 +1253,17 @@ metadata:
         user_rating: 7.5
         label: score
     critic_rating: 7.4
+  414562:
+    title: |-
+      Kimi wa Houkago Insomnia
+    sort_title: |-
+      Kimi wa Houkago Insomnia
+    original_title: |-
+      Insomniacs After School
+    genre.sync: Anime,Romance,Seinen,School
+    label: Ongoing
+    studio: LIDENFILMS
+    critic_rating: 7.9
   255133:
     title: |-
       Inu x Boku SS
@@ -1901,6 +1923,17 @@ metadata:
       1:
         label.remove: score
     critic_rating: 7.7
+  419500:
+    title: |-
+      Yuusha ga Shinda!
+    sort_title: |-
+      Yuusha ga Shinda!
+    original_title: |-
+      The Legendary Hero Is Dead!
+    genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Harem,Parody
+    label: Ongoing
+    studio: LIDENFILMS
+    critic_rating: 6.6
   414057:
     title: |-
       Lycoris Recoil
@@ -2166,6 +2199,17 @@ metadata:
         user_rating: 8.7
         label: score
     critic_rating: 8.7
+  423413:
+    title: |-
+      Yamada-kun to Lv999 no Koi wo Suru
+    sort_title: |-
+      Yamada-kun to Lv999 no Koi wo Suru
+    original_title: |-
+      My Love Story with Yamada-kun at Lv999
+    genre.sync: Anime,Romance,Video Game
+    label: Ongoing
+    studio: Madhouse
+    critic_rating: 7.7
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -2375,6 +2419,17 @@ metadata:
     label.remove: Ongoing
     studio: Polygon Pictures
     critic_rating: 6.7
+  421069:
+    title: |-
+      [Oshi no Ko]
+    sort_title: |-
+      [Oshi no Ko]
+    original_title: |-
+      [Oshi No Ko]
+    genre.sync: Anime,Drama,Supernatural,Seinen,Reincarnation,Showbiz
+    label: Ongoing
+    studio: Doga Kobo
+    critic_rating: 9.3
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -2851,6 +2906,17 @@ metadata:
         user_rating: 7.7
         label: score
     critic_rating: 7.7
+  412696:
+    title: |-
+      Skip to Loafer
+    sort_title: |-
+      Skip to Loafer
+    original_title: |-
+      Skip and Loafer
+    genre.sync: Anime,Drama,Seinen,School
+    label: Ongoing
+    studio: P.A. Works
+    critic_rating: 8.0
   72491:
     title: |-
       SLAM DUNK
