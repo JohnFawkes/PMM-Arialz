@@ -72,6 +72,17 @@ metadata:
     label.remove: Ongoing
     studio: A-1 Pictures
     critic_rating: 8.3
+  421069:
+    title: |-
+      [Oshi no Ko]
+    sort_title: |-
+      [Oshi no Ko]
+    original_title: |-
+      [Oshi No Ko]
+    genre.sync: Anime,Drama,Supernatural,Seinen,Reincarnation,Showbiz
+    label.remove: Ongoing
+    studio: Doga Kobo
+    critic_rating: 9.3
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -629,7 +640,7 @@ metadata:
     original_title: |-
       Dead Mount Death Play
     genre.sync: Anime,Action,Fantasy,Supernatural,Seinen,Reincarnation
-    label: Ongoing
+    label.remove: Ongoing
     studio: Geek Toys
     critic_rating: 7.7
   378878:
@@ -702,7 +713,7 @@ metadata:
     original_title: |-
       Dr. Stone
     genre.sync: Anime,Adventure,Comedy,Sci-Fi,Shounen,Survival,Time Travel
-    label: Ongoing
+    label.remove: Ongoing
     studio: TMS Entertainment
     seasons:
       0:
@@ -942,7 +953,7 @@ metadata:
     original_title: |-
       Golden Kamuy
     genre.sync: Anime,Action,Adventure,Seinen,Adult Cast,Historical,Military
-    label: Ongoing
+    label.remove: Ongoing
     studio: Geno Studio
     seasons:
       1:
@@ -1253,17 +1264,6 @@ metadata:
         user_rating: 7.5
         label: score
     critic_rating: 7.4
-  414562:
-    title: |-
-      Kimi wa Houkago Insomnia
-    sort_title: |-
-      Kimi wa Houkago Insomnia
-    original_title: |-
-      Insomniacs After School
-    genre.sync: Anime,Romance,Seinen,School
-    label: Ongoing
-    studio: LIDENFILMS
-    critic_rating: 7.9
   255133:
     title: |-
       Inu x Boku SS
@@ -1299,7 +1299,7 @@ metadata:
     original_title: |-
       I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,School
-    label: Ongoing
+    label.remove: Ongoing
     studio: Millepensee
     critic_rating: 7.5
   104741:
@@ -1332,7 +1332,7 @@ metadata:
     original_title: |-
       Summoned to Another World for a Second Time
     genre.sync: Anime,Adventure,Comedy,Fantasy,Romance,Harem,Isekai
-    label: Ongoing
+    label.remove: Ongoing
     studio: Studio Elle
     critic_rating: 6.8
   406592:
@@ -1354,7 +1354,7 @@ metadata:
     original_title: |-
       BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Video Game
-    label: Ongoing
+    label.remove: Ongoing
     studio: SILVER LINK.
     seasons:
       1:
@@ -1376,7 +1376,7 @@ metadata:
     original_title: |-
       Hell's Paradise
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen,Gore,Historical
-    label: Ongoing
+    label.remove: Ongoing
     studio: MAPPA
     critic_rating: 8.4
   257756:
@@ -1469,7 +1469,7 @@ metadata:
     original_title: |-
       KamiKatsu: Working for God in a Godless World
     genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Seinen,Isekai,Reincarnation
-    label: Ongoing
+    label.remove: Ongoing
     studio: Studio Palette
     critic_rating: 7.0
   262106:
@@ -1592,7 +1592,7 @@ metadata:
     original_title: |-
       Mobile Suit Gundam: The Witch from Mercury
     genre.sync: Anime,Action,Sci-Fi,Mecha,School,Space
-    label: Ongoing
+    label.remove: Ongoing
     studio: Sunrise
     seasons:
       0:
@@ -1646,7 +1646,7 @@ metadata:
     original_title: |-
       Demon Slayer: Kimetsu no Yaiba
     genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,Historical
-    label: Ongoing
+    label.remove: Ongoing
     studio: ufotable
     seasons:
       1:
@@ -1681,6 +1681,17 @@ metadata:
     label.remove: Ongoing
     studio: SILVER LINK.
     critic_rating: 6.7
+  414562:
+    title: |-
+      Kimi wa Houkago Insomnia
+    sort_title: |-
+      Kimi wa Houkago Insomnia
+    original_title: |-
+      Insomniacs After School
+    genre.sync: Anime,Romance,Seinen,School
+    label.remove: Ongoing
+    studio: LIDENFILMS
+    critic_rating: 7.9
   259635:
     title: |-
       Kingdom
@@ -1765,7 +1776,7 @@ metadata:
     original_title: |-
       KonoSuba: An Explosion on This Wonderful World!
     genre.sync: Anime,Comedy,Fantasy
-    label: Ongoing
+    label.remove: Ongoing
     studio: Drive
     critic_rating: 8.1
   303867:
@@ -1931,7 +1942,7 @@ metadata:
     original_title: |-
       The Legendary Hero Is Dead!
     genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Harem,Parody
-    label: Ongoing
+    label.remove: Ongoing
     studio: LIDENFILMS
     critic_rating: 6.6
   414057:
@@ -2134,7 +2145,7 @@ metadata:
     original_title: |-
       The Misfit of Demon King Academy
     genre.sync: Anime,Action,Fantasy,Mythology,Reincarnation,School
-    label: Ongoing
+    label.remove: Ongoing
     studio: SILVER LINK.
     seasons:
       1:
@@ -2167,7 +2178,7 @@ metadata:
     original_title: |-
       Mashle: Magic and Muscles
     genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Gag Humor,Parody,School
-    label: Ongoing
+    label.remove: Ongoing
     studio: A-1 Pictures
     critic_rating: 7.7
   307375:
@@ -2199,17 +2210,6 @@ metadata:
         user_rating: 8.7
         label: score
     critic_rating: 8.7
-  423413:
-    title: |-
-      Yamada-kun to Lv999 no Koi wo Suru
-    sort_title: |-
-      Yamada-kun to Lv999 no Koi wo Suru
-    original_title: |-
-      My Love Story with Yamada-kun at Lv999
-    genre.sync: Anime,Romance,Video Game
-    label: Ongoing
-    studio: Madhouse
-    critic_rating: 7.7
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -2226,6 +2226,28 @@ metadata:
       1:
         label.remove: score
     critic_rating: 8.4
+  421452:
+    title: |-
+      My Home Hero
+    sort_title: |-
+      My Home Hero
+    original_title: |-
+      My Home Hero
+    genre.sync: Anime,Drama,Suspense,Seinen,Adult Cast,Organized Crime
+    label.remove: Ongoing
+    studio: Tezuka Productions
+    critic_rating: 7.1
+  417675:
+    title: |-
+      Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita
+    sort_title: |-
+      Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita
+    original_title: |-
+      My One-Hit Kill Sister
+    genre.sync: Anime,Comedy,Fantasy,Seinen,Isekai
+    label.remove: Ongoing
+    studio: Gekkou
+    critic_rating: 6.3
   284131:
     title: |-
       Nanatsu no Taizai
@@ -2311,7 +2333,7 @@ metadata:
     original_title: |-
       NieR:Automata Ver1.1a
     genre.sync: Anime,Action,Fantasy,Sci-Fi
-    label: Ongoing
+    label.remove: Ongoing
     studio: A-1 Pictures
     critic_rating: 7.4
   415188:
@@ -2357,7 +2379,7 @@ metadata:
     original_title: |-
       One Piece
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
-    label: Ongoing
+    label.remove: Ongoing
     studio: Toei Animation
     critic_rating: 8.7
   293088:
@@ -2419,17 +2441,6 @@ metadata:
     label.remove: Ongoing
     studio: Polygon Pictures
     critic_rating: 6.7
-  421069:
-    title: |-
-      [Oshi no Ko]
-    sort_title: |-
-      [Oshi no Ko]
-    original_title: |-
-      [Oshi No Ko]
-    genre.sync: Anime,Drama,Supernatural,Seinen,Reincarnation,Showbiz
-    label: Ongoing
-    studio: Doga Kobo
-    critic_rating: 9.3
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -2449,7 +2460,7 @@ metadata:
     original_title: |-
       A Galaxy Next Door
     genre.sync: Anime,Comedy,Romance,Supernatural,Seinen,Childcare
-    label: Ongoing
+    label.remove: Ongoing
     studio: Asahi Production
     critic_rating: 7.4
   414221:
@@ -2576,6 +2587,17 @@ metadata:
     label.remove: Ongoing
     studio: SILVER LINK.
     critic_rating: 7.4
+  432080:
+    title: |-
+      Ousama Ranking: Yuuki no Takarabako
+    sort_title: |-
+      Ousama Ranking: Yuuki no Takarabako
+    original_title: |-
+      Ranking of Kings: The Treasure Chest of Courage
+    genre.sync: Anime,Adventure,Fantasy
+    label.remove: Ongoing
+    studio: Wit Studio
+    critic_rating: 0.0
   305089:
     title: |-
       Re:Zero kara Hajimeru Isekai Seikatsu
@@ -2914,7 +2936,7 @@ metadata:
     original_title: |-
       Skip and Loafer
     genre.sync: Anime,Drama,Seinen,School
-    label: Ongoing
+    label.remove: Ongoing
     studio: P.A. Works
     critic_rating: 8.0
   72491:
@@ -3084,7 +3106,7 @@ metadata:
     original_title: |-
       Heavenly Delusion
     genre.sync: Anime,Adventure,Mystery,Sci-Fi,Seinen,Survival
-    label: Ongoing
+    label.remove: Ongoing
     studio: Production I.G
     critic_rating: 8.1
   400961:
@@ -3267,7 +3289,7 @@ metadata:
     original_title: |-
       TONIKAWA: Over The Moon For You
     genre.sync: Anime,Comedy,Romance,Shounen
-    label: Ongoing
+    label.remove: Ongoing
     studio: Seven Arcs
     seasons:
       0:
@@ -3433,7 +3455,7 @@ metadata:
     original_title: |-
       VINLAND SAGA
     genre.sync: Anime,Action,Adventure,Drama,Seinen,Gore,Historical
-    label: Ongoing
+    label.remove: Ongoing
     studio: Wit Studio
     seasons:
       1:
@@ -3615,6 +3637,17 @@ metadata:
         user_rating: 5.3
         label: score
     critic_rating: 6.9
+  423413:
+    title: |-
+      Yamada-kun to Lv999 no Koi wo Suru
+    sort_title: |-
+      Yamada-kun to Lv999 no Koi wo Suru
+    original_title: |-
+      My Love Story with Yamada-kun at Lv999
+    genre.sync: Anime,Romance,Video Game
+    label.remove: Ongoing
+    studio: Madhouse
+    critic_rating: 7.7
   313488:
     title: |-
       Yi Ren Zhi Xia
