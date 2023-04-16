@@ -104,7 +104,7 @@ metadata:
     genre.sync: Anime,Action,Comedy
     label.remove: Ongoing
     studio: P.A. Works
-    critic_rating: 7.7
+    critic_rating: 7.6
   411821:
     title: |-
       Akuyaku Reijou nano de Last Boss wo Kattemimashita
@@ -731,7 +731,7 @@ metadata:
       3:
         title: |-
           Dr. STONE: NEW WORLD
-        user_rating: 8.3
+        user_rating: 8.4
         label: score
     critic_rating: 8.3
   289882:
@@ -1301,7 +1301,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,School
     label: Ongoing
     studio: Millepensee
-    critic_rating: 7.5
+    critic_rating: 7.4
   104741:
     title: |-
       Isekai no Seikishi Monogatari
@@ -1345,7 +1345,7 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Romance,Harem,Isekai
     label: Ongoing
     studio: Studio Elle
-    critic_rating: 6.8
+    critic_rating: 6.7
   406592:
     title: |-
       Isekai Yakkyoku
@@ -1482,7 +1482,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Seinen,Isekai,Reincarnation
     label: Ongoing
     studio: Studio Palette
-    critic_rating: 7.0
+    critic_rating: 6.9
   262106:
     title: |-
       Kamisama Hajimemashita
@@ -1789,7 +1789,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy
     label: Ongoing
     studio: Drive
-    critic_rating: 8.1
+    critic_rating: 8.0
   303867:
     title: |-
       Kono Subarashii Sekai ni Shukufuku wo!
@@ -2336,6 +2336,17 @@ metadata:
     label.remove: Ongoing
     studio: Geek Toys
     critic_rating: 6.3
+  423094:
+    title: |-
+      Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
+    sort_title: |-
+      Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
+    original_title: |-
+      The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far
+    genre.sync: Anime,Action,Fantasy,Romance,Harem,Isekai,Reincarnation
+    label: Ongoing
+    studio: Magic Bus
+    critic_rating: 6.7
   275610:
     title: |-
       Noragami
@@ -2448,10 +2459,10 @@ metadata:
       Otonari ni Ginga
     original_title: |-
       A Galaxy Next Door
-    genre.sync: Anime,Comedy,Romance,Supernatural,Seinen,Childcare
+    genre.sync: Anime,Romance,Supernatural,Seinen,Childcare
     label: Ongoing
     studio: Asahi Production
-    critic_rating: 7.4
+    critic_rating: 7.3
   414221:
     title: |-
       Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
@@ -2462,7 +2473,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,School
     label.remove: Ongoing
     studio: Project No.9
-    critic_rating: 7.9
+    critic_rating: 7.8
   391625:
     title: |-
       Ousama Ranking
@@ -3097,7 +3108,7 @@ metadata:
     genre.sync: Anime,Adventure,Mystery,Sci-Fi,Seinen,Survival
     label: Ongoing
     studio: Production I.G
-    critic_rating: 8.1
+    critic_rating: 8.0
   400961:
     title: |-
       Tensai Ouji no Akaji Kokka Saisei Jutsu
