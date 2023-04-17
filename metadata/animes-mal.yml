@@ -2336,17 +2336,6 @@ metadata:
     label.remove: Ongoing
     studio: Geek Toys
     critic_rating: 6.3
-  423094:
-    title: |-
-      Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
-    sort_title: |-
-      Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
-    original_title: |-
-      The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far
-    genre.sync: Anime,Action,Fantasy,Romance,Harem,Isekai,Reincarnation
-    label: Ongoing
-    studio: Magic Bus
-    critic_rating: 6.7
   275610:
     title: |-
       Noragami
@@ -3120,6 +3109,17 @@ metadata:
     label.remove: Ongoing
     studio: Yokohama Animation Lab
     critic_rating: 7.4
+  423094:
+    title: |-
+      Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
+    sort_title: |-
+      Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
+    original_title: |-
+      The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far
+    genre.sync: Anime,Action,Fantasy,Romance,Harem,Isekai,Reincarnation
+    label: Ongoing
+    studio: Magic Bus
+    critic_rating: 6.7
   423362:
     title: |-
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
