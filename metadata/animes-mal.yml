@@ -1365,7 +1365,7 @@ metadata:
     original_title: |-
       BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Video Game
-    label: Ongoing
+    label.remove: Ongoing
     studio: SILVER LINK.
     seasons:
       1:
