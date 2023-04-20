@@ -8,7 +8,7 @@ metadata:
       Fairy Tail
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
-    studio: A-1 Pictures
+    studio: Fairy Tail
     critic_rating: 7.6
   79685:
     title: |-
@@ -19,7 +19,7 @@ metadata:
       Fighting Spirit
     genre.sync: Anime,Sports,Shounen,Combat Sports
     label.remove: Ongoing
-    studio: Madhouse
+    studio: Hajime no Ippo
     seasons:
       0:
         label.remove: score
@@ -1779,6 +1779,17 @@ metadata:
     label.remove: Ongoing
     studio: Platinum Vision
     critic_rating: 7.9
+  420657:
+    title: |-
+      Kono Subarashii Sekai ni Bakuen wo!
+    sort_title: |-
+      Kono Subarashii Sekai ni Bakuen wo!
+    original_title: |-
+      KonoSuba: An Explosion on This Wonderful World!
+    genre.sync: Anime,Comedy,Fantasy
+    label: Ongoing
+    studio: Drive
+    critic_rating: 8.0
   303867:
     title: |-
       Kono Subarashii Sekai ni Shukufuku wo!
@@ -1803,17 +1814,6 @@ metadata:
         user_rating: 8.3
         label: score
     critic_rating: 8.2
-  420657:
-    title: |-
-      Kono Subarashii Sekai ni Bakuen wo!
-    sort_title: |-
-      Kono Subarashii Sekai ni Bakuen wo!
-    original_title: |-
-      KonoSuba: An Explosion on This Wonderful World!
-    genre.sync: Anime,Comedy,Fantasy
-    label: Ongoing
-    studio: Drive
-    critic_rating: 8.0
   421514:
     title: |-
       Koori Zokusei Danshi to Cool na Douryou Joshi
@@ -2102,7 +2102,7 @@ metadata:
       Major S1
     genre.sync: Anime,Sports,Shounen,Team Sports
     label.remove: Ongoing
-    studio: Studio Hibari
+    studio: Major
     seasons:
       0:
         label.remove: score
