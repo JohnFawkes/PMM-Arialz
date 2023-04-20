@@ -8,7 +8,7 @@ metadata:
       Fairy Tail
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     label.remove: Ongoing
-    studio: Fairy Tail
+    studio: A-1 Pictures
     critic_rating: 7.6
   79685:
     title: |-
@@ -19,7 +19,7 @@ metadata:
       Fighting Spirit
     genre.sync: Anime,Sports,Shounen,Combat Sports
     label.remove: Ongoing
-    studio: Hajime no Ippo
+    studio: Madhouse
     seasons:
       0:
         label.remove: score
@@ -39,6 +39,50 @@ metadata:
         user_rating: 8.6
         label: score
     critic_rating: 8.7
+  76013:
+    title: |-
+      Major
+    sort_title: |-
+      Major
+    original_title: |-
+      Major
+    genre.sync: Anime,Sports,Shounen,Team Sports
+    label.remove: Ongoing
+    studio: Studio Hibari
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Major S1
+        user_rating: 8.2
+        label: score
+      2:
+        title: |-
+          Major S2
+        user_rating: 8.2
+        label: score
+      3:
+        title: |-
+          Major S3
+        user_rating: 8.2
+        label: score
+      4:
+        title: |-
+          Major S4
+        user_rating: 8.2
+        label: score
+      5:
+        title: |-
+          Major S5
+        user_rating: 8.4
+        label: score
+      6:
+        title: |-
+          Major S6
+        user_rating: 8.3
+        label: score
+    critic_rating: 8.2
   306269:
     title: |-
       3-gatsu no Lion
@@ -2093,50 +2137,6 @@ metadata:
         user_rating: 7.5
         label: score
     critic_rating: 7.4
-  76013:
-    title: |-
-      Major S1
-    sort_title: |-
-      Major S1
-    original_title: |-
-      Major S1
-    genre.sync: Anime,Sports,Shounen,Team Sports
-    label.remove: Ongoing
-    studio: Major
-    seasons:
-      0:
-        label.remove: score
-      1:
-        title: |-
-          Major S1
-        user_rating: 8.2
-        label: score
-      2:
-        title: |-
-          Major S2
-        user_rating: 8.2
-        label: score
-      3:
-        title: |-
-          Major S3
-        user_rating: 8.2
-        label: score
-      4:
-        title: |-
-          Major S4
-        user_rating: 8.2
-        label: score
-      5:
-        title: |-
-          Major S5
-        user_rating: 8.4
-        label: score
-      6:
-        title: |-
-          Major S6
-        user_rating: 8.3
-        label: score
-    critic_rating: 8.2
   375927:
     title: |-
       Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
