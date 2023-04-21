@@ -227,7 +227,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy
     label.remove: Ongoing
     studio: Yostar Pictures
-    critic_rating: 7.2
+    critic_rating: 7.1
   291630:
     title: |-
       Arslan Senki (TV)
@@ -593,7 +593,7 @@ metadata:
       CLAYMORE
     original_title: |-
       Claymore
-    genre.sync: Anime,Action,Adventure,Fantasy,Shounen,Gore,Mythology,Super Power
+    genre.sync: Anime,Action,Adventure,Fantasy,Shounen,Gore
     label.remove: Ongoing
     studio: Madhouse
     critic_rating: 7.7
@@ -637,7 +637,7 @@ metadata:
       D.Gray-man
     original_title: |-
       D.Gray-man
-    genre.sync: Anime,Action,Adventure,Comedy,Shounen,Mythology,Super Power
+    genre.sync: Anime,Action,Adventure,Fantasy,Shounen,Mythology,Super Power
     label.remove: Ongoing
     studio: TMS Entertainment
     critic_rating: 8.0
@@ -648,7 +648,7 @@ metadata:
       D.Gray-man HALLOW
     original_title: |-
       D.Gray-man HALLOW
-    genre.sync: Anime,Action,Adventure,Shounen,Mythology,Super Power
+    genre.sync: Anime,Action,Adventure,Fantasy,Shounen,Mythology,Super Power
     label.remove: Ongoing
     studio: TMS Entertainment
     critic_rating: 7.7
@@ -1315,7 +1315,7 @@ metadata:
       Inu x Boku SS
     original_title: |-
       Inu X Boku Secret Service
-    genre.sync: Anime,Comedy,Drama,Romance,Supernatural,Shounen,Mythology,School
+    genre.sync: Anime,Comedy,Romance,Supernatural,Shounen,Mythology
     label.remove: Ongoing
     studio: David Production
     seasons:
@@ -1345,7 +1345,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,School
     label: Ongoing
     studio: Millepensee
-    critic_rating: 7.4
+    critic_rating: 7.3
   104741:
     title: |-
       Isekai no Seikishi Monogatari
@@ -1523,7 +1523,7 @@ metadata:
       Kaminaki Sekai no Kamisama Katsudou
     original_title: |-
       KamiKatsu: Working for God in a Godless World
-    genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Seinen,Isekai,Reincarnation
+    genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Seinen,Isekai,Parody,Reincarnation
     label: Ongoing
     studio: Studio Palette
     critic_rating: 6.9
@@ -1833,7 +1833,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy
     label: Ongoing
     studio: Drive
-    critic_rating: 8.0
+    critic_rating: 7.9
   303867:
     title: |-
       Kono Subarashii Sekai ni Shukufuku wo!
@@ -2352,7 +2352,7 @@ metadata:
       1:
         title: |-
           Noragami
-        user_rating: 8.0
+        user_rating: 7.9
         label: score
       2:
         title: |-
@@ -3097,7 +3097,7 @@ metadata:
     genre.sync: Anime,Adventure,Mystery,Sci-Fi,Seinen,Survival
     label: Ongoing
     studio: Production I.G
-    critic_rating: 8.0
+    critic_rating: 8.1
   400961:
     title: |-
       Tensai Ouji no Akaji Kokka Saisei Jutsu
@@ -3119,7 +3119,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,Harem,Isekai,Reincarnation
     label: Ongoing
     studio: Magic Bus
-    critic_rating: 6.7
+    critic_rating: 6.6
   423362:
     title: |-
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
@@ -3149,7 +3149,7 @@ metadata:
       Tensei Shitara Slime Datta Ken
     original_title: |-
       That Time I Got Reincarnated as a Slime
-    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Mythology,Reincarnation
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: 8bit
     seasons:
@@ -3729,17 +3729,6 @@ metadata:
     label.remove: Ongoing
     studio: Production I.G
     critic_rating: 8.2
-  419500:
-    title: |-
-      Yuusha ga Shinda!
-    sort_title: |-
-      Yuusha ga Shinda!
-    original_title: |-
-      The Legendary Hero Is Dead!
-    genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Harem,Parody
-    label: Ongoing
-    studio: LIDENFILMS
-    critic_rating: 6.5
   262109:
     title: |-
       Zetsuen no Tempest
