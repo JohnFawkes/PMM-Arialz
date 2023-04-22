@@ -126,7 +126,7 @@ metadata:
     genre.sync: Anime,Drama,Supernatural,Seinen,Reincarnation,Showbiz
     label: Ongoing
     studio: Doga Kobo
-    critic_rating: 9.3
+    critic_rating: 9.2
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -2927,7 +2927,7 @@ metadata:
     genre.sync: Anime,Drama,Seinen,School
     label: Ongoing
     studio: P.A. Works
-    critic_rating: 8.0
+    critic_rating: 8.1
   72491:
     title: |-
       SLAM DUNK
@@ -3295,7 +3295,15 @@ metadata:
       0:
         label.remove: score
       1:
-        label.remove: score
+        title: |-
+          Tonikaku Kawaii
+        user_rating: 7.9
+        label: score
+      2:
+        title: |-
+          Tonikaku Kawaii Season 2
+        user_rating: 8.0
+        label: score
     critic_rating: 7.9
   83277:
     title: |-
