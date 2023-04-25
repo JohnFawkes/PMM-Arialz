@@ -1389,7 +1389,7 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Romance,Harem,Isekai
     label: Ongoing
     studio: Studio Elle
-    critic_rating: 6.7
+    critic_rating: 6.6
   406592:
     title: |-
       Isekai Yakkyoku
@@ -1420,7 +1420,7 @@ metadata:
       2:
         title: |-
           Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2
-        user_rating: 7.3
+        user_rating: 7.2
         label: score
     critic_rating: 7.4
   402474:
@@ -1526,7 +1526,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Seinen,Isekai,Parody,Reincarnation
     label: Ongoing
     studio: Studio Palette
-    critic_rating: 6.9
+    critic_rating: 6.8
   262106:
     title: |-
       Kamisama Hajimemashita
@@ -2448,10 +2448,10 @@ metadata:
       Otonari ni Ginga
     original_title: |-
       A Galaxy Next Door
-    genre.sync: Anime,Romance,Supernatural,Seinen,Childcare
+    genre.sync: Anime,Romance,Supernatural,Seinen,Childcare,Otaku Culture
     label: Ongoing
     studio: Asahi Production
-    critic_rating: 7.3
+    critic_rating: 7.2
   414221:
     title: |-
       Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
