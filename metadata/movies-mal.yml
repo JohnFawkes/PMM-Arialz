@@ -579,16 +579,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,School
     studio: Kyoto Animation
     critic_rating: 8.1
-  tt0245429:
-    title: |-
-      Sen to Chihiro no Kamikakushi
-    sort_title: |-
-      Sen to Chihiro no Kamikakushi
-    original_title: |-
-      Spirited Away
-    genre.sync: Anime,Adventure,Award Winning,Supernatural,Mythology
-    studio: Studio Ghibli
-    critic_rating: 8.8
   tt10068916:
     title: |-
       Made in Abyss: Fukaki Tamashii no Reimei
@@ -739,6 +729,16 @@ metadata:
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     studio: GoHands
     critic_rating: 7.8
+  tt0245429:
+    title: |-
+      Sen to Chihiro no Kamikakushi
+    sort_title: |-
+      Sen to Chihiro no Kamikakushi
+    original_title: |-
+      Spirited Away
+    genre.sync: Anime,Adventure,Award Winning,Supernatural,Mythology
+    studio: Studio Ghibli
+    critic_rating: 8.8
   tt2458948:
     title: |-
       Shin Evangelion Movie:||
