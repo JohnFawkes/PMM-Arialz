@@ -7,7 +7,7 @@ collections:
         unplayed_episodes: true
       sort_by: viewed.desc
     sort_title: |-
-      1 - Ongoing à voir
+      !1 - Ongoing à voir
     collection_mode: show_items
     visible_library: true
     visible_home: true
@@ -23,7 +23,7 @@ collections:
         unplayed_episodes: true
       sort_by: episode_added.desc
     sort_title: |-
-      2 - Ended à voir
+      !2 - Ended à voir
     collection_mode: show_items
     visible_library: true
     visible_home: true
@@ -36,7 +36,7 @@ collections:
       all:
         label: Ongoing
     sort_title: |-
-      0 - Ongoing All
+      !0 - Ongoing All
     collection_mode: hide
     visible_library: false
     visible_home: false
