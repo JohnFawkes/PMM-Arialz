@@ -19,6 +19,16 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Shounen,Mythology,School
     studio: A-1 Pictures
     critic_rating: 7.6
+  tt1568921:
+    title: |-
+      Karigurashi no Arrietty
+    sort_title: |-
+      Karigurashi no Arrietty
+    original_title: |-
+      The Secret World of Arrietty
+    genre.sync: Anime,Award Winning,Fantasy
+    studio: Studio Ghibli
+    critic_rating: 7.9
   tt4272866:
     title: |-
       Bakemono no Ko
@@ -129,6 +139,16 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
     studio: Sunrise
     critic_rating: 8.0
+  tt1798188:
+    title: |-
+      Coquelicot-zaka kara
+    sort_title: |-
+      Coquelicot-zaka kara
+    original_title: |-
+      From Up on Poppy Hill
+    genre.sync: Anime,Award Winning,Romance,Shoujo,Historical,School
+    studio: Studio Ghibli
+    critic_rating: 7.8
   tt0259974:
     title: |-
       Digimon Adventure (Movie)
@@ -299,6 +319,16 @@ metadata:
     genre.sync: Anime,Award Winning,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
     studio: Production I.G
     critic_rating: 7.8
+  tt0108432:
+    title: |-
+      Umi ga Kikoeru
+    sort_title: |-
+      Umi ga Kikoeru
+    original_title: |-
+      The Ocean Waves
+    genre.sync: Anime,Drama,Romance,School
+    studio: Studio Ghibli
+    critic_rating: 6.5
   tt12879624:
     title: |-
       Josee to Tora to Sakanatachi
@@ -409,16 +439,6 @@ metadata:
     genre.sync: Anime,Action,Drama,Mystery,Supernatural,Suspense
     studio: ufotable
     critic_rating: 8.0
-  tt1568921:
-    title: |-
-      Karigurashi no Arrietty
-    sort_title: |-
-      Karigurashi no Arrietty
-    original_title: |-
-      The Secret World of Arrietty
-    genre.sync: Anime,Award Winning,Fantasy
-    studio: Studio Ghibli
-    critic_rating: 7.9
   tt1726286:
     title: |-
       Kidou Senshi Gundam 00: A wakening of the Trailblazer
@@ -459,6 +479,16 @@ metadata:
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     studio: Sunrise
     critic_rating: 7.8
+  tt0097814:
+    title: |-
+      Majo no Takkyuubin
+    sort_title: |-
+      Majo no Takkyuubin
+    original_title: |-
+      Kiki's Delivery Service
+    genre.sync: Anime,Adventure,Award Winning,Comedy,Drama,Fantasy
+    studio: Studio Ghibli
+    critic_rating: 8.2
   tt11032374:
     title: |-
       Kimetsu no Yaiba: Mugen Ressha-hen
@@ -579,6 +609,76 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Romance,School
     studio: Kyoto Animation
     critic_rating: 8.1
+  tt0347149:
+    title: |-
+      Howl no Ugoku Shiro
+    sort_title: |-
+      Howl no Ugoku Shiro
+    original_title: |-
+      Howl's Moving Castle
+    genre.sync: Anime,Adventure,Award Winning,Drama,Fantasy,Romance
+    studio: Studio Ghibli
+    critic_rating: 8.7
+  tt0092067:
+    title: |-
+      Tenkuu no Shiro Laputa
+    sort_title: |-
+      Tenkuu no Shiro Laputa
+    original_title: |-
+      Castle in the Sky
+    genre.sync: Anime,Adventure,Award Winning,Fantasy,Romance,Sci-Fi
+    studio: Studio Ghibli
+    critic_rating: 8.3
+  tt2576852:
+    title: |-
+      Kaguya-hime no Monogatari
+    sort_title: |-
+      Kaguya-hime no Monogatari
+    original_title: |-
+      The Tale of the Princess Kaguya
+    genre.sync: Anime,Award Winning,Fantasy,Historical
+    studio: Studio Ghibli
+    critic_rating: 8.2
+  tt0347618:
+    title: |-
+      Neko no Ongaeshi
+    sort_title: |-
+      Neko no Ongaeshi
+    original_title: |-
+      The Cat Returns
+    genre.sync: Anime,Adventure,Award Winning,Drama,Fantasy,Anthropomorphic
+    studio: Studio Ghibli
+    critic_rating: 7.7
+  tt0095327:
+    title: |-
+      Hotaru no Haka
+    sort_title: |-
+      Hotaru no Haka
+    original_title: |-
+      Grave of the Fireflies
+    genre.sync: Anime,Drama,Historical
+    studio: Studio Ghibli
+    critic_rating: 8.5
+  tt2013293:
+    title: |-
+      Kaze Tachinu
+    sort_title: |-
+      Kaze Tachinu
+    original_title: |-
+      The Wind Rises
+    genre.sync: Anime,Award Winning,Drama,Romance,Historical
+    studio: Studio Ghibli
+    critic_rating: 8.1
+  tt0495596:
+    title: |-
+      Ged Senki
+    sort_title: |-
+      Ged Senki
+    original_title: |-
+      Tales from Earthsea
+    genre.sync: Anime,Adventure,Fantasy
+    studio: Studio Ghibli
+    critic_rating: 6.8
   tt10068916:
     title: |-
       Made in Abyss: Fukaki Tamashii no Reimei
@@ -629,6 +729,16 @@ metadata:
     genre.sync: Anime,Sci-Fi,Supernatural
     studio: 8bit
     critic_rating: 7.7
+  tt0206013:
+    title: |-
+      Hoohokekyo Tonari no Yamada-kun
+    sort_title: |-
+      Hoohokekyo Tonari no Yamada-kun
+    original_title: |-
+      My Neighbors the Yamadas
+    genre.sync: Anime,Award Winning,Comedy,Slice of Life
+    studio: Studio Ghibli
+    critic_rating: 7.1
   tt6900448:
     title: |-
       Mirai no Mirai
@@ -639,6 +749,16 @@ metadata:
     genre.sync: Anime,Adventure,Drama,Fantasy,Time Travel
     studio: Studio Chizu
     critic_rating: 7.3
+  tt0096283:
+    title: |-
+      Tonari no Totoro
+    sort_title: |-
+      Tonari no Totoro
+    original_title: |-
+      My Neighbor Totoro
+    genre.sync: Anime,Adventure,Award Winning,Supernatural
+    studio: Studio Ghibli
+    critic_rating: 8.2
   tt9089294:
     title: |-
       Nanatsu no Taizai Movie: Tenkuu no Torawarebito
@@ -659,6 +779,16 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
     studio: Studio Deen
     critic_rating: 7.1
+  tt0087544:
+    title: |-
+      Kaze no Tani no Nausicaä
+    sort_title: |-
+      Kaze no Tani no Nausicaä
+    original_title: |-
+      Nausicaä of the Valley of the Wind
+    genre.sync: Anime,Adventure,Award Winning,Fantasy
+    studio: Topcraft
+    critic_rating: 8.4
   tt2140203:
     title: |-
       Ookami Kodomo no Ame to Yuki
@@ -669,6 +799,46 @@ metadata:
     genre.sync: Anime,Award Winning,Fantasy,Slice of Life,Childcare
     studio: Studio Chizu
     critic_rating: 8.6
+  tt0110008:
+    title: |-
+      Heisei Tanuki Gassen Ponpoko
+    sort_title: |-
+      Heisei Tanuki Gassen Ponpoko
+    original_title: |-
+      Pom Poko
+    genre.sync: Anime,Award Winning,Kids,Anthropomorphic
+    studio: Studio Ghibli
+    critic_rating: 7.3
+  tt0876563:
+    title: |-
+      Gake no Ue no Ponyo
+    sort_title: |-
+      Gake no Ue no Ponyo
+    original_title: |-
+      Ponyo
+    genre.sync: Anime,Adventure,Award Winning,Fantasy
+    studio: Studio Ghibli
+    critic_rating: 7.9
+  tt0104652:
+    title: |-
+      Kurenai no Buta
+    sort_title: |-
+      Kurenai no Buta
+    original_title: |-
+      Porco Rosso
+    genre.sync: Anime,Action,Adventure,Award Winning,Comedy,Drama,Romance,Historical,Military
+    studio: Studio Ghibli
+    critic_rating: 7.9
+  tt0119698:
+    title: |-
+      Mononoke-hime
+    sort_title: |-
+      Mononoke-hime
+    original_title: |-
+      Princess Mononoke
+    genre.sync: Anime,Action,Adventure,Award Winning,Fantasy
+    studio: Studio Ghibli
+    critic_rating: 8.7
   tt10736726:
     title: |-
       Quanzhi Gaoshou: Dianfeng Rongyao
@@ -759,6 +929,16 @@ metadata:
     genre.sync: Anime,Comedy,Drama,Adult Cast,Otaku Culture,Workplace
     studio: P.A. Works
     critic_rating: 7.7
+  tt0113824:
+    title: |-
+      Mimi wo Sumaseba
+    sort_title: |-
+      Mimi wo Sumaseba
+    original_title: |-
+      Whisper of the Heart
+    genre.sync: Anime,Drama,Romance,Shoujo
+    studio: Studio Ghibli
+    critic_rating: 8.2
   tt12642574:
     title: |-
       Sidonia no Kishi: Ai Tsumugu Hoshi
@@ -768,6 +948,26 @@ metadata:
       Knights of Sidonia: Love Woven in the Stars
     genre.sync: Anime,Action,Sci-Fi,Seinen,Mecha,Space
     studio: Polygon Pictures
+    critic_rating: 7.4
+  tt3398268:
+    title: |-
+      Omoide no Marnie
+    sort_title: |-
+      Omoide no Marnie
+    original_title: |-
+      When Marnie Was There
+    genre.sync: Anime,Drama,Mystery,Psychological
+    studio: Studio Ghibli
+    critic_rating: 8.1
+  tt0102587:
+    title: |-
+      Omoide Poro Poro
+    sort_title: |-
+      Omoide Poro Poro
+    original_title: |-
+      Only Yesterday
+    genre.sync: Anime,Drama,Romance,Josei
+    studio: Studio Ghibli
     critic_rating: 7.4
   tt1121794:
     title: |-
