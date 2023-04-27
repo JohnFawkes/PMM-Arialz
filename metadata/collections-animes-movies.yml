@@ -4,7 +4,6 @@ collections:
       any:
         studio: Studio Ghibli
         director: Hayao Miyazaki
-        unplayed_episodes: true
       sort_by: release.asc
     sort_title: |-
       Studio Ghibli
