@@ -812,6 +812,17 @@ metadata:
         user_rating: 7.7
         label: score
     critic_rating: 7.5
+  421273:
+    title: |-
+      Edomae Elf
+    sort_title: |-
+      Edomae Elf
+    original_title: |-
+      Otaku Elf
+    genre.sync: Anime,Comedy,Supernatural,Shounen
+    label: Ongoing
+    studio: C2C
+    critic_rating: 7.1
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -2441,17 +2452,6 @@ metadata:
     label.remove: Ongoing
     studio: Polygon Pictures
     critic_rating: 6.7
-  421273:
-    title: |-
-      Edomae Elf
-    sort_title: |-
-      Edomae Elf
-    original_title: |-
-      Otaku Elf
-    genre.sync: Anime,Comedy,Supernatural,Shounen
-    label: Ongoing
-    studio: C2C
-    critic_rating: 7.1
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
