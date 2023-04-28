@@ -2055,6 +2055,17 @@ metadata:
         user_rating: 8.2
         label: score
     critic_rating: 8.1
+  402893:
+    title: |-
+      Mahou Shoujo Magical Destroyers
+    sort_title: |-
+      Mahou Shoujo Magical Destroyers
+    original_title: |-
+      Magical Destroyers
+    genre.sync: Anime,Action,Fantasy,Mahou Shoujo
+    label: Ongoing
+    studio: Bibury Animation Studios
+    critic_rating: 6.8
   278329:
     title: |-
       Mahouka Koukou no Rettousei
@@ -2430,6 +2441,17 @@ metadata:
     label.remove: Ongoing
     studio: Polygon Pictures
     critic_rating: 6.7
+  421273:
+    title: |-
+      Edomae Elf
+    sort_title: |-
+      Edomae Elf
+    original_title: |-
+      Otaku Elf
+    genre.sync: Anime,Comedy,Supernatural,Shounen
+    label: Ongoing
+    studio: C2C
+    critic_rating: 7.1
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
