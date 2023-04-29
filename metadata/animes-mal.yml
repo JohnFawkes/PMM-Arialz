@@ -903,7 +903,7 @@ metadata:
       Gankutsuou: The Count of Monte Cristo
     genre.sync: Anime,Award Winning,Drama,Mystery,Sci-Fi,Supernatural,Suspense
     label.remove: Ongoing
-    studio: Gone-zo
+    studio: Gonzo
     critic_rating: 8.1
   279804:
     title: |-
@@ -1356,7 +1356,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,School
     label: Ongoing
     studio: Millepensee
-    critic_rating: 7.3
+    critic_rating: 7.1
   104741:
     title: |-
       Isekai no Seikishi Monogatari
@@ -1400,7 +1400,7 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Romance,Harem,Isekai
     label: Ongoing
     studio: Studio Elle
-    critic_rating: 6.6
+    critic_rating: 6.5
   406592:
     title: |-
       Isekai Yakkyoku
@@ -1844,7 +1844,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy
     label: Ongoing
     studio: Drive
-    critic_rating: 7.9
+    critic_rating: 7.8
   303867:
     title: |-
       Kono Subarashii Sekai ni Shukufuku wo!
@@ -1879,7 +1879,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Adult Cast,Mythology,Workplace
     label.remove: Ongoing
     studio: Zero-G
-    critic_rating: 7.4
+    critic_rating: 7.3
   413515:
     title: |-
       Koukyuu no Karasu
@@ -2202,7 +2202,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Gag Humor,Parody,School
     label: Ongoing
     studio: A-1 Pictures
-    critic_rating: 7.7
+    critic_rating: 7.6
   307375:
     title: |-
       Mob Psycho 100
@@ -3463,9 +3463,9 @@ metadata:
       2:
         title: |-
           Uzaki-chan wa Asobitai! ω
-        user_rating: 7.3
+        user_rating: 7.2
         label: score
-    critic_rating: 7.2
+    critic_rating: 7.1
   400133:
     title: |-
       Vanitas no Carte
