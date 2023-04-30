@@ -319,6 +319,16 @@ metadata:
     genre.sync: Anime,Military,School
     studio: Actas
     critic_rating: 8.2
+  tt15721650:
+    title: |-
+      Go-toubun no Hanayome Movie
+    sort_title: |-
+      Go-toubun no Hanayome Movie
+    original_title: |-
+      The Quintessential Quintuplets Movie
+    genre.sync: Anime,Comedy,Romance,Shounen,Harem,School
+    studio: Bibury Animation Studios
+    critic_rating: 7.9
   tt0110008:
     title: |-
       Heisei Tanuki Gassen Ponpoko
@@ -859,16 +869,6 @@ metadata:
     genre.sync: Anime,Action,Video Game
     studio: Colored Pencil Animation
     critic_rating: 8.1
-  tt15721650:
-    title: |-
-      Go-toubun no Hanayome Movie
-    sort_title: |-
-      Go-toubun no Hanayome Movie
-    original_title: |-
-      The Quintessential Quintuplets Movie
-    genre.sync: Anime,Comedy,Romance,Shounen,Harem,School
-    studio: Bibury Animation Studios
-    critic_rating: 7.9
   tt13651628:
     title: |-
       Ryuu to Sobakasu no Hime
