@@ -59,6 +59,11 @@ overlays:
     variables: {key: AIC, weight: 10}
     template: [name: animes_studios]
 
+  A.C.G.T.:
+    variables: {key: A.C.G.T., weight: 10}
+    template: [name: animes_studios]
+
+
   AIC Spirits:
     variables: {key: AIC, weight: 10}
     template: [name: animes_studios]
