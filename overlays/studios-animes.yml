@@ -14,7 +14,7 @@ templates:
         studio: <<overlay_name>>
     overlay:
       name: <<overlay_name>>
-      repo: overlays/Images/Studios-Animes/<<overlay>>
+      repo: overlays/Images/Studios-Animes/<<key>>
       group: animes_studios
       weight: <<weight>>
       back_color: "#000000B3"
@@ -39,8 +39,28 @@ overlays:
     variables: {key: Actas, weight: 10}
     template: [name: animes_studios]
 
+  AIC:
+    variables: {key: AIC, weight: 10}
+    template: [name: animes_studios]
+
+  AIC ASTA:
+    variables: {key: AIC, weight: 10}
+    template: [name: animes_studios]
+
+  AIC Build:
+    variables: {key: AIC, weight: 10}
+    template: [name: animes_studios]
+
+  AAIC PLUS+:
+    variables: {key: AIC, weight: 10}
+    template: [name: animes_studios]
+
+  AIC RIGHTS:
+    variables: {key: AIC, weight: 10}
+    template: [name: animes_studios]
+
   AIC Spirits:
-    variables: {key: AIC Spirits, weight: 10}
+    variables: {key: AIC, weight: 10}
     template: [name: animes_studios]
 
   Ajia-Do:
@@ -60,6 +80,10 @@ overlays:
     template: [name: animes_studios]
 
   asread.:
+    variables: {key: asread., weight: 10}
+    template: [name: animes_studios]
+
+  Asread:
     variables: {key: asread., weight: 10}
     template: [name: animes_studios]
 
@@ -119,6 +143,10 @@ overlays:
     variables: {key: Connect, weight: 10}
     template: [name: animes_studios]
 
+  Cygames Pictures:
+    variables: {key: CygamesPictures, weight: 10}
+    template: [name: animes_studios]
+
   CygamesPictures:
     variables: {key: CygamesPictures, weight: 10}
     template: [name: animes_studios]
@@ -156,6 +184,10 @@ overlays:
     template: [name: animes_studios]
 
   feel.:
+    variables: {key: feel., weight: 10}
+    template: [name: animes_studios]
+
+  FEEL:
     variables: {key: feel., weight: 10}
     template: [name: animes_studios]
 
