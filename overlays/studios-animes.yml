@@ -219,7 +219,15 @@ overlays:
     variables: {key: Gonzo, weight: 10}
     template: [name: animes_studios]
 
+  Gonzo Digimation:
+    variables: {key: Gonzo, weight: 10}
+    template: [name: animes_studios]
+
   Haoliners Animation League:
+    variables: {key: Haoliners Animation League, weight: 10}
+    template: [name: animes_studios]
+
+  Haoliners Huimeng Animation:
     variables: {key: Haoliners Animation League, weight: 10}
     template: [name: animes_studios]
 
@@ -260,6 +268,10 @@ overlays:
     template: [name: animes_studios]
 
   LIDENFILMS:
+    variables: {key: LIDENFILMS, weight: 10}
+    template: [name: animes_studios]
+
+  Liden Films:
     variables: {key: LIDENFILMS, weight: 10}
     template: [name: animes_studios]
 
@@ -327,7 +339,15 @@ overlays:
     variables: {key: Pierrot, weight: 10}
     template: [name: animes_studios]
 
+  Pierrot Plus:
+    variables: {key: Pierrot, weight: 10}
+    template: [name: animes_studios]
+
   Platinum Vision:
+    variables: {key: Platinum Vision, weight: 10}
+    template: [name: animes_studios]
+
+  Platinumvision:
     variables: {key: Platinum Vision, weight: 10}
     template: [name: animes_studios]
 
@@ -379,6 +399,18 @@ overlays:
     variables: {key: Satelight, weight: 10}
     template: [name: animes_studios]
 
+  Seven:
+    variables: {key: Seven Arcs, weight: 10}
+    template: [name: animes_studios]
+
+  Seven Arcs:
+    variables: {key: Seven Arcs, weight: 10}
+    template: [name: animes_studios]
+
+  Seven Arcs Pictures:
+    variables: {key: Seven Arcs, weight: 10}
+    template: [name: animes_studios]
+
   Seven Arcs:
     variables: {key: Seven Arcs, weight: 10}
     template: [name: animes_studios]
@@ -399,7 +431,15 @@ overlays:
     variables: {key: SILVER LINK., weight: 10}
     template: [name: animes_studios]
 
+  Silver Link:
+    variables: {key: SILVER LINK., weight: 10}
+    template: [name: animes_studios]
+
   Signal.MD:
+    variables: {key: Signal.MD, weight: 10}
+    template: [name: animes_studios]
+
+  Signal MD:
     variables: {key: Signal.MD, weight: 10}
     template: [name: animes_studios]
 
@@ -453,6 +493,10 @@ overlays:
 
   Studio Palette:
     variables: {key: Studio Palette, weight: 10}
+    template: [name: animes_studios]
+
+  Studio Pierrot:
+    variables: {key: Pierrot, weight: 10}
     template: [name: animes_studios]
 
   Studio Rikka:
