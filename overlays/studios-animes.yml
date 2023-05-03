@@ -211,6 +211,10 @@ overlays:
     variables: {key: GoHands, weight: 10}
     template: [name: animes_studios]
 
+  Go Hands:
+    variables: {key: GoHands, weight: 10}
+    template: [name: animes_studios]
+
   Gonzo:
     variables: {key: Gonzo, weight: 10}
     template: [name: animes_studios]
