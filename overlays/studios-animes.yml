@@ -416,10 +416,6 @@ overlays:
     variables: {key: Seven Arcs, weight: 10}
     template: [name: animes_studios]
 
-  Seven Arcs:
-    variables: {key: Seven Arcs, weight: 10}
-    template: [name: animes_studios]
-
   Shaft:
     variables: {key: Shaft, weight: 10}
     template: [name: animes_studios]
