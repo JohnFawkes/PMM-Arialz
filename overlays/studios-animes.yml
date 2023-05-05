@@ -31,6 +31,10 @@ overlays:
     variables: {key: 8bit, weight: 10}
     template: [name: animes_studios]
 
+  A.C.G.T.:
+    variables: {key: A.C.G.T., weight: 10}
+    template: [name: animes_studios]
+
   A-1 Pictures:
     variables: {key: A-1 Pictures, weight: 10}
     template: [name: animes_studios]
@@ -58,11 +62,6 @@ overlays:
   AIC RIGHTS:
     variables: {key: AIC, weight: 10}
     template: [name: animes_studios]
-
-  A.C.G.T.:
-    variables: {key: A.C.G.T., weight: 10}
-    template: [name: animes_studios]
-
 
   AIC Spirits:
     variables: {key: AIC, weight: 10}
@@ -244,14 +243,6 @@ overlays:
     variables: {key: Imagin, weight: 10}
     template: [name: animes_studios]
 
-  Lay-duce:
-    variables: {key: Lay-duce, weight: 10}
-    template: [name: animes_studios]
-
-  Lerche:
-    variables: {key: Lerche, weight: 10}
-    template: [name: animes_studios]
-
   J.C.Staff:
     variables: {key: J.C.Staff, weight: 10}
     template: [name: animes_studios]
@@ -270,6 +261,14 @@ overlays:
 
   Kyoto Animation:
     variables: {key: Kyoto Animation, weight: 10}
+    template: [name: animes_studios]
+
+  Lay-duce:
+    variables: {key: Lay-duce, weight: 10}
+    template: [name: animes_studios]
+
+  Lerche:
+    variables: {key: Lerche, weight: 10}
     template: [name: animes_studios]
 
   LIDENFILMS:
