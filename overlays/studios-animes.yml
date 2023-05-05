@@ -25,7 +25,7 @@ templates:
       horizontal_align: <<horizontal_align>>
       vertical_offset: <<vertical_offset>>
       vertical_align: <<vertical_align>>
-      
+
 overlays:
   8bit:
     variables: {key: 8bit, weight: 10}
