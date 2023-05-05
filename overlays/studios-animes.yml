@@ -16,7 +16,6 @@ templates:
       name: <<overlay_name>>
       repo: overlays/Images/Studios-Animes/<<key>>
       group: animes_studios
-      weight: <<weight>>
       back_color: "#000000B3"
       back_radius: 30
       back_width: 460
