@@ -575,6 +575,10 @@ overlays:
     variables: {key: Yostar Pictures, weight: 10}
     template: [name: animes_studios]
 
+  Yumeta Company:
+    variables: {key: Yumeta Company, weight: 10}
+    template: [name: animes_studios]
+
   Zero-G:
     variables: {key: Zero-G, weight: 10}
     template: [name: animes_studios]
