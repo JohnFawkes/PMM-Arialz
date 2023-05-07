@@ -444,7 +444,7 @@ metadata:
       3:
         title: |-
           Boku no Hero Academia 3
-        user_rating: 8.1
+        user_rating: 8.0
         label: score
       4:
         title: |-
@@ -461,7 +461,7 @@ metadata:
           Boku no Hero Academia 6
         user_rating: 8.4
         label: score
-    critic_rating: 8.0
+    critic_rating: 7.9
   426294:
     title: |-
       Buddy Daddies
@@ -1400,7 +1400,7 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Romance,Harem,Isekai
     label: Ongoing
     studio: Studio Elle
-    critic_rating: 6.5
+    critic_rating: 6.4
   406592:
     title: |-
       Isekai Yakkyoku
