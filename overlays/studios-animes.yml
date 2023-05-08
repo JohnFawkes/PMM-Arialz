@@ -11,13 +11,13 @@ external_templates:
     default:
       key: <<overlay_name>>
       horizontal_align: left
-      vertical_align: bottom
+      vertical_align: top
     conditionals:
       vertical_offset:
         default: 15
         conditions:
           - vertical_align.exists: false
-            value: 370
+            value: 15
           - vertical_align: center
             value: 0
           - vertical_align: top
