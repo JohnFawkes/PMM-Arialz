@@ -47,12 +47,21 @@ templates:
       validate: false
       all:
         studio: <<search>>
-      
+
 overlays:
   8bit:
     template: [name: standard, name: studios]
 
   A-1 Pictures:
+    template: [name: standard, name: studios]
+
+  A-Real:
+    template: [name: standard, name: studios]
+
+  A.C.G.T.:
+    template: [name: standard, name: studios]
+
+  Acca effe:
     template: [name: standard, name: studios]
 
   Actas:
@@ -88,7 +97,32 @@ overlays:
   Ajia-Do:
     template: [name: standard, name: studios]
 
+  Akatsuki:
+    template: [name: standard, name: studios]
+
+  Animation Do:
+    template: [name: standard, name: studios]
+
+  Ankama:
+    template: [name: standard, name: studios]
+
+  APPP:
+    template: [name: standard, name: studios]
+
+  A.P.P.P.:
+    variables: {key: APPP}
+    template: [name: standard, name: studios]
+
   Arms:
+    template: [name: standard, name: studios]
+
+  Artland:
+    template: [name: standard, name: studios]
+
+  Artmic:
+    template: [name: standard, name: studios]
+
+  Arvo Animation:
     template: [name: standard, name: studios]
 
   Asahi Production:
@@ -110,7 +144,37 @@ overlays:
   B.CMAY PICTURES:
     template: [name: standard, name: studios]
 
+  Bakken Record:
+    template: [name: standard, name: studios]
+
   Bandai Namco Pictures:
+    template: [name: standard, name: studios]
+
+  Bandai Visual:
+    variables: {key: Bandai Visual}
+    template: [name: standard, name: studios]
+
+  Bandai Visual Company:
+    variables: {key: Bandai Visual}
+    template: [name: standard, name: studios]
+
+  Bardel Entertainment:
+    template: [name: standard, name: studios]
+
+  Bee Train:
+    template: [name: standard, name: studios]
+
+  Bibury Animation Studios:
+    template: [name: standard, name: studios]
+
+  Bibury Animation CG:
+    variables: {key: Bibury Animation Studios}
+    template: [name: standard, name: studios]
+
+  bilibili:
+    template: [name: standard, name: studios]
+
+  Blade:
     template: [name: standard, name: studios]
 
   Bones:
@@ -146,6 +210,16 @@ overlays:
   Connect:
     template: [name: standard, name: studios]
 
+  Craftar Studios:
+    template: [name: standard, name: studios]
+
+  Craftar:
+    variables: {key: Craftar Studios}
+    template: [name: standard, name: studios]
+
+  Creators in Pack:
+    template: [name: standard, name: studios]
+
   CygamesPictures:
     template: [name: standard, name: studios]
 
@@ -157,6 +231,9 @@ overlays:
     template: [name: standard, name: studios]
 
   Diomedéa:
+    template: [name: standard, name: studios]
+
+  DLE:
     template: [name: standard, name: studios]
 
   Doga Kobo:
@@ -184,13 +261,34 @@ overlays:
     variables: {key: feel.}
     template: [name: standard, name: studios]
 
+  Felix Film:
+    template: [name: standard, name: studios]
+
+  Fenz:
+    template: [name: standard, name: studios]
+
+  Fortiche Production:
+    template: [name: standard, name: studios]
+
+  Frederator Studios:
+    template: [name: standard, name: studios]
+
   Gallop:
+    template: [name: standard, name: studios]
+
+  GAINAX:
     template: [name: standard, name: studios]
 
   Geek Toys:
     template: [name: standard, name: studios]
 
   Gekkou:
+    template: [name: standard, name: studios]
+
+  Gemba:
+    template: [name: standard, name: studios]
+
+  GENCO:
     template: [name: standard, name: studios]
 
   Geno Studio:
@@ -210,11 +308,23 @@ overlays:
     variables: {key: Gonzo}
     template: [name: standard, name: studios]
 
+  Graphinica:
+    template: [name: standard, name: studios]
+
+  Group Tac:
+    template: [name: standard, name: studios]
+
+  Hal Film Maker:
+    template: [name: standard, name: studios]
+
   Haoliners Animation League:
     template: [name: standard, name: studios]
 
   Haoliners Huimeng Animation:
     variables: {key: Haoliners Animation League}
+    template: [name: standard, name: studios]
+
+  Hoods Entertainment:
     template: [name: standard, name: studios]
 
   Hotline:
@@ -224,6 +334,9 @@ overlays:
     template: [name: standard, name: studios]
 
   J.C.Staff:
+    template: [name: standard, name: studios]
+
+  Jumondou:
     template: [name: standard, name: studios]
 
   Kadokawa:
@@ -238,7 +351,20 @@ overlays:
   Kyoto Animation:
     template: [name: standard, name: studios]
 
+  Lan Studio:
+    template: [name: standard, name: studios]
+
+  Studio LAN:
+    variables: {key: Lan Studio}
+    template: [name: standard, name: studios]
+
+  LandQ Studio:
+    template: [name: standard, name: studios]
+
   Lay-duce:
+    template: [name: standard, name: studios]
+
+  Legendary Television:
     template: [name: standard, name: studios]
 
   Lerche:
@@ -249,6 +375,12 @@ overlays:
 
   Liden Films:
     variables: {key: LIDENFILMS}
+    template: [name: standard, name: studios]
+
+  M.S.C:
+    template: [name: standard, name: studios]
+
+  Manglobe:
     template: [name: standard, name: studios]
 
   Madhouse:
@@ -275,7 +407,13 @@ overlays:
   Nexus:
     template: [name: standard, name: studios]
 
+  Nickelodeon Animation Studio:
+    template: [name: standard, name: studios]
+
   Nippon Animation:
+    template: [name: standard, name: studios]
+
+  Nomad:
     template: [name: standard, name: studios]
 
   Nut:
@@ -290,10 +428,22 @@ overlays:
   Orange:
     template: [name: standard, name: studios]
 
+  Ordet:
+    template: [name: standard, name: studios]
+
   OZ:
     template: [name: standard, name: studios]
 
   P.A. Works:
+    template: [name: standard, name: studios]
+
+  P.I.C.S.:
+    template: [name: standard, name: studios]
+
+  Passione:
+    template: [name: standard, name: studios]
+
+  Pb Animation Co. Ltd:
     template: [name: standard, name: studios]
 
   Pierrot:
@@ -307,6 +457,9 @@ overlays:
     variables: {key: Pierrot}
     template: [name: standard, name: studios]
 
+  Pine Jam:
+    template: [name: standard, name: studios]
+
   Platinum Vision:
     template: [name: standard, name: studios]
 
@@ -314,10 +467,16 @@ overlays:
     variables: {key: Platinum Vision}
     template: [name: standard, name: studios]
 
-  Passione:
+  Polygon Pictures:
     template: [name: standard, name: studios]
 
-  Polygon Pictures:
+  Pony Canyon:
+    template: [name: standard, name: studios]
+
+  Powerhouse Animation Studios:
+    template: [name: standard, name: studios]
+
+  PRA:
     template: [name: standard, name: studios]
 
   Production +h.:
@@ -341,13 +500,29 @@ overlays:
   Radix:
     template: [name: standard, name: studios]
 
+  Red Dog Culture House:
+    template: [name: standard, name: studios]
+
   Revoroot:
+    template: [name: standard, name: studios]
+
+  Saetta:
     template: [name: standard, name: studios]
 
   SANZIGEN:
     template: [name: standard, name: studios]
 
   Satelight:
+    template: [name: standard, name: studios]
+
+  Science SARU:
+    template: [name: standard, name: studios]
+
+  Science Saru:
+    variables: {key: Science SARU}
+    template: [name: standard, name: studios]
+
+  Sentai Filmworks:
     template: [name: standard, name: studios]
 
   Seven Arcs:
@@ -365,6 +540,13 @@ overlays:
     template: [name: standard, name: studios]
 
   Shin-Ei Animation:
+    template: [name: standard, name: studios]
+
+  Shogakukan:
+    template: [name: standard, name: studios]
+
+  Shogakukan Production:
+    variables: {key:  Shogakukan}
     template: [name: standard, name: studios]
 
   Shuka:
@@ -387,6 +569,9 @@ overlays:
   Staple Entertainment:
     template: [name: standard, name: studios]
 
+  Studio 3Hz:
+    template: [name: standard, name: studios]
+
   Studio A-CAT:
     template: [name: standard, name: studios]
 
@@ -405,16 +590,34 @@ overlays:
   Studio Deen:
     template: [name: standard, name: studios]
 
+  Studio Dragon:
+    template: [name: standard, name: studios]
+
   Studio Elle:
     template: [name: standard, name: studios]
 
+  Studio Flad:
+    template: [name: standard, name: studios]
+
   Studio Ghibli:
+    template: [name: standard, name: studios]
+
+  Studio Guts:
+    template: [name: standard, name: studios]
+
+  Studio Gokumi:
     template: [name: standard, name: studios]
 
   Studio Hibari:
     template: [name: standard, name: studios]
 
   Studio Kai:
+    template: [name: standard, name: studios]
+
+  Studio Kafka:
+    template: [name: standard, name: studios]
+
+  Studio Mir:
     template: [name: standard, name: studios]
 
   studio MOTHER:
@@ -426,10 +629,19 @@ overlays:
   Studio Rikka:
     template: [name: standard, name: studios]
 
+  Studio Signpost:
+    template: [name: standard, name: studios]
+
   Studio VOLN:
     template: [name: standard, name: studios]
 
+  STUDIO4°C:
+    template: [name: standard, name: studios]
+
   Sunrise:
+    template: [name: standard, name: studios]
+
+  Sunrise Beyond:
     template: [name: standard, name: studios]
 
   SynergySP:
@@ -444,7 +656,13 @@ overlays:
   Tezuka Productions:
     template: [name: standard, name: studios]
 
+  Titmouse:
+    template: [name: standard, name: studios]
+
   TMS Entertainment:
+    template: [name: standard, name: studios]
+
+  TNK:
     template: [name: standard, name: studios]
 
   Tokyo Movie Shinsha:
@@ -457,6 +675,9 @@ overlays:
   Topcraft:
     template: [name: standard, name: studios]
 
+  Triangle Staff:
+    template: [name: standard, name: studios]
+
   TROYCA:
     template: [name: standard, name: studios]
 
@@ -466,13 +687,31 @@ overlays:
   TYO Animations:
     template: [name: standard, name: studios]
 
+Typhoon Graphics:
+    template: [name: standard, name: studios]
+
   ufotable:
+    template: [name: standard, name: studios]
+
+  V1 Studio:
+    template: [name: standard, name: studios]
+
+  Wawayu Animation:
     template: [name: standard, name: studios]
 
   White Fox:
     template: [name: standard, name: studios]
 
   Wit Studio:
+    template: [name: standard, name: studios]
+
+  Wolfsbane:
+    template: [name: standard, name: studios]
+
+  W-Toon Studio:
+    template: [name: standard, name: studios]
+
+  Xebec:
     template: [name: standard, name: studios]
 
   Yokohama Animation Lab:
@@ -482,6 +721,9 @@ overlays:
     template: [name: standard, name: studios]
 
   Yumeta Company:
+    template: [name: standard, name: studios]
+
+  Zexcs:
     template: [name: standard, name: studios]
 
   Zero-G:
