@@ -55,9 +55,6 @@ overlays:
   A-1 Pictures:
     template: [name: standard, name: studios]
 
-  A-Real:
-    template: [name: standard, name: studios]
-
   A.C.G.T.:
     template: [name: standard, name: studios]
 
@@ -151,11 +148,11 @@ overlays:
     template: [name: standard, name: studios]
 
   Bandai Visual:
-    variables: {key: Bandai Visual}
+    variables: {key: Bandai Namco Pictures}
     template: [name: standard, name: studios]
 
   Bandai Visual Company:
-    variables: {key: Bandai Visual}
+    variables: {key: Bandai Namco Pictures}
     template: [name: standard, name: studios]
 
   Bardel Entertainment:
