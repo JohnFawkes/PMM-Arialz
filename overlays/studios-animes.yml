@@ -687,7 +687,7 @@ overlays:
   TYO Animations:
     template: [name: standard, name: studios]
 
-Typhoon Graphics:
+  Typhoon Graphics:
     template: [name: standard, name: studios]
 
   ufotable:
