@@ -31,11 +31,11 @@ external_templates:
             value: 0
           - horizontal_align: [left, right]
             value: 15
-      repo: overlays/Images/Studios-Animes/<<overlay>>
-    back_color: "#00000099"
+    repo: overlays/Images/Studios-Animes/<<key>>
+    back_color: "#000000B3"
     back_radius: 30
-    back_width: 305
-    back_height: 105
+    back_width: 460
+    back_height: 120
 
 templates:
   studios:
