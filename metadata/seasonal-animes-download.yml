@@ -1,0 +1,6 @@
+collections:
+  seasonal animes download:
+    tvdb_show: 71279,103941,71634,128501,76932,79446,349691,78923,358536,337406
+    sync_mode: sync
+    sonarr_add_missing: true
+    build_collection: false
