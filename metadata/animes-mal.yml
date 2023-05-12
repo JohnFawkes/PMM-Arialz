@@ -409,6 +409,17 @@ metadata:
     label.remove: Ongoing
     studio: CloverWorks
     audience_rating: 8.8
+  303071:
+    title: |-
+      Boku dake ga Inai Machi
+    sort_title: |-
+      Boku dake ga Inai Machi
+    original_title: |-
+      ERASED
+    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Thriller,Age Regression,Time Manipulation,Crime,Tragedy,Time Skip,Primarily Child Cast,Detective,Male Protagonist,Alternate Universe,School,Seinen
+    label.remove: Ongoing
+    studio: A-1 Pictures
+    audience_rating: 8.1
   305074:
     title: |-
       Boku no Hero Academia
@@ -472,7 +483,25 @@ metadata:
     genre.sync: Anime,Action,Comedy,Mystery,Supernatural,Super Power,Crime,Detective,Mafia,Male Protagonist,Urban Fantasy,Classic Literature,Yakuza,Urban,Primarily Adult Cast,Ensemble Cast,Primarily Male Cast,Orphan
     label.remove: Ongoing
     studio: bones
-    audience_rating: 7.7
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Bungou Stray Dogs
+        user_rating: 7.7
+        label: score
+      2:
+        title: |-
+          Bungou Stray Dogs 3rd Season
+        user_rating: 8.2
+        label: score
+      3:
+        title: |-
+          Bungou Stray Dogs 4th Season
+        user_rating: 8.4
+        label: score
+    audience_rating: 8.1
   83316:
     title: |-
       Casshern Sins
@@ -687,17 +716,6 @@ metadata:
     label.remove: Ongoing
     studio: NUT
     audience_rating: 7.1
-  363143:
-    title: |-
-      Machikado Mazoku
-    sort_title: |-
-      Machikado Mazoku
-    original_title: |-
-      The Demon Girl Next Door
-    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo,Slice of Life,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Parody,Demons,Magic,Urban Fantasy,Slapstick,Meta,Kuudere,Henshin,Surreal Comedy
-    label.remove: Ongoing
-    studio: J.C. Staff
-    audience_rating: 7.5
   273005:
     title: |-
       Diamond no Ace
@@ -856,17 +874,6 @@ metadata:
         user_rating: 7.8
         label: score
     audience_rating: 7.7
-  303071:
-    title: |-
-      Boku dake ga Inai Machi
-    sort_title: |-
-      Boku dake ga Inai Machi
-    original_title: |-
-      ERASED
-    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Thriller,Age Regression,Time Manipulation,Crime,Tragedy,Time Skip,Primarily Child Cast,Detective,Male Protagonist,Alternate Universe,School,Seinen
-    label.remove: Ongoing
-    studio: A-1 Pictures
-    audience_rating: 8.1
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -1297,6 +1304,17 @@ metadata:
     label.remove: Ongoing
     studio: Orange
     audience_rating: 8.3
+  370377:
+    title: |-
+      ID: INVADED
+    sort_title: |-
+      ID: INVADED
+    original_title: |-
+      ID: INVADED
+    genre.sync: Anime,Drama,Mystery,Psychological,Sci-Fi,Thriller,Detective,Virtual World,Crime,Alternate Universe,Police,Tragedy,Memory Manipulation,Urban Fantasy,Primarily Adult Cast,Augmented Reality,Prison,Revenge,Anti-Hero,Philosophy
+    label.remove: Ongoing
+    studio: NAZ
+    audience_rating: 7.7
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -2002,6 +2020,28 @@ metadata:
     label.remove: Ongoing
     studio: A-1 Pictures
     audience_rating: 8.2
+  363143:
+    title: |-
+      Machikado Mazoku
+    sort_title: |-
+      Machikado Mazoku
+    original_title: |-
+      The Demon Girl Next Door
+    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo,Slice of Life,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Parody,Demons,Magic,Urban Fantasy,Slapstick,Meta,Kuudere,Henshin,Surreal Comedy
+    label.remove: Ongoing
+    studio: J.C. Staff
+    seasons:
+      1:
+        title: |-
+          Machikado Mazoku
+        user_rating: 7.5
+        label: score
+      2:
+        title: |-
+          Machikado Mazoku: 2-Choume
+        user_rating: 7.8
+        label: score
+    audience_rating: 7.7
   326109:
     title: |-
       Made in Abyss
@@ -2378,7 +2418,20 @@ metadata:
     genre.sync: Anime,Adventure,Fantasy,Romance,Male Protagonist,Economics,Work,Primarily Adult Cast,Historical,Kemonomimi,Monster Girl,Female Protagonist,Politics
     label.remove: Ongoing
     studio: Imagin
-    audience_rating: 8.0
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Ookami to Koushinryou
+        user_rating: 8.0
+        label: score
+      2:
+        title: |-
+          Ookami to Koushinryou II
+        user_rating: 8.1
+        label: score
+    audience_rating: 8.1
   414908:
     title: |-
       Ooyukiumi no Kaina
@@ -3497,6 +3550,8 @@ metadata:
     label.remove: Ongoing
     studio: A-1 Pictures
     seasons:
+      0:
+        label.remove: score
       1:
         title: |-
           Working!!
