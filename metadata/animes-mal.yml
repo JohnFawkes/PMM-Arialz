@@ -155,7 +155,7 @@ metadata:
     sort_title: |-
       Akuyaku Reijou nano de Last Boss wo Kattemimashita
     original_title: |-
-      LET'S ALL LOVE LAIN
+      I'm the Villainess, So I'm Taming the Final Boss
     genre.sync: Anime,Comedy,Fantasy,Romance,Shoujo,Isekai
     label.remove: Ongoing
     studio: Maho Film
@@ -289,7 +289,7 @@ metadata:
     sort_title: |-
       Bakuman.
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Bakuman.
     genre.sync: Anime,Comedy,Drama,Romance,Shounen,Otaku Culture
     label.remove: Ongoing
     studio: J.C.Staff
@@ -501,7 +501,7 @@ metadata:
     sort_title: |-
       Chainsaw Man
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Chainsaw Man
     genre.sync: Anime,Action,Fantasy,Shounen,Gore
     label.remove: Ongoing
     studio: MAPPA
@@ -647,7 +647,7 @@ metadata:
     sort_title: |-
       D.Gray-man HALLOW
     original_title: |-
-      LET'S ALL LOVE LAIN
+      D.Gray-man HALLOW
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen,Mythology,Super Power
     label.remove: Ongoing
     studio: TMS Entertainment
@@ -760,6 +760,8 @@ metadata:
     label: Ongoing
     studio: TMS Entertainment
     seasons:
+      0:
+        label.remove: score
       1:
         title: |-
           Dr. STONE
@@ -832,6 +834,28 @@ metadata:
     label.remove: Ongoing
     studio: Studio Comet
     critic_rating: 6.6
+  355480:
+    title: |-
+      Enen no Shouboutai
+    sort_title: |-
+      Enen no Shouboutai
+    original_title: |-
+      Fire Force
+    genre.sync: Anime,Action,Supernatural,Shounen
+    label.remove: Ongoing
+    studio: David Production
+    seasons:
+      1:
+        title: |-
+          Enen no Shouboutai
+        user_rating: 7.7
+        label: score
+      2:
+        title: |-
+          Enen no Shouboutai: Ni no Shou
+        user_rating: 7.8
+        label: score
+    critic_rating: 7.8
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -842,6 +866,11 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Supernatural
     label.remove: Ongoing
     studio: ufotable
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.remove: score
     critic_rating: 8.2
   375271:
     title: |-
@@ -865,6 +894,17 @@ metadata:
         user_rating: 8.1
         label: score
     critic_rating: 8.2
+  79178:
+    title: |-
+      Gankutsuou
+    sort_title: |-
+      Gankutsuou
+    original_title: |-
+      Gankutsuou: The Count of Monte Cristo
+    genre.sync: Anime,Award Winning,Drama,Mystery,Sci-Fi,Supernatural,Suspense
+    label.remove: Ongoing
+    studio: Gonzo
+    critic_rating: 8.1
   279804:
     title: |-
       Gekkan Shoujo Nozaki-kun
@@ -893,7 +933,7 @@ metadata:
     sort_title: |-
       Gin no Saji
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Silver Spoon
     genre.sync: Anime,Comedy,Shounen,School
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -926,7 +966,7 @@ metadata:
     sort_title: |-
       Girls und Panzer
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Girls und Panzer
     genre.sync: Anime,Action,Military,School
     label.remove: Ongoing
     studio: Actas
@@ -1029,6 +1069,11 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
     label.remove: Ongoing
     studio: A-1 Pictures
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.remove: score
     critic_rating: 7.7
   79105:
     title: |-
@@ -1036,7 +1081,7 @@ metadata:
     sort_title: |-
       Haibane Renmei
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Haibane Renmei
     genre.sync: Anime,Drama,Fantasy,Mystery,Psychological
     label.remove: Ongoing
     studio: Radix
@@ -1081,7 +1126,7 @@ metadata:
     sort_title: |-
       Hataraku Maou-sama!
     original_title: |-
-      LET'S ALL LOVE LAIN
+      The Devil is a Part-Timer!
     genre.sync: Anime,Comedy,Fantasy,Mythology,Romantic Subtext,Workplace
     label.remove: Ongoing
     studio: White Fox
@@ -1307,11 +1352,11 @@ metadata:
     sort_title: |-
       Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
     original_title: |-
-      LET'S ALL LOVE LAIN
+      I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,School
     label: Ongoing
     studio: Millepensee
-    critic_rating: 6.9
+    critic_rating: 7.0
   104741:
     title: |-
       Isekai no Seikishi Monogatari
@@ -1428,7 +1473,7 @@ metadata:
     sort_title: |-
       Kage no Jitsuryokusha ni Naritakute!
     original_title: |-
-      LET'S ALL LOVE LAIN
+      The Eminence in Shadow
     genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Nexus
@@ -1444,6 +1489,8 @@ metadata:
     label.remove: Ongoing
     studio: A-1 Pictures
     seasons:
+      0:
+        label.remove: score
       1:
         title: |-
           Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
@@ -1489,7 +1536,7 @@ metadata:
       Kaminaki Sekai no Kamisama Katsudou
     original_title: |-
       KamiKatsu: Working for God in a Godless World
-    genre.sync: Anime,Action,Comedy,Fantasy,Seinen,Isekai,Parody,Reincarnation
+    genre.sync: Anime,Action,Comedy,Fantasy,Ecchi,Seinen,Isekai,Parody,Reincarnation
     label: Ongoing
     studio: Studio Palette
     critic_rating: 6.8
@@ -1499,7 +1546,7 @@ metadata:
     sort_title: |-
       Kamisama Hajimemashita
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Kamisama Kiss
     genre.sync: Anime,Comedy,Fantasy,Romance,Shoujo,Mythology
     label.remove: Ongoing
     studio: TMS Entertainment
@@ -1556,7 +1603,7 @@ metadata:
     sort_title: |-
       Kaze ga Tsuyoku Fuiteiru
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Run with the Wind
     genre.sync: Anime,Drama,Sports,Adult Cast
     label.remove: Ongoing
     studio: Production I.G
@@ -1594,16 +1641,32 @@ metadata:
         user_rating: 8.1
         label: score
     critic_rating: 8.1
+  403849:
+    title: |-
+      Kidou Senshi Gundam UC
+    sort_title: |-
+      Kidou Senshi Gundam UC
+    original_title: |-
+      Mobile Suit Gundam Unicorn
+    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
+    label.remove: Ongoing
+    studio: Sunrise
+    critic_rating: 8.1
   418364:
     title: |-
       Kidou Senshi Gundam: Suisei no Majo
     sort_title: |-
       Kidou Senshi Gundam: Suisei no Majo
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Mobile Suit Gundam: The Witch from Mercury
     genre.sync: Anime,Action,Sci-Fi,Mecha,School,Space
     label: Ongoing
     studio: Sunrise
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.remove: score
     critic_rating: 7.9
   299497:
     title: |-
@@ -1633,7 +1696,7 @@ metadata:
     sort_title: |-
       Kill la Kill
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Kill la Kill
     genre.sync: Anime,Action,Comedy,Ecchi,School,Super Power
     label.remove: Ongoing
     studio: Trigger
@@ -1649,7 +1712,7 @@ metadata:
     sort_title: |-
       Kimetsu no Yaiba
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Demon Slayer: Kimetsu no Yaiba
     genre.sync: Anime,Action,Award Winning,Fantasy,Shounen,Historical
     label: Ongoing
     studio: ufotable
@@ -1746,7 +1809,7 @@ metadata:
     sort_title: |-
       Kobayashi-san Chi no Maidragon
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Miss Kobayashi's Dragon Maid
     genre.sync: Anime,Fantasy,Slice of Life
     label.remove: Ongoing
     studio: Kyoto Animation
@@ -1768,7 +1831,7 @@ metadata:
     sort_title: |-
       Kono Oto Tomare!
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Kono Oto Tomare!: Sounds of Life
     genre.sync: Anime,Drama,Romance,Shounen,Music,Performing Arts,School
     label.remove: Ongoing
     studio: Platinum Vision
@@ -1907,7 +1970,7 @@ metadata:
     sort_title: |-
       Kyokou Suiri
     original_title: |-
-      LET'S ALL LOVE LAIN
+      In/Spectre
     genre.sync: Anime,Mystery,Romance,Supernatural,Shounen,Adult Cast,Mythology
     label.remove: Ongoing
     studio: Brain's Base
@@ -1933,6 +1996,11 @@ metadata:
     genre.sync: Anime,Action,Fantasy,School
     label.remove: Ongoing
     studio: Kyoto Animation
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.remove: score
     critic_rating: 7.7
   414057:
     title: |-
@@ -2018,7 +2086,7 @@ metadata:
       Mahouka Koukou no Rettousei
     original_title: |-
       The Irregular at Magic High School
-    genre.sync: Anime,Action,Fantasy,Romance,Sci-Fi,School
+    genre.sync: Anime,Action,Romance,Sci-Fi,Supernatural,School
     label.remove: Ongoing
     studio: Madhouse
     seasons:
@@ -2099,7 +2167,7 @@ metadata:
     sort_title: |-
       Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
     original_title: |-
-      LET'S ALL LOVE LAIN
+      The Misfit of Demon King Academy
     genre.sync: Anime,Action,Fantasy,Mythology,Reincarnation,School
     label: Ongoing
     studio: SILVER LINK.
@@ -2176,6 +2244,11 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Ecchi,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Studio Bind
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.remove: score
     critic_rating: 8.4
   421452:
     title: |-
@@ -2259,6 +2332,11 @@ metadata:
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     label.remove: Ongoing
     studio: Kyoto Animation
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.remove: score
     critic_rating: 8.5
   416998:
     title: |-
@@ -2393,11 +2471,11 @@ metadata:
     sort_title: |-
       Otonari ni Ginga
     original_title: |-
-      LET'S ALL LOVE LAIN
+      A Galaxy Next Door
     genre.sync: Anime,Romance,Supernatural,Seinen,Childcare,Otaku Culture
     label: Ongoing
     studio: Asahi Production
-    critic_rating: 7.1
+    critic_rating: 7.2
   414221:
     title: |-
       Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
@@ -2801,7 +2879,7 @@ metadata:
     sort_title: |-
       Shokei Shoujo no Virgin Road
     original_title: |-
-      LET'S ALL LOVE LAIN
+      The Executioner and Her Way of Life
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai
     label.remove: Ongoing
     studio: J.C.Staff
@@ -3061,7 +3139,7 @@ metadata:
     sort_title: |-
       Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
     original_title: |-
-      LET'S ALL LOVE LAIN
+      The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far
     genre.sync: Anime,Action,Fantasy,Romance,Harem,Isekai,Reincarnation
     label: Ongoing
     studio: Magic Bus
@@ -3312,7 +3390,7 @@ metadata:
     sort_title: |-
       Tsurune: Kazemai Koukou Kyuudou-bu
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Tsurune: Kazemai High School Kyudo Club
     genre.sync: Anime,Sports,School
     label.remove: Ongoing
     studio: Kyoto Animation
@@ -3374,7 +3452,7 @@ metadata:
     sort_title: |-
       Uzaki-chan wa Asobitai!
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Uzaki-chan Wants to Hang Out!
     genre.sync: Anime,Comedy,Adult Cast,Romantic Subtext
     label.remove: Ongoing
     studio: ENGI
@@ -3411,6 +3489,17 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Seinen,Gore,Historical
     label: Ongoing
     studio: Wit Studio
+    seasons:
+      1:
+        title: |-
+          VINLAND SAGA
+        user_rating: 8.7
+        label: score
+      2:
+        title: |-
+          VINLAND SAGA SEASON 2
+        user_rating: 8.7
+        label: score
     critic_rating: 8.7
   330139:
     title: |-
@@ -3467,7 +3556,7 @@ metadata:
     sort_title: |-
       Working!!
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Wagnaria!!
     genre.sync: Anime,Comedy,Seinen,Romantic Subtext,Workplace
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -3565,7 +3654,7 @@ metadata:
       Yakusoku no Neverland
     original_title: |-
       The Promised Neverland
-    genre.sync: Anime,Fantasy,Mystery,Sci-Fi,Suspense,Shounen,Psychological,Survival
+    genre.sync: Anime,Mystery,Sci-Fi,Suspense,Shounen,Psychological,Survival
     label.remove: Ongoing
     studio: CloverWorks
     seasons:
@@ -3632,7 +3721,7 @@ metadata:
     sort_title: |-
       Yowamushi Pedal
     original_title: |-
-      LET'S ALL LOVE LAIN
+      Yowamushi Pedal
     genre.sync: Anime,Sports,Shounen,Racing
     label.remove: Ongoing
     studio: TMS Entertainment
