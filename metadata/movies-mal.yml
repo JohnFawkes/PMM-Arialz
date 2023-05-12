@@ -29,36 +29,6 @@ metadata:
     genre.sync: Anime,
     studio: Studio Ghibli
     critic_rating: 5.5
-  tt4272866:
-    title: |-
-      Bakemono no Ko
-    sort_title: |-
-      Bakemono no Ko
-    original_title: |-
-      The Boy and the Beast
-    genre.sync: Anime,Adventure,Fantasy,Anthropomorphic,Isekai
-    studio: Studio Chizu
-    critic_rating: 8.2
-  tt7745068:
-    title: |-
-      Boku no Hero Academia THE MOVIE: Futari no Hero
-    sort_title: |-
-      Boku no Hero Academia THE MOVIE: Futari no Hero
-    original_title: |-
-      My Hero Academia: Two Heroes
-    genre.sync: Anime,Action,Shounen,Super Power
-    studio: Bones
-    critic_rating: 7.6
-  tt11107074:
-    title: |-
-      Boku no Hero Academia THE MOVIE: Heroes:Rising
-    sort_title: |-
-      Boku no Hero Academia THE MOVIE: Heroes:Rising
-    original_title: |-
-      My Hero Academia: Heroes Rising
-    genre.sync: Anime,Action,Shounen,Super Power
-    studio: Bones
-    critic_rating: 8.0
   tt13544716:
     title: |-
       Boku no Hero Academia THE MOVIE: World Heroes' Mission
@@ -69,16 +39,6 @@ metadata:
     genre.sync: Anime,Action,Shounen,Super Power
     studio: Bones
     critic_rating: 7.6
-  tt16360006:
-    title: |-
-      Bubble
-    sort_title: |-
-      Bubble
-    original_title: |-
-      Bubble
-    genre.sync: Anime,Action,Sci-Fi
-    studio: Wit Studio
-    critic_rating: 7.3
   tt0983213:
     title: |-
       Byousoku 5 Centimeter
@@ -89,56 +49,6 @@ metadata:
     genre.sync: Anime,Drama,Romance
     studio: CoMix Wave Films
     critic_rating: 7.6
-  tt6915208:
-    title: |-
-      Chuunibyou demo Koi ga Shitai!: Take On Me
-    sort_title: |-
-      Chuunibyou demo Koi ga Shitai!: Take On Me
-    original_title: |-
-      Love, Chunibyo & Other Delusions!: Take On Me
-    genre.sync: Anime,Comedy,Drama,Romance,School
-    studio: Kyoto Animation
-    critic_rating: 8.1
-  tt6344664:
-    title: |-
-      Code Geass: Fukkatsu no Lelouch
-    sort_title: |-
-      Code Geass: Fukkatsu no Lelouch
-    original_title: |-
-      Code Geass: Lelouch of the Re;surrection
-    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Super Power
-    studio: Sunrise
-    critic_rating: 7.9
-  tt8100900:
-    title: |-
-      Code Geass: Hangyaku no Lelouch I - Koudou
-    sort_title: |-
-      Code Geass: Hangyaku no Lelouch I - Koudou
-    original_title: |-
-      Code Geass: Lelouch of the Rebellion I - Initiation
-    genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
-    studio: Sunrise
-    critic_rating: 7.9
-  tt9598270:
-    title: |-
-      Code Geass: Hangyaku no Lelouch II - Handou
-    sort_title: |-
-      Code Geass: Hangyaku no Lelouch II - Handou
-    original_title: |-
-      Code Geass: Lelouch of the Rebellion II - Transgression
-    genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
-    studio: Sunrise
-    critic_rating: 7.7
-  tt9844256:
-    title: |-
-      Code Geass: Hangyaku no Lelouch III - Oudou
-    sort_title: |-
-      Code Geass: Hangyaku no Lelouch III - Oudou
-    original_title: |-
-      Code Geass: Lelouch of the Rebellion III - Glorification
-    genre.sync: Anime,Action,Sci-Fi,Mecha,Military,School,Super Power
-    studio: Sunrise
-    critic_rating: 8.0
   tt1798188:
     title: |-
       Coquelicot-zaka kara
@@ -149,16 +59,6 @@ metadata:
     genre.sync: Anime,Award Winning,Romance,Shoujo,Historical,School
     studio: Studio Ghibli
     critic_rating: 7.8
-  tt0259974:
-    title: |-
-      Digimon Adventure (Movie)
-    sort_title: |-
-      Digimon Adventure (Movie)
-    original_title: |-
-      Digimon: The Movie
-    genre.sync: Anime,Action,Fantasy,Sci-Fi,Kids
-    studio: Toei Animation
-    critic_rating: 7.6
   tt9526152:
     title: |-
       Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya
@@ -169,16 +69,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy
     studio: J.C.Staff
     critic_rating: 7.4
-  tt0860906:
-    title: |-
-      Evangelion Shin Movie: Ha
-    sort_title: |-
-      Evangelion Shin Movie: Ha
-    original_title: |-
-      LET'S ALL LOVE LAIN
-    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Psychological
-    studio: Khara
-    critic_rating: 8.3
   tt0923811:
     title: |-
       Evangelion Shin Movie: Jo
@@ -209,16 +99,6 @@ metadata:
     genre.sync: Anime,Sci-Fi,Slice of Life
     studio: Studio Rikka
     critic_rating: 8.0
-  tt0876563:
-    title: |-
-      Gake no Ue no Ponyo
-    sort_title: |-
-      Gake no Ue no Ponyo
-    original_title: |-
-      Ponyo
-    genre.sync: Anime,Adventure,Award Winning,Fantasy
-    studio: Studio Ghibli
-    critic_rating: 7.9
   tt0495596:
     title: |-
       Ged Senki
@@ -229,26 +109,6 @@ metadata:
     genre.sync: Anime,Adventure,Fantasy
     studio: Studio Ghibli
     critic_rating: 6.8
-  tt0113568:
-    title: |-
-      GHOST IN THE SHELL: Koukaku Kidoutai
-    sort_title: |-
-      GHOST IN THE SHELL: Koukaku Kidoutai
-    original_title: |-
-      Ghost in the Shell
-    genre.sync: Anime,Action,Award Winning,Mystery,Sci-Fi,Suspense,Seinen,Adult Cast,Detective,Mecha,Psychological
-    studio: Production I.G
-    critic_rating: 8.3
-  tt1260502:
-    title: |-
-      GHOST IN THE SHELL: Koukaku Kidoutai 2.0
-    sort_title: |-
-      GHOST IN THE SHELL: Koukaku Kidoutai 2.0
-    original_title: |-
-      Ghost in the Shell 2.0
-    genre.sync: Anime,Action,Sci-Fi,Seinen,Adult Cast,Detective,Mecha,Psychological
-    studio: Production I.G
-    critic_rating: 8.0
   tt2374144:
     title: |-
       Gintama: Kanketsu-hen - Yorozuya yo Eien Nare
@@ -259,36 +119,6 @@ metadata:
     genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen,Gag Humor,Historical,Parody,Samurai,Time Travel
     studio: Sunrise
     critic_rating: 8.9
-  tt1636780:
-    title: |-
-      Gintama: Shinyaku Benizakura-hen
-    sort_title: |-
-      Gintama: Shinyaku Benizakura-hen
-    original_title: |-
-      Gintama: The Movie
-    genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen,Historical,Parody,Samurai
-    studio: Sunrise
-    critic_rating: 8.5
-  tt10766468:
-    title: |-
-      Gintama: THE FINAL
-    sort_title: |-
-      Gintama: THE FINAL
-    original_title: |-
-      Gintama: The Very Final
-    genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Shounen,Gag Humor,Historical,Parody,Samurai
-    studio: Bandai Namco Pictures
-    critic_rating: 9.1
-  tt5284414:
-    title: |-
-      Girls und Panzer Movie
-    sort_title: |-
-      Girls und Panzer Movie
-    original_title: |-
-      Girls und Panzer der Film
-    genre.sync: Anime,Action,Award Winning,Military,School
-    studio: Actas
-    critic_rating: 8.2
   tt7833606:
     title: |-
       Girls und Panzer: Saishuushou 1
@@ -319,26 +149,6 @@ metadata:
     genre.sync: Anime,Military,School
     studio: Actas
     critic_rating: 8.2
-  tt15721650:
-    title: |-
-      Go-toubun no Hanayome Movie
-    sort_title: |-
-      Go-toubun no Hanayome Movie
-    original_title: |-
-      The Quintessential Quintuplets Movie
-    genre.sync: Anime,Comedy,Romance,Shounen,Harem,School
-    studio: Bibury Animation Studios
-    critic_rating: 7.9
-  tt0110008:
-    title: |-
-      Heisei Tanuki Gassen Ponpoko
-    sort_title: |-
-      Heisei Tanuki Gassen Ponpoko
-    original_title: |-
-      Pom Poko
-    genre.sync: Anime,Award Winning,Kids,Anthropomorphic
-    studio: Studio Ghibli
-    critic_rating: 7.3
   tt11639420:
     title: |-
       High School Fleet Movie
@@ -349,26 +159,6 @@ metadata:
     genre.sync: Anime,Action,Military,School
     studio: A-1 Pictures
     critic_rating: 7.6
-  tt0206013:
-    title: |-
-      Hoohokekyo Tonari no Yamada-kun
-    sort_title: |-
-      Hoohokekyo Tonari no Yamada-kun
-    original_title: |-
-      My Neighbors the Yamadas
-    genre.sync: Anime,Award Winning,Comedy,Slice of Life
-    studio: Studio Ghibli
-    critic_rating: 7.1
-  tt0095327:
-    title: |-
-      Hotaru no Haka
-    sort_title: |-
-      Hotaru no Haka
-    original_title: |-
-      Grave of the Fireflies
-    genre.sync: Anime,Drama,Historical
-    studio: Studio Ghibli
-    critic_rating: 8.5
   tt0347149:
     title: |-
       Howl no Ugoku Shiro
@@ -399,16 +189,6 @@ metadata:
     genre.sync: Anime,Drama,Romance,Visual Arts
     studio: Bones
     critic_rating: 8.4
-  tt14331144:
-    title: |-
-      Jujutsu Kaisen 0
-    sort_title: |-
-      Jujutsu Kaisen 0
-    original_title: |-
-      Jujutsu Kaisen 0
-    genre.sync: Anime,Action,Fantasy,Shounen,School
-    studio: MAPPA
-    critic_rating: 8.5
   tt2576852:
     title: |-
       Kaguya-hime no Monogatari
@@ -419,26 +199,6 @@ metadata:
     genre.sync: Anime,Award Winning,Fantasy,Historical
     studio: Studio Ghibli
     critic_rating: 8.2
-  tt9277666:
-    title: |-
-      Kara no Kyoukai Remix: Gate of seventh heaven
-    sort_title: |-
-      Kara no Kyoukai Remix: Gate of seventh heaven
-    original_title: |-
-      The Garden of Sinners Remix: Gate of Seventh Heaven
-    genre.sync: Anime,Action,Mystery,Romance,Suspense,Super Power
-    studio: ufotable
-    critic_rating: 7.6
-  tt1343089:
-    title: |-
-      Kara no Kyoukai: Boukyaku Rokuon
-    sort_title: |-
-      Kara no Kyoukai: Boukyaku Rokuon
-    original_title: |-
-      LET'S ALL LOVE LAIN
-    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
-    studio: ufotable
-    critic_rating: 7.5
   tt1155650:
     title: |-
       Kara no Kyoukai: Fukan Fuukei
@@ -449,16 +209,6 @@ metadata:
     genre.sync: Anime,Action,Mystery,Supernatural,Suspense
     studio: ufotable
     critic_rating: 7.6
-  tt1233474:
-    title: |-
-      Kara no Kyoukai: Garan no Dou
-    sort_title: |-
-      Kara no Kyoukai: Garan no Dou
-    original_title: |-
-      The Garden of Sinners Chapter 4: The Hollow Shrine
-    genre.sync: Anime,Action,Mystery,Supernatural,Suspense
-    studio: ufotable
-    critic_rating: 7.8
   tt1278060:
     title: |-
       Kara no Kyoukai: Mujun Rasen
@@ -479,26 +229,6 @@ metadata:
     genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
     studio: ufotable
     critic_rating: 8.4
-  tt1155651:
-    title: |-
-      Kara no Kyoukai: Satsujin Kousatsu (Zen)
-    sort_title: |-
-      Kara no Kyoukai: Satsujin Kousatsu (Zen)
-    original_title: |-
-      LET'S ALL LOVE LAIN
-    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
-    studio: ufotable
-    critic_rating: 7.8
-  tt3868344:
-    title: |-
-      Kara no Kyoukai: Shuushou
-    sort_title: |-
-      Kara no Kyoukai: Shuushou
-    original_title: |-
-      The Garden of Sinners Chapter 8: Epilogue
-    genre.sync: Anime,Mystery
-    studio: ufotable
-    critic_rating: 7.2
   tt1155652:
     title: |-
       Kara no Kyoukai: Tsuukaku Zanryuu
@@ -519,16 +249,6 @@ metadata:
     genre.sync: Anime,Award Winning,Fantasy
     studio: Studio Ghibli
     critic_rating: 7.9
-  tt0087544:
-    title: |-
-      Kaze no Tani no Nausicaä
-    sort_title: |-
-      Kaze no Tani no Nausicaä
-    original_title: |-
-      Nausicaä of the Valley of the Wind
-    genre.sync: Anime,Adventure,Award Winning,Fantasy
-    studio: Topcraft
-    critic_rating: 8.4
   tt2013293:
     title: |-
       Kaze Tachinu
@@ -539,16 +259,6 @@ metadata:
     genre.sync: Anime,Award Winning,Drama,Romance,Historical
     studio: Studio Ghibli
     critic_rating: 8.1
-  tt1726286:
-    title: |-
-      Kidou Senshi Gundam 00: A wakening of the Trailblazer
-    sort_title: |-
-      Kidou Senshi Gundam 00: A wakening of the Trailblazer
-    original_title: |-
-      Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer
-    genre.sync: Anime,Action,Sci-Fi,Mecha,Space
-    studio: Sunrise
-    critic_rating: 7.3
   tt7933596:
     title: |-
       Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
@@ -569,16 +279,6 @@ metadata:
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     studio: Sunrise
     critic_rating: 7.9
-  tt13288678:
-    title: |-
-      Kidou Senshi Gundam: Senkou no Hathaway
-    sort_title: |-
-      Kidou Senshi Gundam: Senkou no Hathaway
-    original_title: |-
-      Mobile Suit Gundam Hathaway's Flash
-    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
-    studio: Sunrise
-    critic_rating: 7.8
   tt11032374:
     title: |-
       Kimetsu no Yaiba: Mugen Ressha-hen
@@ -598,26 +298,6 @@ metadata:
       Your Name.
     genre.sync: Anime,Award Winning,Drama,Supernatural,Romantic Subtext
     studio: CoMix Wave Films
-    critic_rating: 8.9
-  tt7236034:
-    title: |-
-      Kimi no Suizou wo Tabetai
-    sort_title: |-
-      Kimi no Suizou wo Tabetai
-    original_title: |-
-      I Want To Eat Your Pancreas
-    genre.sync: Anime,Drama,Romance,School
-    studio: Studio VOLN
-    critic_rating: 8.6
-  tt5323662:
-    title: |-
-      Koe no Katachi
-    sort_title: |-
-      Koe no Katachi
-    original_title: |-
-      A Silent Voice
-    genre.sync: Anime,Award Winning,Drama,Shounen,Romantic Subtext
-    studio: Kyoto Animation
     critic_rating: 8.9
   tt4489416:
     title: |-
@@ -649,36 +329,6 @@ metadata:
     genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai,Parody,Reincarnation
     studio: J.C.Staff
     critic_rating: 8.4
-  tt2591814:
-    title: |-
-      Kotonoha no Niwa
-    sort_title: |-
-      Kotonoha no Niwa
-    original_title: |-
-      The Garden of Words
-    genre.sync: Anime,Award Winning,Drama,Romance,Visual Arts
-    studio: CoMix Wave Films
-    critic_rating: 7.9
-  tt10253816:
-    title: |-
-      Koutetsujou no Kabaneri: Unato Kessen
-    sort_title: |-
-      Koutetsujou no Kabaneri: Unato Kessen
-    original_title: |-
-      Kabaneri of the Iron Fortress: The Battle of Unato
-    genre.sync: Anime,Action,Drama,Fantasy,Horror,Gore,Historical,Survival
-    studio: Wit Studio
-    critic_rating: 7.7
-  tt0104652:
-    title: |-
-      Kurenai no Buta
-    sort_title: |-
-      Kurenai no Buta
-    original_title: |-
-      Porco Rosso
-    genre.sync: Anime,Action,Adventure,Award Winning,Comedy,Drama,Romance,Historical,Military
-    studio: Studio Ghibli
-    critic_rating: 7.9
   tt6728390:
     title: |-
       Kuroko no Basket: Last Game
@@ -689,16 +339,6 @@ metadata:
     genre.sync: Anime,Sports,Shounen,School,Team Sports
     studio: Production I.G
     critic_rating: 8.1
-  tt4531412:
-    title: |-
-      Kyoukai no Kanata: I'LL BE HERE - Kako-hen
-    sort_title: |-
-      Kyoukai no Kanata: I'LL BE HERE - Kako-hen
-    original_title: |-
-      Beyond the Boundary: I'll Be Here - Past
-    genre.sync: Anime,Action,Fantasy,School
-    studio: Kyoto Animation
-    critic_rating: 7.7
   tt4539114:
     title: |-
       Kyoukai no Kanata: I'LL BE HERE - Mirai-hen
@@ -719,16 +359,6 @@ metadata:
     genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
     studio: Kinema Citrus
     critic_rating: 8.6
-  tt10068544:
-    title: |-
-      Made in Abyss: Hourou Suru Tasogare
-    sort_title: |-
-      Made in Abyss: Hourou Suru Tasogare
-    original_title: |-
-      Made in Abyss: Wandering Twilight
-    genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Gore,Survival
-    studio: Kinema Citrus
-    critic_rating: 8.4
   tt10068158:
     title: |-
       Made in Abyss: Tabidachi no Yoake
@@ -759,26 +389,6 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Sci-Fi
     studio: 8bit
     critic_rating: 7.7
-  tt0097814:
-    title: |-
-      Majo no Takkyuubin
-    sort_title: |-
-      Majo no Takkyuubin
-    original_title: |-
-      Kiki's Delivery Service
-    genre.sync: Anime,Adventure,Award Winning,Comedy,Drama,Fantasy
-    studio: Studio Ghibli
-    critic_rating: 8.2
-  tt0113824:
-    title: |-
-      Mimi wo Sumaseba
-    sort_title: |-
-      Mimi wo Sumaseba
-    original_title: |-
-      Whisper of the Heart
-    genre.sync: Anime,Drama,Romance,Shoujo
-    studio: Studio Ghibli
-    critic_rating: 8.2
   tt6900448:
     title: |-
       Mirai no Mirai
@@ -899,16 +509,6 @@ metadata:
     genre.sync: Anime,Drama,Fantasy
     studio: P.A. Works
     critic_rating: 8.4
-  tt6337252:
-    title: |-
-      Seitokai Yakuindomo Movie
-    sort_title: |-
-      Seitokai Yakuindomo Movie
-    original_title: |-
-      Seitokai Yakuindomo Movie
-    genre.sync: Anime,Comedy,Shounen,Gag Humor,School
-    studio: GoHands
-    critic_rating: 7.8
   tt12439230:
     title: |-
       Seitokai Yakuindomo Movie 2
@@ -919,26 +519,6 @@ metadata:
     genre.sync: Anime,Comedy,Shounen,Gag Humor,School
     studio: GoHands
     critic_rating: 7.8
-  tt0245429:
-    title: |-
-      Sen to Chihiro no Kamikakushi
-    sort_title: |-
-      Sen to Chihiro no Kamikakushi
-    original_title: |-
-      Spirited Away
-    genre.sync: Anime,Adventure,Award Winning,Supernatural,Mythology
-    studio: Studio Ghibli
-    critic_rating: 8.8
-  tt2458948:
-    title: |-
-      Shin Evangelion Movie:||
-    sort_title: |-
-      Shin Evangelion Movie:||
-    original_title: |-
-      Evangelion: 3.0+1.0 Thrice Upon a Time
-    genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Suspense,Mecha,Psychological
-    studio: Khara
-    critic_rating: 8.6
   tt8346438:
     title: |-
       SHIROBAKO Movie
@@ -959,16 +539,6 @@ metadata:
     genre.sync: Anime,Action,Sci-Fi,Seinen,Mecha,Space
     studio: Polygon Pictures
     critic_rating: 7.4
-  tt1121794:
-    title: |-
-      Stranger: Mukou Hadan
-    sort_title: |-
-      Stranger: Mukou Hadan
-    original_title: |-
-      LET'S ALL LOVE LAIN
-    genre.sync: Anime,Action,Adventure,Historical,Samurai
-    studio: Bones
-    critic_rating: 8.3
   tt1474276:
     title: |-
       Summer Wars
@@ -978,26 +548,6 @@ metadata:
       Summer Wars
     genre.sync: Anime,Award Winning,Comedy,Sci-Fi
     studio: Madhouse
-    critic_rating: 8.0
-  tt5544384:
-    title: |-
-      Sword Art Online: Ordinal Scale
-    sort_title: |-
-      Sword Art Online: Ordinal Scale
-    original_title: |-
-      Sword Art Online the Movie: Ordinal Scale
-    genre.sync: Anime,Action,Adventure,Fantasy,Video Game
-    studio: A-1 Pictures
-    critic_rating: 7.6
-  tt13424422:
-    title: |-
-      Sword Art Online: Progressive - Hoshinaki Yoru no Aria
-    sort_title: |-
-      Sword Art Online: Progressive - Hoshinaki Yoru no Aria
-    original_title: |-
-      LET'S ALL LOVE LAIN
-    genre.sync: Anime,Action,Adventure,Fantasy,Video Game
-    studio: A-1 Pictures
     critic_rating: 8.0
   tt9426210:
     title: |-
@@ -1019,16 +569,6 @@ metadata:
     genre.sync: Anime,Adventure,Award Winning,Fantasy,Romance,Sci-Fi
     studio: Studio Ghibli
     critic_rating: 8.3
-  tt0808506:
-    title: |-
-      Toki wo Kakeru Shoujo
-    sort_title: |-
-      Toki wo Kakeru Shoujo
-    original_title: |-
-      The Girl Who Leapt Through Time
-    genre.sync: Anime,Award Winning,Drama,Romance,Sci-Fi,School,Time Travel
-    studio: Madhouse
-    critic_rating: 8.1
   tt0096283:
     title: |-
       Tonari no Totoro
@@ -1049,26 +589,6 @@ metadata:
     genre.sync: Anime,Drama,Romance,School
     studio: Studio Ghibli
     critic_rating: 6.5
-  tt10477558:
-    title: |-
-      Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
-    sort_title: |-
-      Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
-    original_title: |-
-      LET'S ALL LOVE LAIN
-    genre.sync: Anime,Drama,Fantasy
-    studio: Kyoto Animation
-    critic_rating: 8.4
-  tt8652818:
-    title: |-
-      Violet Evergarden Movie
-    sort_title: |-
-      Violet Evergarden Movie
-    original_title: |-
-      Violet Evergarden: The Movie
-    genre.sync: Anime,Award Winning,Drama,Fantasy
-    studio: Kyoto Animation
-    critic_rating: 8.9
   tt14364238:
     title: |-
       Yuru Camp△ Movie
