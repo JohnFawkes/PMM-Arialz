@@ -3451,7 +3451,12 @@ metadata:
           Uzaki-chan wa Asobitai!
         user_rating: 6.7
         label: score
-    audience_rating: 3.3
+      2:
+        title: |-
+          Uzaki-chan wa Asobitai! ω
+        user_rating: 7.2
+        label: score
+    audience_rating: 6.9
   400133:
     title: |-
       Vanitas no Carte
