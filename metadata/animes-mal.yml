@@ -687,6 +687,17 @@ metadata:
     label.remove: Ongoing
     studio: NUT
     audience_rating: 7.1
+  363143:
+    title: |-
+      Machikado Mazoku
+    sort_title: |-
+      Machikado Mazoku
+    original_title: |-
+      The Demon Girl Next Door
+    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo,Slice of Life,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Parody,Demons,Magic,Urban Fantasy,Slapstick,Meta,Kuudere,Henshin,Surreal Comedy
+    label.remove: Ongoing
+    studio: J.C. Staff
+    audience_rating: 7.5
   273005:
     title: |-
       Diamond no Ace
@@ -823,22 +834,6 @@ metadata:
     label.remove: Ongoing
     studio: Studio Comet
     audience_rating: 6.6
-  278626:
-    title: |-
-      Fate/stay night: Unlimited Blade Works
-    sort_title: |-
-      Fate/stay night: Unlimited Blade Works
-    original_title: |-
-      Fate/stay night: Unlimited Blade Works
-    genre.sync: Anime,Action,Fantasy,Supernatural,Battle Royale,Magic,Death Game,Urban Fantasy,Witch,Mythology,Super Power,Superhero,Heterosexual,Swordplay,Tsundere
-    label.remove: Ongoing
-    studio: ufotable
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
-    audience_rating: 8.0
   355480:
     title: |-
       Enen no Shouboutai
@@ -861,6 +856,33 @@ metadata:
         user_rating: 7.8
         label: score
     audience_rating: 7.7
+  303071:
+    title: |-
+      Boku dake ga Inai Machi
+    sort_title: |-
+      Boku dake ga Inai Machi
+    original_title: |-
+      ERASED
+    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Thriller,Age Regression,Time Manipulation,Crime,Tragedy,Time Skip,Primarily Child Cast,Detective,Male Protagonist,Alternate Universe,School,Seinen
+    label.remove: Ongoing
+    studio: A-1 Pictures
+    audience_rating: 8.1
+  278626:
+    title: |-
+      Fate/stay night: Unlimited Blade Works
+    sort_title: |-
+      Fate/stay night: Unlimited Blade Works
+    original_title: |-
+      Fate/stay night: Unlimited Blade Works
+    genre.sync: Anime,Action,Fantasy,Supernatural,Battle Royale,Magic,Death Game,Urban Fantasy,Witch,Mythology,Super Power,Superhero,Heterosexual,Swordplay,Tsundere
+    label.remove: Ongoing
+    studio: ufotable
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.remove: score
+    audience_rating: 8.0
   375271:
     title: |-
       Fumetsu no Anata e
@@ -1608,6 +1630,17 @@ metadata:
         user_rating: 7.7
         label: score
     audience_rating: 7.7
+  403849:
+    title: |-
+      Kidou Senshi Gundam UC
+    sort_title: |-
+      Kidou Senshi Gundam UC
+    original_title: |-
+      Mobile Suit Gundam UC
+    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Space Opera,Politics,Military,Space,Conspiracy,Super Robot,Tragedy,Real Robot
+    label.remove: Ongoing
+    studio: Sunrise
+    audience_rating: 7.8
   418364:
     title: |-
       Kidou Senshi Gundam: Suisei no Majo
@@ -2150,17 +2183,6 @@ metadata:
     label: Ongoing
     studio: A-1 Pictures
     audience_rating: 7.4
-  403849:
-    title: |-
-      Kidou Senshi Gundam UC
-    sort_title: |-
-      Kidou Senshi Gundam UC
-    original_title: |-
-      Mobile Suit Gundam UC
-    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Space Opera,Politics,Military,Space,Conspiracy,Super Robot,Tragedy,Real Robot
-    label.remove: Ongoing
-    studio: Sunrise
-    audience_rating: 7.8
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -2356,11 +2378,6 @@ metadata:
     genre.sync: Anime,Adventure,Fantasy,Romance,Male Protagonist,Economics,Work,Primarily Adult Cast,Historical,Kemonomimi,Monster Girl,Female Protagonist,Politics
     label.remove: Ongoing
     studio: Imagin
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
     audience_rating: 8.0
   414908:
     title: |-
@@ -2828,8 +2845,16 @@ metadata:
       0:
         label.remove: score
       1:
-        label.remove: score
-    audience_rating: 8.4
+        title: |-
+          Shouwa Genroku Rakugo Shinjuu
+        user_rating: 8.4
+        label: score
+      2:
+        title: |-
+          Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
+        user_rating: 8.6
+        label: score
+    audience_rating: 8.5
   278154:
     title: |-
       Sidonia no Kishi
