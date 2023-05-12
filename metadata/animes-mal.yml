@@ -409,6 +409,17 @@ metadata:
     label.remove: Ongoing
     studio: CloverWorks
     audience_rating: 8.8
+  303071:
+    title: |-
+      Boku dake ga Inai Machi
+    sort_title: |-
+      Boku dake ga Inai Machi
+    original_title: |-
+      ERASED
+    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Thriller,Age Regression,Time Manipulation,Crime,Tragedy,Time Skip,Primarily Child Cast,Detective,Male Protagonist,Alternate Universe,School,Seinen
+    label.remove: Ongoing
+    studio: A-1 Pictures
+    audience_rating: 8.1
   305074:
     title: |-
       Boku no Hero Academia
@@ -472,7 +483,25 @@ metadata:
     genre.sync: Anime,Action,Comedy,Mystery,Supernatural,Super Power,Crime,Detective,Mafia,Male Protagonist,Urban Fantasy,Classic Literature,Yakuza,Urban,Primarily Adult Cast,Ensemble Cast,Primarily Male Cast,Orphan
     label.remove: Ongoing
     studio: bones
-    audience_rating: 7.7
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Bungou Stray Dogs
+        user_rating: 7.7
+        label: score
+      2:
+        title: |-
+          Bungou Stray Dogs 3rd Season
+        user_rating: 8.2
+        label: score
+      3:
+        title: |-
+          Bungou Stray Dogs 4th Season
+        user_rating: 8.4
+        label: score
+    audience_rating: 8.1
   83316:
     title: |-
       Casshern Sins
@@ -823,22 +852,6 @@ metadata:
     label.remove: Ongoing
     studio: Studio Comet
     audience_rating: 6.6
-  278626:
-    title: |-
-      Fate/stay night: Unlimited Blade Works
-    sort_title: |-
-      Fate/stay night: Unlimited Blade Works
-    original_title: |-
-      Fate/stay night: Unlimited Blade Works
-    genre.sync: Anime,Action,Fantasy,Supernatural,Battle Royale,Magic,Death Game,Urban Fantasy,Witch,Mythology,Super Power,Superhero,Heterosexual,Swordplay,Tsundere
-    label.remove: Ongoing
-    studio: ufotable
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
-    audience_rating: 8.0
   355480:
     title: |-
       Enen no Shouboutai
@@ -861,6 +874,22 @@ metadata:
         user_rating: 7.8
         label: score
     audience_rating: 7.7
+  278626:
+    title: |-
+      Fate/stay night: Unlimited Blade Works
+    sort_title: |-
+      Fate/stay night: Unlimited Blade Works
+    original_title: |-
+      Fate/stay night: Unlimited Blade Works
+    genre.sync: Anime,Action,Fantasy,Supernatural,Battle Royale,Magic,Death Game,Urban Fantasy,Witch,Mythology,Super Power,Superhero,Heterosexual,Swordplay,Tsundere
+    label.remove: Ongoing
+    studio: ufotable
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.remove: score
+    audience_rating: 8.0
   375271:
     title: |-
       Fumetsu no Anata e
@@ -1275,6 +1304,17 @@ metadata:
     label.remove: Ongoing
     studio: Orange
     audience_rating: 8.3
+  370377:
+    title: |-
+      ID: INVADED
+    sort_title: |-
+      ID: INVADED
+    original_title: |-
+      ID: INVADED
+    genre.sync: Anime,Drama,Mystery,Psychological,Sci-Fi,Thriller,Detective,Virtual World,Crime,Alternate Universe,Police,Tragedy,Memory Manipulation,Urban Fantasy,Primarily Adult Cast,Augmented Reality,Prison,Revenge,Anti-Hero,Philosophy
+    label.remove: Ongoing
+    studio: NAZ
+    audience_rating: 7.7
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -1608,6 +1648,17 @@ metadata:
         user_rating: 7.7
         label: score
     audience_rating: 7.7
+  403849:
+    title: |-
+      Kidou Senshi Gundam UC
+    sort_title: |-
+      Kidou Senshi Gundam UC
+    original_title: |-
+      Mobile Suit Gundam UC
+    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Space Opera,Politics,Military,Space,Conspiracy,Super Robot,Tragedy,Real Robot
+    label.remove: Ongoing
+    studio: Sunrise
+    audience_rating: 7.8
   418364:
     title: |-
       Kidou Senshi Gundam: Suisei no Majo
@@ -1969,6 +2020,28 @@ metadata:
     label.remove: Ongoing
     studio: A-1 Pictures
     audience_rating: 8.2
+  363143:
+    title: |-
+      Machikado Mazoku
+    sort_title: |-
+      Machikado Mazoku
+    original_title: |-
+      The Demon Girl Next Door
+    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo,Slice of Life,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Parody,Demons,Magic,Urban Fantasy,Slapstick,Meta,Kuudere,Henshin,Surreal Comedy
+    label.remove: Ongoing
+    studio: J.C. Staff
+    seasons:
+      1:
+        title: |-
+          Machikado Mazoku
+        user_rating: 7.5
+        label: score
+      2:
+        title: |-
+          Machikado Mazoku: 2-Choume
+        user_rating: 7.8
+        label: score
+    audience_rating: 7.7
   326109:
     title: |-
       Made in Abyss
@@ -2150,17 +2223,6 @@ metadata:
     label: Ongoing
     studio: A-1 Pictures
     audience_rating: 7.4
-  403849:
-    title: |-
-      Kidou Senshi Gundam UC
-    sort_title: |-
-      Kidou Senshi Gundam UC
-    original_title: |-
-      Mobile Suit Gundam UC
-    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Space Opera,Politics,Military,Space,Conspiracy,Super Robot,Tragedy,Real Robot
-    label.remove: Ongoing
-    studio: Sunrise
-    audience_rating: 7.8
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -2360,8 +2422,16 @@ metadata:
       0:
         label.remove: score
       1:
-        label.remove: score
-    audience_rating: 8.0
+        title: |-
+          Ookami to Koushinryou
+        user_rating: 8.0
+        label: score
+      2:
+        title: |-
+          Ookami to Koushinryou II
+        user_rating: 8.1
+        label: score
+    audience_rating: 8.1
   414908:
     title: |-
       Ooyukiumi no Kaina
@@ -2828,8 +2898,16 @@ metadata:
       0:
         label.remove: score
       1:
-        label.remove: score
-    audience_rating: 8.4
+        title: |-
+          Shouwa Genroku Rakugo Shinjuu
+        user_rating: 8.4
+        label: score
+      2:
+        title: |-
+          Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
+        user_rating: 8.6
+        label: score
+    audience_rating: 8.5
   278154:
     title: |-
       Sidonia no Kishi
@@ -3472,6 +3550,8 @@ metadata:
     label.remove: Ongoing
     studio: A-1 Pictures
     seasons:
+      0:
+        label.remove: score
       1:
         title: |-
           Working!!
