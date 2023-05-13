@@ -462,6 +462,17 @@ metadata:
         user_rating: 8.3
         label: score
     audience_rating: 7.9
+  422981:
+    title: |-
+      Boku no Kokoro no Yabai Yatsu
+    sort_title: |-
+      Boku no Kokoro no Yabai Yatsu
+    original_title: |-
+      The Dangers in My Heart
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Primarily Teen Cast,Heterosexual,Chuunibyou,School,Male Protagonist,Female Protagonist,Shounen
+    label: Ongoing
+    studio: Shin-Ei Animation
+    audience_rating: 7.0
   426294:
     title: |-
       Buddy Daddies
@@ -670,17 +681,6 @@ metadata:
     label.remove: Ongoing
     studio: TMS Entertainment
     audience_rating: 7.4
-  422981:
-    title: |-
-      Boku no Kokoro no Yabai Yatsu
-    sort_title: |-
-      Boku no Kokoro no Yabai Yatsu
-    original_title: |-
-      The Dangers in My Heart
-    genre.sync: Anime,Comedy,Romance,Slice of Life,Primarily Teen Cast,Heterosexual,Chuunibyou,School,Male Protagonist,Female Protagonist,Shounen
-    label: Ongoing
-    studio: Shin-Ei Animation
-    audience_rating: 7.0
   80042:
     title: |-
       DARKER THAN BLACK: Kuro no Keiyakusha
