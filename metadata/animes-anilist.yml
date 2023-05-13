@@ -409,6 +409,17 @@ metadata:
     label.remove: Ongoing
     studio: CloverWorks
     audience_rating: 8.8
+  303071:
+    title: |-
+      Boku dake ga Inai Machi
+    sort_title: |-
+      Boku dake ga Inai Machi
+    original_title: |-
+      ERASED
+    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Thriller,Age Regression,Time Manipulation,Crime,Tragedy,Time Skip,Primarily Child Cast,Detective,Male Protagonist,Alternate Universe,School,Seinen
+    label.remove: Ongoing
+    studio: A-1 Pictures
+    audience_rating: 8.1
   305074:
     title: |-
       Boku no Hero Academia
@@ -659,6 +670,17 @@ metadata:
     label.remove: Ongoing
     studio: TMS Entertainment
     audience_rating: 7.4
+  422981:
+    title: |-
+      Boku no Kokoro no Yabai Yatsu
+    sort_title: |-
+      Boku no Kokoro no Yabai Yatsu
+    original_title: |-
+      The Dangers in My Heart
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Primarily Teen Cast,Heterosexual,Chuunibyou,School,Male Protagonist,Female Protagonist,Shounen
+    label: Ongoing
+    studio: Shin-Ei Animation
+    audience_rating: 7.0
   80042:
     title: |-
       DARKER THAN BLACK: Kuro no Keiyakusha
@@ -863,17 +885,6 @@ metadata:
         user_rating: 7.8
         label: score
     audience_rating: 7.7
-  303071:
-    title: |-
-      Boku dake ga Inai Machi
-    sort_title: |-
-      Boku dake ga Inai Machi
-    original_title: |-
-      ERASED
-    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Thriller,Age Regression,Time Manipulation,Crime,Tragedy,Time Skip,Primarily Child Cast,Detective,Male Protagonist,Alternate Universe,School,Seinen
-    label.remove: Ongoing
-    studio: A-1 Pictures
-    audience_rating: 8.1
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
