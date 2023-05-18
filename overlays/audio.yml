@@ -25,10 +25,18 @@ templates:
 
 overlays:
 
-  Audio-Multi:
+  Audio-VO:
     template:
       - name: AudioLanguage
         weight: 30
+    plex_search:
+      all:
+        audio_language.not: fr
+
+  Audio-Multi:
+    template:
+      - name: AudioLanguage
+        weight: 20
     plex_search:
       all:
         audio_language: fr
@@ -44,9 +52,3 @@ overlays:
         audio_language: fr
     filters:
       audio_language.count_lt: 2
-
-  Audio-VO:
-    template:
-      - name: AudioLanguage
-        weight: 5
-    plex_all: true

@@ -356,10 +356,7 @@ overlays:
     template: [name: standard, name: networks]
 
   Travel Channel:
-    template: [name: standard, name: networks]
-
-  Travel Channel:
-    template: [name: standard, {name: networks, search: [Travel Channel United Kingdom]}]
+    template: [name: standard, {name: networks, search: [Travel Channel, Travel Channel United Kingdom]}]
 
   truTV:
     template: [name: standard, name: networks]
