@@ -89,6 +89,16 @@ metadata:
     genre.sync: Anime,Romance,Sci-Fi,Sports,Supernatural,Parkour,Post-Apocalyptic,Male Protagonist,Urban Fantasy,Tragedy,Dystopian,Female Protagonist,Urban
     studio: Wit Studio
     audience_rating: 7.1
+  tt8391976:
+    title: |-
+      Bungou Stray Dogs: DEAD APPLE
+    sort_title: |-
+      Bungou Stray Dogs: DEAD APPLE
+    original_title: |-
+      Bungo Stray Dogs: DEAD APPLE
+    genre.sync: Anime,Action,Comedy,Mystery,Supernatural,Detective,Super Power,Urban Fantasy,Anti-Hero,Mafia,Male Protagonist
+    studio: bones
+    audience_rating: 7.8
   tt0983213:
     title: |-
       Byousoku 5 Centimeter
@@ -98,7 +108,7 @@ metadata:
       5 Centimeters per Second
     genre.sync: Anime,Drama,Romance,Slice of Life,Coming of Age,Heterosexual,Time Skip,Tragedy,Travel
     studio: CoMix Wave
-    audience_rating: 7.1
+    audience_rating: 7.2
   tt6915208:
     title: |-
       Chuunibyou demo Koi ga Shitai!: Take On Me
@@ -598,7 +608,7 @@ metadata:
       Your Name.
     genre.sync: Anime,Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Female Protagonist,Memory Manipulation,Coming of Age,Male Protagonist,Urban
     studio: CoMix Wave
-    audience_rating: 8.5
+    audience_rating: 8.6
   tt7236034:
     title: |-
       Kimi no Suizou wo Tabetai
@@ -658,7 +668,7 @@ metadata:
       The Garden of Words
     genre.sync: Anime,Drama,Psychological,Romance,Slice of Life,Coming of Age,Age Gap,Teacher,Male Protagonist,Heterosexual,Feet
     studio: CoMix Wave
-    audience_rating: 7.5
+    audience_rating: 7.6
   tt10253816:
     title: |-
       Koutetsujou no Kabaneri: Unato Kessen
@@ -666,7 +676,7 @@ metadata:
       Koutetsujou no Kabaneri: Unato Kessen
     original_title: |-
       Kabaneri of the Iron Fortress: The Battle of Unato
-    genre.sync: Anime,Action,Drama,Fantasy,Horror,Supernatural,Steampunk,Post-Apocalyptic,Zombie,Female Protagonist,Pandemic,Trains,Military
+    genre.sync: Anime,Action,Drama,Fantasy,Horror,Supernatural,Steampunk,Post-Apocalyptic,Zombie,Trains,Female Protagonist,Pandemic,Military
     studio: Wit Studio
     audience_rating: 7.5
   tt0104652:
@@ -958,7 +968,7 @@ metadata:
       Knights of Sidonia: Love Woven in the Stars
     genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Aliens,Male Protagonist,Monster Girl,Military,Space,Full CGI
     studio: POLYGON PICTURES
-    audience_rating: 7.0
+    audience_rating: 6.9
   tt1121794:
     title: |-
       Stranger: Mukou Hadan
