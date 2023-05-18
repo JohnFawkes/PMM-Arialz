@@ -495,8 +495,6 @@ metadata:
     label.remove: Ongoing
     studio: bones
     seasons:
-      0:
-        label.remove: score
       1:
         title: |-
           Bungou Stray Dogs
