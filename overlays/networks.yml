@@ -10,6 +10,7 @@ templates:
       vertical_align: bottom
     builder_level: <<overlay_level>>
     plex_search:
+      validate: false
       all:
         network: <<overlay>>
     overlay:
