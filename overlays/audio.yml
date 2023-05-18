@@ -33,18 +33,7 @@ overlays:
       all:
         audio_language: fr
     filters:
-      audio_language.count_gte: 3
-
-  Audio-Dual:
-    template:
-      - name: AudioLanguage
-        weight: 20
-    plex_search:
-      all:
-        audio_language: fr
-    filters:
       audio_language.count_gte: 2
-      audio_language.count_lt: 3
 
   Audio-VF:
     template:
@@ -55,7 +44,7 @@ overlays:
         audio_language: fr
     filters:
       audio_language.count_lt: 2
-      
+
   Audio-VO:
     template:
       - name: AudioLanguage
