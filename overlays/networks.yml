@@ -46,7 +46,7 @@ templates:
     plex_search:
       validate: false
       any:
-        network.is: <<search>>
+        network: <<search>>
 
 overlays:
   A&E:
