@@ -846,7 +846,7 @@ metadata:
       Edomae Elf
     original_title: |-
       Otaku Elf
-    genre.sync: Anime,Comedy,Slice of Life,Supernatural,Hikikomori,Elf,Shrine Maiden,Otaku Culture,Primarily Female Cast,Shounen,Rehabilitation,Slapstick,Iyashikei,Female Protagonist
+    genre.sync: Anime,Comedy,Slice of Life,Supernatural,Hikikomori,Elf,Otaku Culture,Primarily Female Cast,Shounen,Rehabilitation,Slapstick,Iyashikei,Shrine Maiden,Female Protagonist
     label: Ongoing
     studio: C2C
     audience_rating: 6.8
@@ -1201,7 +1201,7 @@ metadata:
     genre.sync: Anime,Action,Fantasy,Super Power,Urban Fantasy,Primarily Adult Cast,Card Battle,Male Protagonist,Foreign
     label.remove: Ongoing
     studio: TMS Entertainment
-    audience_rating: 7.0
+    audience_rating: 7.1
   306743:
     title: |-
       High School Fleet
@@ -1309,7 +1309,7 @@ metadata:
       Houseki no Kuni
     original_title: |-
       Land of the Lustrous
-    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Psychological,Full CGI,Philosophy,Agender,Tragedy,Anthropomorphism,Seinen,Memory Manipulation,Post-Apocalyptic,Survival,Body Horror,Amnesia,Cosmic Horror,Time Skip
+    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Psychological,Full CGI,Agender,Philosophy,Anthropomorphism,Tragedy,Seinen,Memory Manipulation,Post-Apocalyptic,Survival,Body Horror,Amnesia,Cosmic Horror,Time Skip
     label.remove: Ongoing
     studio: Orange
     audience_rating: 8.3
@@ -1552,7 +1552,7 @@ metadata:
       Kaminaki Sekai no Kamisama Katsudou
     original_title: |-
       KamiKatsu: Working for God in a Godless World
-    genre.sync: Anime,Action,Comedy,Drama,Ecchi,Fantasy,Cult,Gods,Religion,Lost Civilization,Male Protagonist,Parody,Satire,Time Manipulation,Time Skip,Anachronism,Mythology,Rural,Seinen,Cyborg,Isekai
+    genre.sync: Anime,Action,Comedy,Drama,Ecchi,Fantasy,Cult,Gods,Religion,Lost Civilization,Male Protagonist,Parody,Time Manipulation,Satire,Time Skip,Anti-Hero,Rural,Mythology,Anachronism,Seinen,Cyborg,Isekai
     label: Ongoing
     studio: Studio Palette
     audience_rating: 6.6
@@ -1698,7 +1698,7 @@ metadata:
       1:
         title: |-
           Kidou Senshi Gundam: Tekketsu no Orphans
-        user_rating: 7.7
+        user_rating: 7.8
         label: score
       2:
         title: |-
@@ -2535,7 +2535,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Fairy Tale,Seinen,Achronological Order,Ensemble Cast,Male Protagonist,Language Barrier,Disability
     label: Ongoing
     studio: Wit Studio
-    audience_rating: 7.3
+    audience_rating: 7.4
   294002:
     title: |-
       Overlord
@@ -3019,7 +3019,7 @@ metadata:
       Steins;Gate
     original_title: |-
       Steins;Gate
-    genre.sync: Anime,Drama,Psychological,Sci-Fi,Thriller,Time Manipulation,Alternate Universe,Conspiracy,Tragedy,Memory Manipulation,Denpa,Male Protagonist,Dystopian,Urban,Cosmic Horror,Primarily Adult Cast,Philosophy,Chuunibyou
+    genre.sync: Anime,Drama,Psychological,Sci-Fi,Thriller,Time Manipulation,Alternate Universe,Tragedy,Conspiracy,Memory Manipulation,Denpa,Male Protagonist,Dystopian,Urban,Cosmic Horror,Primarily Adult Cast,Philosophy,Chuunibyou
     label.remove: Ongoing
     studio: White Fox
     seasons:
@@ -3145,7 +3145,7 @@ metadata:
       Tengoku Daimakyou
     original_title: |-
       Tengoku Daimakyo
-    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Seinen,Body Swapping,Conspiracy,Tragedy,Demons,Travel,Female Protagonist,Male Protagonist,Achronological Order,LGBTQ+ Themes,Denpa,Orphan,Coming of Age
+    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Body Swapping,Seinen,Conspiracy,Tragedy,Demons,Travel,Female Protagonist,Male Protagonist,Achronological Order,Denpa,Orphan,Coming of Age
     label: Ongoing
     studio: Production I.G
     audience_rating: 7.9
@@ -3492,7 +3492,7 @@ metadata:
       2:
         title: |-
           Uzaki-chan wa Asobitai! ω
-        user_rating: 7.2
+        user_rating: 7.1
         label: score
     audience_rating: 6.9
   400133:
@@ -3707,7 +3707,7 @@ metadata:
       Yamada-kun to Lv999 no Koi wo Suru
     original_title: |-
       My Love Story with Yamada-kun at Lv999
-    genre.sync: Anime,Comedy,Drama,Romance,Video Games,Female Protagonist,Heterosexual,Kuudere,Shoujo,Otaku Culture
+    genre.sync: Anime,Comedy,Drama,Romance,Video Games,Female Protagonist,Heterosexual,Kuudere,Otaku Culture,Shoujo
     label: Ongoing
     studio: MADHOUSE
     audience_rating: 7.5
