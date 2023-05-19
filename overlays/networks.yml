@@ -68,7 +68,7 @@ overlays:
     template: [name: standard, name: networks]
 
   Amazon:
-    template: [name: standard, name: networks]
+    template: [name: standard, {name: networks, search: [Amazon, Amazon Studios]}]
 
   Amazon Freevee:
     template: [name: standard, name: networks]
