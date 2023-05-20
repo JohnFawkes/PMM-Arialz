@@ -1014,8 +1014,6 @@ metadata:
     label.remove: Ongoing
     studio: Tezuka Productions
     seasons:
-      0:
-        label.remove: score
       1:
         title: |-
           Go-toubun no Hanayome
