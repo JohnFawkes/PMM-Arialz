@@ -2016,17 +2016,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.4
-  400133:
-    title: |-
-      Vanitas no Carte
-    sort_title: |-
-      Vanitas no Carte
-    original_title: |-
-      The Case Study of Vanitas
-    genre.sync: Anime,Drama,Fantasy,Mystery,Supernatural,Vampire,Male Protagonist,Conspiracy,Foreign,Steampunk,Tragedy,Heterosexual,Primarily Adult Cast,Anti-Hero,Anachronism
-    label.remove: Ongoing
-    studio: bones
-    audience_rating: 7.8
   414057:
     title: |-
       Lycoris Recoil
@@ -3504,6 +3493,17 @@ metadata:
         user_rating: 7.1
         label: score
     audience_rating: 6.9
+  400133:
+    title: |-
+      Vanitas no Carte
+    sort_title: |-
+      Vanitas no Carte
+    original_title: |-
+      The Case Study of Vanitas
+    genre.sync: Anime,Drama,Fantasy,Mystery,Supernatural,Vampire,Male Protagonist,Conspiracy,Foreign,Steampunk,Tragedy,Heterosexual,Primarily Adult Cast,Anti-Hero,Anachronism
+    label.remove: Ongoing
+    studio: bones
+    audience_rating: 7.8
   359274:
     title: |-
       Vinland Saga
