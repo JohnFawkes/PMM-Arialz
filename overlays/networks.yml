@@ -1,386 +1,601 @@
-##############################################################################
-#                             Network Overlay                                #
-#                 Created by Yozora, Bullmoose20, & Sohjiro                  #
-#          EDITING THIS FILE MAY CAUSE PULLING NEW UPDATES TO FAIL           #
-#    https://metamanager.wiki/en/latest/defaults/overlays/network.html       #
-##############################################################################
-
-external_templates:
-  pmm: templates
-  template_variables:
-    default:
-      key: <<overlay_name>>
-      horizontal_align: right
-      vertical_align: bottom
-    conditionals:
-      vertical_offset:
-        default: 15
-        conditions:
-          - vertical_align.exists: false
-            value: 15
-          - vertical_align: center
-            value: 0
-          - vertical_align: top
-            value: 15
-          - vertical_align: bottom
-            value: 15
-      horizontal_offset:
-        default: 15
-        conditions:
-          - horizontal_align: center
-            value: 0
-          - horizontal_align: [left, right]
-            value: 15
-    repo: overlays/Images/Networks/<<key>>
-    back_color: "#000000B3"
-    back_radius: 30
-    back_width: 350
-    back_height: 120
-
 templates:
-  networks:
+  Networks:
+    optional:
+      - overlay_level
     default:
-      key: <<overlay_name>>
-      search: <<key>>
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: right
+      vertical_offset: 15
+      vertical_align: bottom
+    builder_level: <<overlay_level>>
     ignore_blank_results: true
     plex_search:
-      validate: false
-      any:
-        network: <<search>>
+      all:
+        network: <<overlay>>
+    overlay:
+      name: <<overlay_name>>
+      repo: overlays/Images/Networks/<<key>>
+      group: Networks
+      weight: <<weight>>
+      back_color: "#000000B3"
+      back_radius: 30
+      back_width: 350
+      back_height: 120
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
 
 overlays:
   A&E:
-    template: [name: standard, name: networks]
+    variables: {key: A&E, weight: 20}
+    template: [name: Networks]
 
   ABC:
-    template: [name: standard, {name: networks, search: [ABC, ABC (US), ABC Family, ABC KIDS, ABC TV]}]
+    variables: {key: ABC, weight: 10}
+    template: [name: Networks]
+
+  ABC (US):
+    variables: {key: ABC, weight: 10}
+    template: [name: Networks]
+
+  ABC Family:
+    variables: {key: ABC, weight: 10}
+    template: [name: Networks]
+
+  ABC KIDS:
+    variables: {key: ABC, weight: 10}
+    template: [name: Networks]
+
+  ABC TV:
+    variables: {key: ABC, weight: 10}
+    template: [name: Networks]
 
   Acorn TV:
-    template: [name: standard, name: networks]
+    variables: {key: Acorn TV, weight: 10}
+    template: [name: Networks]
 
   Adult Swim:
-    template: [name: standard, name: networks]
+    variables: {key: Adult Swim, weight: 10}
+    template: [name: Networks]
 
   Alibi:
-    template: [name: standard, name: networks]
+    variables: {key: Alibi, weight: 10}
+    template: [name: Networks]
 
   Audience:
-    template: [name: standard, name: networks]
+    variables: {key: Audience, weight: 10}
+    template: [name: Networks]
 
   Amazon:
-    template: [name: standard, {name: networks, search: [Amazon, Amazon Studios]}]
+    variables: {key: Amazon, weight: 20}
+    template: { name: Networks }
 
   Amazon Freevee:
-    template: [name: standard, name: networks]
+    variables: {key: Freevee, weight: 10}
+    template: [name: Networks]
 
   AMC:
-    template: [name: standard, {name: networks, search: [AMC, AMC+]}]
+    variables: {key: AMC, weight: 20}
+    template: [name: Networks]
+
+  AMC+:
+    variables: {key: AMC, weight: 20}
+    template: [name: Networks]
 
   Animal Planet:
-    template: [name: standard, name: networks]
+    variables: {key: Animal Planet, weight: 10}
+    template: [name: Networks]
 
-  Antena 3:
-    template: [name: standard, {name: networks, search: [336320]}]
+  336320:
+    variables: {key: Antena 3, weight: 10}
+    template: [name: Networks]
 
   Apple TV+:
-    template: [name: standard, name: networks]
+    variables: {key: Apple TV+, weight: 10}
+    template: [name: Networks]
 
   AXN:
-    template: [name: standard, name: networks]
+    variables: {key: AXN, weight: 10}
+    template: { name: Networks }
 
-  BBC:
-    template: [name: standard, {name: networks, search: [BBC One, BBC Two, BBC Three, BBC Four, BBC America]}]
+  BBC America:
+    variables: {key: BBC, weight: 10}
+    template: [name: Networks]
+
+  BBC One:
+    variables: {key: BBC, weight: 10}
+    template: [name: Networks]
+
+  BBC Two:
+    variables: {key: BBC, weight: 10}
+    template: [name: Networks]
+
+  BBC Three:
+    variables: {key: BBC, weight: 10}
+    template: [name: Networks]
+
+  BBC Four:
+    variables: {key: BBC, weight: 10}
+    template: [name: Networks]
 
   BET:
-    template: [name: standard, name: networks]
+    variables: {key: BET, weight: 10}
+    template: [name: Networks]
 
   Boomerang:
-    template: [name: standard, name: networks]
+    variables: {key: Boomerang, weight: 10}
+    template: [name: Networks]
 
   BritBox:
-    template: [name: standard, name: networks]
+    variables: {key: BritBox, weight: 10}
+    template: [name: Networks]
 
   Canal J:
-    template: [name: standard, name: networks]
+    variables: {key: Canal J, weight: 10}
+    template: [name: Networks]
 
   Canal+:
-    template: [name: standard, name: networks]
+    variables: {key: Canal+, weight: 10}
+    template: [name: Networks]
 
   Cartoon Network:
-    template: [name: standard, name: networks]
+    variables: {key: Cartoon Network, weight: 20}
+    template: [name: Networks]
 
   CBBC:
-    template: [name: standard, name: networks]
+    variables: {key: BBC, weight: 10}
+    template: [name: Networks]
 
   CBC Television:
-    template: [name: standard, name: networks]
+    variables: {key: CBC Television, weight: 10}
+    template: [name: Networks]
 
   CBS:
-    template: [name: standard, {name: networks, search: [CBS, CBS All Access]}]
+    variables: {key: CBS, weight: 20}
+    template: [name: Networks]
+
+  CBS All Access:
+    variables: {key: CBS, weight: 20}
+    template: [name: Networks]
 
   Channel 4:
-    template: [name: standard, name: networks]
+    variables: {key: Channel 4, weight: 10}
+    template: [name: Networks]
 
   Channel 5:
-    template: [name: standard, name: networks]
+    variables: {key: Channel 5, weight: 10}
+    template: [name: Networks]
 
   CHCH-DT:
-    template: [name: standard, name: networks]
+    variables: {key: CHCH-DT, weight: 10}
+    template: [name: Networks]
 
   Chiller:
-    template: [name: standard, name: networks]
+    variables: {key: Chiller, weight: 10}
+    template: [name: Networks]
 
   Cinemax:
-    template: [name: standard, name: networks]
+    variables: {key: Cinemax, weight: 10}
+    template: [name: Networks]
 
   Citytv:
-    template: [name: standard, name: networks]
+    variables: {key: Citytv, weight: 10}
+    template: [name: Networks]
 
   CNN:
-    template: [name: standard, {name: networks, search: [CNN, CNN+]}]
+    variables: {key: CNN, weight: 10}
+    template: [name: Networks]
+
+  CNN+:
+    variables: {key: CNN, weight: 10}
+    template: [name: Networks]
 
   Comedy Central:
-    template: [name: standard, name: networks]
+    variables: {key: Comedy Central, weight: 10}
+    template: [name: Networks]
 
   Crime + Investigation:
-    template: [name: standard, name: networks]
+    variables: {key: Crime + Investigation, weight: 10}
+    template: [name: Networks]
 
   Crunchyroll:
-    template: [name: standard, name: networks]
+    variables: {key: Crunchyroll, weight: 10}
+    template: [name: Networks]
 
   CTV:
-    template: [name: standard, name: networks]
+    variables: {key: CTV, weight: 10}
+    template: [name: Networks]
 
   CuriosityStream:
-    template: [name: standard, name: networks]
+    variables: {key: CuriosityStream, weight: 10}
+    template: [name: Networks]
 
   Dave:
-    template: [name: standard, name: networks]
+    variables: {key: Dave, weight: 10}
+    template: [name: Networks]
 
   DC Universe:
-    template: [name: standard, name: networks]
+    variables: {key: DC Universe, weight: 10}
+    template: [name: Networks]
 
   Destination America:
-    template: [name: standard, name: networks]
+    variables: {key: Destination America, weight: 10}
+    template: [name: Networks]
 
   Discovery:
-    template: [name: standard, {name: networks, search: [Discovery, Discovery Family, Discovery Life, discovery+]}]
+    variables: {key: Discovery, weight: 10}
+    template: [name: Networks]
+
+  Discovery Family:
+    variables: {key: Discovery, weight: 10}
+    template: [name: Networks]
+
+  Discovery Life:
+    variables: {key: Discovery, weight: 10}
+    template: [name: Networks]
+
+  discovery+:
+    variables: {key: discovery+, weight: 10}
+    template: [name: Networks]
 
   Disney Channel:
-    template: [name: standard, name: networks]
+    variables: {key: Disney Channel, weight: 10}
+    template: [name: Networks]
 
   Disney Junior:
-    template: [name: standard, name: networks]
+    variables: {key: Disney Junior, weight: 10}
+    template: [name: Networks]
 
   Disney XD:
-    template: [name: standard, name: networks]
+    variables: {key: Disney XD, weight: 10}
+    template: [name: Networks]
 
   Disney+:
-    template: [name: standard, name: networks]
+    variables: {key: Disney+, weight: 10}
+    template: [name: Networks]
 
   DocPlay:
-    template: [name: standard, name: networks]
+    variables: {key: DocPlay, weight: 10}
+    template: [name: Networks]
 
   DR Ramasjang:
-    template: [name: standard, name: networks]
+    variables: {key: DR Ramasjang, weight: 10}
+    template: [name: Networks]
 
   Eleven:
-    template: [name: standard, name: networks]
+    variables: {key: Eleven, weight: 10}
+    template: [name: Networks]
 
   Epix:
-    template: [name: standard, name: networks]
+    variables: {key: Epix, weight: 10}
+    template: [name: Networks]
 
   FOX:
-    template: [name: standard, name: networks]
+    variables: {key: FOX, weight: 10}
+    template: [name: Networks]
 
   Fox Kids:
-    template: [name: standard, name: networks]
+    variables: {key: Fox Kids, weight: 10}
+    template: [name: Networks]
 
   Freeform:
-    template: [name: standard, name: networks]
+    variables: {key: Freeform, weight: 10}
+    template: [name: Networks]
 
   FX:
-    template: [name: standard, {name: networks, search: [FX, FXX]}]
+    variables: {key: FX, weight: 10}
+    template: [name: Networks]
+
+  FXX:
+    variables: {key: FX, weight: 10}
+    template: [name: Networks]
 
   HBO:
-    template: [name: standard, {name: networks, search: [HBO, HBO Asia, HBO Max]}]
+    variables: {key: HBO, weight: 20}
+    template: [name: Networks]
+
+  HBO Asia:
+    variables: {key: HBO, weight: 10}
+    template: [name: Networks]
+
+  HBO Max:
+    variables: {key: HBO, weight: 10}
+    template: [name: Networks]
 
   HGTV:
-    template: [name: standard, name: networks]
+    variables: {key: HGTV, weight: 10}
+    template: [name: Networks]
 
   History:
-    template: [name: standard, name: networks]
+    variables: {key: History, weight: 10}
+    template: [name: Networks]
 
   Hub Network:
-    template: [name: standard, name: networks]
+    variables: {key: Hub Network, weight: 10}
+    template: [name: Networks]
 
   Hulu:
-    template: [name: standard, name: networks]
+    variables: {key: Hulu, weight: 10}
+    template: [name: Networks]
 
   IMDb TV:
-    template: [name: standard, name: networks]
+    variables: {key: IMDb TV, weight: 10}
+    template: [name: Networks]
 
   Investigation Discovery:
-    template: [name: standard, name: networks]
+    variables: {key: Investigation Discovery, weight: 10}
+    template: [name: Networks]
 
   ITV:
-    template: [name: standard, {name: networks, search: [ITV, ITV2, ITV3, ITV4, ITVBe, ITV Encore, ITVX]}]
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITV2:
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITV3:
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITV4:
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITVBe:
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITV Encore:
+    variables: {key: ITV, weight: 10}
+    template: [name: Networks]
+
+  ITVX:
+    variables: {key: ITVX, weight: 10}
+    template: [name: Networks]
 
   Lifetime:
-    template: [name: standard, name: networks]
+    variables: {key: Lifetime, weight: 10}
+    template: [name: Networks]
 
   M6:
-    template: [name: standard, name: networks]
+    variables: {key: M6, weight: 10}
+    template: [name: Networks]
 
   MGM+:
-    template: [name: standard, name: networks]
+    variables: {key: MGM+, weight: 10}
+    template: [name: Networks]
 
   MTV:
-    template: [name: standard, name: networks]
+    variables: {key: MTV, weight: 10}
+    template: [name: Networks]
 
   National Geographic:
-    template: [name: standard, {name: networks, search: [National Geographic, National Geographic Channel]}]
+    variables: {key: National Geographic, weight: 10}
+    template: [name: Networks]
+
+  National Geographic Channel:
+    variables: {key: National Geographic, weight: 10}
+    template: [name: Networks]
 
   NBC:
-    template: [name: standard, name: networks]
+    variables: {key: NBC, weight: 20}
+    template: [name: Networks]
 
   Netflix:
-    template: [name: standard, name: networks]
+    variables: {key: Netflix, weight: 10}
+    template: [name: Networks]
 
   Nick Jr.:
-    template: [name: standard, name: networks]
+    variables: {key: Nick Jr., weight: 20}
+    template: [name: Networks]
 
   Nickelodeon:
-    template: [name: standard, name: networks]
+    variables: {key: Nickelodeon, weight: 20}
+    template: [name: Networks]
 
   Nicktoons:
-    template: [name: standard, name: networks]
+    variables: {key: Nicktoons, weight: 20}
+    template: [name: Networks]
 
   OWN:
-    template: [name: standard, name: networks]
+    variables: {key: OWN, weight: 20}
+    template: [name: Networks]
 
   Oxygen:
-    template: [name: standard, name: networks]
+    variables: {key: Oxygen, weight: 20}
+    template: [name: Networks]
 
   Paramount Network:
-    template: [name: standard, name: networks]
+    variables: {key: Paramount Network, weight: 10}
+    template: [name: Networks]
 
   Paramount+:
-    template: [name: standard, name: networks]
+    variables: {key: Paramount+, weight: 10}
+    template: [name: Networks]
 
   PBS:
-    template: [name: standard, name: networks]
+    variables: {key: PBS, weight: 10}
+    template: [name: Networks]
 
   Really:
-    template: [name: standard, name: networks]
+    variables: {key: Really, weight: 10}
+    template: [name: Networks]
 
   Reelz:
-    template: [name: standard, name: networks]
+    variables: {key: Reelz, weight: 10}
+    template: [name: Networks]
 
   Peacock:
-    template: [name: standard, name: networks]
+    variables: {key: Peacock, weight: 10}
+    template: [name: Networks]
+
+  Science:
+    variables: {key: Science Channel, weight: 10}
+    template: [name: Networks]
 
   Science Channel:
-    template: [name: standard, {name: networks, search: [Science Channel, Science]}]
+    variables: {key: Science Channel, weight: 10}
+    template: [name: Networks]
 
   Showcase:
-    template: [name: standard, name: networks]
+    variables: {key: Showcase, weight: 10}
+    template: [name: Networks]
 
   Showtime:
-    template: [name: standard, name: networks]
+    variables: {key: Showtime, weight: 10}
+    template: [name: Networks]
 
   Shudder:
-    template: [name: standard, name: networks]
+    variables: {key: Shudder, weight: 10}
+    template: [name: Networks]
 
   Smithsonian Channel:
-    template: [name: standard, name: networks]
+    variables: {key: Smithsonian Channel, weight: 10}
+    template: [name: Networks]
 
-  Sky:
-    template: [name: standard, {name: networks, search: [Sky Comedy, Sky Documentaries, Sky Max, Sky One, Sky Atlantic, 232193]}]
+  Sky Comedy:
+    variables: {key: Sky, weight: 10}
+    template: [name: Networks]
+
+  Sky Documentaries:
+    variables: {key: Sky, weight: 10}
+    template: [name: Networks]
+
+  Sky Max:
+    variables: {key: Sky, weight: 10}
+    template: [name: Networks]
+
+  Sky One:
+    variables: {key: Sky, weight: 10}
+    template: [name: Networks]
+
+  Sky Atlantic:
+    variables: {key: Sky, weight: 10}
+    template: [name: Networks]
+
+  232193:
+    variables: {key: Sky, weight: 10}
+    template: [name: Networks]
 
   Space:
-    template: [name: standard, name: networks]
+    variables: {key: Space, weight: 10}
+    template: [name: Networks]
 
   Spectrum TV:
-    template: [name: standard, name: networks]
+    variables: {key: Spectrum TV, weight: 10}
+    template: [name: Networks]
 
   Spike:
-    template: [name: standard, name: networks]
+    variables: {key: Spike, weight: 10}
+    template: [name: Networks]
 
   Stan:
-    template: [name: standard, name: networks]
+    variables: {key: Stan, weight: 10}
+    template: [name: Networks]
 
   Stargate Command:
-    template: [name: standard, name: networks]
+    variables: {key: Stargate Command, weight: 10}
+    template: [name: Networks]
 
   Starz:
-    template: [name: standard, name: networks]
+    variables: {key: Starz, weight: 10}
+    template: [name: Networks]
 
   Super Channel:
-    template: [name: standard, name: networks]
+    variables: {key: Super Channel, weight: 10}
+    template: [name: Networks]
 
   SVT Play:
-    template: [name: standard, name: networks]
+    variables: {key: SVT Play, weight: 20}
+    template: [name: Networks]
 
   Syndication:
-    template: [name: standard, name: networks]
+    variables: {key: Syndication, weight: 20}
+    template: [name: Networks]
 
   Syfy:
-    template: [name: standard, name: networks]
+    variables: {key: Syfy, weight: 20}
+    template: [name: Networks]
 
   T+E:
-    template: [name: standard, name: networks]
+    variables: {key: T+E, weight: 10}
+    template: [name: Networks]
 
   TBS:
-    template: [name: standard, name: networks]
+    variables: {key: TBS, weight: 10}
+    template: [name: Networks]
 
   Teletoon:
-    template: [name: standard, name: networks]
+    variables: {key: Teletoon, weight: 10}
+    template: [name: Networks]
 
   TF1:
-    template: [name: standard, name: networks]
+    variables: {key: TF1, weight: 10}
+    template: [name: Networks]
 
   The CW:
-    template: [name: standard, name: networks]
+    variables: {key: The CW, weight: 10}
+    template: [name: Networks]
 
   The WB:
-    template: [name: standard, name: networks]
+    variables: {key: The WB, weight: 10}
+    template: [name: Networks]
 
   TIMVision:
-    template: [name: standard, name: networks]
+    variables: {key: TIMVision, weight: 10}
+    template: [name: Networks]
 
   Toon Disney:
-    template: [name: standard, name: networks]
+    variables: {key: Toon Disney, weight: 10}
+    template: [name: Networks]
 
   TNT:
-    template: [name: standard, name: networks]
+    variables: {key: TNT, weight: 10}
+    template: [name: Networks]
 
   Travel Channel:
-    template: [name: standard, {name: networks, search: [Travel Channel, Travel Channel United Kingdom]}]
+    variables: {key: Travel Channel, weight: 10}
+    template: [name: Networks]
+
+  Travel Channel United Kingdom:
+    variables: {key: Travel Channel, weight: 10}
+    template: [name: Networks]
 
   truTV:
-    template: [name: standard, name: networks]
+    variables: {key: truTV, weight: 10}
+    template: [name: Networks]
 
   UPN:
-    template: [name: standard, name: networks]
+    variables: {key: UPN, weight: 10}
+    template: [name: Networks]
 
   USA Network:
-    template: [name: standard, name: networks]
+    variables: {key: USA Network, weight: 10}
+    template: [name: Networks]
 
   VH1:
-    template: [name: standard, name: networks]
+    variables: {key: VH1, weight: 10}
+    template: [name: Networks]
 
   Vice TV:
-    template: [name: standard, name: networks]
+    variables: {key: Vice TV, weight: 10}
+    template: [name: Networks]
 
   WGN America:
-    template: [name: standard, name: networks]
+    variables: {key: WGN America, weight: 10}
+    template: [name: Networks]
 
   Xbox Live:
-    template: [name: standard, name: networks]
+    variables: {key: Xbox Live, weight: 10}
+    template: [name: Networks]
 
   Xbox Video:
-    template: [name: standard, name: networks]
+    variables: {key: Xbox Live, weight: 10}
+    template: [name: Networks]
 
   YouTube Premium:
-    template: [name: standard, name: networks]
+    variables: {key: YouTube Premium, weight: 10}
+    template: [name: Networks]
