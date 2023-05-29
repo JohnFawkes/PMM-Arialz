@@ -123,7 +123,7 @@ metadata:
       [Oshi no Ko]
     original_title: |-
       Oshi No Ko
-    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Seinen,Twins,Male Protagonist,Reincarnation,Detective,Urban,Female Protagonist
+    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Seinen,Twins,Male Protagonist,Reincarnation,Detective,Urban,Bullying,Female Protagonist
     label: Ongoing
     studio: Doga Kobo
     audience_rating: 8.8
@@ -361,7 +361,7 @@ metadata:
       Benriya Saitou-san, Isekai ni Iku
     original_title: |-
       Handyman Saitou in Another World
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Slice of Life,Primarily Adult Cast,Isekai,Fairy,Ensemble Cast,Male Protagonist,4-koma,Magic,Seinen,Dungeon,Episodic,Memory Manipulation,Ninja
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Slice of Life,Primarily Adult Cast,Isekai,Fairy,Ensemble Cast,Male Protagonist,Magic,Seinen,Dungeon,Episodic,Memory Manipulation,Ninja
     label.remove: Ongoing
     studio: C2C
     audience_rating: 7.3
@@ -472,7 +472,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Slice of Life,Primarily Teen Cast,Heterosexual,School,Male Protagonist,Female Protagonist,Shounen
     label: Ongoing
     studio: Shin-Ei Animation
-    audience_rating: 7.2
+    audience_rating: 7.3
   426294:
     title: |-
       Buddy Daddies
@@ -1400,7 +1400,7 @@ metadata:
       Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita
     original_title: |-
       My One-Hit Kill Sister
-    genre.sync: Anime,Comedy,Fantasy,Romance,Isekai
+    genre.sync: Anime,Comedy,Fantasy,Romance,Isekai,Incest
     label: Ongoing
     studio: Gekkou
     audience_rating: 5.7
@@ -1662,7 +1662,7 @@ metadata:
       Kidou Senshi Gundam UC
     original_title: |-
       Mobile Suit Gundam UC
-    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Space Opera,Politics,Military,Space,Conspiracy,Super Robot,Tragedy,Real Robot
+    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Space Opera,Politics,Military,Space,Conspiracy,Tragedy,Real Robot
     label.remove: Ongoing
     studio: Sunrise
     audience_rating: 7.8
@@ -1727,7 +1727,7 @@ metadata:
       Kimetsu no Yaiba
     original_title: |-
       Demon Slayer: Kimetsu no Yaiba
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Supernatural,Demons,Shounen,Swordplay,Male Protagonist,Primarily Teen Cast,Tragedy,Monster Girl,Revenge,Travel
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Supernatural,Demons,Shounen,Swordplay,Male Protagonist,Primarily Teen Cast,Tragedy,Revenge,Monster Girl,Travel
     label: Ongoing
     studio: ufotable
     seasons:
@@ -1770,7 +1770,7 @@ metadata:
       Kimi wa Houkago Insomnia
     original_title: |-
       Insomniacs after school
-    genre.sync: Anime,Romance,Slice of Life,Iyashikei,Coming of Age,Seinen,Photography,Primarily Teen Cast,Astronomy,Heterosexual,School Club,Male Protagonist,School,Female Protagonist
+    genre.sync: Anime,Romance,Slice of Life,Iyashikei,Coming of Age,Seinen,Photography,Primarily Teen Cast,Heterosexual,Astronomy,School Club,Male Protagonist,School,Female Protagonist
     label: Ongoing
     studio: LIDENFILMS
     audience_rating: 7.7
@@ -1892,7 +1892,7 @@ metadata:
       Koori Zokusei Danshi to Cool na Douryou Joshi
     original_title: |-
       The Ice Guy and His Cool Female Colleague
-    genre.sync: Anime,Comedy,Romance,Slice of Life,Supernatural,Iyashikei,Primarily Adult Cast,Office Lady,Female Protagonist,Male Protagonist,Heterosexual,Youkai,Work,Super Power,Josei,Kuudere,Kemonomimi
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Supernatural,Primarily Adult Cast,Office Lady,Iyashikei,Female Protagonist,Heterosexual,Youkai,Work,Super Power,Male Protagonist,Josei,Kuudere,Kemonomimi
     label.remove: Ongoing
     studio: Zero-G
     audience_rating: 7.3
@@ -1985,7 +1985,7 @@ metadata:
       Kyokou Suiri
     original_title: |-
       In/Spectre
-    genre.sync: Anime,Comedy,Mystery,Romance,Supernatural,Urban Fantasy,Heterosexual,Ghost,Female Protagonist,Youkai,Detective,Meta
+    genre.sync: Anime,Comedy,Mystery,Romance,Supernatural,Urban Fantasy,Ghost,Heterosexual,Female Protagonist,Youkai,Detective,Meta
     label.remove: Ongoing
     studio: Brain's Base
     seasons:
@@ -2100,7 +2100,7 @@ metadata:
       Mahou Shoujo Magical Destroyers
     original_title: |-
       Magical Destroyers
-    genre.sync: Anime,Action,Comedy,Ecchi,Mahou Shoujo,Otaku Culture,Henshin,Dystopian,Surreal Comedy,Slapstick,Magic,Primarily Female Cast,Male Protagonist,Urban
+    genre.sync: Anime,Action,Comedy,Ecchi,Mahou Shoujo,Otaku Culture,Henshin,Dystopian,Magic,Surreal Comedy,Primarily Female Cast,Male Protagonist,Female Protagonist,Urban,Slapstick
     label: Ongoing
     studio: Bibury Animation Studios
     audience_rating: 6.3
@@ -2575,7 +2575,7 @@ metadata:
       Owari no Seraph
     original_title: |-
       Seraph of the End: Vampire Reign
-    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Supernatural,Vampire,Post-Apocalyptic,Male Protagonist,Shounen,Military,War,Time Skip,Lost Civilization,Urban Fantasy,Demons,Revenge,Swordplay
+    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Supernatural,Vampire,Post-Apocalyptic,Male Protagonist,Shounen,Military,War,Urban Fantasy,Demons,Time Skip,Revenge,Swordplay,Lost Civilization
     label.remove: Ongoing
     studio: Wit Studio
     audience_rating: 7.3
@@ -2905,7 +2905,7 @@ metadata:
       Shokei Shoujo no Virgin Road
     original_title: |-
       The Executioner and Her Way of Life
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Anti-Hero,Magic,Memory Manipulation,Time Manipulation,Primarily Female Cast,Female Protagonist,Isekai,Assassins,LGBTQ+ Themes,Religion,Gore
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Anti-Hero,Memory Manipulation,Magic,Time Manipulation,Primarily Female Cast,Female Protagonist,Isekai,Assassins,LGBTQ+ Themes,Religion,Gore
     label.remove: Ongoing
     studio: J.C. Staff
     audience_rating: 6.7
@@ -3143,7 +3143,7 @@ metadata:
       Tengoku Daimakyou
     original_title: |-
       Tengoku Daimakyo
-    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Body Swapping,Seinen,Conspiracy,Tragedy,Demons,Male Protagonist,Travel,Boys' Love,Super Power,Denpa,Rape,Achronological Order,Female Protagonist,Gore,Orphan,Coming of Age,Guns,Transgender
+    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Body Swapping,Seinen,Conspiracy,Tragedy,Demons,Male Protagonist,Travel,Boys' Love,Super Power,Denpa,Transgender,Achronological Order,Female Protagonist,Gore,Orphan,Coming of Age,LGBTQ+ Themes,Guns
     label: Ongoing
     studio: Production I.G
     audience_rating: 8.0
@@ -3165,7 +3165,7 @@ metadata:
       Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
     original_title: |-
       The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far
-    genre.sync: Anime,Action,Fantasy,Romance,Reincarnation,Female Harem,Male Protagonist,Isekai
+    genre.sync: Anime,Action,Fantasy,Romance,Reincarnation,Female Harem,Male Protagonist,Gods,Isekai
     label: Ongoing
     studio: Magic Bus
     audience_rating: 6.3
@@ -3361,7 +3361,7 @@ metadata:
       Toradora!
     original_title: |-
       Toradora!
-    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Love Triangle,Coming of Age,Tsundere,School,Primarily Teen Cast,Heterosexual,Female Protagonist,Male Protagonist
+    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Love Triangle,Coming of Age,Tsundere,School,Heterosexual,Primarily Teen Cast,Female Protagonist,Male Protagonist
     label.remove: Ongoing
     studio: J.C. Staff
     audience_rating: 7.8
@@ -3462,7 +3462,7 @@ metadata:
       Usagi Drop
     original_title: |-
       Bunny Drop
-    genre.sync: Anime,Slice of Life,Family Life,Adoption,Orphan,Iyashikei,Found Family,Josei
+    genre.sync: Anime,Slice of Life,Iyashikei,Family Life,Adoption,Orphan,Found Family,Josei
     label.remove: Ongoing
     studio: Production I.G
     seasons:
