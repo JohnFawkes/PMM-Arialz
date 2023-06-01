@@ -108,7 +108,7 @@ metadata:
       5 Centimeters per Second
     genre.sync: Anime,Drama,Romance,Slice of Life,Coming of Age,Heterosexual,Time Skip,Tragedy,Travel
     studio: CoMix Wave
-    audience_rating: 7.1
+    audience_rating: 7.2
   tt6915208:
     title: |-
       Chuunibyou demo Koi ga Shitai!: Take On Me
@@ -216,7 +216,7 @@ metadata:
       Evangelion Shin Movie: Kyuu
     original_title: |-
       Evangelion: 3.0 You Can (Not) Redo
-    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Time Skip,Super Robot,Male Protagonist,Alternate Universe,Tragedy,Kaiju
+    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Time Skip,Super Robot,Male Protagonist,Alternate Universe,Tragedy,Kaiju,Bisexual
     studio: Studio Khara
     audience_rating: 7.5
   tt1715210:
@@ -456,7 +456,7 @@ metadata:
       Kara no Kyoukai: Fukan Fuukei
     original_title: |-
       the Garden of sinners Chapter 1: Thanatos. (Overlooking View)
-    genre.sync: Anime,Action,Mystery,Supernatural,Thriller,Ghost,Urban Fantasy,Female Protagonist,Suicide,Dissociative Identities,Super Power,Philosophy,Tragedy
+    genre.sync: Anime,Action,Mystery,Supernatural,Thriller,Ghost,Suicide,Urban Fantasy,Female Protagonist,Dissociative Identities,Super Power,Philosophy,Tragedy
     studio: ufotable
     audience_rating: 7.3
   tt1233474:
@@ -516,7 +516,7 @@ metadata:
       Kara no Kyoukai: Tsuukaku Zanryuu
     original_title: |-
       the Garden of sinners Chapter 3: ever cry, never life. (Remaining Sense of Pain)
-    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Thriller,Female Protagonist,Revenge,Super Power,Anti-Hero,Tragedy,Kuudere,Gore,Urban Fantasy,Primarily Adult Cast,Crime,Rape
+    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Thriller,Super Power,Anti-Hero,Female Protagonist,Revenge,Female Harem,Tragedy,Kuudere,Gore,Urban Fantasy,Primarily Adult Cast,Crime,Rape
     studio: ufotable
     audience_rating: 7.7
   tt1568921:
@@ -606,7 +606,7 @@ metadata:
       Kimi no Na wa.
     original_title: |-
       Your Name.
-    genre.sync: Anime,Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Female Protagonist,Memory Manipulation,Coming of Age,Male Protagonist,Urban
+    genre.sync: Anime,Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Memory Manipulation,Female Protagonist,Coming of Age,Male Protagonist,Urban
     studio: CoMix Wave
     audience_rating: 8.6
   tt7236034:
@@ -946,7 +946,7 @@ metadata:
       Shin Evangelion Movie:||
     original_title: |-
       Evangelion: 3.0+1.0 Thrice Upon a Time
-    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Rehabilitation,Coming of Age,Post-Apocalyptic,Meta,Alternate Universe,Gods,Robots,Time Skip,Philosophy,Time Manipulation,Cosmic Horror,Male Protagonist,Super Robot,Denpa,Clone
+    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Rehabilitation,Coming of Age,Post-Apocalyptic,Meta,Alternate Universe,Gods,Robots,Time Skip,Philosophy,Cosmic Horror,Time Manipulation,Male Protagonist,Super Robot,Denpa,Clone
     studio: Studio Khara
     audience_rating: 8.6
   tt8346438:
