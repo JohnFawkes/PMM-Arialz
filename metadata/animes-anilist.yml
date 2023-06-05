@@ -90,7 +90,7 @@ metadata:
       3-gatsu no Lion
     original_title: |-
       March comes in like a lion
-    genre.sync: Anime,Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Male Protagonist,Trains,Philosophy,Tragedy
+    genre.sync: Anime,Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Male Protagonist,Philosophy,Tragedy
     label.remove: Ongoing
     studio: Shaft
     seasons:
@@ -123,7 +123,7 @@ metadata:
       [Oshi no Ko]
     original_title: |-
       Oshi No Ko
-    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Seinen,Twins,Male Protagonist,Reincarnation,Detective,Urban,Bullying,Anti-Hero,Female Protagonist
+    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Seinen,Twins,Male Protagonist,Detective,Reincarnation,Urban,Bullying,Anti-Hero,Female Protagonist
     label: Ongoing
     studio: Doga Kobo
     audience_rating: 8.8
@@ -317,7 +317,7 @@ metadata:
       Barakamon
     original_title: |-
       Barakamon
-    genre.sync: Anime,Slice of Life,Found Family,Calligraphy,Rural,Iyashikei,Episodic,Rehabilitation,Male Protagonist,Coming of Age,Philosophy
+    genre.sync: Anime,Slice of Life,Calligraphy,Rural,Found Family,Iyashikei,Episodic,Rehabilitation,Male Protagonist,Coming of Age,Philosophy
     label.remove: Ongoing
     studio: Kinema Citrus
     audience_rating: 8.2
@@ -405,7 +405,7 @@ metadata:
       Bocchi the Rock!
     original_title: |-
       Bocchi The Rock!
-    genre.sync: Anime,Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Cute Girls Doing Cute Things,Hikikomori,Rehabilitation,Surreal Comedy,Seinen
+    genre.sync: Anime,Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Cute Girls Doing Cute Things,LGBTQ+ Themes,Hikikomori,Rehabilitation,Surreal Comedy,Seinen,Yuri
     label.remove: Ongoing
     studio: CloverWorks
     audience_rating: 8.8
@@ -472,7 +472,7 @@ metadata:
     genre.sync: Anime,Comedy,Romance,Slice of Life,Primarily Teen Cast,Heterosexual,School,Male Protagonist,Shounen
     label: Ongoing
     studio: Shin-Ei Animation
-    audience_rating: 7.3
+    audience_rating: 7.4
   426294:
     title: |-
       Buddy Daddies
@@ -1107,7 +1107,7 @@ metadata:
       Haibane Renmei
     original_title: |-
       Haibane Renmei
-    genre.sync: Anime,Drama,Fantasy,Mystery,Psychological,Slice of Life,Angels,Philosophy,Female Protagonist,Afterlife,Amnesia,Tragedy,Coming of Age,Found Family,Denpa,Primarily Female Cast,Religion,Suicide
+    genre.sync: Anime,Drama,Fantasy,Mystery,Psychological,Slice of Life,Angels,Philosophy,Female Protagonist,Amnesia,Tragedy,Afterlife,Denpa,Coming of Age,Found Family,Primarily Female Cast,Religion,Suicide
     label.remove: Ongoing
     studio: Radix
     audience_rating: 7.9
@@ -1274,7 +1274,7 @@ metadata:
       Horimiya
     original_title: |-
       Horimiya
-    genre.sync: Anime,Comedy,Romance,Slice of Life,School,Male Protagonist,Family Life,Female Protagonist,Heterosexual,Ensemble Cast,Coming of Age,Primarily Teen Cast
+    genre.sync: Anime,Comedy,Romance,Slice of Life,School,Family Life,Male Protagonist,Female Protagonist,Heterosexual,Ensemble Cast,Coming of Age,Primarily Teen Cast
     label.remove: Ongoing
     studio: CloverWorks
     audience_rating: 8.1
@@ -1455,7 +1455,7 @@ metadata:
       Jigokuraku
     original_title: |-
       Hell’s Paradise
-    genre.sync: Anime,Action,Adventure,Mystery,Supernatural,Survival,Swordplay,Battle Royale,Gore,Ninja,Travel,Historical,Shounen,Samurai,Anti-Hero,Religion,Body Horror,Tragedy
+    genre.sync: Anime,Action,Adventure,Mystery,Supernatural,Survival,Swordplay,Battle Royale,Gore,Travel,Ninja,Shounen,Historical,Body Horror,Samurai,Anti-Hero,Religion,Tragedy
     label: Ongoing
     studio: MAPPA
     audience_rating: 8.0
@@ -1488,7 +1488,7 @@ metadata:
       Kage no Jitsuryokusha ni Naritakute!
     original_title: |-
       The Eminence in Shadow
-    genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Chuunibyou,Male Protagonist,Parody,Anti-Hero,Magic,Cult,Swordplay,Acting,Reincarnation,Primarily Female Cast,Meta,Espionage
+    genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Chuunibyou,Male Protagonist,Parody,Anti-Hero,Magic,Cult,Acting,Swordplay,Reincarnation,Primarily Female Cast,Meta,Espionage
     label.remove: Ongoing
     studio: Nexus
     audience_rating: 8.2
@@ -1553,7 +1553,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Drama,Ecchi,Fantasy,Cult,Gods,Religion,Lost Civilization,Male Protagonist,Parody,Satire,Time Manipulation,Time Skip,Anti-Hero,Rural,Mythology,Anachronism,Seinen,Isekai
     label: Ongoing
     studio: Studio Palette
-    audience_rating: 6.6
+    audience_rating: 6.5
   262106:
     title: |-
       Kamisama Hajimemashita
@@ -2023,7 +2023,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Anime,Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Yuri,Kuudere,Work,Espionage
+    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Work,Kuudere,Boys' Love,Espionage
     label.remove: Ongoing
     studio: A-1 Pictures
     audience_rating: 8.2
@@ -2486,7 +2486,7 @@ metadata:
       Otomege Sekai wa Mob ni Kibishii Sekai desu
     original_title: |-
       Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs
-    genre.sync: Anime,Action,Fantasy,Mecha,Romance,Anti-Hero,Isekai,Male Protagonist,Robots,Primarily Teen Cast,School,Ojou-sama
+    genre.sync: Anime,Action,Fantasy,Mecha,Romance,Anti-Hero,Isekai,Male Protagonist,Robots,Ojou-sama,Primarily Teen Cast,School
     label.remove: Ongoing
     studio: ENGI
     audience_rating: 7.2
@@ -2497,7 +2497,7 @@ metadata:
       Otonari ni Ginga
     original_title: |-
       A Galaxy Next Door
-    genre.sync: Anime,Comedy,Romance,Family Life,Heterosexual,Female Protagonist,Male Protagonist,Iyashikei,Marriage ,Primarily Adult Cast,Work,Seinen,Drawing
+    genre.sync: Anime,Comedy,Romance,Family Life,Heterosexual,Female Protagonist,Male Protagonist,Iyashikei,Seinen,Primarily Adult Cast,Work,Drawing,Marriage
     label: Ongoing
     studio: Asahi Production
     audience_rating: 6.8
@@ -2846,7 +2846,7 @@ metadata:
       Shigatsu wa Kimi no Uso
     original_title: |-
       Your lie in April
-    genre.sync: Anime,Drama,Music,Romance,Slice of Life,Tragedy,Disability,Coming of Age,Primarily Teen Cast,Rehabilitation,Male Protagonist,Female Protagonist,Love Triangle
+    genre.sync: Anime,Drama,Music,Romance,Slice of Life,Tragedy,Disability,Coming of Age,Primarily Teen Cast,Rehabilitation,Female Protagonist,Male Protagonist,Love Triangle
     label.remove: Ongoing
     studio: A-1 Pictures
     seasons:
@@ -2995,7 +2995,7 @@ metadata:
       Sono Bisque Doll wa Koi wo Suru
     original_title: |-
       My Dress-Up Darling
-    genre.sync: Anime,Comedy,Ecchi,Romance,Slice of Life,Cosplay,Otaku Culture,Fashion,Male Protagonist,Female Protagonist,Heterosexual,Primarily Teen Cast,Gyaru,Makeup
+    genre.sync: Anime,Comedy,Ecchi,Romance,Slice of Life,Cosplay,Otaku Culture,Fashion,Male Protagonist,Female Protagonist,Heterosexual,Primarily Teen Cast,Gyaru
     label.remove: Ongoing
     studio: CloverWorks
     audience_rating: 8.1
@@ -3065,7 +3065,7 @@ metadata:
       Summer Time Render
     original_title: |-
       Summer Time Rendering
-    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Shapeshifting,Reincarnation,Super Power,Tragedy,Rural,Body Swapping,Mythology,Cosmic Horror,Dissociative Identities,Ensemble Cast,Alternate Universe,Male Protagonist,Heterosexual,Shounen,Gore,Ghost,Aliens,Body Horror
+    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Shapeshifting,Reincarnation,Super Power,Tragedy,Body Swapping,Rural,Mythology,Cosmic Horror,Ensemble Cast,Dissociative Identities,Alternate Universe,Heterosexual,Male Protagonist,Shounen,Body Horror,Gore,Ghost,Aliens,Amnesia
     label.remove: Ongoing
     studio: OLM
     audience_rating: 8.3
@@ -3143,7 +3143,7 @@ metadata:
       Tengoku Daimakyou
     original_title: |-
       Tengoku Daimakyo
-    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Body Swapping,Seinen,Conspiracy,Tragedy,Demons,Male Protagonist,Travel,Boys' Love,Super Power,Denpa,Transgender,Achronological Order,Female Protagonist,Gore,Orphan,Coming of Age,LGBTQ+ Themes,Guns
+    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Seinen,Conspiracy,Body Swapping,Tragedy,Travel,Demons,Male Protagonist,Achronological Order,Transgender,Super Power,Denpa,Boys' Love,Female Protagonist,Gore,LGBTQ+ Themes
     label: Ongoing
     studio: Production I.G
     audience_rating: 8.0
@@ -3326,7 +3326,7 @@ metadata:
       Tondemo Skill de Isekai Hourou Meshi
     original_title: |-
       Campfire Cooking in Another World with my Absurd Skill
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Food,Isekai,Male Protagonist,Iyashikei,Animals,Gods
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Food,Isekai,Iyashikei,Animals,Male Protagonist,Gods
     label.remove: Ongoing
     studio: MAPPA
     audience_rating: 7.6
@@ -3337,7 +3337,7 @@ metadata:
       Tonikaku Kawaii
     original_title: |-
       TONIKAWA: Over The Moon For You
-    genre.sync: Anime,Comedy,Romance,Slice of Life,Marriage ,Family Life,Heterosexual,Iyashikei
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Marriage,Family Life,Heterosexual,Iyashikei
     label: Ongoing
     studio: Seven Arcs
     seasons:
@@ -3361,7 +3361,7 @@ metadata:
       Toradora!
     original_title: |-
       Toradora!
-    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Love Triangle,Coming of Age,Tsundere,School,Heterosexual,Primarily Teen Cast,Female Protagonist,Male Protagonist
+    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Love Triangle,Coming of Age,School,Tsundere,Primarily Teen Cast,Heterosexual,Female Protagonist,Male Protagonist
     label.remove: Ongoing
     studio: J.C. Staff
     audience_rating: 7.8
@@ -3740,7 +3740,7 @@ metadata:
       Yofukashi no Uta
     original_title: |-
       Call of the Night
-    genre.sync: Anime,Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Male Protagonist,Heterosexual,Female Protagonist,Coming of Age,Age Gap,Shounen
+    genre.sync: Anime,Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban,Urban Fantasy,Male Protagonist,Heterosexual,Female Protagonist,Coming of Age,Age Gap,Shounen
     label.remove: Ongoing
     studio: LIDENFILMS
     audience_rating: 7.9
