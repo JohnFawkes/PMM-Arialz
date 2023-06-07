@@ -123,7 +123,7 @@ metadata:
       [Oshi no Ko]
     original_title: |-
       Oshi No Ko
-    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Seinen,Twins,Male Protagonist,Detective,Reincarnation,Urban,Bullying,Anti-Hero,Female Protagonist
+    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Seinen,Male Protagonist,Twins,Detective,Reincarnation,Urban,Anti-Hero,Bullying,Female Protagonist
     label: Ongoing
     studio: Doga Kobo
     audience_rating: 8.8
@@ -317,7 +317,7 @@ metadata:
       Barakamon
     original_title: |-
       Barakamon
-    genre.sync: Anime,Slice of Life,Calligraphy,Rural,Found Family,Iyashikei,Episodic,Rehabilitation,Male Protagonist,Coming of Age,Philosophy
+    genre.sync: Anime,Slice of Life,Calligraphy,Rural,Found Family,Iyashikei,Episodic,Rehabilitation,Male Protagonist,Philosophy
     label.remove: Ongoing
     studio: Kinema Citrus
     audience_rating: 8.2
@@ -405,7 +405,7 @@ metadata:
       Bocchi the Rock!
     original_title: |-
       Bocchi The Rock!
-    genre.sync: Anime,Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Cute Girls Doing Cute Things,LGBTQ+ Themes,Hikikomori,Rehabilitation,Surreal Comedy,Seinen,Yuri
+    genre.sync: Anime,Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,LGBTQ+ Themes,Cute Girls Doing Cute Things,Hikikomori,Rehabilitation,Surreal Comedy,Seinen,Yuri
     label.remove: Ongoing
     studio: CloverWorks
     audience_rating: 8.8
@@ -631,7 +631,7 @@ metadata:
       Code Geass: Hangyaku no Lelouch
     original_title: |-
       Code Geass: Lelouch of the Rebellion
-    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Thriller,Anti-Hero,Philosophy,War,Military,Revenge,Super Power,Politics,Terrorism,Male Protagonist,Real Robot,Tragedy,Dystopian,Super Robot,Primarily Teen Cast
+    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Thriller,Philosophy,Anti-Hero,War,Military,Revenge,Super Power,Politics,Terrorism,Male Protagonist,Real Robot,Tragedy,Dystopian,Super Robot,Primarily Teen Cast
     label.remove: Ongoing
     studio: Sunrise
     seasons:
@@ -1370,7 +1370,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Romance,Isekai,Magic,Male Protagonist,School,Female Harem,Alternate Universe
     label: Ongoing
     studio: Millepensee
-    audience_rating: 6.6
+    audience_rating: 6.5
   104741:
     title: |-
       Isekai no Seikishi Monogatari
@@ -1455,7 +1455,7 @@ metadata:
       Jigokuraku
     original_title: |-
       Hell’s Paradise
-    genre.sync: Anime,Action,Adventure,Mystery,Supernatural,Survival,Swordplay,Battle Royale,Gore,Travel,Ninja,Shounen,Historical,Body Horror,Samurai,Anti-Hero,Religion,Tragedy
+    genre.sync: Anime,Action,Adventure,Mystery,Supernatural,Survival,Swordplay,Gore,Battle Royale,Travel,Shounen,Ninja,Historical,Body Horror,Samurai,Anti-Hero,Religion,Tragedy
     label: Ongoing
     studio: MAPPA
     audience_rating: 8.0
@@ -1477,7 +1477,7 @@ metadata:
       Jujutsu Kaisen
     original_title: |-
       Jujutsu Kaisen
-    genre.sync: Anime,Action,Drama,Supernatural,Urban Fantasy,Shounen,Youkai,Super Power,Primarily Teen Cast,Male Protagonist,Dissociative Identities,Body Horror
+    genre.sync: Anime,Action,Drama,Supernatural,Urban Fantasy,Shounen,Youkai,Super Power,Primarily Teen Cast,Male Protagonist,Dissociative Identities,Body Horror,Magic
     label.remove: Ongoing
     studio: MAPPA
     audience_rating: 8.6
@@ -1550,7 +1550,7 @@ metadata:
       Kaminaki Sekai no Kamisama Katsudou
     original_title: |-
       KamiKatsu: Working for God in a Godless World
-    genre.sync: Anime,Action,Comedy,Drama,Ecchi,Fantasy,Cult,Gods,Religion,Lost Civilization,Male Protagonist,Parody,Satire,Time Manipulation,Time Skip,Anti-Hero,Rural,Mythology,Anachronism,Seinen,Isekai
+    genre.sync: Anime,Action,Comedy,Drama,Ecchi,Fantasy,Cult,Gods,Religion,Lost Civilization,Time Manipulation,Male Protagonist,Satire,Parody,Time Skip,Anti-Hero,Rural,Mythology,Anachronism,Seinen,Isekai
     label: Ongoing
     studio: Studio Palette
     audience_rating: 6.5
@@ -1798,7 +1798,7 @@ metadata:
       3:
         title: |-
           Kingdom 3rd Season
-        user_rating: 8.4
+        user_rating: 8.5
         label: score
       4:
         title: |-
@@ -2023,10 +2023,10 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Work,Kuudere,Boys' Love,Espionage
+    genre.sync: Anime,Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Yuri,Kuudere,Work,Boys' Love,Espionage
     label.remove: Ongoing
     studio: A-1 Pictures
-    audience_rating: 8.2
+    audience_rating: 8.1
   363143:
     title: |-
       Machikado Mazoku
@@ -2416,7 +2416,7 @@ metadata:
       One Piece
     original_title: |-
       One Piece
-    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Ensemble Cast,Travel,Super Power,Found Family,Tragedy,Male Protagonist,Ships,Time Skip,Slavery,Conspiracy,Slapstick,Politics,War,Fugitive,Prison,Dystopian,Swordplay
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Ensemble Cast,Travel,Super Power,Found Family,Tragedy,Male Protagonist,Ships,Time Skip,Conspiracy,Slavery,Slapstick,Politics,War,Fugitive,Prison,Dystopian,Swordplay
     label: Ongoing
     studio: Toei Animation
     audience_rating: 8.7
@@ -2862,7 +2862,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Survival,Kaiju,Tragedy,Shapeshifting,Military,Primarily Teen Cast,Post-Apocalyptic,Super Power,Swordplay,Gore,Memory Manipulation,Ensemble Cast,Male Protagonist,Cosmic Horror
+    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Survival,Kaiju,Tragedy,Shapeshifting,Military,Primarily Teen Cast,Post-Apocalyptic,Super Power,Monster Girl,Monster Boy,Swordplay,Gore,Memory Manipulation,Ensemble Cast,Male Protagonist,Cosmic Horror
     label.remove: Ongoing
     studio: Wit Studio
     seasons:
@@ -2995,7 +2995,7 @@ metadata:
       Sono Bisque Doll wa Koi wo Suru
     original_title: |-
       My Dress-Up Darling
-    genre.sync: Anime,Comedy,Ecchi,Romance,Slice of Life,Cosplay,Otaku Culture,Fashion,Male Protagonist,Female Protagonist,Heterosexual,Primarily Teen Cast,Gyaru
+    genre.sync: Anime,Comedy,Ecchi,Romance,Slice of Life,Otaku Culture,Fashion,Male Protagonist,Female Protagonist,Heterosexual,Primarily Teen Cast,Gyaru
     label.remove: Ongoing
     studio: CloverWorks
     audience_rating: 8.1
@@ -3065,7 +3065,7 @@ metadata:
       Summer Time Render
     original_title: |-
       Summer Time Rendering
-    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Shapeshifting,Reincarnation,Super Power,Tragedy,Body Swapping,Rural,Mythology,Cosmic Horror,Ensemble Cast,Dissociative Identities,Alternate Universe,Heterosexual,Male Protagonist,Shounen,Body Horror,Gore,Ghost,Aliens,Amnesia
+    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Shapeshifting,Reincarnation,Super Power,Tragedy,Body Swapping,Rural,Mythology,Cosmic Horror,Ensemble Cast,Dissociative Identities,Alternate Universe,Heterosexual,Male Protagonist,Shounen,Body Horror,Gore,Amnesia
     label.remove: Ongoing
     studio: OLM
     audience_rating: 8.3
@@ -3143,7 +3143,7 @@ metadata:
       Tengoku Daimakyou
     original_title: |-
       Tengoku Daimakyo
-    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Seinen,Conspiracy,Body Swapping,Tragedy,Travel,Demons,Male Protagonist,Achronological Order,Transgender,Super Power,Denpa,Boys' Love,Female Protagonist,Gore,LGBTQ+ Themes
+    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Conspiracy,Seinen,Body Swapping,Tragedy,Travel,Male Protagonist,Achronological Order,Transgender,Super Power,Demons,Denpa,Boys' Love,Female Protagonist,Gore,LGBTQ+ Themes
     label: Ongoing
     studio: Production I.G
     audience_rating: 8.0
@@ -3462,7 +3462,7 @@ metadata:
       Usagi Drop
     original_title: |-
       Bunny Drop
-    genre.sync: Anime,Slice of Life,Iyashikei,Family Life,Adoption,Orphan,Found Family,Josei
+    genre.sync: Anime,Slice of Life,Iyashikei,Found Family,Family Life,Adoption,Orphan,Josei
     label.remove: Ongoing
     studio: Production I.G
     seasons:
@@ -3708,7 +3708,7 @@ metadata:
     genre.sync: Anime,Comedy,Drama,Romance,Video Games,Female Protagonist,Heterosexual,Otaku Culture,Kuudere,Shoujo
     label: Ongoing
     studio: MADHOUSE
-    audience_rating: 7.5
+    audience_rating: 7.6
   313488:
     title: |-
       Yi Ren Zhi Xia
