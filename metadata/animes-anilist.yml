@@ -589,6 +589,17 @@ metadata:
     label.remove: Ongoing
     studio: Production +h
     audience_rating: 6.8
+  422564:
+    title: |-
+      Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life
+    sort_title: |-
+      Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life
+    original_title: |-
+      Chillin’ in My 30s after Getting Fired from the Demon King’s Army
+    genre.sync: Anime,Fantasy,Romance,Slice of Life,Male Protagonist,Magic,Demons,Heterosexual,Rural,Family Life,Swordplay,Found Family,Primarily Adult Cast
+    label.remove: Ongoing
+    studio: Encourage Films
+    audience_rating: 6.9
   261862:
     title: |-
       Chuunibyou demo Koi ga Shitai!
@@ -1521,17 +1532,6 @@ metadata:
         user_rating: 9.0
         label: score
     audience_rating: 8.6
-  422564:
-    title: |-
-      Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life
-    sort_title: |-
-      Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life
-    original_title: |-
-      Chillin’ in My 30s after Getting Fired from the Demon King’s Army
-    genre.sync: Anime,Fantasy,Romance,Slice of Life,Male Protagonist,Magic,Demons,Heterosexual,Rural,Family Life,Swordplay,Found Family,Primarily Adult Cast
-    label.remove: Ongoing
-    studio: Encourage Films
-    audience_rating: 6.9
   376729:
     title: |-
       Kami no Tou: Tower of God
