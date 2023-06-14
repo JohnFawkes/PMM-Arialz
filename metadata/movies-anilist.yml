@@ -46,9 +46,9 @@ metadata:
       Bakemono no Ko
     original_title: |-
       The Boy and The Beast
-    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Supernatural,Urban Fantasy,Male Protagonist,Coming of Age,Martial Arts,Tragedy,Isekai,Cultivation
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Supernatural,Coming of Age,Urban Fantasy,Male Protagonist,Martial Arts,Tragedy,Isekai
     studio: Studio Chizu
-    audience_rating: 8.0
+    audience_rating: 7.9
   tt7745068:
     title: |-
       Boku no Hero Academia THE MOVIE: Futari no Hero
@@ -108,7 +108,7 @@ metadata:
       5 Centimeters per Second
     genre.sync: Anime,Drama,Romance,Slice of Life,Coming of Age,Heterosexual,Time Skip,Tragedy,Travel
     studio: CoMix Wave
-    audience_rating: 7.2
+    audience_rating: 7.1
   tt6915208:
     title: |-
       Chuunibyou demo Koi ga Shitai!: Take On Me
@@ -116,7 +116,7 @@ metadata:
       Chuunibyou demo Koi ga Shitai!: Take On Me
     original_title: |-
       Love, Chunibyo & Other Delusions: Take on Me
-    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Coming of Age,Chuunibyou,Heterosexual,Male Protagonist,Female Protagonist,Travel,Fugitive,Primarily Female Cast
+    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Coming of Age,Chuunibyou,Trains,Heterosexual,Male Protagonist,Female Protagonist,Travel,Fugitive,Primarily Female Cast
     studio: Kyoto Animation
     audience_rating: 8.0
   tt6344664:
@@ -238,7 +238,7 @@ metadata:
       Ponyo
     genre.sync: Anime,Adventure,Fantasy,Primarily Child Cast,Environmental,Rural,Magic
     studio: Studio Ghibli
-    audience_rating: 7.9
+    audience_rating: 7.8
   tt0495596:
     title: |-
       Ged Senki
@@ -946,7 +946,7 @@ metadata:
       Shin Evangelion Movie:||
     original_title: |-
       Evangelion: 3.0+1.0 Thrice Upon a Time
-    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Rehabilitation,Coming of Age,Post-Apocalyptic,Meta,Alternate Universe,Gods,Robots,Time Skip,Philosophy,Cosmic Horror,Time Manipulation,Male Protagonist,Super Robot,Denpa,Clone
+    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Rehabilitation,Post-Apocalyptic,Coming of Age,Meta,Alternate Universe,Gods,Robots,Time Skip,Philosophy,Cosmic Horror,Male Protagonist,Time Manipulation,Super Robot,Denpa,Clone
     studio: Studio Khara
     audience_rating: 8.6
   tt8346438:
