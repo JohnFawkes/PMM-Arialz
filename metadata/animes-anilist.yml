@@ -2531,7 +2531,7 @@ metadata:
     original_title: |-
       Ranking of Kings: The Treasure Chest of Courage
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Fairy Tale,Seinen,Achronological Order,Ensemble Cast,Male Protagonist,Language Barrier,Disability
-    label: Ongoing
+    label.remove: Ongoing
     studio: Wit Studio
     audience_rating: 7.3
   294002:
