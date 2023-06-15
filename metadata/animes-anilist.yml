@@ -784,7 +784,7 @@ metadata:
     original_title: |-
       Dr. STONE
     genre.sync: Anime,Action,Adventure,Comedy,Sci-Fi,Post-Apocalyptic,Survival,Lost Civilization,Educational,Time Skip,Male Protagonist,Shounen,Environmental,Ensemble Cast
-    label: Ongoing
+    label.remove: Ongoing
     studio: TMS Entertainment
     seasons:
       0:
@@ -3136,6 +3136,43 @@ metadata:
         user_rating: 6.5
         label: score
     audience_rating: 7.1
+  80009:
+    title: |-
+      Tenchi Muyou! Ryououki Dai 1-ki
+    sort_title: |-
+      Tenchi Muyou! Ryououki Dai 1-ki
+    original_title: |-
+      Tenchi Muyou! Ryououki Dai 1-ki
+    genre.sync: Anime,Action,Comedy,Sci-Fi,Female Harem,Aliens,Police
+    label.remove: Ongoing
+    studio: AIC
+    seasons:
+      1:
+        title: |-
+          Tenchi Muyou! Ryououki Dai 1-ki
+        user_rating: 7.2
+        label: score
+      2:
+        title: |-
+          Tenchi Muyou! Ryououki Dai 2-ki
+        user_rating: 7.1
+        label: score
+      3:
+        title: |-
+          Tenchi Muyou! Ryououki Dai 3-ki
+        user_rating: 6.7
+        label: score
+      4:
+        title: |-
+          Tenchi Muyou! Ryououki Dai 4-ki
+        user_rating: 5.9
+        label: score
+      5:
+        title: |-
+          Tenchi Muyou! Ryououki Dai 5-ki
+        user_rating: 5.5
+        label: score
+    audience_rating: 6.5
   426165:
     title: |-
       Tengoku Daimakyou
