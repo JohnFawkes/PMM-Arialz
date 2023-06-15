@@ -784,7 +784,7 @@ metadata:
     original_title: |-
       Dr. STONE
     genre.sync: Anime,Action,Adventure,Comedy,Sci-Fi,Post-Apocalyptic,Survival,Lost Civilization,Educational,Time Skip,Male Protagonist,Shounen,Environmental,Ensemble Cast
-    label: Ongoing
+    label.remove: Ongoing
     studio: TMS Entertainment
     seasons:
       0:
