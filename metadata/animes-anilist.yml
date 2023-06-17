@@ -470,7 +470,7 @@ metadata:
     original_title: |-
       The Dangers in My Heart
     genre.sync: Anime,Comedy,Romance,Slice of Life,Primarily Teen Cast,Heterosexual,School,Male Protagonist,Shounen,Female Protagonist
-    label: Ongoing
+    label.remove: Ongoing
     studio: Shin-Ei Animation
     audience_rating: 7.5
   426294:
