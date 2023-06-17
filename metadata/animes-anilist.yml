@@ -123,7 +123,7 @@ metadata:
       [Oshi no Ko]
     original_title: |-
       Oshi No Ko
-    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Seinen,Male Protagonist,Twins,Detective,Reincarnation,Urban,Anti-Hero,Female Protagonist,Bullying
+    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Urban,Idol,Revenge,Seinen,Male Protagonist,Twins,Detective,Reincarnation,Anti-Hero,Female Protagonist,Time Skip,Orphan,Bullying
     label: Ongoing
     studio: Doga Kobo
     audience_rating: 8.8
@@ -328,7 +328,7 @@ metadata:
       Beastars
     original_title: |-
       Beastars
-    genre.sync: Anime,Drama,Mystery,Psychological,Romance,Slice of Life,Anthropomorphism,Coming of Age,Animals,Cannibalism,Full CGI,Primarily Teen Cast,School,Male Protagonist,Love Triangle,Ensemble Cast
+    genre.sync: Anime,Drama,Mystery,Psychological,Romance,Slice of Life,Anthropomorphism,Coming of Age,Animals,Cannibalism,Full CGI,Primarily Teen Cast,Male Protagonist,School,Love Triangle,Ensemble Cast
     label.remove: Ongoing
     studio: Orange
     seasons:
@@ -405,7 +405,7 @@ metadata:
       Bocchi the Rock!
     original_title: |-
       Bocchi The Rock!
-    genre.sync: Anime,Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Cute Girls Doing Cute Things,Hikikomori,Rehabilitation,Surreal Comedy,Seinen,LGBTQ+ Themes
+    genre.sync: Anime,Comedy,Music,Slice of Life,Yuri,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Cute Girls Doing Cute Things,Hikikomori,Rehabilitation,Surreal Comedy,Seinen,LGBTQ+ Themes
     label.remove: Ongoing
     studio: CloverWorks
     audience_rating: 8.8
@@ -491,7 +491,7 @@ metadata:
       Bungou Stray Dogs
     original_title: |-
       Bungo Stray Dogs
-    genre.sync: Anime,Action,Comedy,Mystery,Supernatural,Super Power,Crime,Detective,Mafia,Male Protagonist,Urban Fantasy,Classic Literature,Yakuza,Urban,Primarily Adult Cast,Ensemble Cast,Primarily Male Cast,Orphan
+    genre.sync: Anime,Action,Comedy,Mystery,Supernatural,Super Power,Crime,Detective,Male Protagonist,Mafia,Urban Fantasy,Classic Literature,Yakuza,Urban,Ensemble Cast,Primarily Adult Cast,Primarily Male Cast,Orphan
     label.remove: Ongoing
     studio: bones
     seasons:
@@ -653,7 +653,7 @@ metadata:
       Cyberpunk: Edgerunners
     original_title: |-
       Cyberpunk: Edgerunners
-    genre.sync: Anime,Action,Drama,Psychological,Sci-Fi,Cyberpunk,Tragedy,Crime,Dystopian,Cyborg,Male Protagonist,Gangs,Urban,Body Horror,Gore,Guns,Revenge,Anti-Hero,Primarily Adult Cast,Drugs,Heterosexual,Terrorism
+    genre.sync: Anime,Action,Drama,Psychological,Sci-Fi,Cyberpunk,Tragedy,Crime,Dystopian,Cyborg,Male Protagonist,Gangs,Urban,Body Horror,Gore,Guns,Anti-Hero,Revenge,Primarily Adult Cast,Drugs,Heterosexual,Terrorism
     label.remove: Ongoing
     studio: Trigger
     audience_rating: 8.5
@@ -983,7 +983,7 @@ metadata:
       Gintama
     original_title: |-
       Gintama
-    genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Parody,Samurai,Ensemble Cast,Meta,Slapstick,Male Protagonist,Anachronism,Surreal Comedy,Found Family,Aliens,Episodic,Philosophy,Shounen,Swordplay,Terrorism
+    genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Parody,Samurai,Ensemble Cast,Meta,Slapstick,Male Protagonist,Anachronism,Surreal Comedy,Found Family,Aliens,Police,Episodic,Philosophy,Shounen,Swordplay,Terrorism
     label.remove: Ongoing
     studio: Sunrise
     audience_rating: 8.5
@@ -1550,10 +1550,10 @@ metadata:
       Kaminaki Sekai no Kamisama Katsudou
     original_title: |-
       KamiKatsu: Working for God in a Godless World
-    genre.sync: Anime,Action,Comedy,Drama,Ecchi,Fantasy,Cult,Gods,Religion,Lost Civilization,Male Protagonist,Time Manipulation,Parody,Satire,Time Skip,Anti-Hero,Anachronism,Mythology,Rural,Seinen,Isekai
+    genre.sync: Anime,Action,Comedy,Drama,Ecchi,Fantasy,Cult,Gods,Religion,Lost Civilization,Time Manipulation,Satire,Parody,Male Protagonist,Time Skip,Anachronism,Anti-Hero,Rural,Mythology,Seinen,Isekai
     label: Ongoing
     studio: Studio Palette
-    audience_rating: 6.5
+    audience_rating: 6.6
   262106:
     title: |-
       Kamisama Hajimemashita
@@ -1696,7 +1696,7 @@ metadata:
       1:
         title: |-
           Kidou Senshi Gundam: Tekketsu no Orphans
-        user_rating: 7.8
+        user_rating: 7.7
         label: score
       2:
         title: |-
@@ -1798,7 +1798,7 @@ metadata:
       3:
         title: |-
           Kingdom 3rd Season
-        user_rating: 8.5
+        user_rating: 8.4
         label: score
       4:
         title: |-
@@ -2023,7 +2023,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Work,Kuudere,Boys' Love,Espionage
+    genre.sync: Anime,Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Yuri,Urban,Kuudere,Work,Boys' Love,Espionage
     label.remove: Ongoing
     studio: A-1 Pictures
     audience_rating: 8.1
@@ -2100,7 +2100,7 @@ metadata:
       Mahou Shoujo Magical Destroyers
     original_title: |-
       Magical Destroyers
-    genre.sync: Anime,Action,Comedy,Ecchi,Mahou Shoujo,Otaku Culture,Henshin,Dystopian,Magic,Surreal Comedy,Urban,Slapstick,Primarily Female Cast,Female Protagonist,Male Protagonist
+    genre.sync: Anime,Action,Comedy,Ecchi,Mahou Shoujo,Otaku Culture,Henshin,Dystopian,Magic,Surreal Comedy,Meta,Urban,Slapstick,Primarily Female Cast,Female Protagonist,Male Protagonist
     label: Ongoing
     studio: Bibury Animation Studios
     audience_rating: 6.3
@@ -2530,7 +2530,7 @@ metadata:
       Ousama Ranking: Yuuki no Takarabako
     original_title: |-
       Ranking of Kings: The Treasure Chest of Courage
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Fairy Tale,Seinen,Achronological Order,Ensemble Cast,Male Protagonist,Language Barrier,Disability
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Fairy Tale,Seinen,Achronological Order,Swordplay,Ensemble Cast,Male Protagonist,Episodic,Language Barrier,Disability,Monster Boy
     label.remove: Ongoing
     studio: Wit Studio
     audience_rating: 7.3
@@ -3180,7 +3180,7 @@ metadata:
       Tengoku Daimakyou
     original_title: |-
       Tengoku Daimakyo
-    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Post-Apocalyptic,Dystopian,Survival,Tragedy,Seinen,Conspiracy,Body Swapping,Travel,Transgender,Achronological Order,Male Protagonist,Super Power,Demons,Female Protagonist,Denpa
+    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Post-Apocalyptic,Dystopian,Survival,Seinen,Tragedy,Conspiracy,Achronological Order,Body Swapping,Travel,Male Protagonist,Super Power,Transgender,Demons,Female Protagonist,Denpa
     label: Ongoing
     studio: Production I.G
     audience_rating: 8.0
@@ -3363,7 +3363,7 @@ metadata:
       Tondemo Skill de Isekai Hourou Meshi
     original_title: |-
       Campfire Cooking in Another World with my Absurd Skill
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Food,Isekai,Iyashikei,Animals,Male Protagonist,Gods
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Food,Isekai,Iyashikei,Animals,Gods,Male Protagonist
     label.remove: Ongoing
     studio: MAPPA
     audience_rating: 7.6
@@ -3581,7 +3581,7 @@ metadata:
       Vivy: Fluorite Eye’s Song
     original_title: |-
       Vivy -Fluorite Eye's Song-
-    genre.sync: Anime,Action,Drama,Music,Sci-Fi,Thriller,Artificial Intelligence,Robots,Female Protagonist,Time Manipulation,Tragedy,Time Skip,Terrorism,Philosophy,Dystopian,Musical,Cyberpunk
+    genre.sync: Anime,Action,Drama,Music,Sci-Fi,Thriller,Artificial Intelligence,Robots,Female Protagonist,Time Manipulation,Tragedy,Time Skip,Philosophy,Dystopian,Terrorism,Musical,Cyberpunk
     label.remove: Ongoing
     studio: Wit Studio
     audience_rating: 8.2
@@ -3742,7 +3742,7 @@ metadata:
       Yamada-kun to Lv999 no Koi wo Suru
     original_title: |-
       My Love Story with Yamada-kun at Lv999
-    genre.sync: Anime,Comedy,Drama,Romance,Video Games,Kuudere,Female Protagonist,Heterosexual,Otaku Culture,Shoujo
+    genre.sync: Anime,Comedy,Drama,Romance,Video Games,Kuudere,Female Protagonist,Otaku Culture,Heterosexual,Shoujo
     label: Ongoing
     studio: MADHOUSE
     audience_rating: 7.6
@@ -3815,7 +3815,7 @@ metadata:
     genre.sync: Anime,Mystery,Psychological,Anti-Hero,Crime,Conspiracy,Foreign,Male Protagonist,Revenge,Detective,Primarily Male Cast,Historical,Primarily Adult Cast
     label.remove: Ongoing
     studio: Production I.G
-    audience_rating: 8.0
+    audience_rating: 8.1
   262109:
     title: |-
       Zetsuen no Tempest

@@ -48,7 +48,7 @@ metadata:
       The Boy and The Beast
     genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Supernatural,Coming of Age,Urban Fantasy,Male Protagonist,Martial Arts,Tragedy,Isekai
     studio: Studio Chizu
-    audience_rating: 7.9
+    audience_rating: 8.0
   tt22868844:
     title: |-
       Black Clover: Mahou Tei no Ken
@@ -118,7 +118,7 @@ metadata:
       5 Centimeters per Second
     genre.sync: Anime,Drama,Romance,Slice of Life,Coming of Age,Heterosexual,Time Skip,Tragedy,Travel
     studio: CoMix Wave
-    audience_rating: 7.1
+    audience_rating: 7.2
   tt6915208:
     title: |-
       Chuunibyou demo Koi ga Shitai!: Take On Me
@@ -306,7 +306,7 @@ metadata:
       Gintama: THE FINAL
     original_title: |-
       Gintama: THE VERY FINAL
-    genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Samurai,Swordplay,Dissociative Identities,Shounen,Surreal Comedy,Meta,Parody,Tragedy,Male Protagonist,War,Anachronism,Philosophy,Memory Manipulation,Historical,Found Family,Aliens,Afterlife
+    genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Samurai,Swordplay,Dissociative Identities,Shounen,Surreal Comedy,Meta,Parody,Tragedy,Male Protagonist,War,Philosophy,Anachronism,Memory Manipulation,Historical,Found Family,Aliens,Afterlife
     studio: Bandai Namco Pictures
     audience_rating: 9.1
   tt5284414:
@@ -386,7 +386,7 @@ metadata:
       Hotaru no Haka
     original_title: |-
       Grave of the Fireflies
-    genre.sync: Anime,Drama,Tragedy,Survival,Family Life,War,Historical,Primarily Child Cast
+    genre.sync: Anime,Drama,Tragedy,Survival,Family Life,War,Historical,Primarily Child Cast,Orphan
     studio: Studio Ghibli
     audience_rating: 8.2
   tt0347149:
@@ -416,7 +416,7 @@ metadata:
       Josee to Tora to Sakanatachi
     original_title: |-
       Josee, the Tiger and the Fish
-    genre.sync: Anime,Drama,Romance,Slice of Life,Female Protagonist,Disability,Male Protagonist,Tsundere,Coming of Age,Heterosexual,Primarily Adult Cast,Rehabilitation,Drawing
+    genre.sync: Anime,Drama,Romance,Slice of Life,Female Protagonist,Disability,Male Protagonist,Tsundere,Coming of Age,Heterosexual,Primarily Adult Cast,Josei,Rehabilitation,Drawing
     studio: bones
     audience_rating: 8.3
   tt14331144:
@@ -486,7 +486,7 @@ metadata:
       Kara no Kyoukai: Mujun Rasen
     original_title: |-
       the Garden of sinners Chapter 5: Paradox Paradigm
-    genre.sync: Anime,Action,Drama,Mystery,Romance,Supernatural,Thriller,Female Protagonist,Super Power,Anti-Hero,Magic,Achronological Order,Gore,Kuudere,Philosophy,Urban Fantasy,Primarily Adult Cast,Crime
+    genre.sync: Anime,Action,Drama,Mystery,Romance,Supernatural,Thriller,Female Protagonist,Super Power,Anti-Hero,Magic,Achronological Order,Gore,Kuudere,Philosophy,Urban Fantasy,Memory Manipulation,Primarily Adult Cast,Crime
     studio: ufotable
     audience_rating: 8.4
   tt1345776:
@@ -496,7 +496,7 @@ metadata:
       Kara no Kyoukai: Satsujin Kousatsu (Kou)
     original_title: |-
       the Garden of sinners Chapter 7: ……not nothing heart. (Murder Speculation Part B)
-    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Thriller,Anti-Hero,Drugs,Crime,Philosophy,Female Protagonist,Urban Fantasy,Primarily Adult Cast
+    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Thriller,Anti-Hero,Crime,Philosophy,Drugs,Female Protagonist,Urban Fantasy,Primarily Adult Cast
     studio: ufotable
     audience_rating: 8.2
   tt1155651:
@@ -656,7 +656,7 @@ metadata:
       Kono Sekai no Katasumi ni
     original_title: |-
       In This Corner of the World
-    genre.sync: Anime,Drama,Slice of Life,Historical,War,Family Life,Female Protagonist,Tragedy
+    genre.sync: Anime,Drama,Slice of Life,Historical,War,Family Life,Female Protagonist,Tragedy,Seinen
     studio: MAPPA
     audience_rating: 8.0
   tt9239552:
