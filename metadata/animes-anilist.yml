@@ -1728,7 +1728,7 @@ metadata:
     original_title: |-
       Demon Slayer: Kimetsu no Yaiba
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Supernatural,Demons,Shounen,Swordplay,Male Protagonist,Primarily Teen Cast,Tragedy,Monster Girl,Revenge,Travel
-    label: Ongoing
+    label.remove: Ongoing
     studio: ufotable
     seasons:
       1:
@@ -2283,7 +2283,7 @@ metadata:
     original_title: |-
       My Home Hero
     genre.sync: Anime,Action,Drama,Psychological,Thriller,Crime,Yakuza,Primarily Adult Cast,Mafia,Seinen
-    label: Ongoing
+    label.remove: Ongoing
     studio: Tezuka Productions
     audience_rating: 6.4
   284131:
@@ -3203,7 +3203,7 @@ metadata:
     original_title: |-
       The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far
     genre.sync: Anime,Action,Fantasy,Romance,Reincarnation,Female Harem,Male Protagonist,Gods,Isekai
-    label: Ongoing
+    label.remove: Ongoing
     studio: Magic Bus
     audience_rating: 6.4
   423362:
