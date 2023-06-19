@@ -3549,7 +3549,7 @@ metadata:
     original_title: |-
       Vinland Saga
     genre.sync: Anime,Action,Adventure,Drama,Vikings,Revenge,Foreign,Historical,Tragedy,Male Protagonist,War,Philosophy,Coming of Age,Seinen,Primarily Male Cast,Military,Politics,Anti-Hero,Swordplay,Primarily Adult Cast,Gore,Survival,Conspiracy,Ships
-    label: Ongoing
+    label.remove: Ongoing
     studio: Wit Studio
     seasons:
       1:
