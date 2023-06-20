@@ -48,7 +48,7 @@ metadata:
       The Boy and The Beast
     genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Supernatural,Coming of Age,Urban Fantasy,Male Protagonist,Martial Arts,Tragedy,Isekai
     studio: Studio Chizu
-    audience_rating: 8.0
+    audience_rating: 7.9
   tt22868844:
     title: |-
       Black Clover: Mahou Tei no Ken
@@ -118,7 +118,7 @@ metadata:
       5 Centimeters per Second
     genre.sync: Anime,Drama,Romance,Slice of Life,Coming of Age,Heterosexual,Time Skip,Tragedy,Travel
     studio: CoMix Wave
-    audience_rating: 7.2
+    audience_rating: 7.1
   tt6915208:
     title: |-
       Chuunibyou demo Koi ga Shitai!: Take On Me
@@ -206,7 +206,7 @@ metadata:
       Evangelion Shin Movie: Ha
     original_title: |-
       Evangelion: 2.0 You Can (Not) Advance
-    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Kaiju,Super Robot,Real Robot,Military,Post-Apocalyptic,Denpa,Meta,CGI,Cosmic Horror,Male Protagonist,Aliens
+    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Kaiju,Super Robot,Military,Real Robot,Denpa,Meta,Post-Apocalyptic,Cosmic Horror,CGI
     studio: Gainax
     audience_rating: 8.1
   tt0923811:
@@ -226,7 +226,7 @@ metadata:
       Evangelion Shin Movie: Kyuu
     original_title: |-
       Evangelion: 3.0 You Can (Not) Redo
-    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Time Skip,Super Robot,Male Protagonist,Alternate Universe,Tragedy,Kaiju,Bisexual
+    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Time Skip,Super Robot,Male Protagonist,Alternate Universe,Tragedy,Kaiju
     studio: Studio Khara
     audience_rating: 7.5
   tt1715210:
@@ -885,7 +885,7 @@ metadata:
     sort_title: |-
       Quanzhi Gaoshou: Dianfeng Rongyao
     original_title: |-
-      Quanzhi Gaoshou: Dianfeng Rongyao
+      The King's Avatar: For the Glory
     genre.sync: Anime,Action,Drama,Video Games,E-Sports,Tragedy
     studio: Colored Pencil Animation
     audience_rating: 7.9
@@ -916,7 +916,7 @@ metadata:
       Sayonara no Asa ni Yakusoku no Hana wo Kazarou
     original_title: |-
       Maquia: When the Promised Flower Blooms
-    genre.sync: Anime,Drama,Fantasy,Psychological,Family Life,Coming of Age,Female Protagonist,Tragedy,Time Skip,Adoption,Urban Fantasy
+    genre.sync: Anime,Drama,Fantasy,Psychological,Family Life,Coming of Age,Female Protagonist,Tragedy,Time Skip,Orphan,Adoption,Urban Fantasy
     studio: P.A. Works
     audience_rating: 8.2
   tt6337252:
@@ -956,7 +956,7 @@ metadata:
       Shin Evangelion Movie:||
     original_title: |-
       Evangelion: 3.0+1.0 Thrice Upon a Time
-    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Rehabilitation,Post-Apocalyptic,Coming of Age,Meta,Alternate Universe,Gods,Robots,Time Skip,Philosophy,Cosmic Horror,Male Protagonist,Time Manipulation,Super Robot,Denpa,Clone
+    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Rehabilitation,Post-Apocalyptic,Coming of Age,Meta,Alternate Universe,Gods,Robots,Time Skip,Philosophy,Cosmic Horror,Time Manipulation,Clone,Male Protagonist,Super Robot,Denpa
     studio: Studio Khara
     audience_rating: 8.6
   tt8346438:
