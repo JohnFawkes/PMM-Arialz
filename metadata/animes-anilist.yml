@@ -2974,7 +2974,7 @@ metadata:
     original_title: |-
       Skip and Loafer
     genre.sync: Anime,Comedy,Romance,Slice of Life,School,Female Protagonist,Coming of Age,Primarily Teen Cast,Urban,Seinen,Iyashikei,Heterosexual
-    label: Ongoing
+    label.remove: Ongoing
     studio: P.A. Works
     audience_rating: 8.1
   72491:
