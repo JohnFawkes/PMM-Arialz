@@ -1858,7 +1858,7 @@ metadata:
     original_title: |-
       KONOSUBA -An Explosion on This Wonderful World!
     genre.sync: Anime,Adventure,Comedy,Fantasy,Primarily Teen Cast,Magic,Female Protagonist,Chuunibyou,Primarily Female Cast,Slapstick,Parody,School,Rural,Witch
-    label: Ongoing
+    label.remove: Ongoing
     studio: Drive
     audience_rating: 7.4
   303867:
