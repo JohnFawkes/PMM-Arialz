@@ -847,7 +847,7 @@ metadata:
     original_title: |-
       Otaku Elf
     genre.sync: Anime,Comedy,Slice of Life,Supernatural,Otaku Culture,Elf,Hikikomori,Primarily Female Cast,Iyashikei,Shrine Maiden,Female Protagonist,Rehabilitation,Slapstick
-    label: Ongoing
+    label.remove: Ongoing
     studio: C2C
     audience_rating: 6.8
   412957:
@@ -2101,7 +2101,7 @@ metadata:
     original_title: |-
       Magical Destroyers
     genre.sync: Anime,Action,Comedy,Ecchi,Mahou Shoujo,Otaku Culture,Meta,Henshin,Dystopian,Magic,Surreal Comedy,Primarily Female Cast,Urban,Slapstick,Female Protagonist,Male Protagonist,Philosophy
-    label: Ongoing
+    label.remove: Ongoing
     studio: Bibury Animation Studios
     audience_rating: 6.3
   278329:
@@ -3375,7 +3375,7 @@ metadata:
     original_title: |-
       TONIKAWA: Over The Moon For You
     genre.sync: Anime,Comedy,Romance,Slice of Life,Marriage,Family Life,Heterosexual,Iyashikei
-    label: Ongoing
+    label.remove: Ongoing
     studio: Seven Arcs
     seasons:
       0:
