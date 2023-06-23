@@ -586,7 +586,7 @@ metadata:
       Kidou Senshi Gundam Thunderbolt: December Sky
     original_title: |-
       Mobile Suit Gundam Thunderbolt: December Sky
-    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Military,War,Space,Primarily Adult Cast,Anti-Hero,Real Robot,Seinen,Tragedy
+    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Military,War,Space,Primarily Adult Cast,Anti-Hero,Real Robot,Seinen,Tragedy,Guns
     studio: Sunrise
     audience_rating: 7.7
   tt13288678:
@@ -636,7 +636,7 @@ metadata:
       Koe no Katachi
     original_title: |-
       A Silent Voice
-    genre.sync: Anime,Drama,Romance,Slice of Life,Bullying,Disability,Rehabilitation,Language Barrier,Coming of Age,Denpa,Suicide,Tragedy,Male Protagonist,Time Skip,Primarily Teen Cast,School,Female Protagonist
+    genre.sync: Anime,Drama,Romance,Slice of Life,Bullying,Disability,Rehabilitation,Language Barrier,Coming of Age,Denpa,Suicide,Tragedy,Primarily Teen Cast,Male Protagonist,Time Skip,School,Female Protagonist
     studio: Kyoto Animation
     audience_rating: 8.8
   tt4489416:
@@ -706,7 +706,7 @@ metadata:
       Kuroko no Basket: Last Game
     original_title: |-
       Kuroko's Basketball: Last Game
-    genre.sync: Anime,Comedy,Sports,Basketball,Shounen,Athletics,Male Protagonist,School
+    genre.sync: Anime,Comedy,Sports,Basketball,Shounen,Athletics,Male Protagonist,School,Primarily Male Cast
     studio: Production I.G
     audience_rating: 7.9
   tt4531412:
@@ -868,7 +868,7 @@ metadata:
       Only Yesterday
     genre.sync: Anime,Drama,Romance,Slice of Life,Female Protagonist,Iyashikei,Rural,Coming of Age,Family Life,Biographical,Philosophy
     studio: Studio Ghibli
-    audience_rating: 7.2
+    audience_rating: 7.3
   tt2140203:
     title: |-
       Ookami Kodomo no Ame to Yuki
@@ -1086,7 +1086,7 @@ metadata:
       Violet Evergarden Movie
     original_title: |-
       Violet Evergarden: the Movie
-    genre.sync: Anime,Drama,Fantasy,Slice of Life,Writing,Female Protagonist,Heterosexual,Tragedy,Work,Age Gap,Foreign,Historical,Rehabilitation,Military
+    genre.sync: Anime,Drama,Fantasy,Slice of Life,Writing,Female Protagonist,Heterosexual,Tragedy,Work,Historical,Foreign,Age Gap,Rehabilitation,Military
     studio: Kyoto Animation
     audience_rating: 8.8
   tt14364238:
