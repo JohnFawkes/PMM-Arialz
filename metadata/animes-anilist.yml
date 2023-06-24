@@ -1401,7 +1401,7 @@ metadata:
     original_title: |-
       Summoned to Another World for a Second Time
     genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai
-    label: Ongoing
+    label.remove: Ongoing
     studio: Studio elle
     audience_rating: 5.7
   406592:
@@ -2488,7 +2488,7 @@ metadata:
     original_title: |-
       A Galaxy Next Door
     genre.sync: Anime,Comedy,Romance,Family Life,Heterosexual,Primarily Adult Cast,Female Protagonist,Male Protagonist,Iyashikei,Seinen,Work,Drawing
-    label: Ongoing
+    label.remove: Ongoing
     studio: Asahi Production
     audience_rating: 6.8
   414221:
@@ -3696,7 +3696,7 @@ metadata:
     original_title: |-
       My Love Story with Yamada-kun at Lv999
     genre.sync: Anime,Comedy,Drama,Romance,Video Games,Kuudere,Female Protagonist,Otaku Culture,Heterosexual,Shoujo
-    label: Ongoing
+    label.remove: Ongoing
     studio: MADHOUSE
     audience_rating: 7.6
   313488:
