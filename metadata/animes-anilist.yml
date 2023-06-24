@@ -1371,17 +1371,6 @@ metadata:
     label: Ongoing
     studio: Millepensee
     audience_rating: 6.4
-  104741:
-    title: |-
-      Isekai no Seikishi Monogatari
-    sort_title: |-
-      Isekai no Seikishi Monogatari
-    original_title: |-
-      Tenchi Muyo! War on Geminar
-    genre.sync: Anime,Action,Comedy,Ecchi,Fantasy,Mecha,Isekai,Female Harem,Super Robot,Male Protagonist,Primarily Female Cast,CGI,School
-    label.remove: Ongoing
-    studio: AIC
-    audience_rating: 7.3
   405214:
     title: |-
       Isekai Oji-san
@@ -3145,7 +3134,7 @@ metadata:
     original_title: |-
       Tengoku Daimakyo
     genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Tragedy,Conspiracy,Seinen,Achronological Order,Body Swapping,Transgender,Travel,Male Protagonist,Super Power,Demons,Female Protagonist,LGBTQ+ Themes,Denpa,Gore
-    label: Ongoing
+    label.remove: Ongoing
     studio: Production I.G
     audience_rating: 8.0
   400961:
