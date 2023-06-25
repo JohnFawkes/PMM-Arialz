@@ -2270,12 +2270,11 @@ metadata:
     label.remove: Ongoing
     studio: Studio Bind
     seasons:
+      0:
+        label.remove: score
       1:
-        title: |-
-          Mushoku Tensei: Isekai Ittara Honki Dasu
-        user_rating: 8.2
-        label: score
-    audience_rating: 4.1
+        label.remove: score
+    audience_rating: 8.2
   421452:
     title: |-
       My Home Hero
