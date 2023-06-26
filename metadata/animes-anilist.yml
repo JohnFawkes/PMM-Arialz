@@ -123,10 +123,10 @@ metadata:
       [Oshi no Ko]
     original_title: |-
       Oshi No Ko
-    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Urban,Tragedy,Idol,Revenge,Seinen,Twins,Male Protagonist,Reincarnation,Detective,Anti-Hero,Female Protagonist,Bullying,Time Skip
+    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Urban,Idol,Revenge,Seinen,Male Protagonist,Reincarnation,Twins,Detective,Anti-Hero,Female Protagonist,Bullying,Orphan
     label: Ongoing
     studio: Doga Kobo
-    audience_rating: 8.8
+    audience_rating: 8.7
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -416,7 +416,7 @@ metadata:
       Bocchi the Rock!
     original_title: |-
       Bocchi The Rock!
-    genre.sync: Anime,Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Cute Girls Doing Cute Things,Hikikomori,Rehabilitation,Yuri,Surreal Comedy,4-koma,Seinen,LGBTQ+ Themes
+    genre.sync: Anime,Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Cute Girls Doing Cute Things,Hikikomori,Rehabilitation,Surreal Comedy,4-koma,Seinen,Yuri
     label.remove: Ongoing
     studio: CloverWorks
     audience_rating: 8.8
@@ -480,7 +480,7 @@ metadata:
       Boku no Kokoro no Yabai Yatsu
     original_title: |-
       The Dangers in My Heart
-    genre.sync: Anime,Comedy,Romance,Slice of Life,Primarily Teen Cast,Heterosexual,Male Protagonist,School,Shounen,Female Protagonist
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Primarily Teen Cast,Heterosexual,Male Protagonist,School,Female Protagonist,Shounen
     label.remove: Ongoing
     studio: Shin-Ei Animation
     audience_rating: 8.0
@@ -721,8 +721,8 @@ metadata:
       Dead Mount Death Play
     original_title: |-
       Dead Mount Death Play
-    genre.sync: Anime,Action,Fantasy,Supernatural,Thriller,Urban Fantasy,Crime,Isekai,Ensemble Cast,Necromancy,Assassins,Magic,Gangs,Seinen
-    label: Ongoing
+    genre.sync: Anime,Action,Fantasy,Supernatural,Thriller,Urban Fantasy,Crime,Isekai,Necromancy,Ensemble Cast,Assassins,Magic,Police,Gangs,Seinen
+    label.remove: Ongoing
     studio: GEEKTOYS
     audience_rating: 7.1
   378878:
@@ -857,10 +857,10 @@ metadata:
       Edomae Elf
     original_title: |-
       Otaku Elf
-    genre.sync: Anime,Comedy,Slice of Life,Supernatural,Otaku Culture,Elf,Hikikomori,Primarily Female Cast,Iyashikei,Shrine Maiden,Female Protagonist,Rehabilitation,Slapstick
+    genre.sync: Anime,Comedy,Slice of Life,Supernatural,Otaku Culture,Primarily Female Cast,Elf,Hikikomori,Iyashikei,Shrine Maiden,Rehabilitation,Female Protagonist,Slapstick
     label.remove: Ongoing
     studio: C2C
-    audience_rating: 6.8
+    audience_rating: 7.0
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -879,7 +879,7 @@ metadata:
       Enen no Shouboutai
     original_title: |-
       Fire Force
-    genre.sync: Anime,Action,Drama,Sci-Fi,Supernatural,Firefighters,Super Power,Shounen,Urban Fantasy,Conspiracy,Demons,Male Protagonist,Religion,Post-Apocalyptic,Cult,Dystopian,Ensemble Cast,Tragedy
+    genre.sync: Anime,Action,Drama,Sci-Fi,Supernatural,Firefighters,Urban Fantasy,Super Power,Shounen,Conspiracy,Demons,Male Protagonist,Religion,Post-Apocalyptic,Cult,Dystopian,Ensemble Cast,Tragedy
     label.remove: Ongoing
     studio: David Production
     seasons:
@@ -1043,7 +1043,7 @@ metadata:
       Golden Kamuy
     original_title: |-
       Golden Kamuy
-    genre.sync: Anime,Action,Adventure,Comedy,Historical,Outdoor,Seinen,Ensemble Cast,Survival,Military,Primarily Adult Cast,Guns,Food
+    genre.sync: Anime,Action,Adventure,Comedy,Historical,Outdoor,Seinen,Survival,Ensemble Cast,Military,Primarily Adult Cast,Guns,Food
     label: Ongoing
     studio: Geno Studio
     seasons:
@@ -1237,7 +1237,7 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery,Female Protagonist,Post-Apocalyptic,Animals,Steampunk
     label.remove: Ongoing
     studio: Signal.MD
-    audience_rating: 6.2
+    audience_rating: 6.1
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -1403,7 +1403,7 @@ metadata:
     genre.sync: Anime,Comedy,Fantasy,Romance,Isekai,Incest
     label.remove: Ongoing
     studio: Gekkou
-    audience_rating: 5.7
+    audience_rating: 5.9
   411893:
     title: |-
       Isekai Shoukan wa Nidome desu
@@ -1411,7 +1411,7 @@ metadata:
       Isekai Shoukan wa Nidome desu
     original_title: |-
       Summoned to Another World for a Second Time
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai,Male Protagonist
     label.remove: Ongoing
     studio: Studio elle
     audience_rating: 5.7
@@ -1488,7 +1488,7 @@ metadata:
       Kage no Jitsuryokusha ni Naritakute!
     original_title: |-
       The Eminence in Shadow
-    genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Chuunibyou,Male Protagonist,Anti-Hero,Parody,Magic,Cult,Acting,Swordplay,Reincarnation,Primarily Female Cast,Meta
+    genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Chuunibyou,Male Protagonist,Anti-Hero,Parody,Magic,Cult,Acting,Swordplay,Reincarnation,Primarily Female Cast,Meta,Espionage
     label.remove: Ongoing
     studio: Nexus
     audience_rating: 8.2
@@ -1770,7 +1770,7 @@ metadata:
       Kimi wa Houkago Insomnia
     original_title: |-
       Insomniacs after school
-    genre.sync: Anime,Romance,Slice of Life,Iyashikei,Coming of Age,Seinen,Photography,Astronomy,Heterosexual,Primarily Teen Cast,School Club,School,Rural,Male Protagonist,Female Protagonist
+    genre.sync: Anime,Romance,Slice of Life,Coming of Age,Iyashikei,Seinen,Photography,Astronomy,Primarily Teen Cast,School Club,Heterosexual,Rural,Male Protagonist,School,Female Protagonist
     label: Ongoing
     studio: LIDENFILMS
     audience_rating: 7.7
@@ -1798,7 +1798,7 @@ metadata:
       3:
         title: |-
           Kingdom 3rd Season
-        user_rating: 8.5
+        user_rating: 8.4
         label: score
       4:
         title: |-
@@ -1813,7 +1813,7 @@ metadata:
       Kiseijuu: Sei no Kakuritsu
     original_title: |-
       Parasyte -the maxim-
-    genre.sync: Anime,Action,Drama,Horror,Psychological,Sci-Fi,Body Horror,Seinen,Shapeshifting,Survival,Aliens,Philosophy,Male Protagonist,Anti-Hero,Gore,Revenge,Cannibalism,Cosmic Horror
+    genre.sync: Anime,Action,Drama,Horror,Psychological,Sci-Fi,Seinen,Body Horror,Shapeshifting,Survival,Male Protagonist,Aliens,Philosophy,Anti-Hero,Gore,Revenge,Tragedy,Cosmic Horror,Cannibalism
     label.remove: Ongoing
     studio: MADHOUSE
     audience_rating: 8.1
@@ -2023,7 +2023,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Anime,Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Yuri,Kuudere,Work,Espionage
+    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Work,Kuudere,Espionage
     label.remove: Ongoing
     studio: A-1 Pictures
     audience_rating: 8.1
@@ -2056,7 +2056,7 @@ metadata:
       Made in Abyss
     original_title: |-
       Made in Abyss
-    genre.sync: Anime,Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Primarily Child Cast,Chibi,Environmental,Body Horror,Travel,Tragedy,Philosophy,Dungeon,Lost Civilization,Seinen,Female Protagonist,Amnesia,Gore
+    genre.sync: Anime,Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Chibi,Primarily Child Cast,Environmental,Body Horror,Travel,Tragedy,Philosophy,Dungeon,Lost Civilization,Seinen,Female Protagonist,Amnesia,Gore
     label.remove: Ongoing
     studio: Kinema Citrus
     seasons:
@@ -2100,10 +2100,10 @@ metadata:
       Mahou Shoujo Magical Destroyers
     original_title: |-
       Magical Destroyers
-    genre.sync: Anime,Action,Comedy,Ecchi,Mahou Shoujo,Otaku Culture,Meta,Henshin,Dystopian,Magic,Surreal Comedy,Primarily Female Cast,Urban,Slapstick,Female Protagonist,Male Protagonist,Philosophy
+    genre.sync: Anime,Action,Comedy,Ecchi,Mahou Shoujo,Otaku Culture,Meta,Henshin,Dystopian,Magic,Surreal Comedy,Religion,Primarily Female Cast,Urban,Slapstick,Female Protagonist,Male Protagonist,Philosophy
     label.remove: Ongoing
     studio: Bibury Animation Studios
-    audience_rating: 6.3
+    audience_rating: 6.2
   278329:
     title: |-
       Mahouka Koukou no Rettousei
@@ -2226,7 +2226,7 @@ metadata:
       Mashle
     original_title: |-
       Mashle: Magic And Muscles
-    genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Magic,Male Protagonist,Parody,School,Primarily Teen Cast,Kuudere,Slapstick,Fitness,Super Power,Primarily Male Cast
+    genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Magic,Parody,Male Protagonist,School,Slapstick,Primarily Teen Cast,Kuudere,Fitness,Super Power,Primarily Male Cast
     label: Ongoing
     studio: A-1 Pictures
     audience_rating: 7.4
@@ -2266,7 +2266,7 @@ metadata:
       Mushoku Tensei: Isekai Ittara Honki Dasu
     original_title: |-
       Mushoku Tensei: Jobless Reincarnation
-    genre.sync: Anime,Adventure,Drama,Ecchi,Fantasy,Isekai,Reincarnation,Male Protagonist,Magic,Coming of Age,Rehabilitation,Travel,Age Regression,Primarily Child Cast
+    genre.sync: Anime,Adventure,Drama,Ecchi,Fantasy,Isekai,Reincarnation,Male Protagonist,Magic,Coming of Age,Rehabilitation,Travel,Age Regression
     label.remove: Ongoing
     studio: Studio Bind
     seasons:
@@ -2497,10 +2497,10 @@ metadata:
       Otonari ni Ginga
     original_title: |-
       A Galaxy Next Door
-    genre.sync: Anime,Comedy,Romance,Family Life,Heterosexual,Primarily Adult Cast,Female Protagonist,Male Protagonist,Iyashikei,Seinen,Work,Drawing
+    genre.sync: Anime,Comedy,Romance,Family Life,Heterosexual,Primarily Adult Cast,Female Protagonist,Male Protagonist,Work,Drawing,Marriage
     label.remove: Ongoing
     studio: Asahi Production
-    audience_rating: 6.8
+    audience_rating: 7.0
   414221:
     title: |-
       Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
@@ -2916,7 +2916,7 @@ metadata:
       Shoujo Shuumatsu Ryokou
     original_title: |-
       Girls' Last Tour
-    genre.sync: Anime,Adventure,Sci-Fi,Slice of Life,Post-Apocalyptic,Lost Civilization,Philosophy,Iyashikei,Tragedy,Environmental,Female Protagonist,War,Survival,Military,Urban,Travel,Primarily Female Cast,Cute Girls Doing Cute Things,Chibi
+    genre.sync: Anime,Adventure,Sci-Fi,Slice of Life,Post-Apocalyptic,Lost Civilization,Philosophy,Iyashikei,Tragedy,Environmental,Female Protagonist,War,Survival,Urban,Travel,Military,Primarily Female Cast,Cute Girls Doing Cute Things,Chibi
     label.remove: Ongoing
     studio: White Fox
     audience_rating: 8.1
@@ -3009,7 +3009,7 @@ metadata:
     genre.sync: Anime,Action,Comedy,Slice of Life,Supernatural,Family Life,Espionage,Found Family,Assassins,Conspiracy,Adoption,Slapstick,Male Protagonist,Female Protagonist,Crime,Foreign,School,Super Power,Urban,Ensemble Cast,Heterosexual
     label.remove: Ongoing
     studio: CloverWorks
-    audience_rating: 8.6
+    audience_rating: 8.5
   244061:
     title: |-
       Steins;Gate
@@ -3143,10 +3143,10 @@ metadata:
       Tengoku Daimakyou
     original_title: |-
       Tengoku Daimakyo
-    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Tragedy,Conspiracy,Seinen,Achronological Order,Body Swapping,Transgender,Travel,Male Protagonist,Super Power,Demons,Female Protagonist,LGBTQ+ Themes,Denpa,Gore
+    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Tragedy,Achronological Order,Seinen,Travel,Body Swapping,Conspiracy,Demons,Male Protagonist,Gore,Denpa,Gender Bending,Super Power,Orphan
     label.remove: Ongoing
     studio: Production I.G
-    audience_rating: 8.0
+    audience_rating: 8.1
   400961:
     title: |-
       Tensai Ouji no Akaji Kokka Saisei Jutsu
@@ -3705,10 +3705,10 @@ metadata:
       Yamada-kun to Lv999 no Koi wo Suru
     original_title: |-
       My Love Story with Yamada-kun at Lv999
-    genre.sync: Anime,Comedy,Drama,Romance,Video Games,Kuudere,Female Protagonist,Otaku Culture,Heterosexual,Shoujo
+    genre.sync: Anime,Comedy,Drama,Romance,Video Games,Kuudere,Female Protagonist,Heterosexual,Otaku Culture,Shoujo
     label.remove: Ongoing
     studio: MADHOUSE
-    audience_rating: 7.6
+    audience_rating: 7.8
   313488:
     title: |-
       Yi Ren Zhi Xia
@@ -3740,7 +3740,7 @@ metadata:
       Yofukashi no Uta
     original_title: |-
       Call of the Night
-    genre.sync: Anime,Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Male Protagonist,Heterosexual,Female Protagonist,Coming of Age,Shounen,Age Gap
+    genre.sync: Anime,Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Male Protagonist,Heterosexual,Female Protagonist,Coming of Age,Age Gap,Shounen
     label.remove: Ongoing
     studio: LIDENFILMS
     audience_rating: 7.9
