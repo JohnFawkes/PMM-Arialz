@@ -1044,7 +1044,7 @@ metadata:
     original_title: |-
       Golden Kamuy
     genre.sync: Anime,Action,Adventure,Comedy,Historical,Outdoor,Seinen,Survival,Ensemble Cast,Military,Primarily Adult Cast,Guns,Food
-    label: Ongoing
+    label.remove: Ongoing
     studio: Geno Studio
     seasons:
       1:
