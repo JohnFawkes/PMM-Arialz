@@ -124,7 +124,7 @@ metadata:
     original_title: |-
       Oshi No Ko
     genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Urban,Idol,Revenge,Seinen,Male Protagonist,Reincarnation,Twins,Detective,Anti-Hero,Female Protagonist,Bullying,Orphan
-    label: Ongoing
+    label.remove: Ongoing
     studio: Doga Kobo
     audience_rating: 8.7
   319983:
