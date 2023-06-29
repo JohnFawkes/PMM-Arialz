@@ -86,9 +86,9 @@ metadata:
       Boku no Hero Academia THE MOVIE: World Heroes' Mission
     original_title: |-
       My Hero Academia: World Heroes' Mission
-    genre.sync: Anime,Action,Adventure,Sci-Fi,Super Power,Superhero,Cult,Primarily Male Cast,Primarily Teen Cast,Shounen,Conspiracy,Espionage
+    genre.sync: Anime,Action,Adventure,Sci-Fi,Super Power,Cult,Superhero,Primarily Male Cast,Primarily Teen Cast,Shounen,Conspiracy,Espionage
     studio: bones
-    audience_rating: 7.7
+    audience_rating: 7.6
   tt16360006:
     title: |-
       Bubble
@@ -636,7 +636,7 @@ metadata:
       Koe no Katachi
     original_title: |-
       A Silent Voice
-    genre.sync: Anime,Drama,Romance,Slice of Life,Bullying,Disability,Rehabilitation,Language Barrier,Coming of Age,Denpa,Suicide,Tragedy,Primarily Teen Cast,Male Protagonist,Time Skip,School,Female Protagonist
+    genre.sync: Anime,Drama,Romance,Slice of Life,Bullying,Disability,Rehabilitation,Language Barrier,Coming of Age,Denpa,Suicide,Tragedy,Primarily Teen Cast,Male Protagonist,Time Skip,School
     studio: Kyoto Animation
     audience_rating: 8.8
   tt4489416:
@@ -1036,7 +1036,7 @@ metadata:
       Tenkuu no Shiro Laputa
     original_title: |-
       Castle in the Sky
-    genre.sync: Anime,Adventure,Fantasy,Sci-Fi,Lost Civilization,Steampunk,Environmental,Pirates,Aviation,Female Protagonist,Fugitive
+    genre.sync: Anime,Adventure,Fantasy,Sci-Fi,Lost Civilization,Environmental,Steampunk,Pirates,Aviation,Female Protagonist,Fugitive
     studio: Studio Ghibli
     audience_rating: 8.0
   tt0808506:
