@@ -112,7 +112,7 @@ metadata:
       86: Eighty Six
     original_title: |-
       86 Eighty-six
-    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,War,Military,Tragedy,Dystopian,Politics,Survival,Female Protagonist,Primarily Teen Cast,Robots,Guns,Male Protagonist,Conspiracy,Post-Apocalyptic,Real Robot
+    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,War,Military,Tragedy,Dystopian,Survival,Politics,Female Protagonist,Primarily Teen Cast,Post-Apocalyptic,Robots,Male Protagonist,Conspiracy,Guns,Real Robot
     label.remove: Ongoing
     studio: A-1 Pictures
     audience_rating: 8.2
@@ -123,10 +123,10 @@ metadata:
       [Oshi no Ko]
     original_title: |-
       Oshi No Ko
-    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Urban,Seinen,Male Protagonist,Reincarnation,Twins,Detective,Anti-Hero,Bullying,Female Protagonist,Orphan,Time Skip
+    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Seinen,Urban,Male Protagonist,Reincarnation,Twins,Detective,Anti-Hero,Female Protagonist,Orphan,Time Skip
     label.remove: Ongoing
     studio: Doga Kobo
-    audience_rating: 8.8
+    audience_rating: 8.7
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -846,7 +846,7 @@ metadata:
       Edomae Elf
     original_title: |-
       Otaku Elf
-    genre.sync: Anime,Comedy,Slice of Life,Supernatural,Otaku Culture,Primarily Female Cast,Elf,Hikikomori,Iyashikei,Shrine Maiden,Rehabilitation,Female Protagonist,Slapstick
+    genre.sync: Anime,Comedy,Slice of Life,Supernatural,Otaku Culture,Primarily Female Cast,Elf,Hikikomori,Iyashikei,Female Protagonist,Shrine Maiden,Historical,Rehabilitation
     label.remove: Ongoing
     studio: C2C
     audience_rating: 7.0
@@ -1444,8 +1444,8 @@ metadata:
       Jigokuraku
     original_title: |-
       Hell’s Paradise
-    genre.sync: Anime,Action,Adventure,Mystery,Supernatural,Survival,Swordplay,Gore,Battle Royale,Ninja,Travel,Historical,Body Horror,Samurai,Shounen,Religion,Anti-Hero,Tragedy
-    label: Ongoing
+    genre.sync: Anime,Action,Adventure,Mystery,Supernatural,Survival,Gore,Swordplay,Body Horror,Battle Royale,Travel,Ninja,Historical,Samurai,Shounen,Religion,Anti-Hero,Tragedy
+    label.remove: Ongoing
     studio: MAPPA
     audience_rating: 8.0
   257756:
@@ -1663,7 +1663,7 @@ metadata:
     original_title: |-
       Mobile Suit Gundam: The Witch from Mercury
     genre.sync: Anime,Action,Mecha,Sci-Fi,Real Robot,Female Protagonist,Space,Primarily Teen Cast,School,Yuri,Politics,Super Robot,Revenge,Cyborg,Conspiracy,LGBTQ+ Themes
-    label: Ongoing
+    label.remove: Ongoing
     studio: Sunrise
     seasons:
       0:
@@ -1685,7 +1685,7 @@ metadata:
       1:
         title: |-
           Kidou Senshi Gundam: Tekketsu no Orphans
-        user_rating: 7.7
+        user_rating: 7.8
         label: score
       2:
         title: |-
@@ -1759,7 +1759,7 @@ metadata:
       Kimi wa Houkago Insomnia
     original_title: |-
       Insomniacs after school
-    genre.sync: Anime,Romance,Slice of Life,Iyashikei,Coming of Age,Seinen,Photography,Astronomy,School Club,Primarily Teen Cast,Heterosexual,Rural,Male Protagonist,School,Female Protagonist
+    genre.sync: Anime,Romance,Slice of Life,Coming of Age,Iyashikei,Seinen,Photography,Astronomy,Primarily Teen Cast,Heterosexual,School Club,School,Male Protagonist,Rural,Female Protagonist
     label: Ongoing
     studio: LIDENFILMS
     audience_rating: 7.8
@@ -1925,7 +1925,7 @@ metadata:
       Kumo desu ga, Nani ka?
     original_title: |-
       So I'm a Spider, So What?
-    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Mystery,Isekai,Reincarnation,Female Protagonist,Achronological Order,Monster Girl,Magic,Anti-Hero,Survival,CGI,War,Conspiracy,Time Skip,Post-Apocalyptic
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Mystery,Isekai,Reincarnation,Achronological Order,Female Protagonist,Magic,Monster Girl,Anti-Hero,Survival,CGI,War,Conspiracy,Time Skip,Post-Apocalyptic
     label.remove: Ongoing
     studio: Millepensee
     audience_rating: 7.1
@@ -2023,7 +2023,7 @@ metadata:
       Machikado Mazoku
     original_title: |-
       The Demon Girl Next Door
-    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo,Slice of Life,Slapstick,Cute Girls Doing Cute Things,Female Protagonist,Primarily Female Cast,Parody,Demons,Magic,Urban Fantasy,Meta,Kuudere,Surreal Comedy,Monster Girl,Seinen,Henshin,Primarily Teen Cast
+    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo,Slice of Life,Slapstick,Cute Girls Doing Cute Things,Female Protagonist,Primarily Female Cast,Parody,Demons,Magic,Urban Fantasy,Meta,Kuudere,Seinen,Surreal Comedy,Monster Girl,Henshin,Primarily Teen Cast
     label.remove: Ongoing
     studio: J.C. Staff
     seasons:
@@ -2089,7 +2089,7 @@ metadata:
       Mahou Shoujo Magical Destroyers
     original_title: |-
       Magical Destroyers
-    genre.sync: Anime,Action,Comedy,Ecchi,Mahou Shoujo,Otaku Culture,Meta,Henshin,Dystopian,Magic,Surreal Comedy,Religion,Primarily Female Cast,Urban,Slapstick,Female Protagonist,Male Protagonist,Philosophy
+    genre.sync: Anime,Action,Comedy,Ecchi,Mahou Shoujo,Otaku Culture,Meta,Henshin,Dystopian,Magic,Surreal Comedy,Religion,Primarily Female Cast,Urban,Slapstick,Female Protagonist,Male Protagonist,Parody,Philosophy
     label.remove: Ongoing
     studio: Bibury Animation Studios
     audience_rating: 6.2
@@ -2216,9 +2216,9 @@ metadata:
     original_title: |-
       Mashle: Magic And Muscles
     genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Magic,Male Protagonist,Parody,School,Slapstick,Primarily Teen Cast,Fitness,Kuudere,Super Power,Primarily Male Cast
-    label: Ongoing
+    label.remove: Ongoing
     studio: A-1 Pictures
-    audience_rating: 7.4
+    audience_rating: 7.5
   307375:
     title: |-
       Mob Psycho 100
@@ -2519,7 +2519,7 @@ metadata:
       Ousama Ranking: Yuuki no Takarabako
     original_title: |-
       Ranking of Kings: The Treasure Chest of Courage
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Seinen,Achronological Order,Monster Boy,Swordplay,Ensemble Cast,Male Protagonist,Language Barrier,Disability,Episodic
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Ensemble Cast,Male Protagonist,Seinen,Achronological Order,Language Barrier,Episodic,Swordplay,Disability
     label.remove: Ongoing
     studio: Wit Studio
     audience_rating: 7.4
@@ -2676,6 +2676,17 @@ metadata:
     label.remove: Ongoing
     studio: Domerica
     audience_rating: 8.0
+  432613:
+    title: |-
+      Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega
+    sort_title: |-
+      Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega
+    original_title: |-
+      Atelier Ryza: Ever Darkness & the Secret Hideout The Animation
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Alchemy
+    label: Ongoing
+    studio: LIDENFILMS
+    audience_rating: 6.5
   398387:
     title: |-
       Sabikui Bisco
@@ -2851,7 +2862,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Survival,Kaiju,Tragedy,Shapeshifting,Military,Primarily Teen Cast,Post-Apocalyptic,Super Power,Monster Girl,Monster Boy,Swordplay,Gore,Memory Manipulation,Ensemble Cast,Male Protagonist,Cosmic Horror
+    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Survival,Kaiju,Tragedy,Shapeshifting,Military,Primarily Teen Cast,Post-Apocalyptic,Super Power,Monster Girl,Monster Boy,Swordplay,Gore,Memory Manipulation,Male Protagonist,Ensemble Cast,Cosmic Horror
     label.remove: Ongoing
     studio: Wit Studio
     seasons:
@@ -3031,6 +3042,17 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.3
+  424414:
+    title: |-
+      Jitsu wa Ore, Saikyou Deshita?
+    sort_title: |-
+      Jitsu wa Ore, Saikyou Deshita?
+    original_title: |-
+      Am I Actually the Strongest?
+    genre.sync: Anime,Comedy,Ecchi,Fantasy,Romance,Isekai,Magic,Demons,Rehabilitation,Reincarnation,Shounen
+    label: Ongoing
+    studio: Staple Entertainment
+    audience_rating: 6.5
   267432:
     title: |-
       Suisei no Gargantia
@@ -3132,7 +3154,7 @@ metadata:
       Tengoku Daimakyou
     original_title: |-
       Tengoku Daimakyo
-    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Tragedy,Achronological Order,Seinen,Travel,Body Swapping,Conspiracy,Demons,Male Protagonist,Super Power,Denpa,Gender Bending,Gore,Orphan
+    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Post-Apocalyptic,Dystopian,Survival,Tragedy,Achronological Order,Seinen,Body Swapping,Travel,Conspiracy,Male Protagonist,Demons,Gender Bending,Denpa,Super Power,Gore,Orphan
     label.remove: Ongoing
     studio: Production I.G
     audience_rating: 8.1
@@ -3422,6 +3444,17 @@ metadata:
         user_rating: 8.0
         label: score
     audience_rating: 7.8
+  426080:
+    title: |-
+      Uchi no Kaisha no Chiisai Senpai no Hanashi
+    sort_title: |-
+      Uchi no Kaisha no Chiisai Senpai no Hanashi
+    original_title: |-
+      My Tiny Senpai
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Heterosexual,Seinen,Work
+    label: Ongoing
+    studio: project No.9
+    audience_rating: 6.4
   256705:
     title: |-
       Uchuu Kyoudai
@@ -3684,7 +3717,7 @@ metadata:
       2:
         title: |-
           Yakusoku no Neverland 2
-        user_rating: 5.3
+        user_rating: 5.2
         label: score
     audience_rating: 6.8
   423413:
