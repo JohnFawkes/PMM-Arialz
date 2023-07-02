@@ -1448,6 +1448,17 @@ metadata:
     label.remove: Ongoing
     studio: MAPPA
     audience_rating: 8.0
+  424414:
+    title: |-
+      Jitsu wa Ore, Saikyou Deshita?
+    sort_title: |-
+      Jitsu wa Ore, Saikyou Deshita?
+    original_title: |-
+      Am I Actually the Strongest?
+    genre.sync: Anime,Comedy,Ecchi,Fantasy,Romance,Isekai,Magic,Demons,Rehabilitation,Reincarnation,Shounen
+    label: Ongoing
+    studio: Staple Entertainment
+    audience_rating: 6.5
   257756:
     title: |-
       Jormungand
@@ -3042,17 +3053,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.3
-  424414:
-    title: |-
-      Jitsu wa Ore, Saikyou Deshita?
-    sort_title: |-
-      Jitsu wa Ore, Saikyou Deshita?
-    original_title: |-
-      Am I Actually the Strongest?
-    genre.sync: Anime,Comedy,Ecchi,Fantasy,Romance,Isekai,Magic,Demons,Rehabilitation,Reincarnation,Shounen
-    label: Ongoing
-    studio: Staple Entertainment
-    audience_rating: 6.5
   267432:
     title: |-
       Suisei no Gargantia
