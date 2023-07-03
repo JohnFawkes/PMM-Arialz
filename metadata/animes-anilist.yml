@@ -725,17 +725,6 @@ metadata:
     label.remove: Ongoing
     studio: NUT
     audience_rating: 7.1
-  418340:
-    title: |-
-      Lv1 Maou to One Room Yuusha
-    sort_title: |-
-      Lv1 Maou to One Room Yuusha
-    original_title: |-
-      Level 1 Demon Lord and One Room Hero
-    genre.sync: Anime,Action,Adventure,Comedy,Ecchi,Fantasy
-    label: Ongoing
-    studio: SILVER LINK.
-    audience_rating: 0.0
   273005:
     title: |-
       Diamond no Ace
@@ -1782,7 +1771,7 @@ metadata:
     original_title: |-
       Insomniacs after school
     genre.sync: Anime,Romance,Slice of Life,Coming of Age,Iyashikei,Seinen,Photography,Astronomy,Primarily Teen Cast,Heterosexual,School Club,School,Male Protagonist,Rural,Female Protagonist
-    label: Ongoing
+    label.remove: Ongoing
     studio: LIDENFILMS
     audience_rating: 7.8
   259635:
@@ -2027,6 +2016,17 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.4
+  418340:
+    title: |-
+      Lv1 Maou to One Room Yuusha
+    sort_title: |-
+      Lv1 Maou to One Room Yuusha
+    original_title: |-
+      Level 1 Demon Lord and One Room Hero
+    genre.sync: Anime,Action,Adventure,Comedy,Ecchi,Fantasy
+    label: Ongoing
+    studio: SILVER LINK.
+    audience_rating: 0.0
   414057:
     title: |-
       Lycoris Recoil
@@ -2420,6 +2420,17 @@ metadata:
         user_rating: 8.0
         label: score
     audience_rating: 7.9
+  423096:
+    title: |-
+      Okashi na Tensei
+    sort_title: |-
+      Okashi na Tensei
+    original_title: |-
+      Sweet Reincarnation
+    genre.sync: Anime,Action,Fantasy,Slice of Life
+    label: Ongoing
+    studio: SynergySP
+    audience_rating: 0.0
   81797:
     title: |-
       One Piece
