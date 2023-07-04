@@ -250,6 +250,17 @@ metadata:
         user_rating: 7.2
         label: score
     audience_rating: 7.2
+  426440:
+    title: |-
+      Ayaka
+    sort_title: |-
+      Ayaka
+    original_title: |-
+      Ayaka
+    genre.sync: Anime,Action
+    label: Ongoing
+    studio: Studio Blanc
+    audience_rating: 6.1
   79077:
     title: |-
       Azumanga Daiou THE ANIMATION
@@ -1278,6 +1289,17 @@ metadata:
     label.remove: Ongoing
     studio: CloverWorks
     audience_rating: 8.1
+  436124:
+    title: |-
+      Horimiya -piece- 
+    sort_title: |-
+      Horimiya -piece- 
+    original_title: |-
+      Horimiya: The Missing Pieces
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Heterosexual,School
+    label: Ongoing
+    studio: CloverWorks
+    audience_rating: 8.1
   369141:
     title: |-
       Hoshiai no Sora
@@ -2278,7 +2300,7 @@ metadata:
     original_title: |-
       Mushoku Tensei: Jobless Reincarnation
     genre.sync: Anime,Adventure,Drama,Ecchi,Fantasy,Isekai,Reincarnation,Male Protagonist,Magic,Travel,Coming of Age,Rehabilitation,Age Regression
-    label.remove: Ongoing
+    label: Ongoing
     studio: Studio Bind
     seasons:
       0:
