@@ -27,17 +27,17 @@ metadata:
         title: |-
           Hajime no Ippo
         user_rating: 8.6
-        label.sync:  FALL 2000,score
+        label.sync: FALL 2000,score
       2:
         title: |-
           Hajime no Ippo: New Challenger
         user_rating: 8.5
-        label.sync:  WINTER 2009,score
+        label.sync: WINTER 2009,score
       3:
         title: |-
           Hajime no Ippo: Rising
         user_rating: 8.4
-        label.sync:  FALL 2013,score
+        label.sync: FALL 2013,score
     audience_rating: 8.5
   76013:
     title: |-
@@ -56,32 +56,32 @@ metadata:
         title: |-
           Major
         user_rating: 7.9
-        label.sync:  FALL 2004,score
+        label.sync: FALL 2004,score
       2:
         title: |-
           Major S2
         user_rating: 7.9
-        label.sync:  WINTER 2006,score
+        label.sync: WINTER 2006,score
       3:
         title: |-
           Major S3
         user_rating: 8.0
-        label.sync:  WINTER 2007,score
+        label.sync: WINTER 2007,score
       4:
         title: |-
           Major S4
         user_rating: 7.9
-        label.sync:  WINTER 2008,score
+        label.sync: WINTER 2008,score
       5:
         title: |-
           Major S5
         user_rating: 8.2
-        label.sync:  WINTER 2009,score
+        label.sync: WINTER 2009,score
       6:
         title: |-
           Major S6
         user_rating: 8.1
-        label.sync:  SPRING 2010,score
+        label.sync: SPRING 2010,score
     audience_rating: 8.0
   306269:
     title: |-
@@ -98,12 +98,12 @@ metadata:
         title: |-
           3-gatsu no Lion
         user_rating: 8.3
-        label.sync:  FALL 2016,score
+        label.sync: FALL 2016,score
       2:
         title: |-
           3-gatsu no Lion 2
         user_rating: 8.9
-        label.sync:  FALL 2017,score
+        label.sync: FALL 2017,score
     audience_rating: 8.6
   378609:
     title: |-
@@ -220,12 +220,12 @@ metadata:
         title: |-
           Ao no Exorcist
         user_rating: 7.2
-        label.sync:  SPRING 2011,score
+        label.sync: SPRING 2011,score
       2:
         title: |-
           Ao no Exorcist: Kyoto Fujouou-hen
         user_rating: 7.2
-        label.sync:  WINTER 2017,score
+        label.sync: WINTER 2017,score
     audience_rating: 7.2
   407840:
     title: |-
@@ -270,12 +270,12 @@ metadata:
         title: |-
           Arslan Senki (TV)
         user_rating: 7.3
-        label.sync:  SPRING 2015,score
+        label.sync: SPRING 2015,score
       2:
         title: |-
           Arslan Senki: Fuujin Ranbu
         user_rating: 7.2
-        label.sync:  SUMMER 2016,score
+        label.sync: SUMMER 2016,score
     audience_rating: 7.2
   426440:
     title: |-
@@ -320,12 +320,12 @@ metadata:
         title: |-
           Baby Steps
         user_rating: 7.5
-        label.sync:  SPRING 2014,score
+        label.sync: SPRING 2014,score
       2:
         title: |-
           Baby Steps 2
         user_rating: 7.7
-        label.sync:  SPRING 2015,score
+        label.sync: SPRING 2015,score
     audience_rating: 7.6
   193811:
     title: |-
@@ -342,17 +342,17 @@ metadata:
         title: |-
           Bakuman.
         user_rating: 7.9
-        label.sync:  FALL 2010,score
+        label.sync: FALL 2010,score
       2:
         title: |-
           Bakuman. 2
         user_rating: 8.1
-        label.sync:  FALL 2011,score
+        label.sync: FALL 2011,score
       3:
         title: |-
           Bakuman. 3
         user_rating: 8.3
-        label.sync:  FALL 2012,score
+        label.sync: FALL 2012,score
     audience_rating: 8.1
   281270:
     title: |-
@@ -383,12 +383,12 @@ metadata:
         title: |-
           Beastars
         user_rating: 7.7
-        label.sync:  FALL 2019,score
+        label.sync: FALL 2019,score
       2:
         title: |-
           Beastars 2
         user_rating: 7.8
-        label.sync:  WINTER 2021,score
+        label.sync: WINTER 2021,score
     audience_rating: 7.8
   219771:
     title: |-
@@ -503,32 +503,32 @@ metadata:
         title: |-
           Boku no Hero Academia
         user_rating: 7.7
-        label.sync:  SPRING 2016,score
+        label.sync: SPRING 2016,score
       2:
         title: |-
           Boku no Hero Academia 2
         user_rating: 8.0
-        label.sync:  SPRING 2017,score
+        label.sync: SPRING 2017,score
       3:
         title: |-
           Boku no Hero Academia 3
         user_rating: 7.9
-        label.sync:  SPRING 2018,score
+        label.sync: SPRING 2018,score
       4:
         title: |-
           Boku no Hero Academia 4
         user_rating: 7.9
-        label.sync:  FALL 2019,score
+        label.sync: FALL 2019,score
       5:
         title: |-
           Boku no Hero Academia 5
         user_rating: 7.4
-        label.sync:  SPRING 2021,score
+        label.sync: SPRING 2021,score
       6:
         title: |-
           Boku no Hero Academia 6
         user_rating: 8.3
-        label.sync:  FALL 2022,score
+        label.sync: FALL 2022,score
     audience_rating: 7.9
   422981:
     title: |-
@@ -573,17 +573,17 @@ metadata:
         title: |-
           Bungou Stray Dogs
         user_rating: 7.7
-        label.sync:  SPRING 2016,score
+        label.sync: SPRING 2016,score
       2:
         title: |-
           Bungou Stray Dogs 3rd Season
         user_rating: 8.2
-        label.sync:  SPRING 2019,score
+        label.sync: SPRING 2019,score
       3:
         title: |-
           Bungou Stray Dogs 4th Season
         user_rating: 8.4
-        label.sync:  WINTER 2023,score
+        label.sync: WINTER 2023,score
     audience_rating: 8.1
   83316:
     title: |-
@@ -646,17 +646,17 @@ metadata:
         title: |-
           Chihayafuru
         user_rating: 8.0
-        label.sync:  FALL 2011,score
+        label.sync: FALL 2011,score
       2:
         title: |-
           Chihayafuru 2
         user_rating: 8.3
-        label.sync:  WINTER 2013,score
+        label.sync: WINTER 2013,score
       3:
         title: |-
           Chihayafuru 3
         user_rating: 8.4
-        label.sync:  FALL 2019,score
+        label.sync: FALL 2019,score
     audience_rating: 8.2
   413555:
     title: |-
@@ -689,12 +689,12 @@ metadata:
         title: |-
           Chuunibyou demo Koi ga Shitai!
         user_rating: 7.5
-        label.sync:  FALL 2012,score
+        label.sync: FALL 2012,score
       2:
         title: |-
           Chuunibyou demo Koi ga Shitai! Ren
         user_rating: 7.4
-        label.sync:  WINTER 2014,score
+        label.sync: WINTER 2014,score
     audience_rating: 7.4
   79995:
     title: |-
@@ -725,12 +725,12 @@ metadata:
         title: |-
           Code Geass: Hangyaku no Lelouch
         user_rating: 8.4
-        label.sync:  FALL 2006,score
+        label.sync: FALL 2006,score
       2:
         title: |-
           Code Geass: Hangyaku no Lelouch R2
         user_rating: 8.6
-        label.sync:  SPRING 2008,score
+        label.sync: SPRING 2008,score
     audience_rating: 8.5
   384541:
     title: |-
@@ -791,12 +791,12 @@ metadata:
         title: |-
           DARKER THAN BLACK: Kuro no Keiyakusha
         user_rating: 7.7
-        label.sync:  SPRING 2007,score
+        label.sync: SPRING 2007,score
       2:
         title: |-
           DARKER THAN BLACK: Ryuusei no Gemini
         user_rating: 7.1
-        label.sync:  FALL 2009,score
+        label.sync: FALL 2009,score
     audience_rating: 7.4
   427239:
     title: |-
@@ -843,17 +843,17 @@ metadata:
         title: |-
           Diamond no Ace
         user_rating: 7.9
-        label.sync:  FALL 2013,score
+        label.sync: FALL 2013,score
       2:
         title: |-
           Diamond no Ace: Second Season
         user_rating: 8.2
-        label.sync:  SPRING 2015,score
+        label.sync: SPRING 2015,score
       3:
         title: |-
           Diamond no Ace act II
         user_rating: 8.2
-        label.sync:  SPRING 2019,score
+        label.sync: SPRING 2019,score
     audience_rating: 8.1
   354170:
     title: |-
@@ -900,17 +900,17 @@ metadata:
         title: |-
           Dr. STONE
         user_rating: 8.2
-        label.sync:  SUMMER 2019,score
+        label.sync: SUMMER 2019,score
       2:
         title: |-
           Dr. STONE: STONE WARS
         user_rating: 8.1
-        label.sync:  WINTER 2021,score
+        label.sync: WINTER 2021,score
       3:
         title: |-
           Dr. STONE: NEW WORLD
         user_rating: 8.1
-        label.sync:  SPRING 2023,score
+        label.sync: SPRING 2023,score
     audience_rating: 8.1
   289882:
     title: |-
@@ -929,22 +929,22 @@ metadata:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
         user_rating: 7.3
-        label.sync:  SPRING 2015,score
+        label.sync: SPRING 2015,score
       2:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
         user_rating: 7.1
-        label.sync:  SUMMER 2019,score
+        label.sync: SUMMER 2019,score
       3:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III
         user_rating: 7.4
-        label.sync:  FALL 2020,score
+        label.sync: FALL 2020,score
       4:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen
         user_rating: 7.7
-        label.sync:  SUMMER 2022,score
+        label.sync: SUMMER 2022,score
     audience_rating: 7.4
   421273:
     title: |-
@@ -989,12 +989,12 @@ metadata:
         title: |-
           Enen no Shouboutai
         user_rating: 7.6
-        label.sync:  SUMMER 2019,score
+        label.sync: SUMMER 2019,score
       2:
         title: |-
           Enen no Shouboutai: Ni no Shou
         user_rating: 7.8
-        label.sync:  SUMMER 2020,score
+        label.sync: SUMMER 2020,score
     audience_rating: 7.7
   278626:
     title: |-
@@ -1027,12 +1027,12 @@ metadata:
         title: |-
           Fumetsu no Anata e
         user_rating: 8.1
-        label.sync:  SPRING 2021,score
+        label.sync: SPRING 2021,score
       2:
         title: |-
           Fumetsu no Anata e Season 2
         user_rating: 7.9
-        label.sync:  FALL 2022,score
+        label.sync: FALL 2022,score
     audience_rating: 8.0
   79178:
     title: |-
@@ -1091,12 +1091,12 @@ metadata:
         title: |-
           Gin no Saji
         user_rating: 7.9
-        label.sync:  SUMMER 2013,score
+        label.sync: SUMMER 2013,score
       2:
         title: |-
           Gin no Saji 2
         user_rating: 8.1
-        label.sync:  WINTER 2014,score
+        label.sync: WINTER 2014,score
     audience_rating: 8.0
   79895:
     title: |-
@@ -1143,12 +1143,12 @@ metadata:
         title: |-
           Go-toubun no Hanayome
         user_rating: 7.6
-        label.sync:  WINTER 2019,score
+        label.sync: WINTER 2019,score
       2:
         title: |-
           Go-toubun no Hanayome ∬
         user_rating: 8.0
-        label.sync:  WINTER 2021,score
+        label.sync: WINTER 2021,score
     audience_rating: 7.8
   338455:
     title: |-
@@ -1165,22 +1165,22 @@ metadata:
         title: |-
           Golden Kamuy
         user_rating: 7.7
-        label.sync:  SPRING 2018,score
+        label.sync: SPRING 2018,score
       2:
         title: |-
           Golden Kamuy 2nd Season
         user_rating: 8.1
-        label.sync:  FALL 2018,score
+        label.sync: FALL 2018,score
       3:
         title: |-
           Golden Kamuy 3rd Season
         user_rating: 8.3
-        label.sync:  FALL 2020,score
+        label.sync: FALL 2020,score
       4:
         title: |-
           Golden Kamuy 4th Season
         user_rating: 8.0
-        label.sync:  FALL 2022,score
+        label.sync: FALL 2022,score
     audience_rating: 8.0
   343913:
     title: |-
@@ -1259,22 +1259,22 @@ metadata:
         title: |-
           Haikyuu!!
         user_rating: 8.3
-        label.sync:  SPRING 2014,score
+        label.sync: SPRING 2014,score
       2:
         title: |-
           Haikyuu!! 2nd Season
         user_rating: 8.6
-        label.sync:  FALL 2015,score
+        label.sync: FALL 2015,score
       3:
         title: |-
           Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou
         user_rating: 8.7
-        label.sync:  FALL 2016,score
+        label.sync: FALL 2016,score
       4:
         title: |-
           Haikyuu!! TO THE TOP
         user_rating: 8.3
-        label.sync:  WINTER 2020,score
+        label.sync: WINTER 2020,score
     audience_rating: 8.5
   267441:
     title: |-
@@ -1291,12 +1291,12 @@ metadata:
         title: |-
           Hataraku Maou-sama!
         user_rating: 7.6
-        label.sync:  SPRING 2013,score
+        label.sync: SPRING 2013,score
       2:
         title: |-
           Hataraku Maou-sama!!
         user_rating: 6.6
-        label.sync:  SUMMER 2022,score
+        label.sync: SUMMER 2022,score
     audience_rating: 7.1
   401856:
     title: |-
@@ -1387,12 +1387,12 @@ metadata:
         title: |-
           Himouto! Umaru-chan
         user_rating: 6.7
-        label.sync:  SUMMER 2015,score
+        label.sync: SUMMER 2015,score
       2:
         title: |-
           Himouto! Umaru-chan R
         user_rating: 7.1
-        label.sync:  FALL 2017,score
+        label.sync: FALL 2017,score
     audience_rating: 6.9
   366263:
     title: |-
@@ -1509,12 +1509,12 @@ metadata:
         title: |-
           Ijiranaide, Nagatoro-san
         user_rating: 7.1
-        label.sync:  SPRING 2021,score
+        label.sync: SPRING 2021,score
       2:
         title: |-
           Ijiranaide, Nagatoro-san 2nd Attack
         user_rating: 7.5
-        label.sync:  WINTER 2023,score
+        label.sync: WINTER 2023,score
     audience_rating: 7.3
   255133:
     title: |-
@@ -1617,12 +1617,12 @@ metadata:
         title: |-
           Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
         user_rating: 7.4
-        label.sync:  WINTER 2020,score
+        label.sync: WINTER 2020,score
       2:
         title: |-
           Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2
         user_rating: 7.2
-        label.sync:  WINTER 2023,score
+        label.sync: WINTER 2023,score
     audience_rating: 7.3
   423121:
     title: |-
@@ -1725,17 +1725,17 @@ metadata:
         title: |-
           Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
         user_rating: 8.3
-        label.sync:  WINTER 2019,score
+        label.sync: WINTER 2019,score
       2:
         title: |-
           Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen
         user_rating: 8.6
-        label.sync:  SPRING 2020,score
+        label.sync: SPRING 2020,score
       3:
         title: |-
           Kaguya-sama wa Kokurasetai: Ultra Romantic
         user_rating: 9.0
-        label.sync:  SPRING 2022,score
+        label.sync: SPRING 2022,score
     audience_rating: 8.6
   422564:
     title: |-
@@ -1796,12 +1796,12 @@ metadata:
         title: |-
           Kamisama Hajimemashita
         user_rating: 7.9
-        label.sync:  FALL 2012,score
+        label.sync: FALL 2012,score
       2:
         title: |-
           Kamisama Hajimemashita◎
         user_rating: 8.1
-        label.sync:  WINTER 2015,score
+        label.sync: WINTER 2015,score
     audience_rating: 8.0
   380477:
     title: |-
@@ -1818,12 +1818,12 @@ metadata:
         title: |-
           Kamitachi ni Hirowareta Otoko
         user_rating: 6.8
-        label.sync:  FALL 2020,score
+        label.sync: FALL 2020,score
       2:
         title: |-
           Kamitachi ni Hirowareta Otoko 2
         user_rating: 6.7
-        label.sync:  WINTER 2023,score
+        label.sync: WINTER 2023,score
     audience_rating: 6.8
   132941:
     title: |-
@@ -1882,12 +1882,12 @@ metadata:
         title: |-
           Kidou Senshi Gundam 00
         user_rating: 7.7
-        label.sync:  FALL 2007,score
+        label.sync: FALL 2007,score
       2:
         title: |-
           Kidou Senshi Gundam 00 2nd Season
         user_rating: 7.7
-        label.sync:  FALL 2008,score
+        label.sync: FALL 2008,score
     audience_rating: 7.7
   403849:
     title: |-
@@ -1934,12 +1934,12 @@ metadata:
         title: |-
           Kidou Senshi Gundam: Tekketsu no Orphans
         user_rating: 7.8
-        label.sync:  FALL 2015,score
+        label.sync: FALL 2015,score
       2:
         title: |-
           Kidou Senshi Gundam: Tekketsu no Orphans 2
         user_rating: 7.9
-        label.sync:  FALL 2016,score
+        label.sync: FALL 2016,score
     audience_rating: 7.8
   272074:
     title: |-
@@ -1972,22 +1972,22 @@ metadata:
         title: |-
           Kimetsu no Yaiba
         user_rating: 8.4
-        label.sync:  SPRING 2019,score
+        label.sync: SPRING 2019,score
       2:
         title: |-
           Kimetsu no Yaiba: Mugen Ressha-hen (TV)
         user_rating: 8.3
-        label.sync:  FALL 2021,score
+        label.sync: FALL 2021,score
       3:
         title: |-
           Kimetsu no Yaiba: Yuukaku-hen
         user_rating: 8.7
-        label.sync:  WINTER 2022,score
+        label.sync: WINTER 2022,score
       4:
         title: |-
           Kimetsu no Yaiba: Katanakaji no Sato-hen
         user_rating: 8.3
-        label.sync:  SPRING 2023,score
+        label.sync: SPRING 2023,score
     audience_rating: 8.4
   387027:
     title: |-
@@ -2032,22 +2032,22 @@ metadata:
         title: |-
           Kingdom
         user_rating: 7.3
-        label.sync:  SUMMER 2012,score
+        label.sync: SUMMER 2012,score
       2:
         title: |-
           Kingdom 2nd Season
         user_rating: 8.0
-        label.sync:  SUMMER 2013,score
+        label.sync: SUMMER 2013,score
       3:
         title: |-
           Kingdom 3rd Season
         user_rating: 8.4
-        label.sync:  SPRING 2020,score
+        label.sync: SPRING 2020,score
       4:
         title: |-
           Kingdom 4th Season
         user_rating: 8.3
-        label.sync:  SPRING 2022,score
+        label.sync: SPRING 2022,score
     audience_rating: 8.0
   279831:
     title: |-
@@ -2078,12 +2078,12 @@ metadata:
         title: |-
           Kobayashi-san Chi no Maidragon
         user_rating: 7.8
-        label.sync:  WINTER 2017,score
+        label.sync: WINTER 2017,score
       2:
         title: |-
           Kobayashi-san Chi no Maidragon S
         user_rating: 8.2
-        label.sync:  SUMMER 2021,score
+        label.sync: SUMMER 2021,score
     audience_rating: 8.0
   358181:
     title: |-
@@ -2130,12 +2130,12 @@ metadata:
         title: |-
           Kono Subarashii Sekai ni Shukufuku wo!
         user_rating: 7.9
-        label.sync:  WINTER 2016,score
+        label.sync: WINTER 2016,score
       2:
         title: |-
           Kono Subarashii Sekai ni Shukufuku wo! 2
         user_rating: 8.1
-        label.sync:  WINTER 2017,score
+        label.sync: WINTER 2017,score
     audience_rating: 8.0
   421514:
     title: |-
@@ -2236,17 +2236,17 @@ metadata:
         title: |-
           Kuroko no Basket
         user_rating: 7.8
-        label.sync:  SPRING 2012,score
+        label.sync: SPRING 2012,score
       2:
         title: |-
           Kuroko no Basket 2nd SEASON
         user_rating: 8.0
-        label.sync:  FALL 2013,score
+        label.sync: FALL 2013,score
       3:
         title: |-
           Kuroko no Basket 3rd SEASON
         user_rating: 8.1
-        label.sync:  WINTER 2015,score
+        label.sync: WINTER 2015,score
     audience_rating: 8.0
   368565:
     title: |-
@@ -2263,12 +2263,12 @@ metadata:
         title: |-
           Kyokou Suiri
         user_rating: 6.8
-        label.sync:  WINTER 2020,score
+        label.sync: WINTER 2020,score
       2:
         title: |-
           Kyokou Suiri Season 2
         user_rating: 7.3
-        label.sync:  WINTER 2023,score
+        label.sync: WINTER 2023,score
     audience_rating: 7.1
   272697:
     title: |-
@@ -2329,12 +2329,12 @@ metadata:
         title: |-
           Machikado Mazoku
         user_rating: 7.5
-        label.sync:  SUMMER 2019,score
+        label.sync: SUMMER 2019,score
       2:
         title: |-
           Machikado Mazoku: 2-Choume
         user_rating: 7.8
-        label.sync:  SPRING 2022,score
+        label.sync: SPRING 2022,score
     audience_rating: 7.7
   326109:
     title: |-
@@ -2351,12 +2351,12 @@ metadata:
         title: |-
           Made in Abyss
         user_rating: 8.5
-        label.sync:  SUMMER 2017,score
+        label.sync: SUMMER 2017,score
       2:
         title: |-
           Made in Abyss: Retsujitsu no Ougonkyou
         user_rating: 8.6
-        label.sync:  SUMMER 2022,score
+        label.sync: SUMMER 2022,score
     audience_rating: 8.6
   262094:
     title: |-
@@ -2373,12 +2373,12 @@ metadata:
         title: |-
           Magi: The labyrinth of magic
         user_rating: 7.8
-        label.sync:  FALL 2012,score
+        label.sync: FALL 2012,score
       2:
         title: |-
           Magi: The kingdom of magic
         user_rating: 8.1
-        label.sync:  FALL 2013,score
+        label.sync: FALL 2013,score
     audience_rating: 7.9
   402893:
     title: |-
@@ -2409,12 +2409,12 @@ metadata:
         title: |-
           Mahouka Koukou no Rettousei
         user_rating: 7.0
-        label.sync:  SPRING 2014,score
+        label.sync: SPRING 2014,score
       2:
         title: |-
           Mahouka Koukou no Rettousei: Raihousha-hen
         user_rating: 7.2
-        label.sync:  FALL 2020,score
+        label.sync: FALL 2020,score
     audience_rating: 7.1
   394013:
     title: |-
@@ -2445,17 +2445,17 @@ metadata:
         title: |-
           Mairimashita! Iruma-kun
         user_rating: 7.7
-        label.sync:  FALL 2019,score
+        label.sync: FALL 2019,score
       2:
         title: |-
           Mairimashita! Iruma-kun 2
         user_rating: 8.0
-        label.sync:  SPRING 2021,score
+        label.sync: SPRING 2021,score
       3:
         title: |-
           Mairimashita! Iruma-kun 3
         user_rating: 7.8
-        label.sync:  FALL 2022,score
+        label.sync: FALL 2022,score
     audience_rating: 7.8
   341436:
     title: |-
@@ -2472,12 +2472,12 @@ metadata:
         title: |-
           Major 2nd
         user_rating: 7.1
-        label.sync:  SPRING 2018,score
+        label.sync: SPRING 2018,score
       2:
         title: |-
           Major 2nd Season 2
         user_rating: 7.4
-        label.sync:  SPRING 2020,score
+        label.sync: SPRING 2020,score
     audience_rating: 7.2
   375927:
     title: |-
@@ -2494,12 +2494,12 @@ metadata:
         title: |-
           Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
         user_rating: 7.3
-        label.sync:  SUMMER 2020,score
+        label.sync: SUMMER 2020,score
       2:
         title: |-
           Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II
         user_rating: 7.0
-        label.sync:  WINTER 2023,score
+        label.sync: WINTER 2023,score
     audience_rating: 7.2
   397965:
     title: |-
@@ -2546,17 +2546,17 @@ metadata:
         title: |-
           Mob Psycho 100
         user_rating: 8.4
-        label.sync:  SUMMER 2016,score
+        label.sync: SUMMER 2016,score
       2:
         title: |-
           Mob Psycho 100 II
         user_rating: 8.8
-        label.sync:  WINTER 2019,score
+        label.sync: WINTER 2019,score
       3:
         title: |-
           Mob Psycho 100 III
         user_rating: 8.7
-        label.sync:  FALL 2022,score
+        label.sync: FALL 2022,score
     audience_rating: 8.6
   371310:
     title: |-
@@ -2605,22 +2605,22 @@ metadata:
         title: |-
           Nanatsu no Taizai
         user_rating: 7.3
-        label.sync:  FALL 2014,score
+        label.sync: FALL 2014,score
       2:
         title: |-
           Nanatsu no Taizai: Imashime no Fukkatsu
         user_rating: 7.3
-        label.sync:  WINTER 2018,score
+        label.sync: WINTER 2018,score
       3:
         title: |-
           Nanatsu no Taizai: Kamigami no Gekirin
         user_rating: 6.2
-        label.sync:  FALL 2019,score
+        label.sync: FALL 2019,score
       4:
         title: |-
           Nanatsu no Taizai: Funnu no Shinpan
         user_rating: 6.5
-        label.sync:  WINTER 2021,score
+        label.sync: WINTER 2021,score
     audience_rating: 6.8
   309206:
     title: |-
@@ -2713,12 +2713,12 @@ metadata:
         title: |-
           Noragami
         user_rating: 7.8
-        label.sync:  WINTER 2014,score
+        label.sync: WINTER 2014,score
       2:
         title: |-
           Noragami ARAGOTO
         user_rating: 8.0
-        label.sync:  FALL 2015,score
+        label.sync: FALL 2015,score
     audience_rating: 7.9
   423096:
     title: |-
@@ -2765,12 +2765,12 @@ metadata:
         title: |-
           One Punch Man
         user_rating: 8.3
-        label.sync:  FALL 2015,score
+        label.sync: FALL 2015,score
       2:
         title: |-
           One Punch Man 2
         user_rating: 7.4
-        label.sync:  SPRING 2019,score
+        label.sync: SPRING 2019,score
     audience_rating: 7.8
   81178:
     title: |-
@@ -2789,12 +2789,12 @@ metadata:
         title: |-
           Ookami to Koushinryou
         user_rating: 8.0
-        label.sync:  WINTER 2008,score
+        label.sync: WINTER 2008,score
       2:
         title: |-
           Ookami to Koushinryou II
         user_rating: 8.1
-        label.sync:  SUMMER 2009,score
+        label.sync: SUMMER 2009,score
     audience_rating: 8.1
   414908:
     title: |-
@@ -2897,22 +2897,22 @@ metadata:
         title: |-
           Overlord
         user_rating: 7.6
-        label.sync:  SUMMER 2015,score
+        label.sync: SUMMER 2015,score
       2:
         title: |-
           Overlord II
         user_rating: 7.5
-        label.sync:  WINTER 2018,score
+        label.sync: WINTER 2018,score
       3:
         title: |-
           Overlord III
         user_rating: 7.7
-        label.sync:  SUMMER 2018,score
+        label.sync: SUMMER 2018,score
       4:
         title: |-
           Overlord IV
         user_rating: 8.0
-        label.sync:  SUMMER 2022,score
+        label.sync: SUMMER 2022,score
     audience_rating: 7.7
   289906:
     title: |-
@@ -2973,12 +2973,12 @@ metadata:
         title: |-
           Quanzhi Gaoshou
         user_rating: 7.5
-        label.sync:  null null,score
+        label.sync: null null,score
       2:
         title: |-
           Quanzhi Gaoshou 2
         user_rating: 7.7
-        label.sync:  null null,score
+        label.sync: null null,score
     audience_rating: 7.6
   299506:
     title: |-
@@ -3011,12 +3011,12 @@ metadata:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu
         user_rating: 8.0
-        label.sync:  SPRING 2016,score
+        label.sync: SPRING 2016,score
       2:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
         user_rating: 8.2
-        label.sync:  SUMMER 2020,score
+        label.sync: SUMMER 2020,score
     audience_rating: 8.1
   299508:
     title: |-
@@ -3093,12 +3093,12 @@ metadata:
         title: |-
           Saiki Kusuo no Ψ-nan
         user_rating: 8.3
-        label.sync:  SUMMER 2016,score
+        label.sync: SUMMER 2016,score
       2:
         title: |-
           Saiki Kusuo no Ψ-nan 2
         user_rating: 8.4
-        label.sync:  WINTER 2018,score
+        label.sync: WINTER 2018,score
     audience_rating: 8.4
   415378:
     title: |-
@@ -3175,12 +3175,12 @@ metadata:
         title: |-
           Seitokai Yakuindomo
         user_rating: 7.3
-        label.sync:  SUMMER 2010,score
+        label.sync: SUMMER 2010,score
       2:
         title: |-
           Seitokai Yakuindomo＊
         user_rating: 7.5
-        label.sync:  WINTER 2014,score
+        label.sync: WINTER 2014,score
     audience_rating: 7.4
   398193:
     title: |-
@@ -3211,12 +3211,12 @@ metadata:
         title: |-
           Shadows House
         user_rating: 7.6
-        label.sync:  SPRING 2021,score
+        label.sync: SPRING 2021,score
       2:
         title: |-
           Shadows House 2nd Season
         user_rating: 7.9
-        label.sync:  SUMMER 2022,score
+        label.sync: SUMMER 2022,score
     audience_rating: 7.8
   383837:
     title: |-
@@ -3263,22 +3263,22 @@ metadata:
         title: |-
           Shingeki no Kyojin
         user_rating: 8.4
-        label.sync:  SPRING 2013,score
+        label.sync: SPRING 2013,score
       2:
         title: |-
           Shingeki no Kyojin 2
         user_rating: 8.4
-        label.sync:  SPRING 2017,score
+        label.sync: SPRING 2017,score
       3:
         title: |-
           Shingeki no Kyojin 3
         user_rating: 8.5
-        label.sync:  SUMMER 2018,score
+        label.sync: SUMMER 2018,score
       4:
         title: |-
           Shingeki no Kyojin: The Final Season
         user_rating: 8.7
-        label.sync:  WINTER 2021,score
+        label.sync: WINTER 2021,score
     audience_rating: 8.5
   284564:
     title: |-
@@ -3339,12 +3339,12 @@ metadata:
         title: |-
           Shouwa Genroku Rakugo Shinjuu
         user_rating: 8.4
-        label.sync:  WINTER 2016,score
+        label.sync: WINTER 2016,score
       2:
         title: |-
           Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
         user_rating: 8.6
-        label.sync:  WINTER 2017,score
+        label.sync: WINTER 2017,score
     audience_rating: 8.5
   278154:
     title: |-
@@ -3361,12 +3361,12 @@ metadata:
         title: |-
           Sidonia no Kishi
         user_rating: 7.3
-        label.sync:  SPRING 2014,score
+        label.sync: SPRING 2014,score
       2:
         title: |-
           Sidonia no Kishi: Daikyuu Wakusei Seneki
         user_rating: 7.5
-        label.sync:  SPRING 2015,score
+        label.sync: SPRING 2015,score
     audience_rating: 7.4
   412696:
     title: |-
@@ -3517,22 +3517,22 @@ metadata:
         title: |-
           Sword Art Online
         user_rating: 6.8
-        label.sync:  SUMMER 2012,score
+        label.sync: SUMMER 2012,score
       2:
         title: |-
           Sword Art Online II
         user_rating: 6.5
-        label.sync:  SUMMER 2014,score
+        label.sync: SUMMER 2014,score
       3:
         title: |-
           Sword Art Online: Alicization
         user_rating: 7.5
-        label.sync:  FALL 2018,score
+        label.sync: FALL 2018,score
       4:
         title: |-
           Sword Art Online: Alicization - War of Underworld
         user_rating: 7.5
-        label.sync:  FALL 2019,score
+        label.sync: FALL 2019,score
     audience_rating: 7.1
   305104:
     title: |-
@@ -3563,12 +3563,12 @@ metadata:
         title: |-
           Tate no Yuusha no Nariagari
         user_rating: 7.7
-        label.sync:  WINTER 2019,score
+        label.sync: WINTER 2019,score
       2:
         title: |-
           Tate no Yuusha no Nariagari Season 2
         user_rating: 6.5
-        label.sync:  SPRING 2022,score
+        label.sync: SPRING 2022,score
     audience_rating: 7.1
   426165:
     title: |-
@@ -3657,12 +3657,12 @@ metadata:
         title: |-
           Tensei Shitara Slime Datta Ken
         user_rating: 8.0
-        label.sync:  FALL 2018,score
+        label.sync: FALL 2018,score
       2:
         title: |-
           Tensei Shitara Slime Datta Ken 2nd Season
         user_rating: 8.3
-        label.sync:  WINTER 2021,score
+        label.sync: WINTER 2021,score
     audience_rating: 8.1
   385374:
     title: |-
@@ -3707,17 +3707,17 @@ metadata:
         title: |-
           Tokyo Ghoul
         user_rating: 7.5
-        label.sync:  SUMMER 2014,score
+        label.sync: SUMMER 2014,score
       2:
         title: |-
           Tokyo Ghoul √A
         user_rating: 6.6
-        label.sync:  WINTER 2015,score
+        label.sync: WINTER 2015,score
       3:
         title: |-
           Tokyo Ghoul:re
         user_rating: 6.1
-        label.sync:  SPRING 2018,score
+        label.sync: SPRING 2018,score
     audience_rating: 6.7
   272043:
     title: |-
@@ -3748,12 +3748,12 @@ metadata:
         title: |-
           Tokyo Revengers
         user_rating: 7.9
-        label.sync:  SPRING 2021,score
+        label.sync: SPRING 2021,score
       2:
         title: |-
           Tokyo Revengers: Seiya Kessen-hen
         user_rating: 7.7
-        label.sync:  WINTER 2023,score
+        label.sync: WINTER 2023,score
     audience_rating: 7.8
   421994:
     title: |-
@@ -3814,12 +3814,12 @@ metadata:
         title: |-
           Tonikaku Kawaii
         user_rating: 7.7
-        label.sync:  FALL 2020,score
+        label.sync: FALL 2020,score
       2:
         title: |-
           Tonikaku Kawaii Season 2
         user_rating: 7.6
-        label.sync:  SPRING 2023,score
+        label.sync: SPRING 2023,score
     audience_rating: 7.7
   83277:
     title: |-
@@ -3908,12 +3908,12 @@ metadata:
         title: |-
           Tsurune: Kazemai Koukou Kyuudou-bu
         user_rating: 7.5
-        label.sync:  FALL 2018,score
+        label.sync: FALL 2018,score
       2:
         title: |-
           Tsurune: Tsunagari no Issha
         user_rating: 8.0
-        label.sync:  WINTER 2023,score
+        label.sync: WINTER 2023,score
     audience_rating: 7.8
   426080:
     title: |-
@@ -3988,12 +3988,12 @@ metadata:
         title: |-
           Uzaki-chan wa Asobitai!
         user_rating: 6.7
-        label.sync:  SUMMER 2020,score
+        label.sync: SUMMER 2020,score
       2:
         title: |-
           Uzaki-chan wa Asobitai! ω
         user_rating: 7.1
-        label.sync:  FALL 2022,score
+        label.sync: FALL 2022,score
     audience_rating: 6.9
   400133:
     title: |-
@@ -4024,12 +4024,12 @@ metadata:
         title: |-
           Vinland Saga
         user_rating: 8.7
-        label.sync:  SUMMER 2019,score
+        label.sync: SUMMER 2019,score
       2:
         title: |-
           Vinland Saga Season 2
         user_rating: 8.8
-        label.sync:  WINTER 2023,score
+        label.sync: WINTER 2023,score
     audience_rating: 8.8
   330139:
     title: |-
@@ -4106,17 +4106,17 @@ metadata:
         title: |-
           Working!!
         user_rating: 7.4
-        label.sync:  SPRING 2010,score
+        label.sync: SPRING 2010,score
       2:
         title: |-
           Working'!!
         user_rating: 7.6
-        label.sync:  FALL 2011,score
+        label.sync: FALL 2011,score
       3:
         title: |-
           Working!!!
         user_rating: 7.8
-        label.sync:  SUMMER 2015,score
+        label.sync: SUMMER 2015,score
     audience_rating: 7.6
   283934:
     title: |-
@@ -4133,17 +4133,17 @@ metadata:
         title: |-
           World Trigger
         user_rating: 7.2
-        label.sync:  FALL 2014,score
+        label.sync: FALL 2014,score
       2:
         title: |-
           World Trigger 2nd Season
         user_rating: 8.0
-        label.sync:  WINTER 2021,score
+        label.sync: WINTER 2021,score
       3:
         title: |-
           World Trigger 3rd Season
         user_rating: 8.2
-        label.sync:  FALL 2021,score
+        label.sync: FALL 2021,score
     audience_rating: 7.8
   341425:
     title: |-
@@ -4176,17 +4176,17 @@ metadata:
         title: |-
           Xian Wang De Richang Shenghuo
         user_rating: 7.4
-        label.sync:  null null,score
+        label.sync: null null,score
       2:
         title: |-
           Xian Wang De Richang Shenghuo 2
         user_rating: 7.4
-        label.sync:  null null,score
+        label.sync: null null,score
       3:
         title: |-
           Xian Wang De Richang Shenghuo 3
         user_rating: 7.3
-        label.sync:  null null,score
+        label.sync: null null,score
     audience_rating: 7.4
   348002:
     title: |-
@@ -4205,12 +4205,12 @@ metadata:
         title: |-
           Yakusoku no Neverland
         user_rating: 8.4
-        label.sync:  WINTER 2019,score
+        label.sync: WINTER 2019,score
       2:
         title: |-
           Yakusoku no Neverland 2
         user_rating: 5.2
-        label.sync:  WINTER 2021,score
+        label.sync: WINTER 2021,score
     audience_rating: 6.8
   423413:
     title: |-
@@ -4243,12 +4243,12 @@ metadata:
         title: |-
           Yi Ren Zhi Xia
         user_rating: 6.4
-        label.sync:  null null,score
+        label.sync: null null,score
       2:
         title: |-
           Yi Ren Zhi Xia 2
         user_rating: 7.1
-        label.sync:  null null,score
+        label.sync: null null,score
     audience_rating: 3.4
   412374:
     title: |-
@@ -4295,12 +4295,12 @@ metadata:
         title: |-
           Yuru Camp△
         user_rating: 8.1
-        label.sync:  WINTER 2018,score
+        label.sync: WINTER 2018,score
       2:
         title: |-
           Yuru Camp△ SEASON 2
         user_rating: 8.4
-        label.sync:  WINTER 2021,score
+        label.sync: WINTER 2021,score
     audience_rating: 8.2
   385542:
     title: |-
