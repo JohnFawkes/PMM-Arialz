@@ -226,7 +226,7 @@ metadata:
       Evangelion Shin Movie: Kyuu
     original_title: |-
       Evangelion: 3.0 You Can (Not) Redo
-    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Time Skip,Super Robot,Male Protagonist,Alternate Universe,Tragedy,Kaiju
+    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Time Skip,Super Robot,Male Protagonist,Alternate Universe,Tragedy,Kaiju,Boys' Love
     studio: Studio Khara
     audience_rating: 7.5
   tt1715210:
@@ -426,7 +426,7 @@ metadata:
       Jujutsu Kaisen 0
     original_title: |-
       Jujutsu Kaisen 0
-    genre.sync: Anime,Action,Supernatural,Super Power,Demons,Male Protagonist,Urban Fantasy,Shounen,Tragedy,Cultivation,Monster Boy,CGI,Yandere,Magic,Martial Arts,Revenge,Gore,Shapeshifting
+    genre.sync: Anime,Action,Supernatural,Super Power,Demons,Male Protagonist,Urban Fantasy,Shounen,Tragedy,Cultivation,Monster Boy,CGI,Yandere,Magic,Martial Arts,Revenge,Shapeshifting,Gore
     studio: MAPPA
     audience_rating: 8.5
   tt2576852:
@@ -746,7 +746,7 @@ metadata:
       Made in Abyss: Hourou Suru Tasogare
     original_title: |-
       Made in Abyss: Wandering Twilight
-    genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Survival,Seinen
+    genre.sync: Anime,Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Seinen
     studio: Kinema Citrus
     audience_rating: 8.3
   tt10068158:
@@ -756,7 +756,7 @@ metadata:
       Made in Abyss: Tabidachi no Yoake
     original_title: |-
       Made in Abyss: Journey's Dawn
-    genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi
+    genre.sync: Anime,Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi
     studio: Kinema Citrus
     audience_rating: 8.0
   tt6580380:
@@ -868,7 +868,7 @@ metadata:
       Only Yesterday
     genre.sync: Anime,Drama,Romance,Slice of Life,Female Protagonist,Iyashikei,Rural,Coming of Age,Family Life,Biographical,Philosophy
     studio: Studio Ghibli
-    audience_rating: 7.2
+    audience_rating: 7.3
   tt2140203:
     title: |-
       Ookami Kodomo no Ame to Yuki
