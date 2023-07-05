@@ -816,6 +816,17 @@ metadata:
         user_rating: 8.1
         label: score
     audience_rating: 8.1
+  427358:
+    title: |-
+      Yumemiru Danshi wa Genjitsushugisha
+    sort_title: |-
+      Yumemiru Danshi wa Genjitsushugisha
+    original_title: |-
+      The Dreaming Boy is a Realist
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Female Harem
+    label: Ongoing
+    studio: Studio Gokumi
+    audience_rating: 6.2
   289882:
     title: |-
       Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
@@ -2319,6 +2330,17 @@ metadata:
     label.remove: Ongoing
     studio: Tezuka Productions
     audience_rating: 6.7
+  426080:
+    title: |-
+      Uchi no Kaisha no Chiisai Senpai no Hanashi
+    sort_title: |-
+      Uchi no Kaisha no Chiisai Senpai no Hanashi
+    original_title: |-
+      My Tiny Senpai
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Heterosexual,Seinen,Work
+    label: Ongoing
+    studio: project No.9
+    audience_rating: 6.4
   284131:
     title: |-
       Nanatsu no Taizai
@@ -2442,17 +2464,6 @@ metadata:
         user_rating: 8.0
         label: score
     audience_rating: 7.9
-  423096:
-    title: |-
-      Okashi na Tensei
-    sort_title: |-
-      Okashi na Tensei
-    original_title: |-
-      Sweet Reincarnation
-    genre.sync: Anime,Action,Fantasy,Slice of Life
-    label: Ongoing
-    studio: SynergySP
-    audience_rating: 0.0
   81797:
     title: |-
       One Piece
@@ -3113,6 +3124,17 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.2
+  429634:
+    title: |-
+      Suki na Ko ga Megane wo Wasureta
+    sort_title: |-
+      Suki na Ko ga Megane wo Wasureta
+    original_title: |-
+      The Girl I Like Forgot Her Glasses
+    genre.sync: Anime,Comedy,Romance,CGI,Heterosexual,School,Primarily Teen Cast,Iyashikei,Male Protagonist
+    label: Ongoing
+    studio: GoHands
+    audience_rating: 0.0
   407306:
     title: |-
       Summer Time Render
@@ -3124,6 +3146,17 @@ metadata:
     label.remove: Ongoing
     studio: OLM
     audience_rating: 8.3
+  423096:
+    title: |-
+      Okashi na Tensei
+    sort_title: |-
+      Okashi na Tensei
+    original_title: |-
+      Sweet Reincarnation
+    genre.sync: Anime,Action,Fantasy,Slice of Life
+    label: Ongoing
+    studio: SynergySP
+    audience_rating: 0.0
   259640:
     title: |-
       Sword Art Online
@@ -3488,17 +3521,6 @@ metadata:
         user_rating: 8.0
         label: score
     audience_rating: 7.8
-  426080:
-    title: |-
-      Uchi no Kaisha no Chiisai Senpai no Hanashi
-    sort_title: |-
-      Uchi no Kaisha no Chiisai Senpai no Hanashi
-    original_title: |-
-      My Tiny Senpai
-    genre.sync: Anime,Comedy,Romance,Slice of Life,Heterosexual,Seinen,Work
-    label: Ongoing
-    studio: project No.9
-    audience_rating: 6.4
   256705:
     title: |-
       Uchuu Kyoudai
