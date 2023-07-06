@@ -118,7 +118,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2021
-    audience_rating: 8.2
+    audience_rating: 0.0
   421069:
     title: |-
       [Oshi no Ko]
@@ -132,7 +132,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 8.7
+    audience_rating: 0.0
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -146,7 +146,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2017
-    audience_rating: 7.5
+    audience_rating: 0.0
   421676:
     title: |-
       Akiba Meido Sensou
@@ -160,7 +160,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2022
-    audience_rating: 7.5
+    audience_rating: 0.0
   411821:
     title: |-
       Akuyaku Reijou nano de Last Boss wo Kattemimashita
@@ -174,7 +174,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2022
-    audience_rating: 7.1
+    audience_rating: 0.0
   279827:
     title: |-
       Aldnoah.Zero
@@ -188,7 +188,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2014
-    audience_rating: 7.0
+    audience_rating: 0.0
   348706:
     title: |-
       Angolmois: Genkou Kassenki
@@ -202,7 +202,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2018
-    audience_rating: 6.7
+    audience_rating: 0.0
   248035:
     title: |-
       Ao no Exorcist
@@ -240,7 +240,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2022
-    audience_rating: 8.1
+    audience_rating: 0.0
   411800:
     title: |-
       Arknights: Reimei Zensou
@@ -254,7 +254,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2022
-    audience_rating: 7.0
+    audience_rating: 0.0
   291630:
     title: |-
       Arslan Senki (TV)
@@ -290,7 +290,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2023
-    audience_rating: 6.1
+    audience_rating: 0.0
   79077:
     title: |-
       Azumanga Daiou THE ANIMATION
@@ -304,7 +304,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2002
-    audience_rating: 7.7
+    audience_rating: 0.0
   278152:
     title: |-
       Baby Steps
@@ -367,7 +367,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2014
-    audience_rating: 8.2
+    audience_rating: 0.0
   361013:
     title: |-
       Beastars
@@ -403,7 +403,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2011
-    audience_rating: 7.5
+    audience_rating: 0.0
   414845:
     title: |-
       Benriya Saitou-san, Isekai ni Iku
@@ -417,7 +417,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 7.3
+    audience_rating: 0.0
   331753:
     title: |-
       Black Clover
@@ -431,7 +431,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2017
-    audience_rating: 7.8
+    audience_rating: 0.0
   74796:
     title: |-
       Bleach
@@ -442,9 +442,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Supernatural,Super Power,Swordplay,Shounen,Afterlife,Male Protagonist,Ghost,Demons,Urban Fantasy,Ensemble Cast
     label.remove: Ongoing
     studio: Studio Pierrot
-    seasons:
-      1:
-        label.sync: Fall 2004
     audience_rating: 7.7
   408629:
     title: |-
@@ -459,7 +456,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2022
-    audience_rating: 8.2
+    audience_rating: 0.0
   413522:
     title: |-
       Bocchi the Rock!
@@ -473,7 +470,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2022
-    audience_rating: 8.8
+    audience_rating: 0.0
   303071:
     title: |-
       Boku dake ga Inai Machi
@@ -487,7 +484,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2016
-    audience_rating: 8.1
+    audience_rating: 0.0
   305074:
     title: |-
       Boku no Hero Academia
@@ -543,7 +540,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 8.1
+    audience_rating: 0.0
   426294:
     title: |-
       Buddy Daddies
@@ -557,7 +554,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 8.1
+    audience_rating: 0.0
   305075:
     title: |-
       Bungou Stray Dogs
@@ -598,7 +595,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2008
-    audience_rating: 7.3
+    audience_rating: 0.0
   397934:
     title: |-
       Chainsaw Man
@@ -612,7 +609,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2022
-    audience_rating: 8.5
+    audience_rating: 0.0
   289679:
     title: |-
       Charlotte
@@ -627,8 +624,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Summer 2015,score
-    audience_rating: 7.5
+        label.sync: Summer 2015
+    audience_rating: 0.0
   251982:
     title: |-
       Chihayafuru
@@ -671,7 +668,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2022
-    audience_rating: 6.8
+    audience_rating: 0.0
   261862:
     title: |-
       Chuunibyou demo Koi ga Shitai!
@@ -709,7 +706,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2007
-    audience_rating: 7.3
+    audience_rating: 0.0
   79525:
     title: |-
       Code Geass: Hangyaku no Lelouch
@@ -745,7 +742,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2022
-    audience_rating: 8.5
+    audience_rating: 0.0
   79635:
     title: |-
       D.Gray-man
@@ -756,9 +753,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Shounen,Demons,Male Protagonist,Super Power,LGBTQ+ Themes,Foreign
     label.remove: Ongoing
     studio: TMS Entertainment
-    seasons:
-      1:
-        label.sync: Fall 2006
     audience_rating: 7.6
   312878:
     title: |-
@@ -773,7 +767,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2016
-    audience_rating: 7.4
+    audience_rating: 0.0
   80042:
     title: |-
       DARKER THAN BLACK: Kuro no Keiyakusha
@@ -811,7 +805,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 7.2
+    audience_rating: 0.0
   378878:
     title: |-
       Deca-Dence
@@ -825,7 +819,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2020
-    audience_rating: 7.1
+    audience_rating: 0.0
   273005:
     title: |-
       Diamond no Ace
@@ -868,7 +862,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2019
-    audience_rating: 6.4
+    audience_rating: 0.0
   370761:
     title: |-
       Dorohedoro
@@ -882,7 +876,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2020
-    audience_rating: 7.9
+    audience_rating: 0.0
   355774:
     title: |-
       Dr. STONE
@@ -959,7 +953,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 7.0
+    audience_rating: 0.0
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -973,7 +967,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 6.5
+    audience_rating: 0.0
   355480:
     title: |-
       Enen no Shouboutai
@@ -1010,8 +1004,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Fall 2014,score
-    audience_rating: 8.0
+        label.sync: Fall 2014
+    audience_rating: 0.0
   375271:
     title: |-
       Fumetsu no Anata e
@@ -1047,7 +1041,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2004
-    audience_rating: 7.9
+    audience_rating: 0.0
   279804:
     title: |-
       Gekkan Shoujo Nozaki-kun
@@ -1061,7 +1055,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2014
-    audience_rating: 7.7
+    audience_rating: 0.0
   389422:
     title: |-
       Genjitsu Shugi Yuusha no Oukoku Saikenki
@@ -1075,7 +1069,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2021
-    audience_rating: 7.1
+    audience_rating: 0.0
   267246:
     title: |-
       Gin no Saji
@@ -1108,9 +1102,6 @@ metadata:
     genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Parody,Samurai,Ensemble Cast,Meta,Slapstick,Male Protagonist,Anachronism,Surreal Comedy,Found Family,Aliens,Police,Episodic,Philosophy,Shounen,Swordplay,Terrorism
     label.remove: Ongoing
     studio: Sunrise
-    seasons:
-      1:
-        label.sync: Spring 2006
     audience_rating: 8.5
   262098:
     title: |-
@@ -1126,8 +1117,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Fall 2012,score
-    audience_rating: 7.4
+        label.sync: Fall 2012
+    audience_rating: 0.0
   355966:
     title: |-
       Go-toubun no Hanayome
@@ -1195,7 +1186,21 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2018
-    audience_rating: 8.2
+    audience_rating: 0.0
+  425756:
+    title: |-
+      Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
+    sort_title: |-
+      Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
+    original_title: |-
+      The Great Cleric
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Magic
+    label: Ongoing
+    studio: Cloud Hearts
+    seasons:
+      1:
+        label.sync: Summer 2023
+    audience_rating: 0.0
   85249:
     title: |-
       Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
@@ -1210,8 +1215,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Spring 2009,score
-    audience_rating: 9.0
+        label.sync: Spring 2009
+    audience_rating: 0.0
   303868:
     title: |-
       Hai to Gensou no Grimgar
@@ -1226,8 +1231,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Winter 2016,score
-    audience_rating: 7.4
+        label.sync: Winter 2016
+    audience_rating: 0.0
   79105:
     title: |-
       Haibane Renmei
@@ -1241,7 +1246,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2002
-    audience_rating: 7.9
+    audience_rating: 0.0
   278157:
     title: |-
       Haikyuu!!
@@ -1311,7 +1316,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2021
-    audience_rating: 7.4
+    audience_rating: 0.0
   263688:
     title: |-
       Hellsing Ova
@@ -1325,7 +1330,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2006
-    audience_rating: 8.0
+    audience_rating: 0.0
   404525:
     title: |-
       High Card
@@ -1339,7 +1344,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 7.0
+    audience_rating: 0.0
   306743:
     title: |-
       High School Fleet
@@ -1354,8 +1359,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Spring 2016,score
-    audience_rating: 7.0
+        label.sync: Spring 2016
+    audience_rating: 0.0
   402607:
     title: |-
       Hikari no Ou
@@ -1369,7 +1374,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 6.1
+    audience_rating: 0.0
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -1408,8 +1413,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Fall 2019,score
-    audience_rating: 7.8
+        label.sync: Fall 2019
+    audience_rating: 0.0
   388593:
     title: |-
       Horimiya
@@ -1423,7 +1428,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2021
-    audience_rating: 8.1
+    audience_rating: 0.0
   436124:
     title: |-
       Horimiya -piece- 
@@ -1437,7 +1442,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2023
-    audience_rating: 8.1
+    audience_rating: 0.0
   369141:
     title: |-
       Hoshiai no Sora
@@ -1451,7 +1456,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2019
-    audience_rating: 7.5
+    audience_rating: 0.0
   372361:
     title: |-
       Houkago Teibou Nisshi
@@ -1465,7 +1470,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2020
-    audience_rating: 7.1
+    audience_rating: 0.0
   331787:
     title: |-
       Houseki no Kuni
@@ -1479,7 +1484,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2017
-    audience_rating: 8.3
+    audience_rating: 0.0
   370377:
     title: |-
       Id: Invaded
@@ -1493,7 +1498,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2020
-    audience_rating: 7.7
+    audience_rating: 0.0
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -1530,8 +1535,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Winter 2012,score
-    audience_rating: 7.0
+        label.sync: Winter 2012
+    audience_rating: 0.0
   423653:
     title: |-
       Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
@@ -1545,7 +1550,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 6.4
+    audience_rating: 0.0
   405214:
     title: |-
       Isekai Oji-san
@@ -1559,7 +1564,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2022
-    audience_rating: 7.7
+    audience_rating: 0.0
   417675:
     title: |-
       Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita
@@ -1573,7 +1578,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 6.0
+    audience_rating: 0.0
   411893:
     title: |-
       Isekai Shoukan wa Nidome desu
@@ -1587,7 +1592,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 5.6
+    audience_rating: 0.0
   406592:
     title: |-
       Isekai Yakkyoku
@@ -1601,7 +1606,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2022
-    audience_rating: 7.2
+    audience_rating: 0.0
   373679:
     title: |-
       Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
@@ -1651,7 +1656,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 8.0
+    audience_rating: 0.0
   424414:
     title: |-
       Jitsu wa Ore, Saikyou Deshita?
@@ -1665,7 +1670,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2023
-    audience_rating: 6.5
+    audience_rating: 0.0
   257756:
     title: |-
       Jormungand
@@ -1679,7 +1684,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2012
-    audience_rating: 7.5
+    audience_rating: 0.0
   377543:
     title: |-
       Jujutsu Kaisen
@@ -1715,7 +1720,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2022
-    audience_rating: 8.2
+    audience_rating: 0.0
   354198:
     title: |-
       Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
@@ -1758,7 +1763,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 6.9
+    audience_rating: 0.0
   376729:
     title: |-
       Kami no Tou: Tower of God
@@ -1772,7 +1777,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2020
-    audience_rating: 7.4
+    audience_rating: 0.0
   419126:
     title: |-
       Kaminaki Sekai no Kamisama Katsudou
@@ -1786,7 +1791,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 6.5
+    audience_rating: 0.0
   262106:
     title: |-
       Kamisama Hajimemashita
@@ -1846,7 +1851,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2010
-    audience_rating: 8.2
+    audience_rating: 0.0
   352853:
     title: |-
       Kaze ga Tsuyoku Fuiteiru
@@ -1860,7 +1865,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2018
-    audience_rating: 8.3
+    audience_rating: 0.0
   390382:
     title: |-
       Kemono Jihen
@@ -1874,20 +1879,6 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2021
-    audience_rating: 7.3
-  413578:
-    title: |-
-      Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
-    sort_title: |-
-      Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
-    original_title: |-
-      Rurouni Kenshin (2023)
-    genre.sync: Anime,Action,Adventure,Drama
-    label.remove: Ongoing
-    studio: LIDENFILMS
-    seasons:
-      1:
-        label.sync: Summer 2023
     audience_rating: 0.0
   80675:
     title: |-
@@ -1924,7 +1915,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2010
-    audience_rating: 7.8
+    audience_rating: 0.0
   418364:
     title: |-
       Kidou Senshi Gundam: Suisei no Majo
@@ -1939,8 +1930,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Fall 2022,score
-    audience_rating: 7.9
+        label.sync: Fall 2022
+    audience_rating: 0.0
   299497:
     title: |-
       Kidou Senshi Gundam: Tekketsu no Orphans
@@ -1977,8 +1968,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Fall 2013,score
-    audience_rating: 7.9
+        label.sync: Fall 2013
+    audience_rating: 0.0
   348545:
     title: |-
       Kimetsu no Yaiba
@@ -2024,7 +2015,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2020
-    audience_rating: 6.5
+    audience_rating: 0.0
   414562:
     title: |-
       Kimi wa Houkago Insomnia
@@ -2038,7 +2029,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 7.9
+    audience_rating: 0.0
   259635:
     title: |-
       Kingdom
@@ -2084,7 +2075,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2014
-    audience_rating: 8.1
+    audience_rating: 0.0
   318893:
     title: |-
       Kobayashi-san Chi no Maidragon
@@ -2120,7 +2111,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2019
-    audience_rating: 7.7
+    audience_rating: 0.0
   420657:
     title: |-
       Kono Subarashii Sekai ni Bakuen wo!
@@ -2134,7 +2125,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 7.5
+    audience_rating: 0.0
   303867:
     title: |-
       Kono Subarashii Sekai ni Shukufuku wo!
@@ -2172,7 +2163,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 7.2
+    audience_rating: 0.0
   413515:
     title: |-
       Koukyuu no Karasu
@@ -2186,7 +2177,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2022
-    audience_rating: 7.2
+    audience_rating: 0.0
   305082:
     title: |-
       Koutetsujou no Kabaneri
@@ -2200,7 +2191,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2016
-    audience_rating: 6.9
+    audience_rating: 0.0
   409723:
     title: |-
       Kumichou Musume to Sewagakari
@@ -2214,7 +2205,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2022
-    audience_rating: 7.7
+    audience_rating: 0.0
   377902:
     title: |-
       Kumo desu ga, Nani ka?
@@ -2228,7 +2219,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2021
-    audience_rating: 7.1
+    audience_rating: 0.0
   416588:
     title: |-
       Kuro no Shoukanshi
@@ -2242,7 +2233,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2022
-    audience_rating: 7.0
+    audience_rating: 0.0
   257765:
     title: |-
       Kuroko no Basket
@@ -2306,8 +2297,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Fall 2013,score
-    audience_rating: 7.4
+        label.sync: Fall 2013
+    audience_rating: 0.0
   418340:
     title: |-
       Lv1 Maou to One Room Yuusha
@@ -2321,7 +2312,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2023
-    audience_rating: 6.3
+    audience_rating: 0.0
   414057:
     title: |-
       Lycoris Recoil
@@ -2335,7 +2326,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2022
-    audience_rating: 8.1
+    audience_rating: 0.0
   363143:
     title: |-
       Machikado Mazoku
@@ -2415,7 +2406,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 6.2
+    audience_rating: 0.0
   278329:
     title: |-
       Mahouka Koukou no Rettousei
@@ -2451,7 +2442,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2021
-    audience_rating: 6.4
+    audience_rating: 0.0
   369144:
     title: |-
       Mairimashita! Iruma-kun
@@ -2536,7 +2527,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2021
-    audience_rating: 7.3
+    audience_rating: 0.0
   421737:
     title: |-
       Mashle
@@ -2550,7 +2541,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 7.5
+    audience_rating: 0.0
   307375:
     title: |-
       Mob Psycho 100
@@ -2580,6 +2571,20 @@ metadata:
         user_rating: 8.7
         label.sync: Fall 2022,score
     audience_rating: 8.6
+  426528:
+    title: |-
+      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
+    sort_title: |-
+      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
+    original_title: |-
+      The Most Heretical Last Boss Queen: From Villainess to Savior
+    genre.sync: Anime,Comedy,Fantasy,Romance,Villainess,Female Protagonist
+    label: Ongoing
+    studio: OLM
+    seasons:
+      1:
+        label.sync: Summer 2023
+    audience_rating: 0.0
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -2594,8 +2599,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Winter 2021,score
-    audience_rating: 8.2
+        label.sync: Winter 2021
+    audience_rating: 0.0
   421452:
     title: |-
       My Home Hero
@@ -2609,7 +2614,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 6.7
+    audience_rating: 0.0
   284131:
     title: |-
       Nanatsu no Taizai
@@ -2657,7 +2662,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2016
-    audience_rating: 7.3
+    audience_rating: 0.0
   332771:
     title: |-
       Net-juu no Susume
@@ -2672,8 +2677,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Fall 2017,score
-    audience_rating: 7.3
+        label.sync: Fall 2017
+    audience_rating: 0.0
   240291:
     title: |-
       Nichijou
@@ -2688,8 +2693,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Spring 2011,score
-    audience_rating: 8.2
+        label.sync: Spring 2011
+    audience_rating: 0.0
   416998:
     title: |-
       NieR:Automata Ver1.1a
@@ -2703,7 +2708,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 7.0
+    audience_rating: 0.0
   415188:
     title: |-
       Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu
@@ -2717,7 +2722,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 6.2
+    audience_rating: 0.0
   275610:
     title: |-
       Noragami
@@ -2755,7 +2760,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2023
-    audience_rating: 6.3
+    audience_rating: 0.0
   81797:
     title: |-
       One Piece
@@ -2766,9 +2771,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Ensemble Cast,Travel,Super Power,Found Family,Tragedy,Male Protagonist,Ships,Time Skip,Conspiracy,Slapstick,Slavery,Dystopian,Fugitive,War,Politics,Post-Apocalyptic,Prison,Gods,Medicine,Swordplay,Crime
     label: Ongoing
     studio: Toei Animation
-    seasons:
-      1:
-        label.sync: Fall 1999
     audience_rating: 8.7
   293088:
     title: |-
@@ -2831,7 +2833,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 6.4
+    audience_rating: 0.0
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -2845,7 +2847,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2022
-    audience_rating: 7.1
+    audience_rating: 0.0
   419490:
     title: |-
       Otonari ni Ginga
@@ -2859,7 +2861,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 7.0
+    audience_rating: 0.0
   414221:
     title: |-
       Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
@@ -2873,7 +2875,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 7.7
+    audience_rating: 0.0
   391625:
     title: |-
       Ousama Ranking
@@ -2887,7 +2889,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2021
-    audience_rating: 8.4
+    audience_rating: 0.0
   432080:
     title: |-
       Ousama Ranking: Yuuki no Takarabako
@@ -2901,7 +2903,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 7.3
+    audience_rating: 0.0
   294002:
     title: |-
       Overlord
@@ -2949,7 +2951,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2015
-    audience_rating: 7.3
+    audience_rating: 0.0
   412580:
     title: |-
       Paripi Koumei
@@ -2963,7 +2965,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2022
-    audience_rating: 8.0
+    audience_rating: 0.0
   291627:
     title: |-
       Plastic Memories
@@ -2977,7 +2979,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2015
-    audience_rating: 7.7
+    audience_rating: 0.0
   326270:
     title: |-
       Quanzhi Gaoshou
@@ -3015,7 +3017,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2015
-    audience_rating: 7.2
+    audience_rating: 0.0
   305089:
     title: |-
       Re:Zero kara Hajimeru Isekai Seikatsu
@@ -3054,8 +3056,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Summer 2016,score
-    audience_rating: 7.8
+        label.sync: Summer 2016
+    audience_rating: 0.0
   423787:
     title: |-
       Romantic Killer
@@ -3069,7 +3071,21 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2022
-    audience_rating: 8.0
+    audience_rating: 0.0
+  413578:
+    title: |-
+      Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+    sort_title: |-
+      Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+    original_title: |-
+      Rurouni Kenshin (2023)
+    genre.sync: Anime,Action,Adventure,Drama
+    label: Ongoing
+    studio: LIDENFILMS
+    seasons:
+      1:
+        label.sync: Summer 2023
+    audience_rating: 0.0
   432613:
     title: |-
       Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega
@@ -3083,7 +3099,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2023
-    audience_rating: 6.6
+    audience_rating: 0.0
   398387:
     title: |-
       Sabikui Bisco
@@ -3097,7 +3113,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2022
-    audience_rating: 7.0
+    audience_rating: 0.0
   313435:
     title: |-
       Saiki Kusuo no Ψ-nan
@@ -3135,7 +3151,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 7.1
+    audience_rating: 0.0
   262114:
     title: |-
       Sakurasou no Pet na Kanojo
@@ -3149,7 +3165,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2012
-    audience_rating: 7.8
+    audience_rating: 0.0
   257518:
     title: |-
       Sankarea
@@ -3164,8 +3180,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Spring 2012,score
-    audience_rating: 7.0
+        label.sync: Spring 2012
+    audience_rating: 0.0
   397831:
     title: |-
       Seijo no Maryoku wa Bannou desu
@@ -3179,7 +3195,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2021
-    audience_rating: 7.0
+    audience_rating: 0.0
   173271:
     title: |-
       Seitokai Yakuindomo
@@ -3217,7 +3233,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2021
-    audience_rating: 7.3
+    audience_rating: 0.0
   396876:
     title: |-
       Shadows House
@@ -3253,7 +3269,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2021
-    audience_rating: 6.3
+    audience_rating: 0.0
   279830:
     title: |-
       Shigatsu wa Kimi no Uso
@@ -3268,8 +3284,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Fall 2014,score
-    audience_rating: 8.4
+        label.sync: Fall 2014
+    audience_rating: 0.0
   267440:
     title: |-
       Shingeki no Kyojin
@@ -3315,7 +3331,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2014
-    audience_rating: 8.2
+    audience_rating: 0.0
   402640:
     title: |-
       Shokei Shoujo no Virgin Road
@@ -3329,7 +3345,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2022
-    audience_rating: 6.7
+    audience_rating: 0.0
   332983:
     title: |-
       Shoujo Shuumatsu Ryokou
@@ -3343,7 +3359,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2017
-    audience_rating: 8.1
+    audience_rating: 0.0
   304316:
     title: |-
       Shouwa Genroku Rakugo Shinjuu
@@ -3403,7 +3419,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 8.2
+    audience_rating: 0.0
   72491:
     title: |-
       Slam Dunk
@@ -3414,9 +3430,6 @@ metadata:
     genre.sync: Anime,Comedy,Drama,Slice of Life,Sports,Shounen,Basketball,Primarily Male Cast,School,Male Protagonist
     label.remove: Ongoing
     studio: Toei Animation
-    seasons:
-      1:
-        label.sync: Fall 1993
     audience_rating: 8.2
   401233:
     title: |-
@@ -3431,7 +3444,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2022
-    audience_rating: 8.1
+    audience_rating: 0.0
   405920:
     title: |-
       Spy×family
@@ -3445,7 +3458,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2022
-    audience_rating: 8.5
+    audience_rating: 0.0
   244061:
     title: |-
       Steins;Gate
@@ -3460,8 +3473,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Spring 2011,score
-    audience_rating: 8.9
+        label.sync: Spring 2011
+    audience_rating: 0.0
   339268:
     title: |-
       Steins;Gate 0
@@ -3476,8 +3489,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Spring 2018,score
-    audience_rating: 8.4
+        label.sync: Spring 2018
+    audience_rating: 0.0
   267432:
     title: |-
       Suisei no Gargantia
@@ -3492,8 +3505,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Spring 2013,score
-    audience_rating: 7.2
+        label.sync: Spring 2013
+    audience_rating: 0.0
   429634:
     title: |-
       Suki na Ko ga Megane wo Wasureta
@@ -3507,7 +3520,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2023
-    audience_rating: 6.9
+    audience_rating: 0.0
   407306:
     title: |-
       Summer Time Render
@@ -3521,7 +3534,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2022
-    audience_rating: 8.3
+    audience_rating: 0.0
   259640:
     title: |-
       Sword Art Online
@@ -3569,7 +3582,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2016
-    audience_rating: 7.7
+    audience_rating: 0.0
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -3605,7 +3618,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 8.1
+    audience_rating: 0.0
   400961:
     title: |-
       Tensai Ouji no Akaji Kokka Saisei Jutsu
@@ -3619,7 +3632,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2022
-    audience_rating: 7.2
+    audience_rating: 0.0
   423094:
     title: |-
       Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
@@ -3633,7 +3646,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 6.6
+    audience_rating: 0.0
   423362:
     title: |-
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
@@ -3647,7 +3660,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 7.6
+    audience_rating: 0.0
   410378:
     title: |-
       Tensei Shitara Ken Deshita
@@ -3661,7 +3674,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2022
-    audience_rating: 7.4
+    audience_rating: 0.0
   352408:
     title: |-
       Tensei Shitara Slime Datta Ken
@@ -3699,7 +3712,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2021
-    audience_rating: 7.4
+    audience_rating: 0.0
   378556:
     title: |-
       The God Of High School
@@ -3713,7 +3726,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2020
-    audience_rating: 6.9
+    audience_rating: 0.0
   281249:
     title: |-
       Tokyo Ghoul
@@ -3754,7 +3767,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2013
-    audience_rating: 7.1
+    audience_rating: 0.0
   393478:
     title: |-
       Tokyo Revengers
@@ -3790,7 +3803,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 7.8
+    audience_rating: 0.0
   262107:
     title: |-
       Tonari no Kaibutsu-kun
@@ -3804,7 +3817,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2012
-    audience_rating: 7.2
+    audience_rating: 0.0
   426572:
     title: |-
       Tondemo Skill de Isekai Hourou Meshi
@@ -3818,7 +3831,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 7.6
+    audience_rating: 0.0
   385077:
     title: |-
       Tonikaku Kawaii
@@ -3856,7 +3869,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2008
-    audience_rating: 7.8
+    audience_rating: 0.0
   77680:
     title: |-
       Trigun
@@ -3870,7 +3883,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 1998
-    audience_rating: 7.9
+    audience_rating: 0.0
   421378:
     title: |-
       Trigun Stampede
@@ -3884,7 +3897,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 7.8
+    audience_rating: 0.0
   325197:
     title: |-
       Tsuki ga Kirei
@@ -3898,7 +3911,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2017
-    audience_rating: 7.9
+    audience_rating: 0.0
   422405:
     title: |-
       Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
@@ -3912,7 +3925,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2023
-    audience_rating: 7.0
+    audience_rating: 0.0
   352796:
     title: |-
       Tsurune: Kazemai Koukou Kyuudou-bu
@@ -3950,7 +3963,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2023
-    audience_rating: 6.3
+    audience_rating: 0.0
   256705:
     title: |-
       Uchuu Kyoudai
@@ -3961,9 +3974,6 @@ metadata:
     genre.sync: Anime,Comedy,Sci-Fi,Slice of Life,Space,Work,Seinen,Primarily Adult Cast,Ensemble Cast
     label.remove: Ongoing
     studio: A-1 Pictures
-    seasons:
-      1:
-        label.sync: Spring 2012
     audience_rating: 8.3
   315094:
     title: |-
@@ -3978,7 +3988,21 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2016
-    audience_rating: 7.5
+    audience_rating: 0.0
+  432748:
+    title: |-
+      Undead Girl Murder Farce
+    sort_title: |-
+      Undead Girl Murder Farce
+    original_title: |-
+      Undead Murder Farce
+    genre.sync: Anime,Fantasy,Mystery,Supernatural,Revenge,Detective
+    label: Ongoing
+    studio: Lapin Track
+    seasons:
+      1:
+        label.sync: Summer 2023
+    audience_rating: 0.0
   249872:
     title: |-
       Usagi Drop
@@ -3993,8 +4017,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Summer 2011,score
-    audience_rating: 8.1
+        label.sync: Summer 2011
+    audience_rating: 0.0
   381406:
     title: |-
       Uzaki-chan wa Asobitai!
@@ -4030,7 +4054,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2021
-    audience_rating: 7.8
+    audience_rating: 0.0
   359274:
     title: |-
       Vinland Saga
@@ -4066,7 +4090,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2018
-    audience_rating: 8.5
+    audience_rating: 0.0
   397774:
     title: |-
       Vivy: Fluorite Eye’s Song
@@ -4080,7 +4104,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2021
-    audience_rating: 8.2
+    audience_rating: 0.0
   79060:
     title: |-
       Wolf's Rain
@@ -4095,8 +4119,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Winter 2003,score
-    audience_rating: 7.4
+        label.sync: Winter 2003
+    audience_rating: 0.0
   390028:
     title: |-
       Wonder Egg Priority
@@ -4110,7 +4134,7 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2021
-    audience_rating: 7.5
+    audience_rating: 0.0
   145211:
     title: |-
       Working!!
@@ -4181,8 +4205,8 @@ metadata:
       0:
         label.remove: score
       1:
-        label.sync: Spring 2018,score
-    audience_rating: 7.9
+        label.sync: Spring 2018
+    audience_rating: 0.0
   376751:
     title: |-
       Xian Wang De Richang Shenghuo
@@ -4247,7 +4271,7 @@ metadata:
     seasons:
       1:
         label.sync: Spring 2023
-    audience_rating: 7.9
+    audience_rating: 0.0
   313488:
     title: |-
       Yi Ren Zhi Xia
@@ -4285,7 +4309,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2022
-    audience_rating: 7.9
+    audience_rating: 0.0
   427358:
     title: |-
       Yumemiru Danshi wa Genjitsushugisha
@@ -4299,7 +4323,7 @@ metadata:
     seasons:
       1:
         label.sync: Summer 2023
-    audience_rating: 6.3
+    audience_rating: 0.0
   330692:
     title: |-
       Yuru Camp△
@@ -4337,7 +4361,7 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2020
-    audience_rating: 8.1
+    audience_rating: 0.0
   262109:
     title: |-
       Zetsuen no Tempest
@@ -4351,4 +4375,4 @@ metadata:
     seasons:
       1:
         label.sync: Fall 2012
-    audience_rating: 7.6
+    audience_rating: 0.0
