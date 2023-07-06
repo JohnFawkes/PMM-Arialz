@@ -1692,8 +1692,16 @@ metadata:
     studio: MAPPA
     seasons:
       1:
-        label.sync: Fall 2020
-    audience_rating: 8.6
+        title: |-
+          Jujutsu Kaisen
+        user_rating: 8.6
+        label.sync: Fall 2020,score
+      2:
+        title: |-
+          Jujutsu Kaisen 2nd Season
+        user_rating: 0.0
+        label.sync: Summer 2023,score
+    audience_rating: 4.3
   407520:
     title: |-
       Kage no Jitsuryokusha ni Naritakute!
@@ -1867,6 +1875,20 @@ metadata:
       1:
         label.sync: Winter 2021
     audience_rating: 7.3
+  413578:
+    title: |-
+      Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+    sort_title: |-
+      Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+    original_title: |-
+      Rurouni Kenshin (2023)
+    genre.sync: Anime,Action,Adventure,Drama
+    label.remove: Ongoing
+    studio: LIDENFILMS
+    seasons:
+      1:
+        label.sync: Summer 2023
+    audience_rating: 0.0
   80675:
     title: |-
       Kidou Senshi Gundam 00
