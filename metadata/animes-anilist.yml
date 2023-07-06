@@ -1688,7 +1688,7 @@ metadata:
     original_title: |-
       Jujutsu Kaisen
     genre.sync: Anime,Action,Drama,Supernatural,Urban Fantasy,Shounen,Youkai,Super Power,Primarily Teen Cast,Male Protagonist,Dissociative Identities,Body Horror,Magic
-    label.remove: Ongoing
+    label: Ongoing
     studio: MAPPA
     seasons:
       1:
