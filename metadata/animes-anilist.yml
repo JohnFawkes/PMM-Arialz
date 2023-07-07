@@ -2601,6 +2601,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.7
+  413333:
+    title: |-
+      Nanatsu no Maken ga Shihai Suru
+    sort_title: |-
+      Nanatsu no Maken ga Shihai Suru
+    original_title: |-
+      Reign of the Seven Spellblades
+    genre.sync: Anime,Action,Fantasy,School,Magic
+    label: Ongoing
+    studio: J.C. Staff
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 0.0
   284131:
     title: |-
       Nanatsu no Taizai
