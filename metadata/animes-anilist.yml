@@ -3504,3 +3504,875 @@ metadata:
     seasons:
       0:
         label.remove: score
+      1:
+        label.sync: Spring 2013
+    audience_rating: 0.0
+  429634:
+    title: |-
+      Suki na Ko ga Megane wo Wasureta
+    sort_title: |-
+      Suki na Ko ga Megane wo Wasureta
+    original_title: |-
+      The Girl I Like Forgot Her Glasses
+    genre.sync: Anime,Comedy,Romance,Heterosexual,CGI,School,Primarily Teen Cast,Iyashikei,Male Protagonist
+    label: Ongoing
+    studio: GoHands
+    seasons:
+      1:
+        label.sync: Summer 2023
+    audience_rating: 0.0
+  407306:
+    title: |-
+      Summer Time Render
+    sort_title: |-
+      Summer Time Render
+    original_title: |-
+      Summer Time Rendering
+    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Shapeshifting,Reincarnation,Super Power,Tragedy,Rural,Mythology,Body Swapping,Ensemble Cast,Dissociative Identities,Alternate Universe,Cosmic Horror,Heterosexual,Male Protagonist,Religion,Shounen,Gore,Amnesia
+    label.remove: Ongoing
+    studio: OLM
+    seasons:
+      1:
+        label.sync: Spring 2022
+    audience_rating: 0.0
+  259640:
+    title: |-
+      Sword Art Online
+    sort_title: |-
+      Sword Art Online
+    original_title: |-
+      Sword Art Online
+    genre.sync: Anime,Action,Adventure,Fantasy,Romance,Virtual World,Death Game,Video Games,Male Protagonist,Swordplay,Primarily Teen Cast,Prison
+    label.remove: Ongoing
+    studio: A-1 Pictures
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Sword Art Online
+        user_rating: 6.8
+        label.sync: Summer 2012,score
+      2:
+        title: |-
+          Sword Art Online II
+        user_rating: 6.5
+        label.sync: Summer 2014,score
+      3:
+        title: |-
+          Sword Art Online: Alicization
+        user_rating: 7.5
+        label.sync: Fall 2018,score
+      4:
+        title: |-
+          Sword Art Online: Alicization - War of Underworld
+        user_rating: 7.5
+        label.sync: Fall 2019,score
+    audience_rating: 7.1
+  305104:
+    title: |-
+      Tanaka-kun wa Itsumo Kedaruge
+    sort_title: |-
+      Tanaka-kun wa Itsumo Kedaruge
+    original_title: |-
+      Tanaka-kun is Always Listless
+    genre.sync: Anime,Comedy,Slice of Life,School,Male Protagonist,Iyashikei,Episodic,Primarily Teen Cast,Cute Boys Doing Cute Things
+    label.remove: Ongoing
+    studio: SILVER LINK.
+    seasons:
+      1:
+        label.sync: Spring 2016
+    audience_rating: 0.0
+  353712:
+    title: |-
+      Tate no Yuusha no Nariagari
+    sort_title: |-
+      Tate no Yuusha no Nariagari
+    original_title: |-
+      The Rising of the Shield Hero
+    genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Male Protagonist,Conspiracy,Revenge,Magic,Crime,Anti-Hero,Tragedy,Kemonomimi,Bullying,Henshin
+    label.remove: Ongoing
+    studio: Kinema Citrus
+    seasons:
+      1:
+        title: |-
+          Tate no Yuusha no Nariagari
+        user_rating: 7.7
+        label.sync: Winter 2019,score
+      2:
+        title: |-
+          Tate no Yuusha no Nariagari Season 2
+        user_rating: 6.5
+        label.sync: Spring 2022,score
+    audience_rating: 7.1
+  426165:
+    title: |-
+      Tengoku Daimakyou
+    sort_title: |-
+      Tengoku Daimakyou
+    original_title: |-
+      Tengoku Daimakyo
+    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Post-Apocalyptic,Dystopian,Survival,Tragedy,Achronological Order,Seinen,Body Swapping,Travel,Conspiracy,Male Protagonist,Demons,Denpa,Gender Bending,Super Power,Gore,Orphan
+    label.remove: Ongoing
+    studio: Production I.G
+    seasons:
+      1:
+        label.sync: Spring 2023
+    audience_rating: 0.0
+  400961:
+    title: |-
+      Tensai Ouji no Akaji Kokka Saisei Jutsu
+    sort_title: |-
+      Tensai Ouji no Akaji Kokka Saisei Jutsu
+    original_title: |-
+      The Genius Prince's Guide to Raising a Nation Out of Debt
+    genre.sync: Anime,Comedy,Fantasy,Politics,Male Protagonist,Military,Economics,War
+    label.remove: Ongoing
+    studio: Yokohama Animation Lab
+    seasons:
+      1:
+        label.sync: Winter 2022
+    audience_rating: 0.0
+  423094:
+    title: |-
+      Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
+    sort_title: |-
+      Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
+    original_title: |-
+      The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far
+    genre.sync: Anime,Action,Fantasy,Romance,Reincarnation,Female Harem,Male Protagonist,Gods,Isekai
+    label.remove: Ongoing
+    studio: Magic Bus
+    seasons:
+      1:
+        label.sync: Spring 2023
+    audience_rating: 0.0
+  423362:
+    title: |-
+      Tensei Oujo to Tensai Reijou no Mahou Kakumei
+    sort_title: |-
+      Tensei Oujo to Tensai Reijou no Mahou Kakumei
+    original_title: |-
+      The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
+    genre.sync: Anime,Fantasy,Romance,Female Protagonist,Magic,Yuri,Primarily Female Cast,Politics,Conspiracy,LGBTQ+ Themes
+    label.remove: Ongoing
+    studio: diomedéa
+    seasons:
+      1:
+        label.sync: Winter 2023
+    audience_rating: 0.0
+  410378:
+    title: |-
+      Tensei Shitara Ken Deshita
+    sort_title: |-
+      Tensei Shitara Ken Deshita
+    original_title: |-
+      Reincarnated as a Sword
+    genre.sync: Anime,Action,Adventure,Fantasy,Orphan,Swordplay,Reincarnation,Nekomimi,Isekai,Found Family,Female Protagonist,Magic
+    label.remove: Ongoing
+    studio: C2C
+    seasons:
+      1:
+        label.sync: Fall 2022
+    audience_rating: 0.0
+  352408:
+    title: |-
+      Tensei Shitara Slime Datta Ken
+    sort_title: |-
+      Tensei Shitara Slime Datta Ken
+    original_title: |-
+      That Time I Got Reincarnated as a Slime
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Reincarnation,Magic,Super Power,Found Family,Economics,Shapeshifting,Alternate Universe,Ensemble Cast
+    label.remove: Ongoing
+    studio: 8-bit
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Tensei Shitara Slime Datta Ken
+        user_rating: 8.0
+        label.sync: Fall 2018,score
+      2:
+        title: |-
+          Tensei Shitara Slime Datta Ken 2nd Season
+        user_rating: 8.3
+        label.sync: Winter 2021,score
+    audience_rating: 8.1
+  385374:
+    title: |-
+      Tensei Shitara Slime Datta Ken: Tensura Nikki
+    sort_title: |-
+      Tensei Shitara Slime Datta Ken: Tensura Nikki
+    original_title: |-
+      The Slime Diaries
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Slice of Life,Agender,Isekai,Reincarnation,Episodic,Magic,Shapeshifting,Goblin
+    label.remove: Ongoing
+    studio: 8-bit
+    seasons:
+      1:
+        label.sync: Spring 2021
+    audience_rating: 0.0
+  378556:
+    title: |-
+      The God Of High School
+    sort_title: |-
+      The God Of High School
+    original_title: |-
+      The God of High School
+    genre.sync: Anime,Action,Comedy,Supernatural,Martial Arts,Gods,Super Power,Shounen,Male Protagonist,Urban Fantasy,Cult,Rotoscoping,Foreign
+    label.remove: Ongoing
+    studio: MAPPA
+    seasons:
+      1:
+        label.sync: Summer 2020
+    audience_rating: 0.0
+  281249:
+    title: |-
+      Tokyo Ghoul
+    sort_title: |-
+      Tokyo Ghoul
+    original_title: |-
+      Tokyo Ghoul
+    genre.sync: Anime,Action,Drama,Horror,Mystery,Psychological,Supernatural,Urban Fantasy,Gore,Tragedy,Survival,Male Protagonist,Torture,Body Horror,Anti-Hero,Seinen,Coming of Age
+    label.remove: Ongoing
+    studio: Studio Pierrot
+    seasons:
+      1:
+        title: |-
+          Tokyo Ghoul
+        user_rating: 7.5
+        label.sync: Summer 2014,score
+      2:
+        title: |-
+          Tokyo Ghoul √A
+        user_rating: 6.6
+        label.sync: Winter 2015,score
+      3:
+        title: |-
+          Tokyo Ghoul:re
+        user_rating: 6.1
+        label.sync: Spring 2018,score
+    audience_rating: 6.7
+  272043:
+    title: |-
+      Tokyo Ravens
+    sort_title: |-
+      Tokyo Ravens
+    original_title: |-
+      Tokyo Ravens
+    genre.sync: Anime,Action,Comedy,Supernatural,Magic,School,Super Power,Urban Fantasy
+    label.remove: Ongoing
+    studio: 8-bit
+    seasons:
+      1:
+        label.sync: Fall 2013
+    audience_rating: 0.0
+  393478:
+    title: |-
+      Tokyo Revengers
+    sort_title: |-
+      Tokyo Revengers
+    original_title: |-
+      Tokyo Revengers
+    genre.sync: Anime,Action,Drama,Romance,Supernatural,Gangs,Delinquents,Time Manipulation,Age Regression,Male Protagonist,Tragedy,Primarily Male Cast,Urban,Crime,Alternate Universe,Revenge,Ensemble Cast,Shounen
+    label.remove: Ongoing
+    studio: LIDENFILMS
+    seasons:
+      1:
+        title: |-
+          Tokyo Revengers
+        user_rating: 7.9
+        label.sync: Spring 2021,score
+      2:
+        title: |-
+          Tokyo Revengers: Seiya Kessen-hen
+        user_rating: 7.7
+        label.sync: Winter 2023,score
+    audience_rating: 7.8
+  421994:
+    title: |-
+      Tomo-chan wa Onnanoko!
+    sort_title: |-
+      Tomo-chan wa Onnanoko!
+    original_title: |-
+      Tomo-chan Is a Girl!
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Tomboy,Female Protagonist,Primarily Teen Cast,Heterosexual,School,Slapstick,Tsundere
+    label.remove: Ongoing
+    studio: Lay-duce
+    seasons:
+      1:
+        label.sync: Winter 2023
+    audience_rating: 0.0
+  262107:
+    title: |-
+      Tonari no Kaibutsu-kun
+    sort_title: |-
+      Tonari no Kaibutsu-kun
+    original_title: |-
+      My Little Monster
+    genre.sync: Anime,Comedy,Romance,Slice of Life,School,Shoujo,Female Protagonist,Kuudere,Primarily Teen Cast,Tsundere,Heterosexual
+    label.remove: Ongoing
+    studio: Brain's Base
+    seasons:
+      1:
+        label.sync: Fall 2012
+    audience_rating: 0.0
+  426572:
+    title: |-
+      Tondemo Skill de Isekai Hourou Meshi
+    sort_title: |-
+      Tondemo Skill de Isekai Hourou Meshi
+    original_title: |-
+      Campfire Cooking in Another World with my Absurd Skill
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Food,Isekai,Work,Male Protagonist,Iyashikei,Animals,Gods
+    label.remove: Ongoing
+    studio: MAPPA
+    seasons:
+      1:
+        label.sync: Winter 2023
+    audience_rating: 0.0
+  385077:
+    title: |-
+      Tonikaku Kawaii
+    sort_title: |-
+      Tonikaku Kawaii
+    original_title: |-
+      TONIKAWA: Over The Moon For You
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Marriage,Family Life,Heterosexual,Iyashikei
+    label.remove: Ongoing
+    studio: Seven Arcs
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Tonikaku Kawaii
+        user_rating: 7.7
+        label.sync: Fall 2020,score
+      2:
+        title: |-
+          Tonikaku Kawaii Season 2
+        user_rating: 7.6
+        label.sync: Spring 2023,score
+    audience_rating: 7.7
+  83277:
+    title: |-
+      Toradora!
+    sort_title: |-
+      Toradora!
+    original_title: |-
+      Toradora!
+    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Love Triangle,Coming of Age,School,Tsundere,Primarily Teen Cast,Heterosexual,Female Protagonist,Male Protagonist
+    label.remove: Ongoing
+    studio: J.C. Staff
+    seasons:
+      1:
+        label.sync: Fall 2008
+    audience_rating: 0.0
+  77680:
+    title: |-
+      Trigun
+    sort_title: |-
+      Trigun
+    original_title: |-
+      Trigun
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Sci-Fi,Guns,Fugitive,Male Protagonist,Primarily Adult Cast,Philosophy,Tragedy,Crime
+    label.remove: Ongoing
+    studio: MADHOUSE
+    seasons:
+      1:
+        label.sync: Spring 1998
+    audience_rating: 0.0
+  421378:
+    title: |-
+      Trigun Stampede
+    sort_title: |-
+      Trigun Stampede
+    original_title: |-
+      Trigun Stampede
+    genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Full CGI,Male Protagonist,Guns,Fugitive,Desert,Dystopian,Primarily Adult Cast,Tragedy,Twins,Philosophy,Crime,Shounen,Travel
+    label.remove: Ongoing
+    studio: Orange
+    seasons:
+      1:
+        label.sync: Winter 2023
+    audience_rating: 0.0
+  325197:
+    title: |-
+      Tsuki ga Kirei
+    sort_title: |-
+      Tsuki ga Kirei
+    original_title: |-
+      Tsukigakirei
+    genre.sync: Anime,Drama,Romance,Slice of Life,Coming of Age,School,Heterosexual,Writing
+    label.remove: Ongoing
+    studio: feel.
+    seasons:
+      1:
+        label.sync: Spring 2017
+    audience_rating: 0.0
+  422405:
+    title: |-
+      Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
+    sort_title: |-
+      Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
+    original_title: |-
+      Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte
+    genre.sync: Anime,Comedy,Fantasy,Romance,Villainess,Tsundere,Video Games,Gods,Heterosexual,Alternate Universe,Ojou-sama,Primarily Teen Cast,Shoujo,Magic
+    label.remove: Ongoing
+    studio: Tezuka Productions
+    seasons:
+      1:
+        label.sync: Winter 2023
+    audience_rating: 0.0
+  352796:
+    title: |-
+      Tsurune: Kazemai Koukou Kyuudou-bu
+    sort_title: |-
+      Tsurune: Kazemai Koukou Kyuudou-bu
+    original_title: |-
+      Tsurune
+    genre.sync: Anime,Drama,Slice of Life,Sports,Cute Boys Doing Cute Things,Archery,School Club,Rehabilitation,Male Protagonist,Primarily Male Cast,Primarily Teen Cast
+    label.remove: Ongoing
+    studio: Kyoto Animation
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Tsurune: Kazemai Koukou Kyuudou-bu
+        user_rating: 7.5
+        label.sync: Fall 2018,score
+      2:
+        title: |-
+          Tsurune: Tsunagari no Issha
+        user_rating: 8.0
+        label.sync: Winter 2023,score
+    audience_rating: 7.8
+  426080:
+    title: |-
+      Uchi no Kaisha no Chiisai Senpai no Hanashi
+    sort_title: |-
+      Uchi no Kaisha no Chiisai Senpai no Hanashi
+    original_title: |-
+      My Tiny Senpai
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Heterosexual,Seinen,Work
+    label: Ongoing
+    studio: project No.9
+    seasons:
+      1:
+        label.sync: Summer 2023
+    audience_rating: 0.0
+  256705:
+    title: |-
+      Uchuu Kyoudai
+    sort_title: |-
+      Uchuu Kyoudai
+    original_title: |-
+      Space Brothers
+    genre.sync: Anime,Comedy,Sci-Fi,Slice of Life,Space,Work,Seinen,Primarily Adult Cast,Ensemble Cast
+    label.remove: Ongoing
+    studio: A-1 Pictures
+    audience_rating: 8.3
+  315094:
+    title: |-
+      Udon no Kuni no Kiniro Kemari
+    sort_title: |-
+      Udon no Kuni no Kiniro Kemari
+    original_title: |-
+      Poco's Udon World
+    genre.sync: Anime,Fantasy,Slice of Life,Family Life,Seinen,Kemonomimi,Male Protagonist
+    label.remove: Ongoing
+    studio: LIDENFILMS
+    seasons:
+      1:
+        label.sync: Fall 2016
+    audience_rating: 0.0
+  432748:
+    title: |-
+      Undead Girl Murder Farce
+    sort_title: |-
+      Undead Girl Murder Farce
+    original_title: |-
+      Undead Murder Farce
+    genre.sync: Anime,Fantasy,Mystery,Supernatural,Revenge,Detective
+    label: Ongoing
+    studio: Lapin Track
+    seasons:
+      1:
+        label.sync: Summer 2023
+    audience_rating: 0.0
+  249872:
+    title: |-
+      Usagi Drop
+    sort_title: |-
+      Usagi Drop
+    original_title: |-
+      Bunny Drop
+    genre.sync: Anime,Slice of Life,Iyashikei,Found Family,Family Life,Adoption,Orphan,Josei
+    label.remove: Ongoing
+    studio: Production I.G
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.sync: Summer 2011
+    audience_rating: 0.0
+  381406:
+    title: |-
+      Uzaki-chan wa Asobitai!
+    sort_title: |-
+      Uzaki-chan wa Asobitai!
+    original_title: |-
+      Uzaki-chan Wants to Hang Out!
+    genre.sync: Anime,Comedy,Ecchi,Romance,Slice of Life,Slapstick,Large Breasts,Primarily Adult Cast,Male Protagonist,Female Protagonist,Heterosexual,College,Tomboy,Episodic
+    label.remove: Ongoing
+    studio: ENGI
+    seasons:
+      1:
+        title: |-
+          Uzaki-chan wa Asobitai!
+        user_rating: 6.7
+        label.sync: Summer 2020,score
+      2:
+        title: |-
+          Uzaki-chan wa Asobitai! ω
+        user_rating: 7.1
+        label.sync: Fall 2022,score
+    audience_rating: 6.9
+  400133:
+    title: |-
+      Vanitas no Carte
+    sort_title: |-
+      Vanitas no Carte
+    original_title: |-
+      The Case Study of Vanitas
+    genre.sync: Anime,Drama,Fantasy,Mystery,Supernatural,Vampire,Male Protagonist,Conspiracy,Foreign,Steampunk,Tragedy,Primarily Adult Cast,Anti-Hero,Heterosexual
+    label.remove: Ongoing
+    studio: bones
+    seasons:
+      1:
+        label.sync: Summer 2021
+    audience_rating: 0.0
+  359274:
+    title: |-
+      Vinland Saga
+    sort_title: |-
+      Vinland Saga
+    original_title: |-
+      Vinland Saga
+    genre.sync: Anime,Action,Adventure,Drama,Vikings,Revenge,Foreign,Historical,Tragedy,Male Protagonist,War,Philosophy,Coming of Age,Seinen,Primarily Male Cast,Military,Politics,Anti-Hero,Swordplay,Primarily Adult Cast,Gore,Survival,Conspiracy,Ships
+    label.remove: Ongoing
+    studio: Wit Studio
+    seasons:
+      1:
+        title: |-
+          Vinland Saga
+        user_rating: 8.7
+        label.sync: Summer 2019,score
+      2:
+        title: |-
+          Vinland Saga Season 2
+        user_rating: 8.8
+        label.sync: Winter 2023,score
+    audience_rating: 8.8
+  330139:
+    title: |-
+      Violet Evergarden
+    sort_title: |-
+      Violet Evergarden
+    original_title: |-
+      Violet Evergarden
+    genre.sync: Anime,Drama,Fantasy,Slice of Life,Rehabilitation,Writing,Tragedy,Coming of Age,Female Protagonist,Kuudere,War,Work,Military,Disability,Episodic
+    label.remove: Ongoing
+    studio: Kyoto Animation
+    seasons:
+      1:
+        label.sync: Winter 2018
+    audience_rating: 0.0
+  397774:
+    title: |-
+      Vivy: Fluorite Eye’s Song
+    sort_title: |-
+      Vivy: Fluorite Eye’s Song
+    original_title: |-
+      Vivy -Fluorite Eye's Song-
+    genre.sync: Anime,Action,Drama,Music,Sci-Fi,Thriller,Artificial Intelligence,Robots,Female Protagonist,Time Manipulation,Tragedy,Time Skip,Terrorism,Philosophy,Dystopian,Musical,Cyberpunk,Primarily Female Cast
+    label.remove: Ongoing
+    studio: Wit Studio
+    seasons:
+      1:
+        label.sync: Spring 2021
+    audience_rating: 0.0
+  79060:
+    title: |-
+      Wolf's Rain
+    sort_title: |-
+      Wolf's Rain
+    original_title: |-
+      Wolf's Rain
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Survival,Animals,Primarily Male Cast,Werewolf,Dystopian,Memory Manipulation,Tanned Skin,Post-Apocalyptic,Tragedy
+    label.remove: Ongoing
+    studio: bones
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.sync: Winter 2003
+    audience_rating: 0.0
+  390028:
+    title: |-
+      Wonder Egg Priority
+    sort_title: |-
+      Wonder Egg Priority
+    original_title: |-
+      Wonder Egg Priority
+    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Psychological,Sci-Fi,Thriller,Tragedy,Primarily Female Cast,Urban Fantasy,Female Protagonist,Suicide,Bullying,Denpa,Coming of Age,Alternate Universe,Primarily Child Cast,Philosophy,Primarily Teen Cast,Ensemble Cast,Hikikomori,Afterlife
+    label.remove: Ongoing
+    studio: CloverWorks
+    seasons:
+      1:
+        label.sync: Winter 2021
+    audience_rating: 0.0
+  145211:
+    title: |-
+      Working!!
+    sort_title: |-
+      Working!!
+    original_title: |-
+      Wagnaria!!
+    genre.sync: Anime,Comedy,Slice of Life,Work,Heterosexual,Ensemble Cast,Male Protagonist
+    label.remove: Ongoing
+    studio: A-1 Pictures
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Working!!
+        user_rating: 7.4
+        label.sync: Spring 2010,score
+      2:
+        title: |-
+          Working'!!
+        user_rating: 7.6
+        label.sync: Fall 2011,score
+      3:
+        title: |-
+          Working!!!
+        user_rating: 7.8
+        label.sync: Summer 2015,score
+    audience_rating: 7.6
+  283934:
+    title: |-
+      World Trigger
+    sort_title: |-
+      World Trigger
+    original_title: |-
+      World Trigger
+    genre.sync: Anime,Action,Adventure,Sci-Fi,Supernatural,Aliens,Ensemble Cast,Shounen,Swordplay,Guns,Battle Royale
+    label.remove: Ongoing
+    studio: Toei Animation
+    seasons:
+      1:
+        title: |-
+          World Trigger
+        user_rating: 7.2
+        label.sync: Fall 2014,score
+      2:
+        title: |-
+          World Trigger 2nd Season
+        user_rating: 8.0
+        label.sync: Winter 2021,score
+      3:
+        title: |-
+          World Trigger 3rd Season
+        user_rating: 8.2
+        label.sync: Fall 2021,score
+    audience_rating: 7.8
+  341425:
+    title: |-
+      Wotaku ni Koi wa Muzukashii
+    sort_title: |-
+      Wotaku ni Koi wa Muzukashii
+    original_title: |-
+      Wotakoi: Love is Hard for Otaku
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Otaku Culture,Primarily Adult Cast,Female Protagonist,Office Lady,Josei,Video Games,Work,Episodic,Urban,Male Protagonist,Ensemble Cast
+    label.remove: Ongoing
+    studio: A-1 Pictures
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.sync: Spring 2018
+    audience_rating: 0.0
+  376751:
+    title: |-
+      Xian Wang De Richang Shenghuo
+    sort_title: |-
+      Xian Wang De Richang Shenghuo
+    original_title: |-
+      The Daily Life of the Immortal King
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Slice of Life,Super Power,Male Protagonist,School,Magic,Urban Fantasy,Parody,Heterosexual
+    label.remove: Ongoing
+    studio: Haoliners Animation
+    seasons:
+      1:
+        title: |-
+          Xian Wang De Richang Shenghuo
+        user_rating: 7.4
+        label.sync: Null Null,score
+      2:
+        title: |-
+          Xian Wang De Richang Shenghuo 2
+        user_rating: 7.4
+        label.sync: Null Null,score
+      3:
+        title: |-
+          Xian Wang De Richang Shenghuo 3
+        user_rating: 7.3
+        label.sync: Null Null,score
+    audience_rating: 7.4
+  348002:
+    title: |-
+      Yakusoku no Neverland
+    sort_title: |-
+      Yakusoku no Neverland
+    original_title: |-
+      The Promised Neverland
+    genre.sync: Anime,Drama,Fantasy,Horror,Mystery,Psychological,Thriller,Dystopian,Survival,Primarily Child Cast,Orphan,Tragedy,Demons,Female Protagonist,Cosmic Horror
+    label.remove: Ongoing
+    studio: CloverWorks
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Yakusoku no Neverland
+        user_rating: 8.4
+        label.sync: Winter 2019,score
+      2:
+        title: |-
+          Yakusoku no Neverland 2
+        user_rating: 5.2
+        label.sync: Winter 2021,score
+    audience_rating: 6.8
+  423413:
+    title: |-
+      Yamada-kun to Lv999 no Koi wo Suru
+    sort_title: |-
+      Yamada-kun to Lv999 no Koi wo Suru
+    original_title: |-
+      My Love Story with Yamada-kun at Lv999
+    genre.sync: Anime,Comedy,Drama,Romance,Video Games,Kuudere,Female Protagonist,Heterosexual,Otaku Culture,Shoujo
+    label.remove: Ongoing
+    studio: MADHOUSE
+    seasons:
+      1:
+        label.sync: Spring 2023
+    audience_rating: 0.0
+  313488:
+    title: |-
+      Yi Ren Zhi Xia
+    sort_title: |-
+      Yi Ren Zhi Xia
+    original_title: |-
+      Hitori no Shita - The Outcast
+    genre.sync: Anime,Action,Adventure,Supernatural,Super Power,Urban Fantasy,Martial Arts,Cultivation
+    label.remove: Ongoing
+    studio: Haoliners Animation
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Yi Ren Zhi Xia
+        user_rating: 6.4
+        label.sync: Null Null,score
+      2:
+        title: |-
+          Yi Ren Zhi Xia 2
+        user_rating: 7.1
+        label.sync: Null Null,score
+    audience_rating: 3.4
+  412374:
+    title: |-
+      Yofukashi no Uta
+    sort_title: |-
+      Yofukashi no Uta
+    original_title: |-
+      Call of the Night
+    genre.sync: Anime,Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Male Protagonist,Heterosexual,Female Protagonist,Coming of Age,Age Gap,Shounen
+    label.remove: Ongoing
+    studio: LIDENFILMS
+    seasons:
+      1:
+        label.sync: Summer 2022
+    audience_rating: 0.0
+  427358:
+    title: |-
+      Yumemiru Danshi wa Genjitsushugisha
+    sort_title: |-
+      Yumemiru Danshi wa Genjitsushugisha
+    original_title: |-
+      The Dreaming Boy is a Realist
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Female Harem
+    label: Ongoing
+    studio: Studio Gokumi
+    seasons:
+      1:
+        label.sync: Summer 2023
+    audience_rating: 0.0
+  330692:
+    title: |-
+      Yuru Camp△
+    sort_title: |-
+      Yuru Camp△
+    original_title: |-
+      Laid-Back Camp
+    genre.sync: Anime,Comedy,Slice of Life,Outdoor,Iyashikei,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Rural,Food,Educational,Seinen
+    label.remove: Ongoing
+    studio: C-Station
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Yuru Camp△
+        user_rating: 8.1
+        label.sync: Winter 2018,score
+      2:
+        title: |-
+          Yuru Camp△ SEASON 2
+        user_rating: 8.4
+        label.sync: Winter 2021,score
+    audience_rating: 8.2
+  385542:
+    title: |-
+      Yuukoku no Moriarty
+    sort_title: |-
+      Yuukoku no Moriarty
+    original_title: |-
+      Moriarty the Patriot
+    genre.sync: Anime,Mystery,Psychological,Anti-Hero,Crime,Conspiracy,Foreign,Male Protagonist,Revenge,Detective,Primarily Male Cast,Historical,Primarily Adult Cast
+    label.remove: Ongoing
+    studio: Production I.G
+    seasons:
+      1:
+        label.sync: Fall 2020
+    audience_rating: 0.0
+  262109:
+    title: |-
+      Zetsuen no Tempest
+    sort_title: |-
+      Zetsuen no Tempest
+    original_title: |-
+      Blast of Tempest
+    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Romance,Urban Fantasy,Magic,Revenge,Time Manipulation,Love Triangle,Anti-Hero,Heterosexual,Male Protagonist
+    label.remove: Ongoing
+    studio: bones
+    seasons:
+      1:
+        label.sync: Fall 2012
+    audience_rating: 0.0
