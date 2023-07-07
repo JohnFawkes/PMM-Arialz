@@ -83,6 +83,28 @@ metadata:
         user_rating: 8.1
         label: score
     audience_rating: 8.0
+  306269:
+    title: |-
+      3-gatsu no Lion
+    sort_title: |-
+      3-gatsu no Lion
+    original_title: |-
+      March comes in like a lion
+    genre.sync: Anime,Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Male Protagonist,Philosophy,Tragedy
+    label.remove: Ongoing
+    studio: Shaft
+    seasons:
+      1:
+        title: |-
+          3-gatsu no Lion
+        user_rating: 8.3
+        label: score
+      2:
+        title: |-
+          3-gatsu no Lion 2
+        user_rating: 8.9
+        label: score
+    audience_rating: 8.6
   378609:
     title: |-
       86: Eighty Six
@@ -4340,28 +4362,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.1
-  306269:
-    title: |-
-      3-gatsu no Lion
-    sort_title: |-
-      3-gatsu no Lion
-    original_title: |-
-      March comes in like a lion
-    genre.sync: Anime,Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Male Protagonist,Philosophy,Tragedy
-    label.remove: Ongoing
-    studio: Shaft
-    seasons:
-      1:
-        title: |-
-          3-gatsu no Lion
-        user_rating: 8.3
-        label: score
-      2:
-        title: |-
-          3-gatsu no Lion 2
-        user_rating: 8.9
-        label: score
-    audience_rating: 8.6
   262109:
     title: |-
       Zetsuen no Tempest
