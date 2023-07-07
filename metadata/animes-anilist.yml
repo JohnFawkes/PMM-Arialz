@@ -1187,20 +1187,6 @@ metadata:
       1:
         label.sync: Summer 2018
     audience_rating: 0.0
-  425756:
-    title: |-
-      Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
-    sort_title: |-
-      Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
-    original_title: |-
-      The Great Cleric
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Magic
-    label: Ongoing
-    studio: Cloud Hearts
-    seasons:
-      1:
-        label.sync: Summer 2023
-    audience_rating: 0.0
   85249:
     title: |-
       Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
@@ -1330,6 +1316,20 @@ metadata:
     seasons:
       1:
         label.sync: Winter 2006
+    audience_rating: 0.0
+  426528:
+    title: |-
+      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
+    sort_title: |-
+      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
+    original_title: |-
+      The Most Heretical Last Boss Queen: From Villainess to Savior
+    genre.sync: Anime,Comedy,Fantasy,Romance,Villainess,Female Protagonist
+    label: Ongoing
+    studio: OLM
+    seasons:
+      1:
+        label.sync: Summer 2023
     audience_rating: 0.0
   404525:
     title: |-
@@ -2571,20 +2571,6 @@ metadata:
         user_rating: 8.7
         label.sync: Fall 2022,score
     audience_rating: 8.6
-  426528:
-    title: |-
-      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
-    sort_title: |-
-      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
-    original_title: |-
-      The Most Heretical Last Boss Queen: From Villainess to Savior
-    genre.sync: Anime,Comedy,Fantasy,Romance,Villainess,Female Protagonist
-    label: Ongoing
-    studio: OLM
-    seasons:
-      1:
-        label.sync: Summer 2023
-    audience_rating: 0.0
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -3181,6 +3167,20 @@ metadata:
         label.remove: score
       1:
         label.sync: Spring 2012
+    audience_rating: 0.0
+  425756:
+    title: |-
+      Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
+    sort_title: |-
+      Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
+    original_title: |-
+      The Great Cleric
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Magic
+    label: Ongoing
+    studio: Cloud Hearts
+    seasons:
+      1:
+        label.sync: Summer 2023
     audience_rating: 0.0
   397831:
     title: |-
