@@ -2299,6 +2299,34 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.4
+  419854:
+    title: |-
+      Level 1 dakedo Unique Skill de Saikyou desu
+    sort_title: |-
+      Level 1 dakedo Unique Skill de Saikyou desu
+    original_title: |-
+      My Unique Skill Makes Me OP even at Level 1
+    genre.sync: Anime,Adventure,Fantasy,Isekai
+    label: Ongoing
+    studio: Maho Film
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 0.0
+  401619:
+    title: |-
+      Liar Liar
+    sort_title: |-
+      Liar Liar
+    original_title: |-
+      Liar, Liar
+    genre.sync: Anime,Ecchi,Psychological,Romance
+    label: Ongoing
+    studio: GEEKTOYS
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 0.0
   418340:
     title: |-
       Lv1 Maou to One Room Yuusha
@@ -2571,6 +2599,20 @@ metadata:
         user_rating: 8.7
         label: score
     audience_rating: 8.6
+  420550:
+    title: |-
+      Dekiru Neko wa Kyou mo Yuuutsu
+    sort_title: |-
+      Dekiru Neko wa Kyou mo Yuuutsu
+    original_title: |-
+      The Masterful Cat is Depressed Again Today
+    genre.sync: Anime,Comedy,Fantasy,Slice of Life,Animals,Female Protagonist
+    label: Ongoing
+    studio: GoHands
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.8
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
