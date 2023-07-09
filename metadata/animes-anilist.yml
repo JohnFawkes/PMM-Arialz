@@ -541,6 +541,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.1
+  429310:
+    title: |-
+      Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
+    sort_title: |-
+      Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
+    original_title: |-
+      Zom 100: Bucket List of the Dead
+    genre.sync: Anime,Action,Comedy,Horror,Zombie,Survival
+    label: Ongoing
+    studio: BUG FILMS
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.9
   426294:
     title: |-
       Buddy Daddies
