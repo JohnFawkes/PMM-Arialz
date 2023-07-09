@@ -820,6 +820,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.1
+  420550:
+    title: |-
+      Dekiru Neko wa Kyou mo Yuuutsu
+    sort_title: |-
+      Dekiru Neko wa Kyou mo Yuuutsu
+    original_title: |-
+      The Masterful Cat is Depressed Again Today
+    genre.sync: Anime,Comedy,Fantasy,Slice of Life,Animals,Female Protagonist
+    label: Ongoing
+    studio: GoHands
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.8
   273005:
     title: |-
       Diamond no Ace
@@ -2599,20 +2613,6 @@ metadata:
         user_rating: 8.7
         label: score
     audience_rating: 8.6
-  420550:
-    title: |-
-      Dekiru Neko wa Kyou mo Yuuutsu
-    sort_title: |-
-      Dekiru Neko wa Kyou mo Yuuutsu
-    original_title: |-
-      The Masterful Cat is Depressed Again Today
-    genre.sync: Anime,Comedy,Fantasy,Slice of Life,Animals,Female Protagonist
-    label: Ongoing
-    studio: GoHands
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.8
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
