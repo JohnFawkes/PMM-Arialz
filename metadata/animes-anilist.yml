@@ -968,6 +968,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.0
+  410425:
+    title: |-
+      Eiyuu Kyoushitsu
+    sort_title: |-
+      Eiyuu Kyoushitsu
+    original_title: |-
+      Classroom for Heroes
+    genre.sync: Anime,Action,Fantasy,Slice of Life,Female Harem
+    label: Ongoing
+    studio: Actas
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 0.0
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -2637,20 +2651,6 @@ metadata:
         user_rating: 8.2
         label: score
     audience_rating: 8.2
-  418665:
-    title: |-
-      Watashi no Shiawase na Kekkon
-    sort_title: |-
-      Watashi no Shiawase na Kekkon
-    original_title: |-
-      My Happy Marriage
-    genre.sync: Anime,Drama,Romance,Supernatural,Shoujo,Female Protagonist,Historical,Heterosexual
-    label: Ongoing
-    studio: Kinema Citrus
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.5
   421452:
     title: |-
       My Home Hero
@@ -3230,20 +3230,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.8
-  410425:
-    title: |-
-      Eiyuu Kyoushitsu
-    sort_title: |-
-      Eiyuu Kyoushitsu
-    original_title: |-
-      Classroom for Heroes
-    genre.sync: Anime,Action,Fantasy,Slice of Life,Female Harem
-    label: Ongoing
-    studio: Actas
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 0.0
   257518:
     title: |-
       Sankarea
@@ -4197,6 +4183,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.2
+  418665:
+    title: |-
+      Watashi no Shiawase na Kekkon
+    sort_title: |-
+      Watashi no Shiawase na Kekkon
+    original_title: |-
+      My Happy Marriage
+    genre.sync: Anime,Drama,Romance,Supernatural,Shoujo,Female Protagonist,Historical,Heterosexual
+    label: Ongoing
+    studio: Kinema Citrus
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.5
   79060:
     title: |-
       Wolf's Rain
