@@ -1331,6 +1331,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.4
+  416359:
+    title: |-
+      Helck
+    sort_title: |-
+      Helck
+    original_title: |-
+      Helck
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy
+    label: Ongoing
+    studio: Satelight
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 20.0
   263688:
     title: |-
       Hellsing Ova
