@@ -129,6 +129,16 @@ metadata:
     genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Coming of Age,Chuunibyou,Trains,Heterosexual,Male Protagonist,Female Protagonist,Travel,Fugitive,Primarily Female Cast
     studio: Kyoto Animation
     audience_rating: 8.0
+  tt12735338:
+    title: |-
+      Cider no You ni Kotoba ga Wakiagaru
+    sort_title: |-
+      Cider no You ni Kotoba ga Wakiagaru
+    original_title: |-
+      Words Bubble Up Like Soda Pop
+    genre.sync: Anime,Romance,Slice of Life,Coming of Age,Primarily Teen Cast,Heterosexual
+    studio: Signal.MD
+    audience_rating: 7.4
   tt6344664:
     title: |-
       Code Geass: Fukkatsu no Lelouch
@@ -858,16 +868,6 @@ metadata:
       The Cat Returns
     genre.sync: Anime,Adventure,Comedy,Drama,Fantasy,Animals,Female Protagonist,Nekomimi,Fairy Tale,Anthropomorphism,Isekai,Kemonomimi,Shoujo
     studio: Studio Ghibli
-    audience_rating: 7.4
-  tt12735338:
-    title: |-
-      Cider no You ni Kotoba ga Wakiagaru
-    sort_title: |-
-      Cider no You ni Kotoba ga Wakiagaru
-    original_title: |-
-      Words Bubble Up Like Soda Pop
-    genre.sync: Anime,Romance,Slice of Life,Coming of Age,Primarily Teen Cast,Heterosexual
-    studio: Signal.MD
     audience_rating: 7.4
   tt3398268:
     title: |-
