@@ -563,7 +563,7 @@ metadata:
     original_title: |-
       Bungo Stray Dogs
     genre.sync: Anime,Action,Comedy,Mystery,Supernatural,Super Power,Crime,Detective,Male Protagonist,Mafia,Urban Fantasy,Classic Literature,Yakuza,Urban,Ensemble Cast,Primarily Adult Cast,Primarily Male Cast,Orphan
-    label.remove: Ongoing
+    label: Ongoing
     studio: bones
     seasons:
       1:
@@ -3244,20 +3244,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.1
-  421283:
-    title: |-
-      Shiro Seijo to Kuro Bokushi
-    sort_title: |-
-      Shiro Seijo to Kuro Bokushi
-    original_title: |-
-      Saint Cecilia & Pastor Lawrence
-    genre.sync: Anime,Comedy,Fantasy,Romance,Slice of Life
-    label: Ongoing
-    studio: Doga Kobo
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 20.0
   262114:
     title: |-
       Sakurasou no Pet na Kanojo
@@ -3438,6 +3424,20 @@ metadata:
         user_rating: 8.7
         label: score
     audience_rating: 8.5
+  421283:
+    title: |-
+      Shiro Seijo to Kuro Bokushi
+    sort_title: |-
+      Shiro Seijo to Kuro Bokushi
+    original_title: |-
+      Saint Cecilia & Pastor Lawrence
+    genre.sync: Anime,Comedy,Fantasy,Romance,Slice of Life
+    label: Ongoing
+    studio: Doga Kobo
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 0.0
   284564:
     title: |-
       Shirobako
