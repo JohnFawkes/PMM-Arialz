@@ -581,7 +581,7 @@ metadata:
           Bungou Stray Dogs 4th Season
         user_rating: 8.4
         label: score
-    audience_rating: 8.1
+    audience_rating: 6.1
   83316:
     title: |-
       Casshern Sins
@@ -3244,6 +3244,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.1
+  421283:
+    title: |-
+      Shiro Seijo to Kuro Bokushi
+    sort_title: |-
+      Shiro Seijo to Kuro Bokushi
+    original_title: |-
+      Saint Cecilia & Pastor Lawrence
+    genre.sync: Anime,Comedy,Fantasy,Romance,Slice of Life
+    label: Ongoing
+    studio: Doga Kobo
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 20.0
   262114:
     title: |-
       Sakurasou no Pet na Kanojo
@@ -3675,6 +3689,20 @@ metadata:
         user_rating: 7.5
         label: score
     audience_rating: 7.1
+  424779:
+    title: |-
+      SYNDUALITY Noir
+    sort_title: |-
+      SYNDUALITY Noir
+    original_title: |-
+      Synduality Noir
+    genre.sync: Anime,Mecha,Sci-Fi,Super Robot,Real Robot,Lost Civilization,Primarily Teen Cast
+    label: Ongoing
+    studio: 8-bit
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.3
   305104:
     title: |-
       Tanaka-kun wa Itsumo Kedaruge
