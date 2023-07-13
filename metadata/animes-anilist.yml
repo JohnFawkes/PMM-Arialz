@@ -1319,9 +1319,9 @@ metadata:
       3:
         title: |-
           Hataraku Maou-sama!! 2nd Season
-        user_rating: 20.0
+        user_rating: 0.0
         label: score
-    audience_rating: 11.4
+    audience_rating: 4.7
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -2667,7 +2667,7 @@ metadata:
       2:
         title: |-
           Mushoku Tensei II: Isekai Ittara Honki Dasu
-        user_rating: 8.2
+        user_rating: 8.3
         label: score
     audience_rating: 8.2
   421452:
@@ -4237,13 +4237,13 @@ metadata:
       Watashi no Shiawase na Kekkon
     original_title: |-
       My Happy Marriage
-    genre.sync: Anime,Drama,Romance,Supernatural,Shoujo,Female Protagonist,Historical,Heterosexual
+    genre.sync: Anime,Drama,Romance,Supernatural,Shoujo,Female Protagonist,Historical,Heterosexual,Marriage,Kuudere
     label: Ongoing
     studio: Kinema Citrus
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.5
+    audience_rating: 7.6
   79060:
     title: |-
       Wolf's Rain
