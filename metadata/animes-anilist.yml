@@ -1316,7 +1316,12 @@ metadata:
           Hataraku Maou-sama!!
         user_rating: 6.6
         label: score
-    audience_rating: 7.1
+      3:
+        title: |-
+          Hataraku Maou-sama!! 2nd Season
+        user_rating: 20.0
+        label: score
+    audience_rating: 11.4
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -4517,10 +4522,10 @@ metadata:
       Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
     original_title: |-
       Zom 100: Bucket List of the Dead
-    genre.sync: Anime,Action,Comedy,Horror,Zombie,Survival
+    genre.sync: Anime,Action,Comedy,Horror,Zombie,Surreal Comedy,Survival,Post-Apocalyptic
     label: Ongoing
     studio: BUG FILMS
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.9
+    audience_rating: 8.1
