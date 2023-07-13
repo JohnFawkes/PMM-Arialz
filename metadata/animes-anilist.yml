@@ -1303,7 +1303,7 @@ metadata:
     original_title: |-
       The Devil is a Part-Timer!
     genre.sync: Anime,Comedy,Fantasy,Romance,Slice of Life,Demons,Isekai,Work,Male Protagonist,Magic,Urban Fantasy,Parody,Anti-Hero
-    label.remove: Ongoing
+    label: Ongoing
     studio: White Fox
     seasons:
       1:
@@ -3423,7 +3423,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 12.0
+    audience_rating: 7.0
   284564:
     title: |-
       Shirobako
