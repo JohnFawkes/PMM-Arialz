@@ -202,7 +202,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.7
+    audience_rating: 6.6
   248035:
     title: |-
       Ao no Exorcist
@@ -290,7 +290,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.1
+    audience_rating: 6.0
   79077:
     title: |-
       Azumanga Daiou THE ANIMATION
@@ -464,7 +464,7 @@ metadata:
       Bocchi the Rock!
     original_title: |-
       Bocchi The Rock!
-    genre.sync: Anime,Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Cute Girls Doing Cute Things,Hikikomori,Rehabilitation,4-koma,Surreal Comedy,Seinen
+    genre.sync: Anime,Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Cute Girls Doing Cute Things,Hikikomori,Rehabilitation,Surreal Comedy,Seinen
     label.remove: Ongoing
     studio: CloverWorks
     seasons:
@@ -617,7 +617,7 @@ metadata:
       Charlotte
     original_title: |-
       Charlotte
-    genre.sync: Anime,Comedy,Drama,Romance,Sci-Fi,Supernatural,Super Power,Time Manipulation,Tragedy,Urban Fantasy,Male Protagonist,Primarily Teen Cast,School Club,School,Body Swapping,Female Protagonist,Tsundere,Amnesia
+    genre.sync: Anime,Comedy,Drama,Romance,Sci-Fi,Supernatural,Super Power,Time Manipulation,Tragedy,Urban Fantasy,Male Protagonist,Primarily Teen Cast,School Club,School,Body Swapping,Female Protagonist,Amnesia,Tsundere
     label.remove: Ongoing
     studio: P.A. Works
     seasons:
@@ -690,7 +690,7 @@ metadata:
       2:
         title: |-
           Chuunibyou demo Koi ga Shitai! Ren
-        user_rating: 7.4
+        user_rating: 7.3
         label: score
     audience_rating: 7.4
   79995:
@@ -1041,7 +1041,7 @@ metadata:
       Fumetsu no Anata e
     original_title: |-
       To Your Eternity
-    genre.sync: Anime,Adventure,Drama,Fantasy,Psychological,Supernatural,Shapeshifting,Coming of Age,Tragedy,Rural,Philosophy,Agender,Travel,Ensemble Cast,Survival
+    genre.sync: Anime,Adventure,Drama,Fantasy,Psychological,Supernatural,Shapeshifting,Coming of Age,Tragedy,Rural,Philosophy,Travel,Ensemble Cast,Survival
     label.remove: Ongoing
     studio: Brain's Base
     seasons:
@@ -1565,9 +1565,9 @@ metadata:
       2:
         title: |-
           Ijiranaide, Nagatoro-san 2nd Attack
-        user_rating: 7.5
+        user_rating: 7.4
         label: score
-    audience_rating: 7.3
+    audience_rating: 7.2
   255133:
     title: |-
       Inu x Boku SS
@@ -1683,13 +1683,13 @@ metadata:
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
     original_title: |-
       Reborn as a Vending Machine, I Now Wander the Dungeon
-    genre.sync: Anime,Comedy,Fantasy,Language Barrier,Parody,Isekai,Food,Reincarnation
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai,Language Barrier,Food,Parody,Reincarnation
     label: Ongoing
     studio: Studio Gokumi
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.5
+    audience_rating: 6.4
   402474:
     title: |-
       Jigokuraku
@@ -1697,7 +1697,7 @@ metadata:
       Jigokuraku
     original_title: |-
       Hell’s Paradise
-    genre.sync: Anime,Action,Adventure,Mystery,Supernatural,Survival,Gore,Swordplay,Body Horror,Travel,Ninja,Battle Royale,Historical,Samurai,Shounen,Anti-Hero,Religion,Tragedy
+    genre.sync: Anime,Action,Adventure,Mystery,Supernatural,Survival,Gore,Swordplay,Body Horror,Ninja,Battle Royale,Historical,Samurai,Shounen,Anti-Hero,Travel,Religion,Tragedy
     label.remove: Ongoing
     studio: MAPPA
     seasons:
@@ -2008,7 +2008,7 @@ metadata:
       Kill la Kill
     original_title: |-
       Kill la Kill
-    genre.sync: Anime,Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Nudity,Parody,Surreal Comedy,Tomboy,Super Power,Aliens,Dystopian,Coming of Age,School,Military
+    genre.sync: Anime,Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Nudity,Parody,Surreal Comedy,Tomboy,Dystopian,Aliens,Super Power,Coming of Age,School,Primarily Teen Cast,Military
     label.remove: Ongoing
     studio: Trigger
     seasons:
@@ -2387,7 +2387,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.5
+    audience_rating: 6.4
   414057:
     title: |-
       Lycoris Recoil
@@ -2395,7 +2395,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Kuudere,Work,Espionage
+    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Kuudere,Work,Espionage,LGBTQ+ Themes
     label.remove: Ongoing
     studio: A-1 Pictures
     seasons:
@@ -2481,7 +2481,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.2
+    audience_rating: 6.1
   278329:
     title: |-
       Mahouka Koukou no Rettousei
@@ -2837,13 +2837,13 @@ metadata:
       Okashi na Tensei
     original_title: |-
       Sweet Reincarnation
-    genre.sync: Anime,Action,Fantasy,Slice of Life
+    genre.sync: Anime,Action,Fantasy,Slice of Life,Food
     label: Ongoing
     studio: SynergySP
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.4
+    audience_rating: 6.3
   81797:
     title: |-
       One Piece
@@ -2851,7 +2851,7 @@ metadata:
       One Piece
     original_title: |-
       One Piece
-    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Ensemble Cast,Travel,Super Power,Found Family,Tragedy,Male Protagonist,Ships,Time Skip,Conspiracy,Slapstick,Slavery,War,Politics,Fugitive,Gods,Prison,Medicine,Dystopian,Swordplay,Crime
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Ensemble Cast,Travel,Super Power,Found Family,Tragedy,Male Protagonist,Ships,Time Skip,Conspiracy,Slapstick,Slavery,Politics,Fugitive,War,Food,Crime,Swordplay,Prison,Medicine
     label: Ongoing
     studio: Toei Animation
     audience_rating: 8.7
@@ -3162,7 +3162,7 @@ metadata:
       Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
     original_title: |-
       Rurouni Kenshin (2023)
-    genre.sync: Anime,Action,Adventure,Drama,Romance,Swordplay
+    genre.sync: Anime,Action,Adventure,Drama,Romance,Swordplay,Historical
     label: Ongoing
     studio: LIDENFILMS
     seasons:
@@ -3182,7 +3182,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.5
+    audience_rating: 6.4
   398387:
     title: |-
       Sabikui Bisco
@@ -3450,7 +3450,7 @@ metadata:
       Shokei Shoujo no Virgin Road
     original_title: |-
       The Executioner and Her Way of Life
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Anti-Hero,Memory Manipulation,Magic,Time Manipulation,Primarily Female Cast,Female Protagonist,Isekai,Assassins,LGBTQ+ Themes,Religion,Gore
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Anti-Hero,Memory Manipulation,Magic,Primarily Female Cast,Time Manipulation,Female Protagonist,Isekai,Assassins,LGBTQ+ Themes,Religion,Gore
     label.remove: Ongoing
     studio: J.C. Staff
     seasons:
@@ -3530,7 +3530,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 8.1
+    audience_rating: 8.2
   72491:
     title: |-
       Slam Dunk
@@ -3625,13 +3625,13 @@ metadata:
       Suki na Ko ga Megane wo Wasureta
     original_title: |-
       The Girl I Like Forgot Her Glasses
-    genre.sync: Anime,Comedy,Romance,Heterosexual,School,Primarily Teen Cast,Male Protagonist,CGI
+    genre.sync: Anime,Comedy,Romance,Heterosexual,School,Primarily Teen Cast,Kuudere,Male Protagonist,CGI
     label: Ongoing
     studio: GoHands
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.8
+    audience_rating: 6.7
   407306:
     title: |-
       Summer Time Render
@@ -3737,7 +3737,7 @@ metadata:
       Tengoku Daimakyou
     original_title: |-
       Tengoku Daimakyo
-    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Post-Apocalyptic,Dystopian,Survival,Tragedy,Achronological Order,Body Swapping,Travel,Seinen,Conspiracy,Male Protagonist,Demons,Denpa,Gender Bending,Gore,Super Power,Orphan
+    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Post-Apocalyptic,Dystopian,Survival,Tragedy,Achronological Order,Travel,Body Swapping,Seinen,Conspiracy,Male Protagonist,Demons,Denpa,Gender Bending,Gore,Super Power,Orphan
     label.remove: Ongoing
     studio: Production I.G
     seasons:
@@ -4121,7 +4121,7 @@ metadata:
       Undead Girl Murder Farce
     original_title: |-
       Undead Murder Farce
-    genre.sync: Anime,Fantasy,Mystery,Supernatural,Revenge,Detective
+    genre.sync: Anime,Fantasy,Mystery,Supernatural,Revenge,Detective,Historical,Travel,Male Protagonist,Foreign,Seinen,Youkai,Vampire
     label: Ongoing
     studio: Lapin Track
     seasons:
@@ -4267,7 +4267,7 @@ metadata:
       Wonder Egg Priority
     original_title: |-
       Wonder Egg Priority
-    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Psychological,Sci-Fi,Thriller,Tragedy,Primarily Female Cast,Urban Fantasy,Female Protagonist,Suicide,Bullying,Denpa,Coming of Age,Alternate Universe,Primarily Child Cast,Philosophy,Primarily Teen Cast,Ensemble Cast,Hikikomori,Afterlife
+    genre.sync: Anime,Action,Drama,Fantasy,Mystery,Psychological,Sci-Fi,Thriller,Tragedy,Primarily Female Cast,Female Protagonist,Urban Fantasy,Suicide,Denpa,Bullying,Alternate Universe,Coming of Age,Primarily Child Cast,Philosophy,Primarily Teen Cast,Ensemble Cast,Hikikomori,Afterlife
     label.remove: Ongoing
     studio: CloverWorks
     seasons:
@@ -4500,7 +4500,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 8.1
+    audience_rating: 8.0
   262109:
     title: |-
       Zetsuen no Tempest
