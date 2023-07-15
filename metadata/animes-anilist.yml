@@ -975,13 +975,13 @@ metadata:
       Eiyuu Kyoushitsu
     original_title: |-
       Classroom for Heroes
-    genre.sync: Anime,Action,Fantasy,Slice of Life,Female Harem
+    genre.sync: Anime,Action,Fantasy,Slice of Life,Female Harem,School
     label: Ongoing
     studio: Actas
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.7
+    audience_rating: 6.6
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
