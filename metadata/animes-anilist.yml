@@ -1357,13 +1357,13 @@ metadata:
       Helck
     original_title: |-
       Helck
-    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Female Protagonist,Demons
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Female Protagonist,Demons,War
     label: Ongoing
     studio: Satelight
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.8
+    audience_rating: 6.9
   263688:
     title: |-
       Hellsing Ova
