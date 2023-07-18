@@ -4251,13 +4251,13 @@ metadata:
       Watashi no Shiawase na Kekkon
     original_title: |-
       My Happy Marriage
-    genre.sync: Anime,Drama,Romance,Supernatural,Shoujo,Female Protagonist,Historical,Heterosexual,Marriage,Kuudere
+    genre.sync: Anime,Drama,Romance,Supernatural,Female Protagonist,Shoujo,Historical,Heterosexual,Marriage,Kuudere
     label: Ongoing
     studio: Kinema Citrus
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.6
+    audience_rating: 7.7
   79060:
     title: |-
       Wolf's Rain
