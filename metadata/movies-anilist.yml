@@ -468,6 +468,7 @@ metadata:
       Mirage QUEEN Prefers Circus
     genre.sync: Anime,Mystery
     studio: East Fish Studio
+    audience_rating: 51.0
   tt9277666:
     title: |-
       Kara no Kyoukai Remix: Gate of seventh heaven
@@ -665,7 +666,7 @@ metadata:
       Koe no Katachi
     original_title: |-
       A Silent Voice
-    genre.sync: Anime,Drama,Romance,Slice of Life,Bullying,Disability,Rehabilitation,Language Barrier,Coming of Age,Denpa,Suicide,Tragedy,Primarily Teen Cast,Male Protagonist,Time Skip,School
+    genre.sync: Anime,Drama,Romance,Slice of Life,Bullying,Disability,Rehabilitation,Language Barrier,Coming of Age,Denpa,Suicide,Primarily Teen Cast,Tragedy,Male Protagonist,Time Skip,School
     studio: Kyoto Animation
     audience_rating: 8.8
   tt4489416:
@@ -767,7 +768,7 @@ metadata:
       Made in Abyss: Dawn of the Deep Soul
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Horror,Mystery,Psychological,Sci-Fi,Tragedy,Survival,Primarily Child Cast,Body Swapping,Seinen,Lost Civilization,Gore,Body Horror,Female Protagonist,Robots
     studio: Kinema Citrus
-    audience_rating: 8.6
+    audience_rating: 8.5
   tt10068544:
     title: |-
       Made in Abyss: Hourou Suru Tasogare
@@ -777,7 +778,7 @@ metadata:
       Made in Abyss: Wandering Twilight
     genre.sync: Anime,Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Seinen
     studio: Kinema Citrus
-    audience_rating: 8.3
+    audience_rating: 8.2
   tt10068158:
     title: |-
       Made in Abyss: Tabidachi no Yoake

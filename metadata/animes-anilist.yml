@@ -284,13 +284,13 @@ metadata:
       Ayaka
     original_title: |-
       Ayaka
-    genre.sync: Anime,Action,Supernatural,Shounen
+    genre.sync: Anime,Action,Supernatural,Shounen,Super Power,Orphan
     label: Ongoing
     studio: Studio Blanc
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.0
+    audience_rating: 5.8
   79077:
     title: |-
       Azumanga Daiou THE ANIMATION
@@ -439,7 +439,7 @@ metadata:
       Bleach
     original_title: |-
       Bleach
-    genre.sync: Anime,Action,Adventure,Supernatural,Super Power,Swordplay,Shounen,Afterlife,Male Protagonist,Ghost,Demons,Urban Fantasy
+    genre.sync: Anime,Action,Adventure,Supernatural,Super Power,Swordplay,Shounen,Afterlife,Male Protagonist,Ghost,Demons,Urban Fantasy,Isekai
     label: Ongoing
     studio: Studio Pierrot
     audience_rating: 7.7
@@ -781,7 +781,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.1
+    audience_rating: 7.0
   80042:
     title: |-
       DARKER THAN BLACK: Kuro no Keiyakusha
@@ -989,13 +989,13 @@ metadata:
       Eiyuu Kyoushitsu
     original_title: |-
       Classroom for Heroes
-    genre.sync: Anime,Action,Fantasy,Slice of Life,Female Harem,School
+    genre.sync: Anime,Action,Fantasy,Slice of Life,Female Harem,School,Male Protagonist
     label: Ongoing
     studio: Actas
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.6
+    audience_rating: 6.5
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -1236,7 +1236,7 @@ metadata:
       Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
     original_title: |-
       Fullmetal Alchemist: Brotherhood
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Conspiracy,Alchemy,Military,Tragedy,War,Shounen,Politics,Male Protagonist,Necromancy,Philosophy,Ensemble Cast,Coming of Age,Gods,Fugitive,Super Power,Foreign,Steampunk,Cyborg
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Conspiracy,Alchemy,Military,War,Tragedy,Shounen,Politics,Male Protagonist,Philosophy,Necromancy,Ensemble Cast,Coming of Age,Gods,Foreign,Fugitive,Super Power,Steampunk,Cyborg
     label.remove: Ongoing
     studio: bones
     seasons:
@@ -1363,7 +1363,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.9
+    audience_rating: 7.0
   263688:
     title: |-
       Hellsing Ova
@@ -1435,7 +1435,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.1
+    audience_rating: 6.2
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -1633,7 +1633,7 @@ metadata:
       Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita
     original_title: |-
       My One-Hit Kill Sister
-    genre.sync: Anime,Comedy,Fantasy,Romance,Isekai,Incest
+    genre.sync: Anime,Comedy,Fantasy,Romance,Isekai,Incest,Primarily Female Cast
     label.remove: Ongoing
     studio: Gekkou
     seasons:
@@ -1697,7 +1697,7 @@ metadata:
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
     original_title: |-
       Reborn as a Vending Machine, I Now Wander the Dungeon
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai,Language Barrier,Food,Parody,Reincarnation
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Isekai,Language Barrier,Food,Parody,Body Horror,Reincarnation
     label: Ongoing
     studio: Studio Gokumi
     seasons:
@@ -1711,7 +1711,7 @@ metadata:
       Jigokuraku
     original_title: |-
       Hell’s Paradise
-    genre.sync: Anime,Action,Adventure,Mystery,Supernatural,Survival,Gore,Swordplay,Body Horror,Ninja,Battle Royale,Historical,Samurai,Shounen,Anti-Hero,Travel,Religion,Tragedy
+    genre.sync: Anime,Action,Adventure,Mystery,Supernatural,Survival,Gore,Swordplay,Body Horror,Ninja,Battle Royale,Samurai,Historical,Shounen,Anti-Hero,Travel,Religion,Tragedy
     label.remove: Ongoing
     studio: MAPPA
     seasons:
@@ -1906,7 +1906,7 @@ metadata:
       Katanagatari
     original_title: |-
       Katanagatari
-    genre.sync: Anime,Action,Adventure,Romance,Swordplay,Martial Arts,Tragedy,Samurai,Historical,Female Protagonist,Male Protagonist,Revenge,Heterosexual,Ninja,Travel
+    genre.sync: Anime,Action,Adventure,Romance,Swordplay,Martial Arts,Tragedy,Historical,Samurai,Female Protagonist,Male Protagonist,Revenge,Heterosexual,Ninja,Travel
     label.remove: Ongoing
     studio: White Fox
     seasons:
@@ -1984,7 +1984,7 @@ metadata:
       Kidou Senshi Gundam: Suisei no Majo
     original_title: |-
       Mobile Suit Gundam: The Witch from Mercury
-    genre.sync: Anime,Action,Mecha,Sci-Fi,Real Robot,Female Protagonist,Space,Primarily Teen Cast,School,Politics,Super Robot,Yuri,Cyborg,Revenge,Conspiracy
+    genre.sync: Anime,Action,Mecha,Sci-Fi,Real Robot,Female Protagonist,Space,Primarily Teen Cast,School,Politics,Super Robot,Yuri,Cyborg,Revenge,LGBTQ+ Themes,Conspiracy
     label.remove: Ongoing
     studio: Sunrise
     seasons:
@@ -2084,7 +2084,7 @@ metadata:
       Kimi wa Houkago Insomnia
     original_title: |-
       Insomniacs after school
-    genre.sync: Anime,Romance,Slice of Life,Coming of Age,Iyashikei,Seinen,Photography,Astronomy,Primarily Teen Cast,Heterosexual,School Club,Rural,School,Male Protagonist,Female Protagonist
+    genre.sync: Anime,Romance,Slice of Life,Seinen,Iyashikei,Coming of Age,Photography,Astronomy,Primarily Teen Cast,Heterosexual,Rural,School Club,School,Male Protagonist,Female Protagonist
     label.remove: Ongoing
     studio: LIDENFILMS
     seasons:
@@ -2232,7 +2232,7 @@ metadata:
       Koukyuu no Karasu
     original_title: |-
       Raven of the Inner Palace
-    genre.sync: Anime,Drama,Fantasy,Mystery,Supernatural,Female Protagonist,Foreign,Historical,Primarily Adult Cast,Detective,Magic,Mythology,Episodic,Ghost,Shoujo,Conspiracy,Kuudere,Necromancy
+    genre.sync: Anime,Drama,Fantasy,Mystery,Supernatural,Female Protagonist,Foreign,Historical,Primarily Adult Cast,Detective,Shoujo,Magic,Mythology,Episodic,Ghost,Conspiracy,Kuudere,Necromancy
     label.remove: Ongoing
     studio: Bandai Namco Pictures
     seasons:
@@ -2373,7 +2373,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.3
+    audience_rating: 6.2
   401619:
     title: |-
       Liar Liar
@@ -2381,13 +2381,13 @@ metadata:
       Liar Liar
     original_title: |-
       Liar, Liar
-    genre.sync: Anime,Ecchi,Psychological,Romance,School,Male Protagonist
+    genre.sync: Anime,Ecchi,Psychological,Romance,Male Protagonist,School,Primarily Teen Cast,Tsundere,Gambling
     label: Ongoing
     studio: GEEKTOYS
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.8
+    audience_rating: 6.7
   418340:
     title: |-
       Lv1 Maou to One Room Yuusha
@@ -2401,7 +2401,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.4
+    audience_rating: 6.5
   414057:
     title: |-
       Lycoris Recoil
@@ -2409,7 +2409,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Kuudere,Work,Espionage,LGBTQ+ Themes
+    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Kuudere,Work,Espionage,LGBTQ+ Themes,Boys' Love
     label.remove: Ongoing
     studio: A-1 Pictures
     seasons:
@@ -2503,7 +2503,7 @@ metadata:
       Mahouka Koukou no Rettousei
     original_title: |-
       The Irregular at Magic High School
-    genre.sync: Anime,Action,Romance,Sci-Fi,Supernatural,Magic,School,Male Protagonist,Military,Incest,Terrorism
+    genre.sync: Anime,Action,Romance,Sci-Fi,Supernatural,Magic,School,Male Protagonist,Military,Terrorism,Incest
     label.remove: Ongoing
     studio: MADHOUSE
     seasons:
@@ -2539,7 +2539,7 @@ metadata:
       Mairimashita! Iruma-kun
     original_title: |-
       Welcome to Demon School! Iruma-kun
-    genre.sync: Anime,Comedy,Fantasy,Demons,School,Magic,Male Protagonist,Isekai,Found Family,Primarily Teen Cast,Shounen,Adoption,Coming of Age
+    genre.sync: Anime,Comedy,Fantasy,Demons,School,Male Protagonist,Magic,Found Family,Isekai,Primarily Teen Cast,Shounen,Adoption,Coming of Age
     label.remove: Ongoing
     studio: Bandai Namco Pictures
     seasons:
@@ -2691,7 +2691,7 @@ metadata:
       My Home Hero
     original_title: |-
       My Home Hero
-    genre.sync: Anime,Action,Drama,Psychological,Thriller,Crime,Yakuza,Primarily Adult Cast,Mafia,Seinen,Fugitive,Male Protagonist
+    genre.sync: Anime,Action,Drama,Psychological,Thriller,Crime,Yakuza,Primarily Adult Cast,Mafia,Seinen,Fugitive,Male Protagonist,Urban
     label.remove: Ongoing
     studio: Tezuka Productions
     seasons:
@@ -2711,7 +2711,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.7
+    audience_rating: 6.6
   284131:
     title: |-
       Nanatsu no Taizai
@@ -2865,7 +2865,7 @@ metadata:
       One Piece
     original_title: |-
       One Piece
-    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Ensemble Cast,Travel,Super Power,Found Family,Tragedy,Male Protagonist,Ships,Time Skip,Conspiracy,Slapstick,Slavery,Politics,Fugitive,War,Food,Crime,Swordplay,Prison,Medicine
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Ensemble Cast,Travel,Super Power,Found Family,Tragedy,Male Protagonist,Ships,Time Skip,Conspiracy,Slapstick,Slavery,Politics,Fugitive,War,Food,Crime,Swordplay,Medicine
     label: Ongoing
     studio: Toei Animation
     audience_rating: 8.7
@@ -2900,7 +2900,7 @@ metadata:
       Ookami to Koushinryou
     original_title: |-
       Spice and Wolf
-    genre.sync: Anime,Adventure,Fantasy,Romance,Male Protagonist,Economics,Work,Primarily Adult Cast,Historical,Kemonomimi,Monster Girl,Female Protagonist,Politics
+    genre.sync: Anime,Adventure,Fantasy,Romance,Economics,Male Protagonist,Work,Primarily Adult Cast,Historical,Kemonomimi,Monster Girl,Female Protagonist,Politics
     label.remove: Ongoing
     studio: Imagin
     seasons:
@@ -2938,7 +2938,7 @@ metadata:
       Otomege Sekai wa Mob ni Kibishii Sekai desu
     original_title: |-
       Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs
-    genre.sync: Anime,Action,Fantasy,Mecha,Romance,Anti-Hero,Isekai,Male Protagonist,Robots,Ojou-sama,Primarily Teen Cast,School
+    genre.sync: Anime,Action,Fantasy,Mecha,Romance,Anti-Hero,Isekai,Male Protagonist,Robots,Primarily Teen Cast,School,Ojou-sama
     label.remove: Ongoing
     studio: ENGI
     seasons:
@@ -3008,7 +3008,7 @@ metadata:
       Overlord
     original_title: |-
       Overlord
-    genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Anti-Hero,Skeleton,Virtual World,Magic,Demons,Succubus
+    genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Anti-Hero,Skeleton,Virtual World,Magic,Male Protagonist,Succubus,Demons
     label.remove: Ongoing
     studio: MADHOUSE
     seasons:
@@ -3122,7 +3122,7 @@ metadata:
       Re:Zero kara Hajimeru Isekai Seikatsu
     original_title: |-
       Re:ZERO -Starting Life in Another World-
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Psychological,Romance,Thriller,Time Manipulation,Isekai,Tragedy,Male Protagonist,Alternate Universe,Witch,Magic,Gore,Cult
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Psychological,Romance,Thriller,Time Manipulation,Isekai,Tragedy,Alternate Universe,Male Protagonist,Witch,Magic,Gore,Cult
     label.remove: Ongoing
     studio: White Fox
     seasons:
@@ -3256,7 +3256,7 @@ metadata:
       Sakurasou no Pet na Kanojo
     original_title: |-
       The Pet Girl of Sakurasou
-    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Kuudere,School,Male Protagonist,Ensemble Cast,Heterosexual,Coming of Age,Love Triangle,Drawing
+    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Kuudere,School,Male Protagonist,Coming of Age,Ensemble Cast,Heterosexual,Love Triangle,Drawing
     label.remove: Ongoing
     studio: J.C. Staff
     seasons:
@@ -3464,7 +3464,7 @@ metadata:
       Shokei Shoujo no Virgin Road
     original_title: |-
       The Executioner and Her Way of Life
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Anti-Hero,Memory Manipulation,Magic,Primarily Female Cast,Time Manipulation,Female Protagonist,Isekai,Assassins,LGBTQ+ Themes,Religion,Gore
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Anti-Hero,Magic,Memory Manipulation,Primarily Female Cast,Female Protagonist,Time Manipulation,Isekai,Yuri,Assassins,LGBTQ+ Themes,Religion,Gore
     label.remove: Ongoing
     studio: J.C. Staff
     seasons:
@@ -3591,7 +3591,7 @@ metadata:
       Steins;Gate
     original_title: |-
       Steins;Gate
-    genre.sync: Anime,Drama,Psychological,Sci-Fi,Thriller,Time Manipulation,Alternate Universe,Tragedy,Conspiracy,Memory Manipulation,Denpa,Male Protagonist,Dystopian,Urban,Cosmic Horror,Primarily Adult Cast,Philosophy,Chuunibyou
+    genre.sync: Anime,Drama,Psychological,Sci-Fi,Thriller,Time Manipulation,Alternate Universe,Conspiracy,Tragedy,Denpa,Memory Manipulation,Male Protagonist,Urban,Dystopian,Cosmic Horror,Primarily Adult Cast,Philosophy,Chuunibyou
     label.remove: Ongoing
     studio: White Fox
     seasons:
@@ -3639,13 +3639,13 @@ metadata:
       Suki na Ko ga Megane wo Wasureta
     original_title: |-
       The Girl I Like Forgot Her Glasses
-    genre.sync: Anime,Comedy,Romance,Heterosexual,School,Primarily Teen Cast,Kuudere,Male Protagonist,CGI
+    genre.sync: Anime,Comedy,Romance,Heterosexual,Primarily Teen Cast,School,Male Protagonist,CGI
     label: Ongoing
     studio: GoHands
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.7
+    audience_rating: 6.6
   407306:
     title: |-
       Summer Time Render
@@ -3676,7 +3676,7 @@ metadata:
       1:
         title: |-
           Sword Art Online
-        user_rating: 6.8
+        user_rating: 6.9
         label: score
       2:
         title: |-
@@ -3751,13 +3751,13 @@ metadata:
       Tengoku Daimakyou
     original_title: |-
       Tengoku Daimakyo
-    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Post-Apocalyptic,Dystopian,Survival,Tragedy,Achronological Order,Travel,Body Swapping,Seinen,Conspiracy,Male Protagonist,Demons,Denpa,Gender Bending,Gore,Super Power,Orphan
+    genre.sync: Anime,Adventure,Mystery,Sci-Fi,Thriller,Post-Apocalyptic,Dystopian,Survival,Tragedy,Achronological Order,Body Swapping,Seinen,Travel,Conspiracy,Male Protagonist,Demons,Denpa,Gender Bending,Gore,Super Power,Orphan
     label.remove: Ongoing
     studio: Production I.G
     seasons:
       1:
         label.remove: score
-    audience_rating: 8.1
+    audience_rating: 8.2
   400961:
     title: |-
       Tensai Ouji no Akaji Kokka Saisei Jutsu
@@ -4102,7 +4102,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.3
+    audience_rating: 6.4
   256705:
     title: |-
       Uchuu Kyoudai
@@ -4135,13 +4135,13 @@ metadata:
       Undead Girl Murder Farce
     original_title: |-
       Undead Murder Farce
-    genre.sync: Anime,Fantasy,Mystery,Supernatural,Revenge,Detective,Historical,Travel,Male Protagonist,Foreign,Seinen,Youkai,Vampire
+    genre.sync: Anime,Fantasy,Mystery,Supernatural,Detective,Revenge,Travel,Historical,Male Protagonist,Female Protagonist,Seinen,Foreign,Youkai,Vampire
     label: Ongoing
     studio: Lapin Track
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.3
+    audience_rating: 7.4
   249872:
     title: |-
       Usagi Drop
@@ -4223,7 +4223,7 @@ metadata:
       Violet Evergarden
     original_title: |-
       Violet Evergarden
-    genre.sync: Anime,Drama,Fantasy,Slice of Life,Rehabilitation,Writing,Tragedy,Coming of Age,Female Protagonist,Kuudere,War,Work,Military,Disability,Episodic
+    genre.sync: Anime,Drama,Fantasy,Slice of Life,Rehabilitation,Writing,Tragedy,Coming of Age,Female Protagonist,Kuudere,War,Work,Disability,Military,Episodic
     label.remove: Ongoing
     studio: Kyoto Animation
     seasons:
@@ -4265,7 +4265,7 @@ metadata:
       Wolf's Rain
     original_title: |-
       Wolf's Rain
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Survival,Animals,Primarily Male Cast,Werewolf,Dystopian,Memory Manipulation,Tanned Skin,Post-Apocalyptic,Tragedy
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Animals,Survival,Primarily Male Cast,Dystopian,Werewolf,Memory Manipulation,Tanned Skin,Post-Apocalyptic,Tragedy
     label.remove: Ongoing
     studio: bones
     seasons:
@@ -4418,7 +4418,7 @@ metadata:
       Yamada-kun to Lv999 no Koi wo Suru
     original_title: |-
       My Love Story with Yamada-kun at Lv999
-    genre.sync: Anime,Comedy,Drama,Romance,Video Games,Kuudere,Female Protagonist,Heterosexual,Otaku Culture,Shoujo
+    genre.sync: Anime,Comedy,Drama,Romance,Video Games,Female Protagonist,Kuudere,Heterosexual,Otaku Culture,Shoujo
     label.remove: Ongoing
     studio: MADHOUSE
     seasons:
@@ -4470,7 +4470,7 @@ metadata:
       Yumemiru Danshi wa Genjitsushugisha
     original_title: |-
       The Dreaming Boy is a Realist
-    genre.sync: Anime,Comedy,Romance,Slice of Life,Female Harem,Tsundere,Heterosexual,Male Protagonist
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Tsundere,Female Harem,Heterosexual,Male Protagonist
     label: Ongoing
     studio: Studio Gokumi
     seasons:
