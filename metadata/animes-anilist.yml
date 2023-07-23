@@ -2781,7 +2781,7 @@ metadata:
     original_title: |-
       NieR:Automata Ver1.1a
     genre.sync: Anime,Action,Drama,Fantasy,Psychological,Sci-Fi,Artificial Intelligence,Robots,Tragedy,Lost Civilization,Female Protagonist,Post-Apocalyptic,Philosophy,Aliens,Swordplay,CGI
-    label: Ongoing
+    label.remove: Ongoing
     studio: A-1 Pictures
     seasons:
       1:
