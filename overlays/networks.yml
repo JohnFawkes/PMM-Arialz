@@ -72,6 +72,10 @@ overlays:
     variables: {key: Amazon, weight: 20}
     template: { name: Networks }
 
+  Prime Video:
+    variables: {key: Amazon, weight: 20}
+    template: { name: Networks }
+
   Amazon Freevee:
     variables: {key: Freevee, weight: 10}
     template: [name: Networks]
