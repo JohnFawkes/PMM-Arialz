@@ -38,7 +38,7 @@ metadata:
       Earwig and the Witch
     genre.sync: Anime,Fantasy,Witch,Magic,Female Protagonist,Kids,Full CGI
     studio: Studio Ghibli
-    audience_rating: 5.2
+    audience_rating: 5.1
   tt4272866:
     title: |-
       Bakemono no Ko
@@ -126,7 +126,7 @@ metadata:
       Chuunibyou demo Koi ga Shitai!: Take On Me
     original_title: |-
       Love, Chunibyo & Other Delusions: Take on Me
-    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Coming of Age,Chuunibyou,Trains,Heterosexual,Male Protagonist,Female Protagonist,Travel,Fugitive,Primarily Female Cast
+    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Coming of Age,Chuunibyou,Heterosexual,Male Protagonist,Female Protagonist,Travel,Fugitive,Trains,Primarily Female Cast
     studio: Kyoto Animation
     audience_rating: 8.0
   tt12735338:
@@ -656,7 +656,7 @@ metadata:
       Koe no Katachi
     original_title: |-
       A Silent Voice
-    genre.sync: Anime,Drama,Romance,Slice of Life,Bullying,Disability,Rehabilitation,Language Barrier,Coming of Age,Denpa,Suicide,Primarily Teen Cast,Tragedy,Male Protagonist,Time Skip,School
+    genre.sync: Anime,Drama,Romance,Slice of Life,Disability,Bullying,Rehabilitation,Language Barrier,Coming of Age,Denpa,Suicide,Primarily Teen Cast,Tragedy,Male Protagonist,School,Time Skip
     studio: Kyoto Animation
     audience_rating: 8.8
   tt4489416:
@@ -716,7 +716,7 @@ metadata:
       Kurenai no Buta
     original_title: |-
       Porco Rosso
-    genre.sync: Anime,Action,Adventure,Comedy,Drama,Romance,Aviation,Philosophy,Historical,Foreign,Anthropomorphism,Primarily Adult Cast,Male Protagonist,Military
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Romance,Aviation,Philosophy,Historical,Foreign,Anthropomorphism,Primarily Adult Cast,Male Protagonist,Military,Pirates,Fugitive
     studio: Studio Ghibli
     audience_rating: 7.8
   tt6728390:
@@ -916,7 +916,7 @@ metadata:
       Ryuu to Sobakasu no Hime
     original_title: |-
       Belle
-    genre.sync: Anime,Drama,Music,Mystery,Sci-Fi,Virtual World,Primarily Teen Cast,Female Protagonist,Artificial Intelligence,Augmented Reality,Coming of Age,Tragedy,CGI,Fairy Tale,Idol
+    genre.sync: Anime,Drama,Music,Mystery,Sci-Fi,Virtual World,Primarily Teen Cast,Female Protagonist,Artificial Intelligence,Coming of Age,Augmented Reality,CGI,Fairy Tale,Tragedy,Idol
     studio: Studio Chizu
     audience_rating: 7.4
   tt2981768:
