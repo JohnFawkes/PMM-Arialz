@@ -4531,10 +4531,10 @@ metadata:
       Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
     original_title: |-
       Zom 100: Bucket List of the Dead
-    genre.sync: Anime,Action,Comedy,Horror,Surreal Comedy,Zombie,Post-Apocalyptic,Survival,Male Protagonist,Body Horror
+    genre.sync: Anime,Action,Comedy,Horror,Surreal Comedy,Zombie,Post-Apocalyptic,Survival,Male Protagonist
     label: Ongoing
     studio: BUG FILMS
     seasons:
       1:
         label.remove: score
-    audience_rating: 8.1
+    audience_rating: 8.0
